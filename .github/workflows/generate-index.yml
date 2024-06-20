@@ -1,6 +1,11 @@
 name: generate-index
 run-name: Generate touhou.events archive index
-on: [push]
+on:
+  push:
+    paths:
+      - '*.json'
+    branches:
+      - main
 permissions: write-all
 jobs:
   generate-index:
