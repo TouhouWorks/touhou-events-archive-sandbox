@@ -24,8 +24,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: release-${{ github.run_number }}
-          release_name: Release ${{ github.sha }}
+          tag_name: latest
+          release_name: Release latest
           draft: false
           prerelease: false
           
@@ -40,3 +40,4 @@ jobs:
           asset_path: mnt/indexes.json
           asset_name: indexes.json
           asset_content_type: application/json
+          
