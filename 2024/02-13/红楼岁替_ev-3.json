@@ -1,0 +1,62 @@
+{
+  "id": "红楼岁替_ev-3",
+  "start": 1707782400,
+  "end": 1707782400,
+  "title": "徐州THP2-玉隐云龙",
+  "desc": "徐州THP2-玉隐云龙 于 江苏省徐州市 户部公馆 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BC%E5%B2%81%E6%9B%BF#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "12f7f09d57fabcd0a9ecd74ac82039eb405c54b0e69b76218b0a971e09d1d482",
+  "location": {
+    "type": "google",
+    "text": "江苏省徐州市 户部公馆",
+    "entity": [
+      {
+        "id": "ChIJQd58BlGqyDURaEmZ_eBuKHY",
+        "addressLine1": "鞋公馆",
+        "addressLine2": "中華人民共和国 江苏省徐州市 銅山区 Shengyang Street",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJZwybKyt-yDUR10PqvgpRT-8",
+        "addressLine1": "户部山庄",
+        "addressLine2": "中華人民共和国 徐州市 ケイ寧県 Yuanfu Road, 荣盛大酒店",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJX38AWY20xzURUkBfxBr0QTQ",
+        "addressLine1": "粥公館",
+        "addressLine2": "中華人民共和国 江苏省徐州市 ヒ州市 Zhujiang West Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "幻想雁寄谈_ev-2",
+  "start": 1556323200,
+  "end": 1556323200,
+  "title": "幻想雁寄谈2",
+  "desc": "幻想雁寄谈2 于 北京邮电大学 沙河校区 教学楼报告厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E9%9B%81%E5%AF%84%E8%B0%88#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "73c39af41fc84626bd6b67568ac163062ae3f2b19574e6a261f7911011e11461",
+  "location": {
+    "type": "google",
+    "text": "北京邮电大学 沙河校区 教学楼报告厅",
+    "entity": [
+      {
+        "id": "ChIJOVSVPc778DUR6_hJfAmffXY",
+        "addressLine1": "北京邮电大学沙河校区",
+        "addressLine2": "中華人民共和国 北京市 昌平区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

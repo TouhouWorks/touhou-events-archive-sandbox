@@ -1,0 +1,19 @@
+{
+  "id": "APOLLO_ev-10",
+  "start": 1574467200,
+  "end": 1574467200,
+  "title": "BOOTH Festival APOLLO 第10回",
+  "desc": "BOOTH Festival APOLLO 第10回 于 https://booth.pm/ja/exhibitions/bf-apollo10 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f2e10b08d544da238a9d42d20d58813a39b531f22e3ac49f3c102a3b665eca9b",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/ja/exhibitions/bf-apollo10",
+    "entity": []
+  },
+  "platform": 1
+}

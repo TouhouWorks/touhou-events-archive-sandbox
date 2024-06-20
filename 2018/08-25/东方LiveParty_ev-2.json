@@ -1,0 +1,30 @@
+{
+  "id": "东方LiveParty_ev-2",
+  "start": 1535155200,
+  "end": 1535155200,
+  "title": "东方LiveParty×东方月见语",
+  "desc": "东方LiveParty×东方月见语 于 武汉 长江大酒店水晶厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d2e54361f5a78676f9105a60863b2735343fc9e109746e2249224d626ff10e75",
+  "location": {
+    "type": "google",
+    "text": "武汉 长江大酒店水晶厅",
+    "entity": [
+      {
+        "id": "ChIJPXkJrPOuLjQR1GPavLI1y7g",
+        "addressLine1": "长江大酒店水晶厅",
+        "addressLine2": "中華人民共和国 湖北省 武汉 キョウ口区 西北湖 Jiefang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "东方异能物怪录_ev-35",
+  "start": 1650758400,
+  "end": 1650758400,
+  "title": "東方異能物怪録卷之三十伍",
+  "desc": "东方异能物怪录卷之三十伍 于 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E8%83%BD%E7%89%A9%E6%80%AA%E5%BD%95#ev-35",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5c9981cb5423d17f817388db144404718ada5b0937a191ca752ffb3652f00229",
+  "location": {
+    "type": "google",
+    "text": "nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

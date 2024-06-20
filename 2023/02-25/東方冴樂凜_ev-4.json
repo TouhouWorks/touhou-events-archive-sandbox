@@ -1,0 +1,62 @@
+{
+  "id": "東方冴樂凜_ev-4",
+  "start": 1677283200,
+  "end": 1677283200,
+  "title": "沈陽THONLY 东方大新文",
+  "desc": "沈阳THONLY 东方大新文 于 沈阳 沈河区青年大街52号高登大酒店 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E6%96%B9%E5%86%B4%E6%A8%82%E5%87%9C#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fe2041aa4fb4cffbba8c997853e7979a4daedfab2d104e7534bcde3dc4abbe98",
+  "location": {
+    "type": "google",
+    "text": "沈阳 沈河区青年大街52号高登大酒店",
+    "entity": [
+      {
+        "id": "ChIJA1FpGOWHL14Rp3w7El05TJY",
+        "addressLine1": "高登大酒店大堂吧",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳沈河区金廊商圈青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJA1FpGOWHL14R9t_tsNwq0ys",
+        "addressLine1": "高登大酒店咖啡厅",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳沈河区金廊商圈青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJA1FpGOWHL14Rhr9XmXuclCk",
+        "addressLine1": "高登大酒店",
+        "addressLine2": "中華人民共和国 沈阳沈河区青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJbym-EOWHL14RMuAE3StuOuo",
+        "addressLine1": "高登大酒店停车场",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳沈河区金廊商圈青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

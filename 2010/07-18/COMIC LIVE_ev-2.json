@@ -1,0 +1,30 @@
+{
+  "id": "COMIC LIVE_ev-2",
+  "start": 1279411200,
+  "end": 1279411200,
+  "title": "コミックライブ名古屋 夏祭2010",
+  "desc": "COMIC LIVE 名古屋 夏祭2010 于 名古屋市 名古屋市国际展示场 举办",
+  "url": "https://thwiki.cc/COMIC_LIVE#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b88acaeeaee63d29f9e3fc7acc2f2b30a2b7c95cdc5e3fc201183dce835620d0",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 名古屋市国际展示场",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

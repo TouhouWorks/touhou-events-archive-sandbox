@@ -1,0 +1,30 @@
+{
+  "id": "幻想乡交响乐团 演奏会_ev-2",
+  "start": 1516492800,
+  "end": 1516492800,
+  "title": "幻想郷交響楽団 演奏会2018",
+  "desc": "幻想乡交响乐团 演奏会2018 于 东京都武藏野市 武藏野市民文化会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2_%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-2",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7626c3a48cf3987b4d7c4e39bbdcd350947c3bee301bbdb6b3de49f8efc0886c",
+  "location": {
+    "type": "google",
+    "text": "东京都武藏野市 武藏野市民文化会馆",
+    "entity": [
+      {
+        "id": "ChIJMSGEnKvvGGARkYlkLuOdLWg",
+        "addressLine1": "武蔵野市民文化会館",
+        "addressLine2": "日本、東京都武蔵野市中町３丁目９−１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

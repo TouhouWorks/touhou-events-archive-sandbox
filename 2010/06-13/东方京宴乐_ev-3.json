@@ -1,0 +1,42 @@
+{
+  "id": "东方京宴乐_ev-3",
+  "start": 1276387200,
+  "end": 1276387200,
+  "title": "東方京宴楽 第三話",
+  "desc": "东方京宴乐 第三话 于 京都市 京都FAN J 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%AC%E5%AE%B4%E4%B9%90#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "396d0f34d42d22cc711082780145e7b28484a3c0a46d36600b75f44465e5284a",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都FAN J",
+    "entity": [
+      {
+        "id": "ChIJ7U5C9tQJAWARTVPn9nxYY7g",
+        "addressLine1": "京都FANJ",
+        "addressLine2": "日本、京都府京都市左京区上高野車地町１０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ3UmkGAAJAWARPdccE8ap80g",
+        "addressLine1": "京都ふぁんｊ",
+        "addressLine2": "日本、京都府京都市左京区上高野車地町１０１",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

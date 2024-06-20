@@ -1,0 +1,30 @@
+{
+  "id": "上海THONLY_ev-10",
+  "start": 1566000000,
+  "end": 1566000000,
+  "title": "第十届上海THONLY 東方滴星盞～ほしをしたたるさかずき",
+  "desc": "第十届上海THONLY 东方滴星盏～ほしをしたたるさかずき 于 上海市 跨国采购会展中心/万代南梦宫上海文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7THONLY#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6a9599de8ba661f1a14dd92317342bdfae781b2f30c24a1e0622287d91b9e812",
+  "location": {
+    "type": "google",
+    "text": "上海市 跨国采购会展中心/万代南梦宫上海文化中心",
+    "entity": [
+      {
+        "id": "ChIJKWazf9lvsjURgn7ZwuyAQg8",
+        "addressLine1": "万代南梦宫上海文化中心",
+        "addressLine2": "中華人民共和国 上海市 普陀区 宜昌路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

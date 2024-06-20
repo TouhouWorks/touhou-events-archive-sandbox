@@ -1,0 +1,88 @@
+{
+  "id": "神篱_ev-1",
+  "start": 1434153600,
+  "end": 1434153600,
+  "title": "神籬 1",
+  "desc": "神篱 1 于 东京都 新大久保unique LABORATORY 举办",
+  "url": "https://thwiki.cc/%E7%A5%9E%E7%AF%B1#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c8a2b2c21d9cc7fb99553bd0d01f705b00aa00cbdeab034b3810c335acedc749",
+  "location": {
+    "type": "google",
+    "text": "东京都 新大久保unique LABORATORY",
+    "entity": [
+      {
+        "id": "ChIJQXHVPiSNGGARyZ2H7-4V2qU",
+        "addressLine1": "大久保",
+        "addressLine2": "日本、東京都新宿区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJpyd4zeCNGGARl6O1sqVewsA",
+        "addressLine1": "鳥一 新大久保駅前通り本店",
+        "addressLine2": "日本、東京都新宿区大久保２丁目３２−３",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJj4Zbn7ONGGARLRuqGLT6Xlo",
+        "addressLine1": "明洞のり巻き新大久保店",
+        "addressLine2": "日本、東京都新宿区百人町１丁目３−１７",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJd0cg65eNGGARcNOfPsB5j6I",
+        "addressLine1": "1943新大久保",
+        "addressLine2": "日本、東京都新宿区百人町１丁目７−１０",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJfawthJONGGAR15QtIMdaMco",
+        "addressLine1": "韓国料理 ブルバム 新大久保店",
+        "addressLine2": "日本、東京都新宿区大久保１丁目１２−１９",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "米CM东方祭_ev-1",
+  "start": 1284854400,
+  "end": 1284854400,
+  "title": "まいこみ東方祭1",
+  "desc": "米CM东方祭1 于 米原市 滋贺县立文化产业交流会馆 大Hall 举办",
+  "url": "https://thwiki.cc/%E7%B1%B3CM%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8ba29ab1d903aeaae0542c0b69c8a84e9d6b5480cb3a88f594d51d786bbb69d0",
+  "location": {
+    "type": "google",
+    "text": "米原市 滋贺县立文化产业交流会馆 大Hall",
+    "entity": [
+      {
+        "id": "ChIJFeXHUGIrAmARl9Nx0lpcvd4",
+        "addressLine1": "文化産業交流会館",
+        "addressLine2": "日本、滋賀県米原市下多良２丁目１３７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

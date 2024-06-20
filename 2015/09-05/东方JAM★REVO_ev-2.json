@@ -1,0 +1,88 @@
+{
+  "id": "东方JAM★REVO_ev-2",
+  "start": 1441411200,
+  "end": 1441411200,
+  "title": "東方JAM★REVO2",
+  "desc": "东方JAM★REVO2 于 东京都 新宿JAM 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9JAM%E2%98%85REVO#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "39cfa49e25412258e917ddc52cbffb209211cfe48962d438d13b8622d2de17bf",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿JAM",
+    "entity": [
+      {
+        "id": "ChIJVQzraO2NGGARBgWAM5IIReY",
+        "addressLine1": "JAM17 DINING（JAM17・ダイニング）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ7-_rLwONGGARfaM7zQswskQ",
+        "addressLine1": "JAM17 BAR（JAM17・バー）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc3tqeFuNGGARy0j0v2LmyDc",
+        "addressLine1": "JAM17 GELATERIA（JAM17・ジェラテリア）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJpS_IVTeNGGARBW7cy0zIxD4",
+        "addressLine1": "cafe&bar Jam Lounge 高田馬場",
+        "addressLine2": "日本、東京都新宿区高田馬場３丁目１−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7c8PRp-NGGARgj2wQuulswk",
+        "addressLine1": "肉バル MEATBAR JAM（ミートバル ジャム）西早稲田",
+        "addressLine2": "日本、東京都新宿区西早稲田３丁目２０−４",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

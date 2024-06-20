@@ -1,0 +1,30 @@
+{
+  "id": "Comic Frontier_ev-8",
+  "start": 1484956800,
+  "end": 1484956800,
+  "title": "Comic Frontier 8",
+  "desc": "Comic Frontier 8 于 印度尼西亚 雅加达 Integrity Convention Center会展中心 举办",
+  "url": "https://thwiki.cc/Comic_Frontier#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2b301f10a62edcf45143837b6ca1265c3399a734226ab580db8006c5df7d8f3b",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 雅加达 Integrity Convention Center会展中心",
+    "entity": [
+      {
+        "id": "ChIJWeTl-L31aS4R_3r8CWorIos",
+        "addressLine1": "Integrity Convention Centre",
+        "addressLine2": "RT.10/RW.10, South Gunung Sahari, Central Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

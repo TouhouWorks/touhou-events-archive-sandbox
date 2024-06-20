@@ -1,0 +1,19 @@
+{
+  "id": "新潟东方祭_ev-8",
+  "start": 1270339200,
+  "end": 1270339200,
+  "title": "新潟東方祭7",
+  "desc": "新潟东方祭7 于 新潟市 朱鹭展览馆 4层 Marine Hall 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%BD%9F%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0b4adfd4c93eb94cbb14edc5d19c707582bd2ebf300f1233d93216bf1b980473",
+  "location": {
+    "type": "google",
+    "text": "新潟市 朱鹭展览馆 4层 Marine Hall",
+    "entity": []
+  },
+  "platform": 1
+}

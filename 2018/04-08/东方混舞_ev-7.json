@@ -1,0 +1,32 @@
+{
+  "id": "东方混舞_ev-7",
+  "start": 1523145600,
+  "end": 1523145600,
+  "title": "東方混舞7",
+  "desc": "东方混舞7 于 大阪市 西淀川区民会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B7%B7%E8%88%9E#ev-7",
+  "type": [
+    "夜店舞会",
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8c98d7cb922a3f90de4059eefad480027772330d40f62278af8bf229a58eee7f",
+  "location": {
+    "type": "google",
+    "text": "大阪市 西淀川区民会馆",
+    "entity": [
+      {
+        "id": "ChIJp5Tz9VrvAGARGeyOOtgKnVs",
+        "addressLine1": "大阪市立西淀川区民会館",
+        "addressLine2": "日本、大阪府大阪市西淀川区大和田２丁目５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

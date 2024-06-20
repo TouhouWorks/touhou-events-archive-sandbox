@@ -1,0 +1,30 @@
+{
+  "id": "东方绚文禄_ev-69",
+  "start": 1397952000,
+  "end": 1397952000,
+  "title": "東方絢文禄 神户の卷",
+  "desc": "东方绚文禄 神户之卷 于 神户Sanbo Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-69",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fdf2a0a513dbaff8016ab1bcab6120716f062e815cde7da19eed990951135e45",
+  "location": {
+    "type": "google",
+    "text": "神户Sanbo Hall",
+    "entity": [
+      {
+        "id": "ChIJq6rqW_aOAGAR6M1uk8yCe3A",
+        "addressLine1": "Kobe Sambo Hall",
+        "addressLine2": "５丁目-１-３２ 浜辺通 中央区 神戸市 兵庫県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

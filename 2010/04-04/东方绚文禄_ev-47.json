@@ -1,0 +1,30 @@
+{
+  "id": "东方绚文禄_ev-47",
+  "start": 1270339200,
+  "end": 1270339200,
+  "title": "東方絢文禄 坂東の卷 第一弾",
+  "desc": "东方绚文禄 坂东之卷 第一弹 于 宇都宮产业展示馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-47",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "678708983b5a52be9bea35c736734bde6f2f602ec39330e3eaedc4ac9dbd57a4",
+  "location": {
+    "type": "google",
+    "text": "宇都宮产业展示馆",
+    "entity": [
+      {
+        "id": "ChIJj__zGWlnH2ARBA7ouCLMoSY",
+        "addressLine1": "栃木県宇都宮産業展示館 （マロニエプラザ）",
+        "addressLine2": "日本、栃木県宇都宮市元今泉６丁目１−３７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

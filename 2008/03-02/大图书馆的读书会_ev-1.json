@@ -1,0 +1,19 @@
+{
+  "id": "大图书馆的读书会_ev-1",
+  "start": 1204416000,
+  "end": 1204416000,
+  "title": "大図書館の読書会1",
+  "desc": "大图书馆的读书会1 于 东京都立产业贸易中心 浜松町馆 5层 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9A%84%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e3c37de382745000ac8332a84562d64858c3a50621beb35d5276684b3375c911",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 浜松町馆 5层",
+    "entity": []
+  },
+  "platform": 1
+}

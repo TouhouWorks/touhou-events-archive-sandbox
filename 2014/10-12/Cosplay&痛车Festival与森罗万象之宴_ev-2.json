@@ -1,0 +1,80 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-2",
+  "start": 1413072000,
+  "end": 1413072000,
+  "title": "第二回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第二回 Cosplay&痛车Festival与森罗万象之宴 于 大阪府大阪市 大阪南港ATC 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-2",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cd251393a8ace81f903ec6259ba7f9d0f1aa1a792276ef07945cd15c24d908d6",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪南港ATC",
+    "entity": [
+      {
+        "id": "ChIJW4gn8VLoAGAR604YSMr7xDg",
+        "addressLine1": "アジア太平洋トレードセンター（ＡＴＣ）",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJwV8fpKzpAGARy8LGBsPSc58",
+        "addressLine1": "大阪南港ATC内郵便局",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "POST_OFFICE",
+          "BANKING_AND_FINANCE",
+          "post_office",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJu5DVUbrpAGAR4z-S_wAEyLA",
+        "addressLine1": "ATCギャラリー",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJi7NKIlPoAGAR0OW4Oqs23QI",
+        "addressLine1": "大阪南港ATC-レンタルバイク[ベストBike®︎]",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPTUzfVLoAGARB_RMp12FbTo",
+        "addressLine1": "ATCホール",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

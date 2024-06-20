@@ -1,0 +1,30 @@
+{
+  "id": "红楼Jazz_ev-11",
+  "start": 1697241600,
+  "end": 1697241600,
+  "title": "紅楼Jazz2023",
+  "desc": "红楼Jazz2023 于 大阪府大阪市 大阪ALWAYS梅田 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BCJazz#ev-11",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "75d1c84d2645ad9908ed8d01d284e45f7d513c6a8bd78014576c5df5b65ac5bf",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪ALWAYS梅田",
+    "entity": [
+      {
+        "id": "ChIJ6ywhCOrmAGARZ_ZZu5h_2a0",
+        "addressLine1": "ALWAYS 梅田店",
+        "addressLine2": "日本、大阪府大阪市北区野崎町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RAVER'S NEST_ev-1",
+  "start": 1345852800,
+  "end": 1345852800,
+  "title": "RAVER'S NEST Vol.1",
+  "desc": "RAVER&#39;S NEST Vol.1 于 东京都 MAHARAJA六本木 举办",
+  "url": "https://thwiki.cc/RAVER%27S_NEST#ev-1",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b02f0a0217902081b3f0a38b00f65fa15c5d6a2ea882b1d871638565a8e81386",
+  "location": {
+    "type": "google",
+    "text": "东京都 MAHARAJA六本木",
+    "entity": [
+      {
+        "id": "ChIJV7ghOZ2LGGARDjDNhXW64Ig",
+        "addressLine1": "Maharaja Roppongi",
+        "addressLine2": "６丁目-１-３ 六本木 港区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

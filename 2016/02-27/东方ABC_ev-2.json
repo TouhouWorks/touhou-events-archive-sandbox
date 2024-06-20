@@ -1,0 +1,84 @@
+{
+  "id": "东方ABC_ev-2",
+  "start": 1456531200,
+  "end": 1456531200,
+  "title": "東方ABC in 札幌",
+  "desc": "东方ABC in 札幌 于 札幌市 札幌MESSE HALL 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9ABC#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "58178e0614c465d311d3f0db39a318cafb2f46d9b0b9336b6a6ec46cb67d8e57",
+  "location": {
+    "type": "google",
+    "text": "札幌市 札幌MESSE HALL",
+    "entity": [
+      {
+        "id": "ChIJYz8AdSMrC18RI72dO4uVixE",
+        "addressLine1": "札幌病院",
+        "addressLine2": "日本、北海道札幌市白石区本通９丁目南１−１",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJ-U93sI8qC18RqYNSUx4toO8",
+        "addressLine1": "札幌大学",
+        "addressLine2": "日本、北海道札幌市豊平区西岡３条７丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzxOxRvQpC18RQSiQlTZGYDM",
+        "addressLine1": "ハローワーク札幌",
+        "addressLine2": "日本、北海道札幌市中央区南１０条西１４丁目２−２８",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJyQW7j50pC18RJLp2bwv6uYQ",
+        "addressLine1": "札幌市政府",
+        "addressLine2": "日本、北海道札幌市中央区北１条西２丁目",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJyTQqSYMpC18RC-3nJ2LhC5k",
+        "addressLine1": "札幌PARCO",
+        "addressLine2": "日本、北海道札幌市中央区南１条西３丁目３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

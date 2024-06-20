@@ -1,0 +1,42 @@
+{
+  "id": "幻魔神任务_ev-5",
+  "start": 1523750400,
+  "end": 1523750400,
+  "title": "げんましんⅤ～俺達の花嫁～",
+  "desc": "幻魔神Ⅴ～我们的新娘～ 于 大阪市 此花会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E9%AD%94%E7%A5%9E%E4%BB%BB%E5%8A%A1#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "db94c6a826b0e2508778177bbe2d021004384032ff3a5788f4b685755bc03984",
+  "location": {
+    "type": "google",
+    "text": "大阪市 此花会馆",
+    "entity": [
+      {
+        "id": "ChIJ5xwucj7mAGARGT5FjT6P7VY",
+        "addressLine1": "此花会館梅香殿",
+        "addressLine2": "日本、大阪府大阪市此花区西九条５丁目４−２４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLXomcj7mAGAR1rSSjJ9sAO8",
+        "addressLine1": "タイムズ此花会館",
+        "addressLine2": "日本、大阪府大阪市此花区西九条５丁目４−４",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

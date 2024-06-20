@@ -1,0 +1,18 @@
+{
+  "id": "Costume Cafe_ev-1",
+  "start": 917136000,
+  "end": 917136000,
+  "title": "コスチュームカフェ 1号店",
+  "desc": "Costume Cafe 1号店 于  举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4dce284c1533db8be836e3294980cbe00b987a637e338fe6c6856063cf6839c2",
+  "location": {
+    "type": "google",
+    "text": ""
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "神奈川东方读书会_ev-4",
+  "start": 1441411200,
+  "end": 1441411200,
+  "title": "第四回神奈川東方読書会",
+  "desc": "第四回神奈川东方读书会 于 川崎保育会馆 2层 举办",
+  "url": "https://thwiki.cc/%E7%A5%9E%E5%A5%88%E5%B7%9D%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-4",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "92f0cfcfebba44053f803446eba13d09e1d4de55f20d95b98fc510c151aafe26",
+  "location": {
+    "type": "google",
+    "text": "川崎保育会馆 2层",
+    "entity": [
+      {
+        "id": "ChIJ1dEN_KVgGGARoYixHUq_Lvw",
+        "addressLine1": "かわさき保育会館",
+        "addressLine2": "日本、神奈川県川崎市川崎区渡田新町３丁目２−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

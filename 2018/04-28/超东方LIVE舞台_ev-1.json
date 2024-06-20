@@ -1,0 +1,52 @@
+{
+  "id": "超东方LIVE舞台_ev-1",
+  "start": 1524873600,
+  "end": 1524873600,
+  "title": "超東方LIVEステージ2018",
+  "desc": "超东方LIVE舞台2018 于 千叶县幕张展览馆 举办",
+  "url": "https://thwiki.cc/%E8%B6%85%E4%B8%9C%E6%96%B9LIVE%E8%88%9E%E5%8F%B0#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "219cce35d9c641e6d068faa9dbfce1db150f0c234b236a391ff9a5fb88c200d1",
+  "location": {
+    "type": "google",
+    "text": "千叶县幕张展览馆",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕张展览馆",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJof67wfWBImAR_5ktE6l2Wc8",
+        "addressLine1": "幕張展覽館 國際展覽中心1-3",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ71hkyvWBImARsRlQnt7lM48",
+        "addressLine1": "幕张展览馆中央",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

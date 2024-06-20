@@ -1,0 +1,19 @@
+{
+  "id": "东方枫华宴_ev-3",
+  "start": 1350691200,
+  "end": 1350691200,
+  "title": "東方楓華宴3",
+  "desc": "东方枫华宴3 于 台北市 救国团剑潭青年活动中心 集贤厅·欣悅厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9E%AB%E5%8D%8E%E5%AE%B4#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b5acf39b87f5d24520272c7fa1aa01edc52b20a57630babe1ab45336948bcdfb",
+  "location": {
+    "type": "google",
+    "text": "台北市 救国团剑潭青年活动中心 集贤厅·欣悅厅",
+    "entity": []
+  },
+  "platform": 1
+}

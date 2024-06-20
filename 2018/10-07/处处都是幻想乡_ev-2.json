@@ -1,0 +1,30 @@
+{
+  "id": "处处都是幻想乡_ev-2",
+  "start": 1538870400,
+  "end": 1538870400,
+  "title": "どこもかしこも幻想郷 in沖縄",
+  "desc": "处处都是幻想乡 in冲绳 于 那霸市 冲绳县水产会馆 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ad3eda2a8b90c8a636340ab7c2cfa1f598e10f5d9befe9a9097cc48909f64764",
+  "location": {
+    "type": "google",
+    "text": "那霸市 冲绳县水产会馆",
+    "entity": [
+      {
+        "id": "ChIJVVUFEX9p5TQR62Wq7SiCs20",
+        "addressLine1": "沖縄県水産会館",
+        "addressLine2": "日本、沖縄県那覇市前島３丁目２５−３９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

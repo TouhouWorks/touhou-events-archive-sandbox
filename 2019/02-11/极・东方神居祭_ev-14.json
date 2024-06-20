@@ -1,0 +1,30 @@
+{
+  "id": "极・东方神居祭_ev-14",
+  "start": 1549843200,
+  "end": 1549843200,
+  "title": "極・東方神居祭14",
+  "desc": "极・东方神居祭14 于 札幌会议中心 大Hall 举办",
+  "url": "https://thwiki.cc/%E6%9E%81%E3%83%BB%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3c0cf5975b2b48c85e95bd42fcdf9980597d048f8d063dd96dcb5ea1b40f51c4",
+  "location": {
+    "type": "google",
+    "text": "札幌会议中心 大Hall",
+    "entity": [
+      {
+        "id": "ChIJYSd5ztsrC18RYepUkTimRTc",
+        "addressLine1": "札幌會議中心",
+        "addressLine2": "日本、北海道札幌市白石区東札幌６条１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

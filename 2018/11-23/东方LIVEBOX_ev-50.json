@@ -1,0 +1,30 @@
+{
+  "id": "东方LIVEBOX_ev-50",
+  "start": 1542931200,
+  "end": 1542931200,
+  "title": "東方LIVEBOX NEXT 2nd SEASON Stage 48",
+  "desc": "东方LIVEBOX NEXT 2nd SEASON Stage 48 于 东京都 秋叶原Twin Box GARAGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LIVEBOX#ev-50",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8efcf2c3858724bf57d03d571124b768b92e9dc5c6674446f18de166d1522411",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原Twin Box GARAGE",
+    "entity": [
+      {
+        "id": "ChIJGVBuNByMGGARYbcPws7NzDc",
+        "addressLine1": "TwinBox AKIHABARA/GARAGE",
+        "addressLine2": "日本、東京都千代田区外神田３丁目２−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

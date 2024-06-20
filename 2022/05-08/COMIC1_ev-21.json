@@ -1,0 +1,40 @@
+{
+  "id": "COMIC1_ev-21",
+  "start": 1651968000,
+  "end": 1651968000,
+  "title": "COMIC1☆20",
+  "desc": "COMIC1☆20 于 东京都 东京国际展示场 东展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-21",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3d200242179ba4ca080c3a93939891932a43982ac998723afa2fd18a3b614458",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东展厅",
+    "entity": [
+      {
+        "id": "ChIJq6qqetyJGGARr-ij2aZrEVg",
+        "addressLine1": "東京ビッグサイト東4ホール",
+        "addressLine2": "日本、東京都江東区有明３丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJTcEPcEqJGGARB8Tef26tO00",
+        "addressLine1": "東京國際展示場（Tokyo Bigsight）東館",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "COMIDAY_ev-21",
+  "start": 1522886400,
+  "end": 1522886400,
+  "title": "COMIDAY21",
+  "desc": "COMIDAY21 于 成都市 世纪城新国际会展中心 8号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-21",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "edbe4876323b2e936b95e7cb3eb6b2f2be384ffdc7a14a8f128c2b1a5eb4b678",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 8号馆",
+    "entity": []
+  },
+  "platform": 1
+}

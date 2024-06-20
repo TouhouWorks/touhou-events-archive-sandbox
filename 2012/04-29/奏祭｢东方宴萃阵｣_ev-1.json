@@ -1,0 +1,30 @@
+{
+  "id": "奏祭｢东方宴萃阵｣_ev-1",
+  "start": 1335657600,
+  "end": 1335657600,
+  "title": "奏祭「東方宴萃陣」 第一陣",
+  "desc": "奏祭｢东方宴萃阵｣ 第一阵 于 神奈川县川崎市 川崎Serbian Night 举办",
+  "url": "https://thwiki.cc/%E5%A5%8F%E7%A5%AD%EF%BD%A2%E4%B8%9C%E6%96%B9%E5%AE%B4%E8%90%83%E9%98%B5%EF%BD%A3#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bcacd7f7fcb2561a67958b1a2a0672f598dfb297404349bd9d17b0bbe5c27eda",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市 川崎Serbian Night",
+    "entity": [
+      {
+        "id": "ChIJfY1qHaNgGGARAXnvoSzM4ag",
+        "addressLine1": "セルビアンナイト",
+        "addressLine2": "日本、神奈川県川崎市川崎区小川町１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

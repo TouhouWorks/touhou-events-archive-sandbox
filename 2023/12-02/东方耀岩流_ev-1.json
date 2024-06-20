@@ -1,0 +1,56 @@
+{
+  "id": "东方耀岩流_ev-1",
+  "start": 1701475200,
+  "end": 1701475200,
+  "title": "東方耀岩流1",
+  "desc": "东方耀岩流1 于 大阪市中央区 难波MILULARI Legacy 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%80%80%E5%B2%A9%E6%B5%81#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d4f393958051e974e394cde7b583062dbc1690461bc8b3ecac4c7c0c7d35bb2c",
+  "location": {
+    "type": "google",
+    "text": "大阪市中央区 难波MILULARI Legacy",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJOXPJyWznAGARahb0KWFRjlM",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJFXXzNhPnAGARUifDEqMzXl4",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区難波１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

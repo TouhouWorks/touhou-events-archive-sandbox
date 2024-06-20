@@ -1,0 +1,46 @@
+{
+  "id": "东方烛夜凝_ev-1",
+  "start": 1545436800,
+  "end": 1545436800,
+  "title": "长沙THONLY-东方烛夜凝",
+  "desc": "长沙THONLY-东方烛夜凝 于 长沙市 海程大酒店五楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%83%9B%E5%A4%9C%E5%87%9D#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "176cd6825028e4c4c6922ddd7873220fed0f023ab6bf6c6e20b00bc725913161",
+  "location": {
+    "type": "google",
+    "text": "长沙市 海程大酒店五楼",
+    "entity": [
+      {
+        "id": "ChIJyXFf2Ig1JzQRwK4W2X9BP48",
+        "addressLine1": "海程大酒店",
+        "addressLine2": "中華人民共和国 湖南省 长沙市 芙蓉区 Bayi Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJyXFf2Ig1JzQR3yCZMMqC4wc",
+        "addressLine1": "海程大酒店餐厅",
+        "addressLine2": "中華人民共和国 湖南省 长沙市 芙蓉区 Bayi Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

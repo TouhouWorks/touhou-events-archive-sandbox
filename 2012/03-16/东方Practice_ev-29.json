@@ -1,0 +1,33 @@
+{
+  "id": "东方Practice_ev-29",
+  "start": 1331856000,
+  "end": 1331856000,
+  "title": "東方Practice SP",
+  "desc": "东方Practice SP 于 名古屋市 CLUB SARU 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-29",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "99ca0c85dea6c72d8a0845d0caa3d18373784db38dd05158f1447be8ef970296",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 CLUB SARU",
+    "entity": [
+      {
+        "id": "ChIJFx6L161wA2ARBAme060TUa0",
+        "addressLine1": "ＣＬＵＢ−ＳＡＲＵ",
+        "addressLine2": "日本、愛知県名古屋市中区金山３丁目５−２３",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

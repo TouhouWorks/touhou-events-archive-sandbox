@@ -1,0 +1,32 @@
+{
+  "id": "Anime North_ev-23",
+  "start": 1558656000,
+  "end": 1558656000,
+  "title": "Anime North 2019",
+  "desc": "Anime North 2019 于 加拿大安大略省多伦多 Toronto Congress Centre, Delta Hotels by Marriott Toronto Airport 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-23",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c6b68a57539823407214b065236c44ddfd29ac4c89c7dcfc92ea934372240124",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Delta Hotels by Marriott Toronto Airport",
+    "entity": [
+      {
+        "id": "ChIJuYrhUdQ0K4gRUSw-PfCMWac",
+        "addressLine1": "Delta Hotels by Marriott",
+        "addressLine2": "Lower Simcoe Street, Old Toronto, トロント Toronto, オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

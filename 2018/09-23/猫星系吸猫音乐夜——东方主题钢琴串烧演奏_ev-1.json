@@ -1,0 +1,30 @@
+{
+  "id": "猫星系吸猫音乐夜——东方主题钢琴串烧演奏_ev-1",
+  "start": 1537660800,
+  "end": 1537660800,
+  "title": "猫星系吸猫音乐夜——东方主题钢琴串烧演奏1",
+  "desc": "猫星系吸猫音乐夜——东方主题钢琴串烧演奏1 于 广东省广州市海珠区 帝景华苑商业街006铺猫星系 举办",
+  "url": "https://thwiki.cc/%E7%8C%AB%E6%98%9F%E7%B3%BB%E5%90%B8%E7%8C%AB%E9%9F%B3%E4%B9%90%E5%A4%9C%E2%80%94%E2%80%94%E4%B8%9C%E6%96%B9%E4%B8%BB%E9%A2%98%E9%92%A2%E7%90%B4%E4%B8%B2%E7%83%A7%E6%BC%94%E5%A5%8F#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fc2b229de0aafa9ebd445dcd05aa3358f0ca83d3b67182a2a292b5f11e05ffcb",
+  "location": {
+    "type": "google",
+    "text": "广东省广州市海珠区 帝景华苑商业街006铺猫星系",
+    "entity": [
+      {
+        "id": "ChIJHWxIr2__AjQRHc75lLzvpgU",
+        "addressLine1": "Maoxingxi",
+        "addressLine2": "海珠区 広州市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

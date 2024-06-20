@@ -1,0 +1,76 @@
+{
+  "id": "ComicDive_ev-1",
+  "start": 1223164800,
+  "end": 1223164800,
+  "title": "ComicDive 1",
+  "desc": "ComicDive 1 于 北京市 SOHO·尚都 举办",
+  "url": "https://thwiki.cc/ComicDive#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e9ad3006fe0ab7df4d7abab9902262f4093f2183abc7c5cc4d6d667c5e94fceb",
+  "location": {
+    "type": "google",
+    "text": "北京市 SOHO·尚都",
+    "entity": [
+      {
+        "id": "ChIJiR_9peOs8TURwpTfojj4xdk",
+        "addressLine1": "SOHO·尚都",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Dongdaqiao Road",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJLxwn4eKs8TURGBYU1W8MGPc",
+        "addressLine1": "SOHO尚都南塔",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 国贸 Jintong West Road",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJkfTzE-Os8TURBka_fCJO1zQ",
+        "addressLine1": "SOHO尚都北塔",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Dongdaqiao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJy35Kn-Os8TURHL3Qo3xW3Xw",
+        "addressLine1": "SOHO·尚都",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Guomao, Dongdaqiao Road, SOHO·尚都",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJXV5ppuOs8TUR1k16yNa79vc",
+        "addressLine1": "ＳＯＨＯ·尚都",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Wangfujing",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

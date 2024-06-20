@@ -1,0 +1,30 @@
+{
+  "id": "梦幻鲵吞祭_ev-1",
+  "start": 1647734400,
+  "end": 1647734400,
+  "title": "夢幻鯢呑祭",
+  "desc": "梦幻鲵吞祭 于 千叶县馆山市 馆山商工会议所 举办",
+  "url": "https://thwiki.cc/%E6%A2%A6%E5%B9%BB%E9%B2%B5%E5%90%9E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0be870484580c8f7f15cc1ef513f489b641bb13b6d50bb9792a6abd13c9b870a",
+  "location": {
+    "type": "google",
+    "text": "千叶县馆山市 馆山商工会议所",
+    "entity": [
+      {
+        "id": "ChIJOwO-Et75F2AR3gVF_tufAO0",
+        "addressLine1": "館山商工会議所",
+        "addressLine2": "日本、千葉県館山市八幡８２２−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

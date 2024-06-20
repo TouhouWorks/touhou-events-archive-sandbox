@@ -1,0 +1,30 @@
+{
+  "id": "东方华月宴·槐序绮想_ev-1",
+  "start": 1497657600,
+  "end": 1497657600,
+  "title": "東方夏日祭~現世の宴",
+  "desc": "东方夏日祭~现世之宴 于 郑州 郑州市青少年服务大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e596b02e5d291b2c5850ec1feec3d7cde7412055ab02f8fbfd165c7194ca04ca",
+  "location": {
+    "type": "google",
+    "text": "郑州 郑州市青少年服务大厅",
+    "entity": [
+      {
+        "id": "ChIJjePE3oVl1zURBJffV1vcMNA",
+        "addressLine1": "郑州市青少年服务大厅",
+        "addressLine2": "中華人民共和国 河南省 郑州 二七区 碧沙岗商圈 Zhongyuan East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

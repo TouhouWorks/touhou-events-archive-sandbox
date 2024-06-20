@@ -1,0 +1,19 @@
+{
+  "id": "博丽神社歌谣祭_ev-5",
+  "start": 1527292800,
+  "end": 1527292800,
+  "title": "博麗神社うた祭in高雄",
+  "desc": "博丽神社歌谣祭in高雄 于 中国台湾地区高雄市盐埕区莒光街219号B1 803 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%AD%8C%E8%B0%A3%E7%A5%AD#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "773887df4b831591b973218c9b7e3d9dcc1fa3a9b7f65df174892e7ad2e77e0e",
+  "location": {
+    "type": "google",
+    "text": "台湾高雄市盐埕区莒光街219号B1 803",
+    "entity": []
+  },
+  "platform": 1
+}

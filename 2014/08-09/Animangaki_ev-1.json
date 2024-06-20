@@ -1,0 +1,32 @@
+{
+  "id": "Animangaki_ev-1",
+  "start": 1407542400,
+  "end": 1407542400,
+  "title": "Animangaki 2014",
+  "desc": "Animangaki 2014 于 马来西亚雪兰莪八打灵再也 双威金字塔会议中心 举办",
+  "url": "https://thwiki.cc/Animangaki#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "59ba47fb81e9f188ca39394991e073621298ced6d65653e80d185dfbb428f21b",
+  "location": {
+    "type": "google",
+    "text": "马来西亚雪兰莪八打灵再也 双威金字塔会议中心",
+    "entity": [
+      {
+        "id": "ChIJm21YdodMzDERJW_y1EmlGV4",
+        "addressLine1": "双威金字塔",
+        "addressLine2": "マレーシア スランゴル プタリン・ジャヤ バンダー・サンウェイ Jalan PJS 11/15",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "大阪东方读书会_ev-4",
+  "start": 1570838400,
+  "end": 1570838400,
+  "title": "第三回大阪東方読書会",
+  "desc": "第三回大阪东方读书会 于 大阪市立浪速区民中心 3层 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E9%98%AA%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-4",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a32976cade9db71add5d02bb0c7129cd000d8866845acb1e2da17795d3394c1",
+  "location": {
+    "type": "google",
+    "text": "大阪市立浪速区民中心 3层",
+    "entity": [
+      {
+        "id": "ChIJm2vmyAvnAGAR8wslfEMrw1I",
+        "addressLine1": "浪速区民センター",
+        "addressLine2": "日本、大阪府大阪市浪速区稲荷２丁目４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

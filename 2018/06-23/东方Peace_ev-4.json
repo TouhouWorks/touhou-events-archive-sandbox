@@ -1,0 +1,32 @@
+{
+  "id": "东方Peace_ev-4",
+  "start": 1529712000,
+  "end": 1529712000,
+  "title": "東方ピース in 名古屋",
+  "desc": "东方Peace in 名古屋 于 名古屋 RADSEVEN 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Peace#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "55a5b7bcd1c469d0d73f26f7c8dac441b8d752cf36ebc0caec56876e173f919c",
+  "location": {
+    "type": "google",
+    "text": "名古屋 RADSEVEN",
+    "entity": [
+      {
+        "id": "ChIJVVWBR9twA2AR5LJWJFVZHuM",
+        "addressLine1": "RAD SEVEN",
+        "addressLine2": "２丁目-２２-２４ 東桜 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

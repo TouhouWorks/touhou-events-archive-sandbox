@@ -1,0 +1,19 @@
+{
+  "id": "Comic Market_ev-8",
+  "start": 1041206400,
+  "end": 1041206400,
+  "title": "Comic Market 63",
+  "desc": "Comic Market 63 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2141b24d1b9a72c52db76bf13e7aa52ee1254238d2b10f988a5cb4848f16faa",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,85 @@
+{
+  "id": "冬天的遗忘之物_ev-1",
+  "start": 1332028800,
+  "end": 1332028800,
+  "title": "冬の忘れ物1",
+  "desc": "冬天的遗忘之物1 于 大阪市 新大阪センイシティ 举办",
+  "url": "https://thwiki.cc/%E5%86%AC%E5%A4%A9%E7%9A%84%E9%81%97%E5%BF%98%E4%B9%8B%E7%89%A9#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5b1bcef1f7acdf86bc392b88e2683f7da8d2b9b551e1d9cc854c11eb91996bb0",
+  "location": {
+    "type": "google",
+    "text": "大阪市 新大阪センイシティ",
+    "entity": [
+      {
+        "id": "ChIJhwL2j0nkAGARSP3_6PJOSaw",
+        "addressLine1": "新大阪センイシティー(ゆめっせ)",
+        "addressLine2": "日本、大阪府大阪市淀川区西宮原２丁目２−２",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJgY7b7knkAGAR00hLZP4gwu0",
+        "addressLine1": "コーナン新大阪センイシティー店",
+        "addressLine2": "日本、大阪府大阪市淀川区西宮原２丁目２−１７",
+        "provider": "google_places",
+        "categories": [
+          "furniture_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN"
+        ]
+      },
+      {
+        "id": "ChIJhwL2j0nkAGARMJFJQ5KbR70",
+        "addressLine1": "協同組合新大阪センイシティー",
+        "addressLine2": "日本、大阪府大阪市淀川区西宮原２丁目２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJcCvXRrlAGARg61PhHCd5eI",
+        "addressLine1": "タイムズカー コーナン新大阪センイシティー店（地下）",
+        "addressLine2": "日本、大阪府大阪市淀川区西宮原２丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "CAR_RENTAL",
+          "car_rental",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg6l0LkjkAGAREhS2AHEYa8g",
+        "addressLine1": "JOYFIT24 新大阪センイシティ前",
+        "addressLine2": "日本、大阪府大阪市淀川区宮原４丁目２−２１",
+        "provider": "google_places",
+        "categories": [
+          "spa",
+          "SPA",
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

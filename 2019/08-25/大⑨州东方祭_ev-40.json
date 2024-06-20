@@ -1,0 +1,64 @@
+{
+  "id": "大⑨州东方祭_ev-40",
+  "start": 1566691200,
+  "end": 1566691200,
+  "title": "大⑨州東方祭38",
+  "desc": "大⑨州东方祭38 于 熊本市 熊本森都心Plaza 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-40",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "98ca9f4ff81780480520ec00e8ee0c3be7bb460d1191eaab9d8572a2259d1b1e",
+  "location": {
+    "type": "google",
+    "text": "熊本市 熊本森都心Plaza",
+    "entity": [
+      {
+        "id": "ChIJS_J2KV_0QDURu6ISgh9H48k",
+        "addressLine1": "くまもと森都心プラザ",
+        "addressLine2": "日本、熊本県熊本市西区春日１丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJO___DmT1QDURT2gTq9QcUkE",
+        "addressLine1": "くまもと森都心プラザホール",
+        "addressLine2": "日本、熊本県熊本市西区春日１丁目１４−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJRbgf3V70QDURySqCaB90JEk",
+        "addressLine1": "熊本市立 くまもと森都心プラザ図書館",
+        "addressLine2": "日本、熊本県熊本市西区春日１丁目１４−１４−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJw7E1Lnj1QDURdOyM4KWRy-M",
+        "addressLine1": "くまもと森都心地下駐車場",
+        "addressLine2": "日本、熊本県熊本市西区春日１丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

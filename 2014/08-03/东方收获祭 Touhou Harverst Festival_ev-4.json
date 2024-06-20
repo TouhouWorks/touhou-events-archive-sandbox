@@ -1,0 +1,19 @@
+{
+  "id": "东方收获祭 Touhou Harverst Festival_ev-4",
+  "start": 1407024000,
+  "end": 1407024000,
+  "title": "幻想夏计画 THO4 -Fancy Summer Strategy-",
+  "desc": "幻想夏计画 THO4 -Fancy Summer Strategy- 于 成都市 金羽天翼羽毛球馆 2层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%94%B6%E8%8E%B7%E7%A5%AD_Touhou_Harverst_Festival#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9ec283986dcd0f196d05225e6dcf8b3a5ab14510ed2643c3fc152f96cf49d1c2",
+  "location": {
+    "type": "google",
+    "text": "成都市 金羽天翼羽毛球馆 2层",
+    "entity": []
+  },
+  "platform": 1
+}

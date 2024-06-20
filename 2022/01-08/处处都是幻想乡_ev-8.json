@@ -1,0 +1,34 @@
+{
+  "id": "处处都是幻想乡_ev-8",
+  "start": 1641600000,
+  "end": 1641600000,
+  "title": "どこもかしこも幻想郷 7",
+  "desc": "处处都是幻想乡 7 于 诹访市 上诹访 诹访Ciao 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1c2a4820daaaff35ab6b9381c118f086b47926baf578fff1eca33a57c3f3347f",
+  "location": {
+    "type": "google",
+    "text": "诹访市 上诹访 诹访Ciao",
+    "entity": [
+      {
+        "id": "ChIJiW8ktbNVHGARKRtuNdDyQUs",
+        "addressLine1": "上諏訪駅",
+        "addressLine2": "日本、長野県諏訪市諏訪１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

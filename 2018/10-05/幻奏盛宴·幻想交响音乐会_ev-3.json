@@ -1,0 +1,30 @@
+{
+  "id": "幻奏盛宴·幻想交响音乐会_ev-3",
+  "start": 1538697600,
+  "end": 1538697600,
+  "title": "幻奏盛宴·幻想交响音乐会 ～ 流连的九河潮音",
+  "desc": "幻奏盛宴·幻想交响音乐会 ～ 流连的九河潮音 于 天津 天津大剧院 音乐厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-3",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "61ed62b05ad4223a4794d847d62073c5ce9caee658c1b78a8972bad764af6014",
+  "location": {
+    "type": "google",
+    "text": "天津 天津大剧院 音乐厅",
+    "entity": [
+      {
+        "id": "ChIJmYDctjv97TURdNBRWb70fow",
+        "addressLine1": "天津大剧院",
+        "addressLine2": "中華人民共和国 天津 河西区 Pingjiang Avenue",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

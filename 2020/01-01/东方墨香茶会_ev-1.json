@@ -1,0 +1,30 @@
+{
+  "id": "东方墨香茶会_ev-1",
+  "start": 1577836800,
+  "end": 1577836800,
+  "title": "东方墨香茶会1",
+  "desc": "东方墨香茶会1 于 山东省 淄博市 张店区淘你欢青年公园 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A2%A8%E9%A6%99%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ca7cf3d4be67e3fbb743d5727555c96f4a3351bce43f347601ee982149db552e",
+  "location": {
+    "type": "google",
+    "text": "山东省 淄博市 张店区淘你欢青年公园",
+    "entity": [
+      {
+        "id": "ChIJr8_33T-M6jURuB5FLiWntWk",
+        "addressLine1": "青年公园",
+        "addressLine2": "中華人民共和国 山东省淄博市张店区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

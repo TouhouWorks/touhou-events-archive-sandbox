@@ -1,0 +1,20 @@
+{
+  "id": "东方香樟梦_ev-1",
+  "start": 1541808000,
+  "end": 1541808000,
+  "title": "东方枫华祭",
+  "desc": "东方枫华祭 于 南昌市 南昌大学 前湖校区 人文楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A6%99%E6%A8%9F%E6%A2%A6#ev-1",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e9a22fc2ce0cd70c3f6215d0588ad8e933870bd26f1341dbe3fc41e48589019b",
+  "location": {
+    "type": "google",
+    "text": "南昌市 南昌大学 前湖校区 人文楼",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "魅知幻想博览会_ev-8",
+  "start": 1692403200,
+  "end": 1692403200,
+  "title": "魅知幻想博览会 2023 星虹澄空",
+  "desc": "魅知幻想博览会 2023 星虹澄空 于 上海 上海世贸商城 1F 展览厅 举办",
+  "url": "https://thwiki.cc/%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2d594bc37dc5d8b71df08e507363eb0b020ddafa5b44854211981c25e741ddff",
+  "location": {
+    "type": "google",
+    "text": "上海 上海世贸商城 1F 展览厅",
+    "entity": [
+      {
+        "id": "ChIJ-SfC96dlsjURUJNSWpSQ5Ec",
+        "addressLine1": "上海世贸商城",
+        "addressLine2": "中華人民共和国 上海 長寧区 新龙华",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

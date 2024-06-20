@@ -1,0 +1,55 @@
+{
+  "id": "秋葉文化祭_ev-2",
+  "start": 1340409600,
+  "end": 1340409600,
+  "title": "秋葉文化祭〜第二章〜　Akiba Cultural Festival chapter2",
+  "desc": "秋叶文化祭~第二章~　Akiba Cultural Festival chapter2 于 赤坂BLITZ 举办",
+  "url": "https://thwiki.cc/%E7%A7%8B%E8%91%89%E6%96%87%E5%8C%96%E7%A5%AD#ev-2",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c47c153eec8a7c7d874b05932bd001cca1727ccdf38bc200e1b11c80893a8adc",
+  "location": {
+    "type": "google",
+    "text": "赤坂BLITZ",
+    "entity": [
+      {
+        "id": "ChIJ3cLdkoCLGGARa4HaJFP3_jQ",
+        "addressLine1": "赤坂BLITZ",
+        "addressLine2": "日本、東京都港区赤坂５丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJj9CMuYCLGGARVa-AolOXE3o",
+        "addressLine1": "赤坂Bizタワー SHOPS&DINING",
+        "addressLine2": "日本、東京都港区赤坂５丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJPRP5XYWLGGARfHQ87R9VCKY",
+        "addressLine1": "赤坂Ｂｉｚタワー アトリウム",
+        "addressLine2": "日本、東京都港区赤坂５丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

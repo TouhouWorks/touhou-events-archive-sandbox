@@ -1,0 +1,30 @@
+{
+  "id": "东方吹奏乐团定期演奏会_ev-3",
+  "start": 1381536000,
+  "end": 1381536000,
+  "title": "東方吹奏樂団 第三回定期演奏会",
+  "desc": "东方吹奏乐团 第三回定期演奏会 于 东京都 江户川区综合文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%B9%E5%A5%8F%E4%B9%90%E5%9B%A2%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-3",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "87ffc4ff1fa8c1bf404fa55f917dd2242f34ea496ca7a34e700461e735e7ff8a",
+  "location": {
+    "type": "google",
+    "text": "东京都 江户川区综合文化中心",
+    "entity": [
+      {
+        "id": "ChIJc7M09xaGGGARCJwlHMuSOBI",
+        "addressLine1": "江戶川區綜合文化中心",
+        "addressLine2": "日本、東京都江戸川区中央４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

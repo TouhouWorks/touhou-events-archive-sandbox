@@ -1,0 +1,32 @@
+{
+  "id": "东方春樱宴_ev-3",
+  "start": 1539993600,
+  "end": 1539993600,
+  "title": "東方春櫻宴·豐秋慶",
+  "desc": "东方春樱宴·丰秋庆 于 台湾省台北市 台湾师范大学公馆校区 中正堂 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%A5%E6%A8%B1%E5%AE%B4#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6747531c8b55d022fb7d3f574bdcd7e3910dd585591d494f648e1b19b8bebe46",
+  "location": {
+    "type": "google",
+    "text": "台湾台北市 台湾师范大学公馆校区 中正堂",
+    "entity": [
+      {
+        "id": "ChIJVVUVkfWpQjQR_9XOzks2Va0",
+        "addressLine1": "Assembly Hall of National Taiwan Normal University",
+        "addressLine2": "文山区 台北市 台湾",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

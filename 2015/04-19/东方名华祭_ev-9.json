@@ -1,0 +1,30 @@
+{
+  "id": "东方名华祭_ev-9",
+  "start": 1429401600,
+  "end": 1429401600,
+  "title": "東方名華祭9",
+  "desc": "东方名华祭9 于 名古屋市国际展示场 第3展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "824b3e75bf306a2e2d7f265a71a4d5271511cd6732a40ca5e1b268b965c4d90b",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第3展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

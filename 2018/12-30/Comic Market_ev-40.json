@@ -1,0 +1,19 @@
+{
+  "id": "Comic Market_ev-40",
+  "start": 1546128000,
+  "end": 1546128000,
+  "title": "Comic Market 95",
+  "desc": "Comic Market 95 于 东京都 东京国际展示场 东1-8展厅、西1-4展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-40",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "116a871598b13616bd3e1b6b50fba94638e033852da43e7e88295d159deeb429",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-8展厅、西1-4展厅",
+    "entity": []
+  },
+  "platform": 1
+}

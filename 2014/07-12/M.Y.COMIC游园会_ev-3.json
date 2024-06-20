@@ -1,0 +1,30 @@
+{
+  "id": "M.Y.COMIC游园会_ev-3",
+  "start": 1405123200,
+  "end": 1405123200,
+  "title": "第八次M.Y.Comic游园会",
+  "desc": "第八次M.Y.Comic游园会 于 北京市 国贸国际会展中心 举办",
+  "url": "https://thwiki.cc/M.Y.COMIC%E6%B8%B8%E5%9B%AD%E4%BC%9A#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7758c4f9fc52458112051744a446a8c3cc3bd18390f6bb9216ae54bf69190f14",
+  "location": {
+    "type": "google",
+    "text": "北京市 国贸国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJM9gNiAhO8DUR3et5lSj2KuI",
+        "addressLine1": "国贸国际会展中心",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Yangfangdian Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "东方高圆夜_ev-13",
+  "start": 1393200000,
+  "end": 1393200000,
+  "title": "東方高円夜13",
+  "desc": "东方高圆夜13 于 东京都 药酒Bar高圆寺 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AB%98%E5%9C%86%E5%A4%9C#ev-13",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "90665e07ae438857262d7ff5c02b3a5d6585fcdd427a41784e003d39a43dbe63",
+  "location": {
+    "type": "google",
+    "text": "东京都 药酒Bar高圆寺",
+    "entity": [
+      {
+        "id": "ChIJ-8GMJnzyGGARQAC93s1A48o",
+        "addressLine1": "Bar",
+        "addressLine2": "３丁目-１６-２ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

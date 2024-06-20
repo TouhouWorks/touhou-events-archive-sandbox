@@ -1,0 +1,38 @@
+{
+  "id": "Reverie_ev-2",
+  "start": 1384646400,
+  "end": 1384646400,
+  "title": "Reverie 1.5",
+  "desc": "Reverie 1.5 于 冈山市 宝发现冈山店野外Stage 举办",
+  "url": "https://thwiki.cc/Reverie#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c69eb58134cec443cfc7a15195ac2c69d03b082ed51ca5c6f26c59de921fd544",
+  "location": {
+    "type": "google",
+    "text": "冈山市 宝发现冈山店野外Stage",
+    "entity": [
+      {
+        "id": "ChIJ0y3_zmL4UzURWy0m35GwuyQ",
+        "addressLine1": "宝发现 岡山店",
+        "addressLine2": "日本、岡山県岡山市南区当新田１２１−１",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

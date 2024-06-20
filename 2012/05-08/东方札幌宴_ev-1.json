@@ -1,0 +1,86 @@
+{
+  "id": "东方札幌宴_ev-1",
+  "start": 1336435200,
+  "end": 1336435200,
+  "title": "東方札幌宴",
+  "desc": "东方札幌宴 于 ASTY45 4F大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%AD%E5%B9%8C%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f985fcabf086e629fd7e5d1e5a568c26591b0a03d0cb156859f4ca091125ee61",
+  "location": {
+    "type": "google",
+    "text": "ASTY45 4F大厅",
+    "entity": [
+      {
+        "id": "ChIJj16ZFRNJQg0RGC6sFZ7NVMc",
+        "addressLine1": "塞万提斯大厅剧院",
+        "addressLine2": "スペイン アルカラ・デ・エナレス Calle de Cervantes",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJCUb2cu7mAGARZulIIzV20v4",
+        "addressLine1": "大廳酒吧",
+        "addressLine2": "日本、大阪府大阪市北区堂島浜１丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "CAFE",
+          "cafe",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJpehwXdLgAGARwNLCvUGv5aY",
+        "addressLine1": "大阪城大厅",
+        "addressLine2": "日本、大阪府大阪市中央区大阪城３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJlxidl8gRXzYRljAaYMdghJk",
+        "addressLine1": "西和県 大厅下",
+        "addressLine2": "中華人民共和国 甘粛 隴南市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZzaEbzKkfDURmEWgSuuqTdA",
+        "addressLine1": "大厅站",
+        "addressLine2": "ソウル",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "bus_station",
+          "establishment",
+          "BUS_STATION",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

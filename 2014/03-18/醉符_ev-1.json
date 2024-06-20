@@ -1,0 +1,32 @@
+{
+  "id": "醉符_ev-1",
+  "start": 1395100800,
+  "end": 1395100800,
+  "title": "酔符「チョイと一杯のつもり」",
+  "desc": "醉符「打算来一杯」 于 东京都 秋叶原あるけみすと 举办",
+  "url": "https://thwiki.cc/%E9%86%89%E7%AC%A6#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1c93ef4723820b7f914247f17f45ad9eafe12d5fb577ca9490dba80113be281b",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原あるけみすと",
+    "entity": [
+      {
+        "id": "ChIJXVU0eZyPGGAR4raJCvwrOvs",
+        "addressLine1": "あるけみすと2.0",
+        "addressLine2": "日本、東京都千代田区神田佐久間町１丁目16−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

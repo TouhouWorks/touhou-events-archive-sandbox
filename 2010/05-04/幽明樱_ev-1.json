@@ -1,0 +1,19 @@
+{
+  "id": "幽明樱_ev-1",
+  "start": 1272931200,
+  "end": 1272931200,
+  "title": "幽明櫻",
+  "desc": "幽明樱一 于 东京都立产业贸易中心 滨松町馆 3层左半面+4层 举办",
+  "url": "https://thwiki.cc/%E5%B9%BD%E6%98%8E%E6%A8%B1#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1df952a6aed0ceba70a8c498458033b31c5fc9a0d875c2762c0648060bdec7fc",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 3层左半面+4层",
+    "entity": []
+  },
+  "platform": 1
+}

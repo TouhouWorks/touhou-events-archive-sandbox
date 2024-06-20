@@ -1,0 +1,30 @@
+{
+  "id": "Costume Cafe_ev-33",
+  "start": 1394928000,
+  "end": 1394928000,
+  "title": "コスチュームカフェ 31号店",
+  "desc": "Costume Cafe 31号店 于 东京都绵商会馆 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-33",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9089dad3a68087f92fd89e4d7cf220f1039bb0bdc51f764b09667933b276be1c",
+  "location": {
+    "type": "google",
+    "text": "东京都绵商会馆",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

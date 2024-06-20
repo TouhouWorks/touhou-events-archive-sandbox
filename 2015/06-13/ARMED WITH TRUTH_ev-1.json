@@ -1,0 +1,30 @@
+{
+  "id": "ARMED WITH TRUTH_ev-1",
+  "start": 1434153600,
+  "end": 1434153600,
+  "title": "ARMED WITH TRUTH 1",
+  "desc": "ARMED WITH TRUTH 1 于 东京都 初台the DOORS 举办",
+  "url": "https://thwiki.cc/ARMED_WITH_TRUTH#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "88256ba7e45c3d9d481835e4c31c49075790edbd825a9a38487ce957fbeb6cf8",
+  "location": {
+    "type": "google",
+    "text": "东京都 初台the DOORS",
+    "entity": [
+      {
+        "id": "ChIJE-UjAi7zGGARSpiMoEOsmhU",
+        "addressLine1": "初台DOORS",
+        "addressLine2": "日本、東京都渋谷区本町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

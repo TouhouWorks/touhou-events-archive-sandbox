@@ -1,0 +1,30 @@
+{
+  "id": "SMASH! Sydney Manga and Anime Show_ev-2",
+  "start": 1376092800,
+  "end": 1376092800,
+  "title": "SMASH! Sydney Manga and Anime Show 2013",
+  "desc": "SMASH! Sydney Manga and Anime Show 2013 于 澳大利亚悉尼 悉尼会展中心 举办",
+  "url": "https://thwiki.cc/SMASH!_Sydney_Manga_and_Anime_Show#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d7e655f338b1713ca191a745f94f1c64454cfadcd04d12cc14073ce8308378c4",
+  "location": {
+    "type": "google",
+    "text": "澳大利亚悉尼 悉尼会展中心",
+    "entity": [
+      {
+        "id": "ChIJ8z-aqziuEmsRqUXOYXDGnwE",
+        "addressLine1": "悉尼国际会展中心",
+        "addressLine2": "オーストラリア ニューサウスウェールズ シティ・オブ・シドニー Darling Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

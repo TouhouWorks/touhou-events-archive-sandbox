@@ -1,0 +1,32 @@
+{
+  "id": "东方缘起祭_ev-4",
+  "start": 1483660800,
+  "end": 1483660800,
+  "title": "東方縁起祭3",
+  "desc": "东方缘起祭3 于 东京都 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BC%98%E8%B5%B7%E7%A5%AD#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0be4685ac9a7879d34a6d7c1dea750dde729c46a49b3b93e26e0efc2656e1617",
+  "location": {
+    "type": "google",
+    "text": "东京都 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

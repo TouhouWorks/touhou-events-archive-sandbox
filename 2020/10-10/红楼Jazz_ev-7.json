@@ -1,0 +1,30 @@
+{
+  "id": "红楼Jazz_ev-7",
+  "start": 1602288000,
+  "end": 1602288000,
+  "title": "紅楼Jazz2020",
+  "desc": "红楼Jazz2020 于 大阪府大阪市 大阪ALWAYS梅田 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BCJazz#ev-7",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71471c5d97998e4a2dc37a28745a4deea1511d09d679e80a9c874ffdc40a9f81",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪ALWAYS梅田",
+    "entity": [
+      {
+        "id": "ChIJ6ywhCOrmAGARZ_ZZu5h_2a0",
+        "addressLine1": "ALWAYS 梅田店",
+        "addressLine2": "日本、大阪府大阪市北区野崎町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

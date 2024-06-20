@@ -1,0 +1,40 @@
+{
+  "id": "动漫同人大会_ev-1",
+  "start": 1209600000,
+  "end": 1209600000,
+  "title": "动漫同人大会2008",
+  "desc": "动漫同人大会2008 于 上海市徐汇区 东亚展览馆 举办",
+  "url": "https://thwiki.cc/%E5%8A%A8%E6%BC%AB%E5%90%8C%E4%BA%BA%E5%A4%A7%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7bd636a9b5c8b99855b715e7b87c0249c12d6c4c529ae56acb5159e074260906",
+  "location": {
+    "type": "google",
+    "text": "上海市徐汇区 东亚展览馆",
+    "entity": [
+      {
+        "id": "ChIJs2o6jyllsjUReUVKMWRkWew",
+        "addressLine1": "东亚展览馆",
+        "addressLine2": "中華人民共和国 上海市徐汇区 Tianlin, Lingling Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJa07ThillsjURIEOCFYHqLPE",
+        "addressLine1": "东亚展览馆西二门",
+        "addressLine2": "中華人民共和国 上海市徐汇区 Tianlin",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "东方LiveParty_ev-33",
+  "start": 1609459200,
+  "end": 1609459200,
+  "title": "东方LiveParty袋装鸡翅合同LIVE",
+  "desc": "东方LiveParty袋装鸡翅合同LIVE 于 上海 育音堂（凯旋路店） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-33",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "682162bdf338ef157b8b611502c7704b3f40f5f9557ef0153b35ebe59542f9a9",
+  "location": {
+    "type": "google",
+    "text": "上海 育音堂（凯旋路店）",
+    "entity": [
+      {
+        "id": "ChIJF7IYfmxlsjURZyT0xsX2_OY",
+        "addressLine1": "育音堂",
+        "addressLine2": "中華人民共和国 上海 長寧区 凯旋路",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

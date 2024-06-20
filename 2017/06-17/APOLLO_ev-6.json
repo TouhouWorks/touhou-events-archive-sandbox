@@ -1,0 +1,19 @@
+{
+  "id": "APOLLO_ev-6",
+  "start": 1497657600,
+  "end": 1497657600,
+  "title": "APOLLO 第6回",
+  "desc": "APOLLO 第6回 于 https://booth.pm/apollo/a06 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3c0cb4939052a7bbfabaf29dc85d1038b79e2761a34036c6e7e6006830371a9e",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/apollo/a06",
+    "entity": []
+  },
+  "platform": 1
+}

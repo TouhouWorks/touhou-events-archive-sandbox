@@ -1,0 +1,30 @@
+{
+  "id": "东方丹鹤行_ev-1",
+  "start": 1658361600,
+  "end": 1658361600,
+  "title": "东方丹鹤行1",
+  "desc": "东方丹鹤行1 于 江苏省盐城市 亭湖区解放南路 缤纷亚洲西区2楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B8%B9%E9%B9%A4%E8%A1%8C#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e5dd85a970c69e3c3b03e0c22ed89441668d87fdfa9837e9b35d71e343ed752f",
+  "location": {
+    "type": "google",
+    "text": "江苏省盐城市 亭湖区解放南路 缤纷亚洲西区2楼",
+    "entity": [
+      {
+        "id": "ChIJpcg29EhVtzUR8H7hHBNkXOE",
+        "addressLine1": "缤纷亚洲",
+        "addressLine2": "中華人民共和国 江苏省盐城市亭湖区解放南路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

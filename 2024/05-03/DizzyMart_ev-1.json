@@ -1,0 +1,62 @@
+{
+  "id": "DizzyMart_ev-1",
+  "start": 1714694400,
+  "end": 1714694400,
+  "title": "DizzyMart2024 Spring",
+  "desc": "DizzyMart2024 Spring 于 上海市 宝山区智慧湾科创园 举办",
+  "url": "https://thwiki.cc/DizzyMart#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eadeb227af353b9aeb1978b6226f82ba200584e0e7702496b003881873a7b195",
+  "location": {
+    "type": "google",
+    "text": "上海市 宝山区智慧湾科创园",
+    "entity": [
+      {
+        "id": "ChIJPXBzxYJtsjURbW94qjyIhzw",
+        "addressLine1": "智慧湾科创园６号楼",
+        "addressLine2": "中華人民共和国 上海市宝山区西泗塘",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJP61404JtsjURZxyFnDUyNH4",
+        "addressLine1": "智慧湾科创园７号楼",
+        "addressLine2": "中華人民共和国 上海市宝山区刘行",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJzVOCW51tsjURrLUDJeTEe8c",
+        "addressLine1": "智慧湾科创园－停车场",
+        "addressLine2": "中華人民共和国 上海市宝山区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJG5EZ1IJtsjUR_1TqCXgVKRg",
+        "addressLine1": "智慧湾科创园挚达电动汽车充电站",
+        "addressLine2": "中華人民共和国 上海市宝山区 Wen Chuan Lu",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

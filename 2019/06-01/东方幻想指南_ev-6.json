@@ -1,0 +1,30 @@
+{
+  "id": "东方幻想指南_ev-6",
+  "start": 1559347200,
+  "end": 1559347200,
+  "title": "东方幻想指南6 妖精们的舞踏会",
+  "desc": "东方幻想指南6 妖精们的舞踏会 于 北京大学 新太阳学生中心 B101室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%8C%87%E5%8D%97#ev-6",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b75a89dbfb4a89e2eba1a20c453e0a5eedd4d6fd266d09b19dc8ba709cb8ef12",
+  "location": {
+    "type": "google",
+    "text": "北京大学 新太阳学生中心 B101室",
+    "entity": [
+      {
+        "id": "ChIJNxYu0bJW8DURokvL68e5_2w",
+        "addressLine1": "新太阳学生中心",
+        "addressLine2": "中華人民共和国 北京 海淀区 Wusi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

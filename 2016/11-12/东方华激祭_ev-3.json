@@ -1,0 +1,19 @@
+{
+  "id": "东方华激祭_ev-3",
+  "start": 1478908800,
+  "end": 1478908800,
+  "title": "東方華激祭~秋场所~",
+  "desc": "东方华激祭~秋场所~ 于 东京都 新宿Cat&#39;s hole 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%BF%80%E7%A5%AD#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4b2f62dd912e1b1b346ab46f5ea1eef38cb8ddc99465475129c0d1e8ed686bd0",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿Cat&#39;s hole",
+    "entity": []
+  },
+  "platform": 1
+}

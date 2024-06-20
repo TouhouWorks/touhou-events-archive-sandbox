@@ -1,0 +1,19 @@
+{
+  "id": "极・东方神居祭_ev-7",
+  "start": 1487462400,
+  "end": 1487462400,
+  "title": "極・東方神居祭7",
+  "desc": "极・东方神居祭7 于 札幌艺术文化馆 3层 Royal Hall 举办",
+  "url": "https://thwiki.cc/%E6%9E%81%E3%83%BB%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b9131d2a58228015602b334bda29118b7ac628b142ecdb9d68ad49fb0bfeb6e6",
+  "location": {
+    "type": "google",
+    "text": "札幌艺术文化馆 3层 Royal Hall",
+    "entity": []
+  },
+  "platform": 1
+}

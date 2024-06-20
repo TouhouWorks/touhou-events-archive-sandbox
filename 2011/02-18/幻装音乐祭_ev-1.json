@@ -1,0 +1,81 @@
+{
+  "id": "幻装音乐祭_ev-1",
+  "start": 1297987200,
+  "end": 1297987200,
+  "title": "幻装音樂祭1",
+  "desc": "幻装音乐祭1 于 LA CITTADELLA CLUB CITTA 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E8%A3%85%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-1",
+  "type": [
+    "LIVE",
+    "展会",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "730ae8c12e5a77c604e2a00ba378fa0822788d5057e9dfd0d40ddb4d00c0cd00",
+  "location": {
+    "type": "google",
+    "text": "LA CITTADELLA CLUB CITTA",
+    "entity": [
+      {
+        "id": "ChIJcdnaNqJgGGARY-poze0nnmE",
+        "addressLine1": "CLUB CITTA'",
+        "addressLine2": "日本、神奈川県川崎市川崎区小川町５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJIaISAli0DxMRYbA9LOodM-k",
+        "addressLine1": "Cittadella Visitor Centre",
+        "addressLine2": "Citadel, ビクトリア マルタ",
+        "provider": "google_places",
+        "categories": [
+          "travel_agency",
+          "establishment",
+          "point_of_interest",
+          "TRAVEL_SERVICES"
+        ]
+      },
+      {
+        "id": "ChIJb6CaL1LUeEcRXfLGnGq48g4",
+        "addressLine1": "Cittadella",
+        "addressLine2": "Cittadella パドヴァ県 イタリア",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ_fA5Cw1tiEcRB0bhIe2o_iQ",
+        "addressLine1": "Mastio della Cittadella",
+        "addressLine2": "Corso Galileo Ferraris, トリノ Città Metropolitana di Torino, イタリア",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHeL8DCX9ExMR2aRl4py9I1A",
+        "addressLine1": "Cittadella Universitaria, Università degli Studi di Catania",
+        "addressLine2": "Via Santa Sofia, カターニア Città metropolitana di Catania, イタリア",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "COLLEGE_AND_UNIVERSITY",
+          "school",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

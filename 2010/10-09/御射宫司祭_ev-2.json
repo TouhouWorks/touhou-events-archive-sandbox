@@ -1,0 +1,74 @@
+{
+  "id": "御射宫司祭_ev-2",
+  "start": 1286582400,
+  "end": 1286582400,
+  "title": "平成二十二年度 御射宫司祭",
+  "desc": "平成二十二年度 御射宫司祭 于 冈谷市 RaraOkaya 2层 举办",
+  "url": "https://thwiki.cc/%E5%BE%A1%E5%B0%84%E5%AE%AB%E5%8F%B8%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "697c12365c2d14edacacc75a4f58d1a35e9c3e79af851d4634816e9953393e28",
+  "location": {
+    "type": "google",
+    "text": "冈谷市 RaraOkaya 2层",
+    "entity": [
+      {
+        "id": "Ekfml6XmnKzjgIHluoPls7bnnIzlsqHlsbHluILlronoirjljLrkuK3ph47mnbHvvJLkuIHnm67vvJLvvJcg5Zu96YGTMuWPtyIuKiwKFAoSCYn9LEHs5gBgEZRd6hCZfeagEhQKEgnF5_L9n3VQNRGgUynR5Msovw",
+        "addressLine1": "国道2号",
+        "addressLine2": "日本、広島県岡山市安芸区中野東２丁目２７",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJse4XR-L_HGAR-8jCr8k4eOA",
+        "addressLine1": "2",
+        "addressLine2": "１丁目-４-２２ 長地御所 岡谷市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ-7FS7qsIVDURXOpCh9PODNA",
+        "addressLine1": "２",
+        "addressLine2": "日本、岡山県岡山市中区さい９０−２",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJv0E6Du0HVDURAmkmUbStOdQ",
+        "addressLine1": "2",
+        "addressLine2": "日本、岡山県岡山市北区青江３丁目１１−１２",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ30h7Z6oHVDURgy6P_1HFFZY",
+        "addressLine1": "層-sou-（ソウ）",
+        "addressLine2": "日本、岡山県岡山市北区岩田町７−１０",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

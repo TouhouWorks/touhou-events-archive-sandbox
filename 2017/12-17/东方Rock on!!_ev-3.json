@@ -1,0 +1,36 @@
+{
+  "id": "东方Rock on!!_ev-3",
+  "start": 1513468800,
+  "end": 1513468800,
+  "title": "東方ロックオン!!第3回",
+  "desc": "东方Rock on!!第3回 于 爱知县名古屋市 Sound bar ATLANTIS 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Rock_on!!#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b3eda4c05bdc1676e77e461229b77f5a1866bfd201af3727e941ed97f2d43bf6",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Sound bar ATLANTIS",
+    "entity": [
+      {
+        "id": "ChIJAQBQpkJ2A2ARczy3w8Onqeo",
+        "addressLine1": "SoundBAR Atlantis",
+        "addressLine2": "１丁目-４８ 鳥居西通 中村区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

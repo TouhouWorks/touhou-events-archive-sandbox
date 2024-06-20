@@ -1,0 +1,74 @@
+{
+  "id": "幻想茶菓会_ev-1",
+  "start": 1353196800,
+  "end": 1353196800,
+  "title": "幻想茶菓會1",
+  "desc": "幻想茶菓会1 于 韩国 首尔 SETEC 3 Hall 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E8%8C%B6%E8%8F%93%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9d3134788876f9eec9de7cea3b219ab798ecf606b856767c17eddc3215a3bf9b",
+  "location": {
+    "type": "google",
+    "text": "韩国 首尔 SETEC 3 Hall",
+    "entity": [
+      {
+        "id": "ChIJT9QeqTqkfDUR-Rg-NI8_9No",
+        "addressLine1": "SETEC",
+        "addressLine2": "大韓民国 ソウル 江南区 Nambusunhwan-ro",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJGVMhM3e7fDURSNjF6glgm_s",
+        "addressLine1": "Kyung Hee University Grand Peace Palace",
+        "addressLine2": "Hoegi-dong, 東大門区 ソウル 大韓民国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJiYpGcRm5fDURmbNnj1Ok1vU",
+        "addressLine1": "Suyeon Hall",
+        "addressLine2": "서울과학기술대학교 수연관 コンヌンドン 특별시 ソウル 大韓民国",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ55NHRjKlfDURmz-ydt8SiOw",
+        "addressLine1": "Sangrok Hall",
+        "addressLine2": "オンジュロ 江南区 ソウル 大韓民国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1Rr7SaajfDUR7DF5s5rrzvw",
+        "addressLine1": "Seoul City Hall building",
+        "addressLine2": "ソウル 大韓民国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

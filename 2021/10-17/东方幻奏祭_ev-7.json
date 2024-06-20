@@ -1,0 +1,84 @@
+{
+  "id": "东方幻奏祭_ev-7",
+  "start": 1634428800,
+  "end": 1634428800,
+  "title": "東方幻奏祭vol.7",
+  "desc": "东方幻奏祭vol.7 于 VRCHAT World CLUB RAPID 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E5%A5%8F%E7%A5%AD#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3da05fbe4b7e54e002c0025f8bcebca29a896e69524b957129ff91d0c0b31a4c",
+  "location": {
+    "type": "google",
+    "text": "VRCHAT World CLUB RAPID",
+    "entity": [
+      {
+        "id": "ChIJQ2W7LBPVoZURfO7VAh8GzdY",
+        "addressLine1": "Club Atlético Rápido De La Teja",
+        "addressLine2": "Florentino Ameghino, モンテビデオ ウルグアイ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmZduMcgFxpQRSmZoNgA2n-g",
+        "addressLine1": "world club oficial",
+        "addressLine2": "Rafard - サン・パウロ ブラジル",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ414BvDegVogROg17wIAfbOY",
+        "addressLine1": "World",
+        "addressLine2": "North Carolina Music Factory Boulevard, シャーロット ノース・カロライナ州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJafMLoza0GYgR6EHDp8Ko-fc",
+        "addressLine1": "Camping World",
+        "addressLine2": "76th Street Southwest, Grand Rapids, ミシガン州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "CAR_REPAIR",
+          "SHOPS_AND_SERVICES",
+          "car_dealer",
+          "CAR_DEALER",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "car_repair"
+        ]
+      },
+      {
+        "id": "ChIJMVoPqUKuGYgRqGvtI0eI-ew",
+        "addressLine1": "Armstrong World Industries",
+        "addressLine2": "Glenhaven Avenue Northwest, Grand Rapids, ミシガン州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "GENERAL_CONTRACTOR",
+          "establishment",
+          "point_of_interest",
+          "general_contractor"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

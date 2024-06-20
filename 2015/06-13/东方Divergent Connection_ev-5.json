@@ -1,0 +1,30 @@
+{
+  "id": "东方Divergent Connection_ev-5",
+  "start": 1434153600,
+  "end": 1434153600,
+  "title": "東方Divergent Connection5",
+  "desc": "东方Divergent Connection5 于 爱知县名古屋市 DAYTRIVE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Divergent_Connection#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1329e400d2c2fedd1e2831f42e40a97298c167d8c118b2a2a40083f2033e091b",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 DAYTRIVE",
+    "entity": [
+      {
+        "id": "ChIJ11vPRNtwA2ARkxdIcUS6DEk",
+        "addressLine1": "DAYTRIVE",
+        "addressLine2": "２丁目-２２-１４ 東桜 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

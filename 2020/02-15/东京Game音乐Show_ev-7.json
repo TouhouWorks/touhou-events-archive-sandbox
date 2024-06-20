@@ -1,0 +1,30 @@
+{
+  "id": "东京Game音乐Show_ev-7",
+  "start": 1581724800,
+  "end": 1581724800,
+  "title": "東京ゲーム音楽ショー2020",
+  "desc": "东京Game音乐Show 2020 于 东京都 大田区产业广场PiO 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%ACGame%E9%9F%B3%E4%B9%90Show#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cda1a0e09f7869e3cbbf63fd21adc860f38b65e1f03d3eb2e0035011fa5ef314",
+  "location": {
+    "type": "google",
+    "text": "东京都 大田区产业广场PiO",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

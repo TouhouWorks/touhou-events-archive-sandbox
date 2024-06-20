@@ -1,0 +1,32 @@
+{
+  "id": "科学世纪的露天咖啡座_ev-6",
+  "start": 1477785600,
+  "end": 1477785600,
+  "title": "科学世紀のカフェテラス（第6回）",
+  "desc": "科学世纪的露天咖啡座（第6回） 于 京都市劝业馆 3层 第3展厅 举办",
+  "url": "https://thwiki.cc/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f26a7081faf7da6fb2a28b5149ae2c73835e7ee383caa472e0eaeffef700ff55",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 3层 第3展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勸業館 Miyako Messe",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

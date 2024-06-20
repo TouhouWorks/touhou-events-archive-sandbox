@@ -1,0 +1,32 @@
+{
+  "id": "东方RAVE MONSTERS_ev-3",
+  "start": 1670112000,
+  "end": 1670112000,
+  "title": "東方RAVE MONSTERS 3rd",
+  "desc": "东方RAVE MONSTERS 3rd 于 爱知县名古屋市 Club LOVER:z 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9RAVE_MONSTERS#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c690eb631abfee359a278ed13510d918e2f5ec47ad53741dbf12bc16cd4abef8",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Club LOVER:z",
+    "entity": [
+      {
+        "id": "ChIJpWalSNtwA2AR9AgEZNDFY_Y",
+        "addressLine1": "Club LOVER:z (ラバーズ)",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２２−２２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

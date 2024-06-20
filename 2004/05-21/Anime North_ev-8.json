@@ -1,0 +1,19 @@
+{
+  "id": "Anime North_ev-8",
+  "start": 1085097600,
+  "end": 1085097600,
+  "title": "Anime North 2004",
+  "desc": "Anime North 2004 于 加拿大安大略省多伦多 Toronto Congress Centre, Renaissance Toronto Airport Hotel 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "13e4fed962d18b7b918cae6b16c641d65398428b8d4dff788ac1cb586034e214",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Renaissance Toronto Airport Hotel",
+    "entity": []
+  },
+  "platform": 1
+}

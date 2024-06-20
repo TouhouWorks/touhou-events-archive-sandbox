@@ -1,0 +1,64 @@
+{
+  "id": "宝藏Festival_ev-1",
+  "start": 1293062400,
+  "end": 1293062400,
+  "title": "お宝フェスティバル北海道1",
+  "desc": "宝藏Festival 北海道1 于 札幌市 NORBESA 举办",
+  "url": "https://thwiki.cc/%E5%AE%9D%E8%97%8FFestival#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a2a288d4fb7f6c3f3af7444006e5a98b996925fef8b47887e562f4bc2e1d4dde",
+  "location": {
+    "type": "google",
+    "text": "札幌市 NORBESA",
+    "entity": [
+      {
+        "id": "ChIJTzTD_YQpC18RCyjnwiP5LoY",
+        "addressLine1": "NORBESA",
+        "addressLine2": "日本、北海道札幌市中央区南３条西５丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJJaC0V-0pC18RWs2tP-LM2kE",
+        "addressLine1": "JINGISUKAN nORBESA BEER HALL ジンギスカン ノルベサビール園",
+        "addressLine2": "日本、北海道札幌市中央区南３条西５丁目",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJMXwEWospC18Rgc_loAfTatM",
+        "addressLine1": "ノルベサBEERGARDEN & BBQ \"THE CAMP\"",
+        "addressLine2": "日本、北海道札幌市中央区南３条西５丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

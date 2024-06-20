@@ -1,0 +1,76 @@
+{
+  "id": "东方光华语_ev-1",
+  "start": 1558137600,
+  "end": 1558137600,
+  "title": "東方光華語1",
+  "desc": "东方光华语1 于 上海 复旦大学枫林校区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%85%89%E5%8D%8E%E8%AF%AD#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8c9d1b9dc687361140f5ab09751ebd6b8514eb5d072faaeaa92f4806735dba7c",
+  "location": {
+    "type": "google",
+    "text": "上海 复旦大学枫林校区",
+    "entity": [
+      {
+        "id": "ChIJQfjcbLZ6sjURRzwPn4xBOV4",
+        "addressLine1": "复旦大学枫林校区",
+        "addressLine2": "中華人民共和国 上海 徐匯区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJG0p0Bsp6sjUR_lFNF-utWv4",
+        "addressLine1": "复旦大学枫林校区西区",
+        "addressLine2": "中華人民共和国 上海 徐匯区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJC0eqBsp6sjUR67eVNJXiXzY",
+        "addressLine1": "复旦大学枫林校区校医院",
+        "addressLine2": "中華人民共和国 上海 徐匯区 Dongan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJkxUY_cl6sjURboi_7L2vVVc",
+        "addressLine1": "复旦大学枫林校区东区-生物医学研究院",
+        "addressLine2": "中華人民共和国 上海 徐匯区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJydspgsl6sjURBkUkSMTWWug",
+        "addressLine1": "复旦大学枫林校区游泳池",
+        "addressLine2": "中華人民共和国 上海 徐匯区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

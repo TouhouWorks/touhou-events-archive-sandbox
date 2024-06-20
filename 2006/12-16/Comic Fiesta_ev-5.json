@@ -1,0 +1,52 @@
+{
+  "id": "Comic Fiesta_ev-5",
+  "start": 1166227200,
+  "end": 1166227200,
+  "title": "Comic Fiesta 2006",
+  "desc": "Comic Fiesta 2006 于 马来西亚梳邦再也 Sekolah Sri Sendaya 举办",
+  "url": "https://thwiki.cc/Comic_Fiesta#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "de0632894bbd9d40fd7d14df2080e0e3273bd98b37a903985416393d9e4f749d",
+  "location": {
+    "type": "google",
+    "text": "马来西亚梳邦再也 Sekolah Sri Sendaya",
+    "entity": [
+      {
+        "id": "ChIJxdNxcjWzzTERbQ-T_yBXHdE",
+        "addressLine1": "SRI",
+        "addressLine2": "Taman Indah Subang Uep, スバン・ジャヤ スランゴル マレーシア",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJVQe4ZcpMzDERxneNvZzg-pI",
+        "addressLine1": "Sekolah Sri Pintar Subang Jaya",
+        "addressLine2": "Persiaran Mulia, Usj 14, スバン・ジャヤ スランゴル マレーシア",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ-YPl4bVMzDERO18rvFsdmpo",
+        "addressLine1": "Steel Recon Industries Sdn Bhd",
+        "addressLine2": "Persiaran Subang, Taman Perindustrian Subang, スバン・ジャヤ スランゴル マレーシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

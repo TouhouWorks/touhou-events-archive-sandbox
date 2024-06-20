@@ -1,0 +1,19 @@
+{
+  "id": "新潟东方祭_ev-18",
+  "start": 1445731200,
+  "end": 1445731200,
+  "title": "新潟東方祭16 in佐渡",
+  "desc": "新潟东方祭16 in佐渡 于 佐渡市 佐渡信息中心 (あいぼーと佐渡) 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%BD%9F%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-18",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ae9b736c543da53f0e1e8bac9d512f1b540868435bdf736c1009262120228a38",
+  "location": {
+    "type": "google",
+    "text": "佐渡市 佐渡信息中心 (あいぼーと佐渡)",
+    "entity": []
+  },
+  "platform": 1
+}

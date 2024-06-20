@@ -1,0 +1,19 @@
+{
+  "id": "东方烟火祭_ev-1",
+  "start": 1363478400,
+  "end": 1363478400,
+  "title": "東方煙火祭1",
+  "desc": "东方烟火祭1 于 韩国 首尔 城东区民综合体育中心 大体育馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%83%9F%E7%81%AB%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "12300b50cc5b05977d93720b6625241e2f79ab0a1b054966d85b463f4eca4a46",
+  "location": {
+    "type": "google",
+    "text": "韩国 首尔 城东区民综合体育中心 大体育馆",
+    "entity": []
+  },
+  "platform": 1
+}

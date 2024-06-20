@@ -1,0 +1,19 @@
+{
+  "id": "COMIDAY_ev-10",
+  "start": 1342828800,
+  "end": 1342828800,
+  "title": "COMIDAY10",
+  "desc": "COMIDAY10 于 成都市 世纪城新国际会展中心 7号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "80166b58b878e0132c1c7b861558c3200442777409a6a999472fa726b8149b33",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 7号馆",
+    "entity": []
+  },
+  "platform": 1
+}

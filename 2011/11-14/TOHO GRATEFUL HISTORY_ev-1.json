@@ -1,0 +1,71 @@
+{
+  "id": "TOHO GRATEFUL HISTORY_ev-1",
+  "start": 1321228800,
+  "end": 1321228800,
+  "title": "TOHO GRATEFUL HISTORY Vol.0",
+  "desc": "TOHO GRATEFUL HISTORY Vol.0 于 东京都 神田 Extrawelt 举办",
+  "url": "https://thwiki.cc/TOHO_GRATEFUL_HISTORY#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d278387cce65cfe0ba73914eda70fe4513d63d8140d1cd5b8fd903acebf73e8e",
+  "location": {
+    "type": "google",
+    "text": "东京都 神田 Extrawelt",
+    "entity": [
+      {
+        "id": "ChIJlzGEbgCMGGARtBz9bqPCrMY",
+        "addressLine1": "Extrawelt",
+        "addressLine2": "４丁目-４-１５ 日本橋本石町 中央区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJy2l7vwh7GGAR_CyRCFDKCWw",
+        "addressLine1": "神田",
+        "addressLine2": "日本、東京都千代田区",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJvQ0WmgGMGGAR7GCzQU6OtF0",
+        "addressLine1": "神田",
+        "addressLine2": "日本、東京都千代田区鍛冶町２丁目１３",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJmUkbXQWMGGARWS315QlLL8c",
+        "addressLine1": "神田警察署",
+        "addressLine2": "日本、東京都千代田区神田錦町３丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

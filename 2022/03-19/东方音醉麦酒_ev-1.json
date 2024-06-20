@@ -1,0 +1,32 @@
+{
+  "id": "东方音醉麦酒_ev-1",
+  "start": 1647648000,
+  "end": 1647648000,
+  "title": "東方音酔麦酒1",
+  "desc": "东方音醉麦酒1 于 新潟县新潟市中央区万代1丁目 Stusio NEXS (NEXS 新潟) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E9%86%89%E9%BA%A6%E9%85%92#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b14ec3ac2ee403c1b1549a463b5314f8229194318f442be9053e1f97a306a5b3",
+  "location": {
+    "type": "google",
+    "text": "新潟县新潟市中央区万代1丁目 Stusio NEXS (NEXS 新潟)",
+    "entity": [
+      {
+        "id": "ChIJR1n0AJLJ9F8RWRg4uSc50es",
+        "addressLine1": "NEXS NIIGATA",
+        "addressLine2": "日本、新潟県新潟市中央区万代１丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

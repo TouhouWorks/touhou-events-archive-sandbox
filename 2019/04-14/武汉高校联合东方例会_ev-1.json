@@ -1,0 +1,31 @@
+{
+  "id": "武汉高校联合东方例会_ev-1",
+  "start": 1555200000,
+  "end": 1555200000,
+  "title": "武汉高校联合东方例会 东方辉江城",
+  "desc": "武汉高校联合东方例会 东方辉江城 于 武汉 长江大酒店 水晶厅 举办",
+  "url": "https://thwiki.cc/%E6%AD%A6%E6%B1%89%E9%AB%98%E6%A0%A1%E8%81%94%E5%90%88%E4%B8%9C%E6%96%B9%E4%BE%8B%E4%BC%9A#ev-1",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d651f695067dff95a7166206c363709ff15c3b9579cef05ae035e950281486d8",
+  "location": {
+    "type": "google",
+    "text": "武汉 长江大酒店 水晶厅",
+    "entity": [
+      {
+        "id": "ChIJPXkJrPOuLjQR1GPavLI1y7g",
+        "addressLine1": "长江大酒店水晶厅",
+        "addressLine2": "中華人民共和国 湖北省 武汉 キョウ口区 西北湖 Jiefang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

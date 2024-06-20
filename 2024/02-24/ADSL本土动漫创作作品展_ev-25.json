@@ -1,0 +1,30 @@
+{
+  "id": "ADSL本土动漫创作作品展_ev-25",
+  "start": 1708732800,
+  "end": 1708732800,
+  "title": "A.D.S.L本土动漫创作作品展2024",
+  "desc": "A.D.S.L本土动漫创作作品展2024 于 广州市 荔湾区 广州信义会馆21栋展览厅 举办",
+  "url": "https://thwiki.cc/ADSL%E6%9C%AC%E5%9C%9F%E5%8A%A8%E6%BC%AB%E5%88%9B%E4%BD%9C%E4%BD%9C%E5%93%81%E5%B1%95#ev-25",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c31c7dddff7c0786b4274855d8b27ee6f5886e026075383ea1b55da49bbe9771",
+  "location": {
+    "type": "google",
+    "text": "广州市 荔湾区 广州信义会馆21栋展览厅",
+    "entity": [
+      {
+        "id": "ChIJzcXPhixWAjQRQqRrW6nQw5o",
+        "addressLine1": "Xin Yi Guo Ji Hui Guan",
+        "addressLine2": "下市直街 茘湾区 広州市 広東省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

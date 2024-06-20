@@ -1,0 +1,82 @@
+{
+  "id": "小型东方乐祭_ev-3",
+  "start": 1410652800,
+  "end": 1410652800,
+  "title": "ぷち東方樂祭 in メロンブックス with 大⑨州東方祭",
+  "desc": "小型东方乐祭 in Melon Books with 大⑨州东方祭 于 札幌市 Melon Books小仓 举办",
+  "url": "https://thwiki.cc/%E5%B0%8F%E5%9E%8B%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8964dacc1124f7e899877f530f81555df80bb1be543e335502be943f7ab0ee7e",
+  "location": {
+    "type": "google",
+    "text": "札幌市 Melon Books小仓",
+    "entity": [
+      {
+        "id": "ChIJedBeGgArC18R46WSZOF9hIM",
+        "addressLine1": "㈱オグラ 札幌出張所",
+        "addressLine2": "日本、北海道札幌市白石区菊水７条４丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYYu3efoqC18RIqjMTJf8w9I",
+        "addressLine1": "医療法人社団 小椋こどもクリニック",
+        "addressLine2": "日本、北海道札幌市豊平区福住２条１丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "doctor",
+          "PHYSICIAN",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJ51VQE0EqC18RfGg0lNLvOX8",
+        "addressLine1": "㈱小倉紙店",
+        "addressLine2": "日本、北海道札幌市豊平区平岸３条９丁目１５−１０",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "point_of_interest",
+          "store",
+          "HOME_AND_GARDEN"
+        ]
+      },
+      {
+        "id": "ChIJZ49v7BkqC18RlmD4jzVSURI",
+        "addressLine1": "小倉電気工事㈱",
+        "addressLine2": "日本、北海道札幌市中央区南１７条西８丁目１−３５",
+        "provider": "google_places",
+        "categories": [
+          "electrician",
+          "ELECTRICIAN",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJgSOE2PQpC18Rpc5qLGlpmLw",
+        "addressLine1": "㈱小倉クロス",
+        "addressLine2": "日本、北海道札幌市中央区南１０条西１２丁目１−１６",
+        "provider": "google_places",
+        "categories": [
+          "GENERAL_CONTRACTOR",
+          "establishment",
+          "point_of_interest",
+          "general_contractor"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

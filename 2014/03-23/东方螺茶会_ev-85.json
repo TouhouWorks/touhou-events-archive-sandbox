@@ -1,0 +1,19 @@
+{
+  "id": "东方螺茶会_ev-85",
+  "start": 1395532800,
+  "end": 1395532800,
+  "title": "東方螺茶会 豊前の宴",
+  "desc": "东方螺茶会 丰前之宴 于 AIM 3层 西日本综合展示场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-85",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c96daad578732bab9c896f743992ad1220d33d265ec3550b92d4297c9fe23c42",
+  "location": {
+    "type": "google",
+    "text": "AIM 3层 西日本综合展示场",
+    "entity": []
+  },
+  "platform": 1
+}

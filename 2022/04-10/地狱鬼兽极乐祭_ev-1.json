@@ -1,0 +1,30 @@
+{
+  "id": "地狱鬼兽极乐祭_ev-1",
+  "start": 1649548800,
+  "end": 1649548800,
+  "title": "第一回 地獄鬼獣極楽祭",
+  "desc": "第一回 地狱鬼兽极乐祭 于 川崎 产业振兴会馆 4层 企划展示场 举办",
+  "url": "https://thwiki.cc/%E5%9C%B0%E7%8B%B1%E9%AC%BC%E5%85%BD%E6%9E%81%E4%B9%90%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "623e0eed72d211fa87537a0ddf4d7ddbdd1780faaaa68d836d03bbe0eebe4480",
+  "location": {
+    "type": "google",
+    "text": "川崎 产业振兴会馆 4层 企划展示场",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

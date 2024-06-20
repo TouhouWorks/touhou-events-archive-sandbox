@@ -1,0 +1,32 @@
+{
+  "id": "Border Room Tokyo_ev-1",
+  "start": 1424563200,
+  "end": 1424563200,
+  "title": "Border Room Tokyo 1",
+  "desc": "Border Room Tokyo 1 于 东京都 R-Lounge涩谷 举办",
+  "url": "https://thwiki.cc/Border_Room_Tokyo#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ed548ca607d98eab5a56c84897fd44d50117dcc3736a9fbc932a4db37fd0007f",
+  "location": {
+    "type": "google",
+    "text": "东京都 R-Lounge涩谷",
+    "entity": [
+      {
+        "id": "ChIJORMuOqmMGGARuUTOAOwRSRI",
+        "addressLine1": "R Lounge",
+        "addressLine2": "日本、東京都渋谷区宇田川町４−７",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

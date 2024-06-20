@@ -1,0 +1,32 @@
+{
+  "id": "东方雨川集_ev-2",
+  "start": 1690675200,
+  "end": 1690675200,
+  "title": "东方雨川集2",
+  "desc": "东方雨川集2 于 山东省济南市 鲁能贵和洲际酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9B%A8%E5%B7%9D%E9%9B%86#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a8f74dcc831827cd2b77b3a8e71bf23045aeb9a3c7325aef4308056473bec97d",
+  "location": {
+    "type": "google",
+    "text": "山东省济南市 鲁能贵和洲际酒店",
+    "entity": [
+      {
+        "id": "ChIJ0zl4TMkFwjURMX0bRjWrNoE",
+        "addressLine1": "济南鲁能贵和洲际酒店停车场",
+        "addressLine2": "中華人民共和国 山东省济南市 歴下区 3, 鲁能贵和洲际酒店",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

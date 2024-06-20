@@ -1,0 +1,30 @@
+{
+  "id": "东方骏府港祭_ev-1",
+  "start": 1664668800,
+  "end": 1664668800,
+  "title": "東方駿府港祭 第1幕",
+  "desc": "东方骏府港祭 第1幕 于 静冈市 静冈市清水文化会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AA%8F%E5%BA%9C%E6%B8%AF%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4dfbe25f799202112d308f5a22b17e0f292ad5a4d1be9c212f4a3bb65b02dd74",
+  "location": {
+    "type": "google",
+    "text": "静冈市 静冈市清水文化会馆",
+    "entity": [
+      {
+        "id": "ChIJJ0Pqs-IzGmARliw9u2__U78",
+        "addressLine1": "静岡市清水文化会館 マリナート",
+        "addressLine2": "日本、静岡県静岡市清水区島崎町２１４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

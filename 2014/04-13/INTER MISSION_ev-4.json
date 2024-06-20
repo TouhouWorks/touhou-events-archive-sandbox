@@ -1,0 +1,34 @@
+{
+  "id": "INTER MISSION_ev-4",
+  "start": 1397347200,
+  "end": 1397347200,
+  "title": "いんたーみっしょん 4回目",
+  "desc": "INTER MISSION 4回目 于 高崎市 Club JAMMER&#39;S 举办",
+  "url": "https://thwiki.cc/INTER_MISSION#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aa126bf13f2ba88f396ab817b0171d1f5c821f6649802ae30b29a1b4d2fddc2f",
+  "location": {
+    "type": "google",
+    "text": "高崎市 Club JAMMER&#39;S",
+    "entity": [
+      {
+        "id": "ChIJnwRwfX6NHmARLAQ8CwgYIpk",
+        "addressLine1": "Club Jammers",
+        "addressLine2": "３１−１ 鞘町 高崎市 群馬県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

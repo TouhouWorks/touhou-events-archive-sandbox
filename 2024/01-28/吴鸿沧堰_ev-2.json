@@ -1,0 +1,40 @@
+{
+  "id": "吴鸿沧堰_ev-2",
+  "start": 1706400000,
+  "end": 1706400000,
+  "title": "苏州THO-赤维极陵",
+  "desc": "苏州THO-赤维极陵 于 苏州 苏州书香府邸平江府 举办",
+  "url": "https://thwiki.cc/%E5%90%B4%E9%B8%BF%E6%B2%A7%E5%A0%B0#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b82c11022afb4dd5c8329894d0f3044420a0a0220dfb9d053c0702c5482fd002",
+  "location": {
+    "type": "google",
+    "text": "苏州 苏州书香府邸平江府",
+    "entity": [
+      {
+        "id": "ChIJufo7WNqmszURket7KxA4pSs",
+        "addressLine1": "书香府邸·平江府酒店",
+        "addressLine2": "中華人民共和国 江蘇省 蘇州市 姑蘇区 盘门",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJdWxZZ9qmszURoZRRWGVa9C0",
+        "addressLine1": "书香府邸·平江府酒店－会议室",
+        "addressLine2": "中華人民共和国 苏苏州 姑蘇区 South Gate",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方观月宴_ev-1",
+  "start": 1313798400,
+  "end": 1313798400,
+  "title": "東方観月宴 第一幕",
+  "desc": "东方观月宴 第一幕 于 福冈县久留米市 久留米市民会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%A7%82%E6%9C%88%E5%AE%B4#ev-1",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "66e620dc814f7d8fa9bb94c3274ccf9b3a2c4a2c63498f2d25fdeb2588aa3ffc",
+  "location": {
+    "type": "google",
+    "text": "福冈县久留米市 久留米市民会馆",
+    "entity": []
+  },
+  "platform": 1
+}

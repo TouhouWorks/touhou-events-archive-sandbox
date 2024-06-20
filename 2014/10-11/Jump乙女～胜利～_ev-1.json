@@ -1,0 +1,30 @@
+{
+  "id": "Jump乙女～胜利～_ev-1",
+  "start": 1412985600,
+  "end": 1412985600,
+  "title": "ジャンプ乙女～勝利～ 1",
+  "desc": "Jump乙女～胜利～ 1 于 东京都 TSUTAYA O-EAST 举办",
+  "url": "https://thwiki.cc/Jump%E4%B9%99%E5%A5%B3%EF%BD%9E%E8%83%9C%E5%88%A9%EF%BD%9E#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1ebb1e913fa70a5538881c3c0973f74aa499e5fc8876f5f90bd7684713f37cb6",
+  "location": {
+    "type": "google",
+    "text": "东京都 TSUTAYA O-EAST",
+    "entity": [
+      {
+        "id": "ChIJWxh5F6qMGGARZ2N7PRSCCXk",
+        "addressLine1": "TSUTAYA O-EAST",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目１４−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

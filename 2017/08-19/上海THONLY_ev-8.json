@@ -1,0 +1,76 @@
+{
+  "id": "上海THONLY_ev-8",
+  "start": 1503100800,
+  "end": 1503100800,
+  "title": "第八届上海THONLY 東方蝉時歌～せみときのうた",
+  "desc": "第八届上海THONLY 东方蝉时歌～せみときのうた 于 上海市 梅赛德斯奔驰文化中心 Mixing Room&Muse 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7THONLY#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bf67339ee2ac2b7e06d055d48582cccf1a5bedb131ddd46b41bea513df10f50f",
+  "location": {
+    "type": "google",
+    "text": "上海市 梅赛德斯奔驰文化中心 Mixing Room&Muse",
+    "entity": [
+      {
+        "id": "ChIJAX4SumF6sjUR2CUGCWOnG08",
+        "addressLine1": "The Mixing Room & Muse",
+        "addressLine2": "Shibo Avenue, 周家渡 浦東新区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6-qQy2F6sjURcDBlo6t_48g",
+        "addressLine1": "梅赛德斯－奔驰文化中心购物广场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 1200, Shi Bo Da Dao",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJmWeXumF6sjURrFvEqMrU-EE",
+        "addressLine1": "梅赛德斯－奔驰文化中心",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 白莲泾",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJx2tfUmB6sjURaHTePy5GBZg",
+        "addressLine1": "梅赛德斯-奔驰文化中心停车场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Shibo Avenue",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ-4NMD1x6sjUR7ed2QRLbyNg",
+        "addressLine1": "上海梅赛德斯-奔驰文化中心",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

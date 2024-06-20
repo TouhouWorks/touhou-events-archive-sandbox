@@ -1,0 +1,19 @@
+{
+  "id": "东京娜兹玲乐园_ev-6",
+  "start": 1362268800,
+  "end": 1362268800,
+  "title": "東京ナズーリンランド8",
+  "desc": "东京娜兹玲乐园8 于 Belle Salle新宿Grand 1层 Event Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%AC%E5%A8%9C%E5%85%B9%E7%8E%B2%E4%B9%90%E5%9B%AD#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5422dc1d65fb69764e9a830be4740fd3a905efe14545dd4a76581cfa4a8ee545",
+  "location": {
+    "type": "google",
+    "text": "Belle Salle新宿Grand 1层 Event Hall",
+    "entity": []
+  },
+  "platform": 1
+}

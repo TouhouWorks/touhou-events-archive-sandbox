@@ -1,0 +1,19 @@
+{
+  "id": "天地有用（活动）_ev-1",
+  "start": 1411257600,
+  "end": 1411257600,
+  "title": "天地有用1",
+  "desc": "天地有用1 于 三重县立太阳竞技场 举办",
+  "url": "https://thwiki.cc/%E5%A4%A9%E5%9C%B0%E6%9C%89%E7%94%A8%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "85ef2a73f46ec859b82abf46f0d5dd6cc1195490a3d76c67ffc8afc20051701b",
+  "location": {
+    "type": "google",
+    "text": "三重县立太阳竞技场",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "极・东方神居祭_ev-12",
+  "start": 1531612800,
+  "end": 1531612800,
+  "title": "極・東方神居祭12",
+  "desc": "极・东方神居祭12 于 札幌艺术文化馆 3层 Royal Hall 举办",
+  "url": "https://thwiki.cc/%E6%9E%81%E3%83%BB%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eb2d7864e6b3e41eda97fe0708c0d05623c2687396002114844c019aaae34ae5",
+  "location": {
+    "type": "google",
+    "text": "札幌艺术文化馆 3层 Royal Hall",
+    "entity": []
+  },
+  "platform": 1
+}

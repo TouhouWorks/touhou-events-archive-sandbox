@@ -1,0 +1,58 @@
+{
+  "id": "星虹碎／祭_ev-5",
+  "start": 1457827200,
+  "end": 1457827200,
+  "title": "星虹砕／祭【地】",
+  "desc": "星虹碎／祭【地】 于 东京都 新宿BLAZE 举办",
+  "url": "https://thwiki.cc/%E6%98%9F%E8%99%B9%E7%A2%8E%EF%BC%8F%E7%A5%AD#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f7cdeada052b906cf1b24709b13e3ef0f95cd3b6a20a6916004a06901af3daf1",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿BLAZE",
+    "entity": [
+      {
+        "id": "ChIJeccloguNGGARcIxNIjmyFY8",
+        "addressLine1": "新宿BLAZE",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmYqtWMaNGGARh6rFu8mcGgI",
+        "addressLine1": "ブレイズマンバーバーショップ 新宿",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目１４−１１",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJARdpMt-NGGARHVyryigRK9U",
+        "addressLine1": "レンタルジム BLAZE LILLY(ﾌﾞﾚｲｽﾞ ﾘﾘｰ)曙橋",
+        "addressLine2": "日本、東京都新宿区市谷台町１６−２",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

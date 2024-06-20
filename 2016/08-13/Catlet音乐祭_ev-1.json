@@ -1,0 +1,30 @@
+{
+  "id": "Catlet音乐祭_ev-1",
+  "start": 1471046400,
+  "end": 1471046400,
+  "title": "キャトレ音楽祭 Vol.1〜夏の陣〜",
+  "desc": "Catlet音乐祭 Vol.1~夏之阵~ 于 东京都 新宿WildSideTokyo 举办",
+  "url": "https://thwiki.cc/Catlet%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9ce84a41b1ed79407d155e4e68b9ad48b72177759e49887ed04fd5aba6a51be2",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿WildSideTokyo",
+    "entity": [
+      {
+        "id": "ChIJU6eEssKMGGARkGKDBRypMRg",
+        "addressLine1": "ワイルドサイド",
+        "addressLine2": "日本、東京都新宿区新宿１丁目３４−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

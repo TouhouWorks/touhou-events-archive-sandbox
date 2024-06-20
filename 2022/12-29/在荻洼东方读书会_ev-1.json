@@ -1,0 +1,79 @@
+{
+  "id": "在荻洼东方读书会_ev-1",
+  "start": 1672272000,
+  "end": 1672272000,
+  "title": "荻窪で東方読書会1",
+  "desc": "在荻洼东方读书会1 于 东京都 白凰大楼 举办",
+  "url": "https://thwiki.cc/%E5%9C%A8%E8%8D%BB%E6%B4%BC%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "500bac336b2534b3c9ea98ee8d084966742f150f581126d1fc4260e9806f3d35",
+  "location": {
+    "type": "google",
+    "text": "东京都 白凰大楼",
+    "entity": [
+      {
+        "id": "ChIJbz1t5p70GGAR0_91Tqa__LQ",
+        "addressLine1": "东京饺子楼三轩茶屋总店",
+        "addressLine2": "日本、東京都世田谷区太子堂４丁目４−２",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ2TEhoGTyGGARNQzcahPH4RE",
+        "addressLine1": "东京宝冢剧场",
+        "addressLine2": "日本、東京都千代田区有楽町１丁目１−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJpW8-OW-NGGARn_my-r76YS0",
+        "addressLine1": "太阳城60大厦",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVVWVMdSMGGAR_AbSms-8FLA",
+        "addressLine1": "新宿中心大厦",
+        "addressLine2": "日本、東京都新宿区西新宿１丁目２５−２５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJqZWNOKiMGGARtxsPVmegtis",
+        "addressLine1": "白鳳",
+        "addressLine2": "日本、東京都渋谷区宇田川町２４−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

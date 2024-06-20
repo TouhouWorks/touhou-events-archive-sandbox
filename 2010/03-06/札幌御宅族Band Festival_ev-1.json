@@ -1,0 +1,42 @@
+{
+  "id": "札幌御宅族Band Festival_ev-1",
+  "start": 1267833600,
+  "end": 1267833600,
+  "title": "札幌オタクバンドフェスティバルLv.2",
+  "desc": "札幌御宅族Band Festival Lv.2 于 札幌市 SOUND CRUE 举办",
+  "url": "https://thwiki.cc/%E6%9C%AD%E5%B9%8C%E5%BE%A1%E5%AE%85%E6%97%8FBand_Festival#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d09a7c1fdd49f454a1e32a6f32aeb39c9b3f498e6e15306af451b91f9fede26f",
+  "location": {
+    "type": "google",
+    "text": "札幌市 SOUND CRUE",
+    "entity": [
+      {
+        "id": "ChIJ_dFEh3cpC18Rcy2Sk_fGvgs",
+        "addressLine1": "ＳＯＵＮＤ ＣＲＵＥ",
+        "addressLine2": "日本、北海道札幌市中央区大通東２丁目",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJq7GngHcpC18RjWflzHWFXz0",
+        "addressLine1": "サウンド・クルー",
+        "addressLine2": "日本、北海道札幌市中央区大通東２丁目15−１−２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

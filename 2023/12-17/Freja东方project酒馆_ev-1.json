@@ -1,0 +1,32 @@
+{
+  "id": "Freja东方project酒馆_ev-1",
+  "start": 1702771200,
+  "end": 1702771200,
+  "title": "フレイヤ東方project酒場1",
+  "desc": "Freja东方project酒馆1 于 大阪市 Freja 举办",
+  "url": "https://thwiki.cc/Freja%E4%B8%9C%E6%96%B9project%E9%85%92%E9%A6%86#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "13fd0d969a8502eb2b89157bcb392bd6dca3def7807e1bac95f9f61a56d68791",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Freja",
+    "entity": [
+      {
+        "id": "ChIJ4b15AwDnAGARZdtd5qhV0As",
+        "addressLine1": "Bar Freja",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋１丁目５−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方幻想指南_ev-10",
+  "start": 1650672000,
+  "end": 1650672000,
+  "title": "东方幻想指南10 被遗忘的妖魔夜行",
+  "desc": "东方幻想指南10 被遗忘的妖魔夜行 于 北京大学 新太阳学生中心 B101室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%8C%87%E5%8D%97#ev-10",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c3951f141445c9ff9d8f4d06ec98ed2427c1707fbba4b3117a4de7197345bd76",
+  "location": {
+    "type": "google",
+    "text": "北京大学 新太阳学生中心 B101室",
+    "entity": [
+      {
+        "id": "ChIJNxYu0bJW8DURokvL68e5_2w",
+        "addressLine1": "新太阳学生中心",
+        "addressLine2": "中華人民共和国 北京 海淀区 Wusi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

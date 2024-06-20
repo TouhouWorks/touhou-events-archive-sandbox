@@ -1,0 +1,32 @@
+{
+  "id": "东方高圆夜_ev-4",
+  "start": 1365292800,
+  "end": 1365292800,
+  "title": "東方高円夜4",
+  "desc": "东方高圆夜4 于 东京都 药酒Bar高圆寺 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AB%98%E5%9C%86%E5%A4%9C#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "37d31d31a93bd54050f96062a75e41be5810751a3c4af00847e90b1135ea9c38",
+  "location": {
+    "type": "google",
+    "text": "东京都 药酒Bar高圆寺",
+    "entity": [
+      {
+        "id": "ChIJ-8GMJnzyGGARQAC93s1A48o",
+        "addressLine1": "Bar",
+        "addressLine2": "３丁目-１６-２ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

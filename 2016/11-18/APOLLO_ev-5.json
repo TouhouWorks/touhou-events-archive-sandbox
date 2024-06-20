@@ -1,0 +1,19 @@
+{
+  "id": "APOLLO_ev-5",
+  "start": 1479427200,
+  "end": 1479427200,
+  "title": "APOLLO 第5回",
+  "desc": "APOLLO 第5回 于 https://booth.pm/apollo/a05 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a411a0b3cd8c57e12c29b4447d0bdc1b2354df80dba08a27718af2b69e564414",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/apollo/a05",
+    "entity": []
+  },
+  "platform": 1
+}

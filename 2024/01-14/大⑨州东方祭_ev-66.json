@@ -1,0 +1,30 @@
+{
+  "id": "大⑨州东方祭_ev-66",
+  "start": 1705190400,
+  "end": 1705190400,
+  "title": "大⑨州東方祭64",
+  "desc": "大⑨州东方祭64 于 熊本市 熊本县民交流馆 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-66",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "78e3f513b61d019b68c97af0003509a2ecac335f04ab237c16720bd43cfb75cb",
+  "location": {
+    "type": "google",
+    "text": "熊本市 熊本县民交流馆",
+    "entity": [
+      {
+        "id": "ChIJoTVRvgv0QDURssmhskcFwQs",
+        "addressLine1": "熊本縣民交流館PAREA",
+        "addressLine2": "日本、熊本県熊本市中央区手取本町８−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

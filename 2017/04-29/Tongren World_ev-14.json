@@ -1,0 +1,52 @@
+{
+  "id": "Tongren World_ev-14",
+  "start": 1493424000,
+  "end": 1493424000,
+  "title": "Tongren World14",
+  "desc": "Tongren World14 于 广州市 海珠区 国际采购中心 1层 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cf34047cbe4f84a5afe77bff60db0753d21afcdc3fb24ccdad279ee9529103ef",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 国际采购中心 1层",
+    "entity": [
+      {
+        "id": "ChIJR1Mmbeb_AjQR19q_yaHkHgc",
+        "addressLine1": "Guangzhou Int'l. Purchase Center",
+        "addressLine2": "Dongshankou, 海珠区 広州市 広東省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJR6iYUO__AjQRqypADenq1-M",
+        "addressLine1": "国际采购中心停车场",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJO8EgG-b_AjQRa7iFL0lTWXk",
+        "addressLine1": "琶洲国际采购中心",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

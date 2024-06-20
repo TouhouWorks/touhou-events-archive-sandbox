@@ -1,0 +1,32 @@
+{
+  "id": "东方嘉年华_ev-7",
+  "start": 1304380800,
+  "end": 1304380800,
+  "title": "東方カーニバル7",
+  "desc": "东方嘉年华7 于 涩谷 Clubasia 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%98%89%E5%B9%B4%E5%8D%8E#ev-7",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2d5360f476e0f764f112f5c96ca72169878a071c39314385f84f14bff8ed1327",
+  "location": {
+    "type": "google",
+    "text": "涩谷 Clubasia",
+    "entity": [
+      {
+        "id": "ChIJVVUBPKqMGGARiXgNlzpNTaU",
+        "addressLine1": "clubasia",
+        "addressLine2": "日本、東京都渋谷区円山町１−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

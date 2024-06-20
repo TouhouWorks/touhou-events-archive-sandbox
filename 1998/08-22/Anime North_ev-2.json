@@ -1,0 +1,34 @@
+{
+  "id": "Anime North_ev-2",
+  "start": 903744000,
+  "end": 903744000,
+  "title": "Anime North 1998",
+  "desc": "Anime North 1998 于 加拿大安大略省多伦多 The Michener Institute 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "46b61e53e90f02638db641509be7082e4dc0e8aa3ae2fc20b6ca8b6fa2b33622",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 The Michener Institute",
+    "entity": [
+      {
+        "id": "ChIJLaPDusg0K4gRosutwyySllk",
+        "addressLine1": "The Michener Institute of Education",
+        "addressLine2": "セント・パトリック・ストリート トロント オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "COLLEGE_AND_UNIVERSITY",
+          "school",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

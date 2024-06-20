@@ -1,0 +1,30 @@
+{
+  "id": "博丽神社歌谣祭_ev-7",
+  "start": 1560556800,
+  "end": 1560556800,
+  "title": "博麗神社うた祭in台湾2",
+  "desc": "博丽神社歌谣祭in台湾2 于 中国台湾地区台北市中山區市民大道三段 三創生活園區多功能場館-5樓CLAPPER STUDIO 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%AD%8C%E8%B0%A3%E7%A5%AD#ev-7",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "52234e202692e37f2b0d5f186214c2ce98c9e53fb7fe8dad4f5ff4329f9338d5",
+  "location": {
+    "type": "google",
+    "text": "台湾台北市中山區市民大道三段 三創生活園區多功能場館-5樓CLAPPER STUDIO",
+    "entity": [
+      {
+        "id": "ChIJiezUqGSpQjQR3p59YZqKsVo",
+        "addressLine1": "Clapper Studio",
+        "addressLine2": "台湾 台北市 中正区 Section 3, Civic Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

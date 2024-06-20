@@ -1,0 +1,32 @@
+{
+  "id": "吴鸿沧堰_ev-1",
+  "start": 1579392000,
+  "end": 1579392000,
+  "title": "苏州THO-吴鸿沧堰",
+  "desc": "苏州THO-吴鸿沧堰 于 苏州 苏州华侨饭店 举办",
+  "url": "https://thwiki.cc/%E5%90%B4%E9%B8%BF%E6%B2%A7%E5%A0%B0#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "659416507c3a82f310a449de47ccff9110d11eb923696eb0d9decf5945cb8f67",
+  "location": {
+    "type": "google",
+    "text": "苏州 苏州华侨饭店",
+    "entity": [
+      {
+        "id": "ChIJyTAQoMCgszURXLtha_7md4o",
+        "addressLine1": "Overseas Chinese Hotel",
+        "addressLine2": "Sanxiang Road, 姑蘇区 蘇州市 江蘇省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

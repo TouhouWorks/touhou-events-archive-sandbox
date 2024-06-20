@@ -1,0 +1,77 @@
+{
+  "id": "东方吹奏乐团定期演奏会_ev-2",
+  "start": 1331942400,
+  "end": 1331942400,
+  "title": "東方吹奏樂団 第二回定期演奏会",
+  "desc": "东方吹奏乐团 第二回定期演奏会 于 东京都 赤羽会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%B9%E5%A5%8F%E4%B9%90%E5%9B%A2%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-2",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dc364835dbab549db135e9ea4de7ad5ff4fd3943897785f8a000441698b392b3",
+  "location": {
+    "type": "google",
+    "text": "东京都 赤羽会馆",
+    "entity": [
+      {
+        "id": "ChIJ8VSJDf2SGGARtJr87oIZU80",
+        "addressLine1": "赤羽会馆",
+        "addressLine2": "日本、東京都北区赤羽南１丁目１３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJs4KWrwKTGGARwcVj3XHs8O4",
+        "addressLine1": "銀座アスター 赤羽賓館",
+        "addressLine2": "日本、東京都北区赤羽１丁目７−９",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJE4jnODqTGGARsUH344LjukM",
+        "addressLine1": "赤羽会館小ホール",
+        "addressLine2": "日本、東京都北区赤羽南１丁目１３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK5jXLgCTGGARqQKClvl1qDM",
+        "addressLine1": "赤羽会館駐車場",
+        "addressLine2": "日本、東京都北区赤羽南１丁目１３",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJETXY6OGSGGARgs0LRhoqJt4",
+        "addressLine1": "赤羽三和自治会館",
+        "addressLine2": "日本、東京都北区赤羽西４丁目２６−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

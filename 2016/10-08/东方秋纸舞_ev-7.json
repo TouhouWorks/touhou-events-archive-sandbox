@@ -1,0 +1,42 @@
+{
+  "id": "东方秋纸舞_ev-7",
+  "start": 1475884800,
+  "end": 1475884800,
+  "title": "第五回 東方秋紙舞",
+  "desc": "第五回 东方秋纸舞 于 大阪府大阪市 大阪市立浪速区民中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A7%8B%E7%BA%B8%E8%88%9E#ev-7",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8bb5ddd01ecb9a24248db1229629c83cde86d5c0c378cbc263df941095d67dc9",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪市立浪速区民中心",
+    "entity": [
+      {
+        "id": "ChIJMUW7bF7nAGAR7Fcz09ye1uU",
+        "addressLine1": "大阪市立日本橋東駐車場",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋３丁目１２",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJm2vmyAvnAGAR8wslfEMrw1I",
+        "addressLine1": "大阪市立浪速区民センター",
+        "addressLine2": "日本、大阪府大阪市浪速区稲荷２丁目４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

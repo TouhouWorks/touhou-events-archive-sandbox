@@ -1,0 +1,30 @@
+{
+  "id": "重庆ComiTime雾都同人祭_ev-8",
+  "start": 1359763200,
+  "end": 1359763200,
+  "title": "ComiTime7",
+  "desc": "ComiTime7 于 重庆市 陈家坪展览中心 举办",
+  "url": "https://thwiki.cc/%E9%87%8D%E5%BA%86ComiTime%E9%9B%BE%E9%83%BD%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "361cf6273bda2a8914e0382c7c6b0bbe2679b28449ce358df3adcd6d550360e8",
+  "location": {
+    "type": "google",
+    "text": "重庆市 陈家坪展览中心",
+    "entity": [
+      {
+        "id": "ChIJ2ybXov7K7DYRnDcY0hAq1cQ",
+        "addressLine1": "陈家坪展览中心",
+        "addressLine2": "中華人民共和国 重庆市 九竜坡区 高新区 Keyuansi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

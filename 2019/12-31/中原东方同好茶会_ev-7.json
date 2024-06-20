@@ -1,0 +1,72 @@
+{
+  "id": "中原东方同好茶会_ev-7",
+  "start": 1577750400,
+  "end": 1577750400,
+  "title": "中原第七届东方同好茶会",
+  "desc": "中原第七届东方同好茶会 于 郑州 观景雅舍 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%8E%9F%E4%B8%9C%E6%96%B9%E5%90%8C%E5%A5%BD%E8%8C%B6%E4%BC%9A#ev-7",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "08916b00d0d07445f8aa5a380aaf9bb4c27c8427a8f67fba4aea88a8937f148b",
+  "location": {
+    "type": "google",
+    "text": "郑州 观景雅舍",
+    "entity": [
+      {
+        "id": "ChIJRVGYpo9d1zUR8oi6PNoB53s",
+        "addressLine1": "景雅房产",
+        "addressLine2": "中華人民共和国 河南省 郑州 金水区 Xiangsheng Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsYzz51On1zURi23jlkb5JbM",
+        "addressLine1": "森林雅舍美容会所",
+        "addressLine2": "中華人民共和国 河南省 郑州 新密市",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJeXwpIv161zURUbT9NhlCt4s",
+        "addressLine1": "雅舍公寓",
+        "addressLine2": "中華人民共和国 河南省 郑州 中原区 65, Dongqing Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJW2ONHjZm1zURki6_hQIVNkI",
+        "addressLine1": "森林雅舍",
+        "addressLine2": "中華人民共和国 河南省 郑州金水区 Zhengbian Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJq6p6UvNl1zUR3zi_9IT960M",
+        "addressLine1": "森林雅舍",
+        "addressLine2": "中華人民共和国 郑州 二七区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

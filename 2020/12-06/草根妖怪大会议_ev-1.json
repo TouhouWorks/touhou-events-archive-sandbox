@@ -1,0 +1,30 @@
+{
+  "id": "草根妖怪大会议_ev-1",
+  "start": 1607212800,
+  "end": 1607212800,
+  "title": "草の根妖怪大会議1",
+  "desc": "草根妖怪大会议1 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E8%8D%89%E6%A0%B9%E5%A6%96%E6%80%AA%E5%A4%A7%E4%BC%9A%E8%AE%AE#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bbea0d5777d40149695811946640dcb590c78f31cddea6f63f5f9be6f6e20cdf",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

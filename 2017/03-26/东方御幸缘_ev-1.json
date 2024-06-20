@@ -1,0 +1,50 @@
+{
+  "id": "东方御幸缘_ev-1",
+  "start": 1490486400,
+  "end": 1490486400,
+  "title": "ぶちすげぇコミックバトル分社",
+  "desc": "厉害的小小Comic Battle分社 于 冈山巨蛋 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BE%A1%E5%B9%B8%E7%BC%98#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6118a6f89f6ff94a7b677b94cca36ed8b5eedf02c740e94cc87396133c78b58",
+  "location": {
+    "type": "google",
+    "text": "冈山巨蛋",
+    "entity": [
+      {
+        "id": "ChIJX1grdIQObjQRzXSLU8psl6Q",
+        "addressLine1": "冈山巨蛋超商",
+        "addressLine2": "台湾 高雄市 岡山区 介壽路",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJgWRQXWwHVDURe9Bf_8jSv2Q",
+        "addressLine1": "岡山巨蛋",
+        "addressLine2": "日本、岡山県岡山市北区北長瀬表町１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "tourist_attraction",
+          "stadium",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

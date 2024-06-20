@@ -1,0 +1,33 @@
+{
+  "id": "东方香樟梦_ev-2",
+  "start": 1556928000,
+  "end": 1556928000,
+  "title": "东方春蒿飨",
+  "desc": "东方春蒿飨 于 南昌市 南昌大学 前湖校区 艺术楼 A-424教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A6%99%E6%A8%9F%E6%A2%A6#ev-2",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71068d7e1fc7a46fa30ced6e6b203fe30ca3701b9cb6952d67604b28827849d9",
+  "location": {
+    "type": "google",
+    "text": "南昌市 南昌大学 前湖校区 艺术楼 A-424教室",
+    "entity": [
+      {
+        "id": "ChIJObLWDdm3OjQRkH56ZTuNSwU",
+        "addressLine1": "南昌大学前湖校区",
+        "addressLine2": "中華人民共和国 江西省 南昌市新建县",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "上海THONLY_ev-2",
+  "start": 1261267200,
+  "end": 1261267200,
+  "title": "第二届上海THONLY 東方天上花～愛と信仰の千年竹取幻想～",
+  "desc": "第二届上海THONLY 东方天上花～爱和信仰的千年竹取幻想～ 于 上海市 西岸创意园 2号楼 1层 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7THONLY#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "65c4f5432a102fc6e703f99bc0b2499e3c2653187939aca13b88b5048607296e",
+  "location": {
+    "type": "google",
+    "text": "上海市 西岸创意园 2号楼 1层",
+    "entity": [
+      {
+        "id": "ChIJ9-7AjSFlsjUR4WWp7Xsuqrw",
+        "addressLine1": "西岸创意园",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 Xuhong Road (M)",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

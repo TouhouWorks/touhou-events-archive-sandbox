@@ -1,0 +1,34 @@
+{
+  "id": "东方红白歌合战_ev-1",
+  "start": 1293235200,
+  "end": 1293235200,
+  "title": "第一回東方紅白歌合戦",
+  "desc": "第一回东方红白歌合战 于 爱知县名古屋市 JOYSOUND金山 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%98#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1607fd98e69062a79037b49052fe7eac60c36825b59c234a90e9cc641db7e17e",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 JOYSOUND金山",
+    "entity": [
+      {
+        "id": "ChIJdVXWA1N3A2ARG75peVt5IfY",
+        "addressLine1": "JOYSOUND 金山店",
+        "addressLine2": "日本、愛知県名古屋市熱田区金山町１丁目５−５",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

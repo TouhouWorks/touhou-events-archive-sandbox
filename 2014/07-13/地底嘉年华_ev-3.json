@@ -1,0 +1,30 @@
+{
+  "id": "地底嘉年华_ev-3",
+  "start": 1405209600,
+  "end": 1405209600,
+  "title": "アンダーグラウンドカーニバル3",
+  "desc": "地底嘉年华3 于 名古屋国际会议场 4号馆 白鸟馆 举办",
+  "url": "https://thwiki.cc/%E5%9C%B0%E5%BA%95%E5%98%89%E5%B9%B4%E5%8D%8E#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "42f9fa5bfdd7abbf46c711705c04a69a958c1e7314e99f74957a7995076ed707",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际会议场 4号馆 白鸟馆",
+    "entity": [
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "名古屋国际会议场",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

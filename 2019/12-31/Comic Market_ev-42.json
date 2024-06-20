@@ -1,0 +1,19 @@
+{
+  "id": "Comic Market_ev-42",
+  "start": 1577750400,
+  "end": 1577750400,
+  "title": "Comic Market 97",
+  "desc": "Comic Market 97 于 东京都 东京国际展示场 南1-4 西1-4展厅（其中东方区为南3、4展厅） 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-42",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b928966ea277e2a629a8ccf9e3302c582324e37bfc9afc6658e1b40056497454",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 南1-4 西1-4展厅（其中东方区为南3、4展厅）",
+    "entity": []
+  },
+  "platform": 1
+}

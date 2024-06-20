@@ -1,0 +1,32 @@
+{
+  "id": "Anime North_ev-16",
+  "start": 1337904000,
+  "end": 1337904000,
+  "title": "Anime North 2012",
+  "desc": "Anime North 2012 于 加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Sheraton Toronto Airport, Marriott Toronto Airport, Crowne Plaza Hotel, Radisson Suites Hotel 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8b78bed70c85b31c12a6490fee55ffeef72c11c1e6d7dd00fd0c0f706d7ff404",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Sheraton Toronto Airport, Marriott Toronto Airport, Crowne Plaza Hotel, Radisson Suites Hotel",
+    "entity": [
+      {
+        "id": "ChIJ__8_riQ1K4gRKktBbiL-pXs",
+        "addressLine1": "シェラトン ゲートウェイ ホテル トロント インターナショナル エアポート",
+        "addressLine2": "カナダ オンタリオ トロント",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

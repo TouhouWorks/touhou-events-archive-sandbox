@@ -1,0 +1,84 @@
+{
+  "id": "东方异能物怪录_ev-11",
+  "start": 1482019200,
+  "end": 1482019200,
+  "title": "東方異能物怪録卷之拾壱",
+  "desc": "东方异能物怪录卷之拾壱 于 fai青山 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E8%83%BD%E7%89%A9%E6%80%AA%E5%BD%95#ev-11",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "559910a0f8df71b2b3f33832696bfac8aa017e9d93469bf13cde90644f674a82",
+  "location": {
+    "type": "google",
+    "text": "fai青山",
+    "entity": [
+      {
+        "id": "ChIJcUnZ51-LGGARZPUQ7NGgSF4",
+        "addressLine1": "FAI AOYAMA",
+        "addressLine2": "日本、東京都港区南青山５丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJNU1twE0HBDQRaiE-xQ4TMXo",
+        "addressLine1": "Ng Yuk Fai Doctors",
+        "addressLine2": "青山道 Cheung Sha Wan, 香港",
+        "provider": "google_places",
+        "categories": [
+          "doctor",
+          "PHYSICIAN",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJM6ODevL4AzQR45JEbGFDDic",
+        "addressLine1": "Law Pak Fai Doctors",
+        "addressLine2": "青山公路 - 荃灣段 荃湾 香港",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJZRBS1aHwAzQRgEJ80mF-DQ0",
+        "addressLine1": "Dr. Lau Ming Fai",
+        "addressLine2": "青山公路－元朗段 元朗 香港",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJLcpli6kHBDQRRBx7tWpKjzY",
+        "addressLine1": "Chong Fai Jewellery & Gold Company Limited",
+        "addressLine2": "青山道 深水ホ 香港",
+        "provider": "google_places",
+        "categories": [
+          "jewelry_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "JEWELRY"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

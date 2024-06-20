@@ -1,0 +1,30 @@
+{
+  "id": "东方皆系祭_ev-1",
+  "start": 1479600000,
+  "end": 1479600000,
+  "title": "東方皆繋祭1",
+  "desc": "东方皆系祭1 于 札幌市 XENON 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%9A%86%E7%B3%BB%E7%A5%AD#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "33325ffc2437ebd0c773cfe13021e1072bab3d4b43e3711cedb0417596ac6c1f",
+  "location": {
+    "type": "google",
+    "text": "札幌市 XENON",
+    "entity": [
+      {
+        "id": "ChIJ__9LJIYpC18RG97WSmR17ms",
+        "addressLine1": "XENON",
+        "addressLine2": "日本、北海道札幌市中央区南７条西４丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "出行LIVE_ev-8",
+  "start": 1297555200,
+  "end": 1297555200,
+  "title": "おでかけライブ宇都宫146",
+  "desc": "出行LIVE 宇都宫146 于 栃木县宇都宫市 宇都宫产业展示馆 举办",
+  "url": "https://thwiki.cc/%E5%87%BA%E8%A1%8CLIVE#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "97c9a68e524985603963bf8016d6cfa8529431938ec7fd9140e402be6e75d73c",
+  "location": {
+    "type": "google",
+    "text": "栃木县宇都宫市 宇都宫产业展示馆",
+    "entity": [
+      {
+        "id": "ChIJj__zGWlnH2ARBA7ouCLMoSY",
+        "addressLine1": "栃木県宇都宮産業展示館 （マロニエプラザ）",
+        "addressLine2": "日本、栃木県宇都宮市元今泉６丁目１−３７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

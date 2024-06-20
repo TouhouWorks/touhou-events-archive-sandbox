@@ -1,0 +1,82 @@
+{
+  "id": "幻魔神任务_ev-4",
+  "start": 1492300800,
+  "end": 1492300800,
+  "title": "GEMMASHIN M@STER Live for You",
+  "desc": "GEMMASHIN M@STER Live for You 于 大阪Dome Sky Hall 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E9%AD%94%E7%A5%9E%E4%BB%BB%E5%8A%A1#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4422008cb6023dcd6b4b346f94c716813f723885bbd4a722cd36b6e326018270",
+  "location": {
+    "type": "google",
+    "text": "大阪Dome Sky Hall",
+    "entity": [
+      {
+        "id": "ChIJS2iHS7LnAGAR8YQUFvl1X1M",
+        "addressLine1": "Kyocera Dome Osaka",
+        "addressLine2": "３丁目-中２-中２−１ 千代崎 西区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_QPmymDvAGARvoHV-MaEHfo",
+        "addressLine1": "Tsukuda Hall",
+        "addressLine2": "２丁目-１０-２ 佃 西淀川区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJgRO3ZH3oAGARVh-BK5ztO_w",
+        "addressLine1": "Kosei Hall",
+        "addressLine2": "１丁目-１０ 港晴 港区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJocWDdrLnAGARIMuS1P6tOuM",
+        "addressLine1": "Contevole Osaka Dome City",
+        "addressLine2": "３丁目-１３-１ 千代崎 西区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "bakery",
+          "BAKERY",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJlVBsdbLnAGARAz2U6cdNu-k",
+        "addressLine1": "GYUKATSU KYOTO KATSUGYU Aeon Mall Osaka Dome City Store",
+        "addressLine2": "３丁目-１３-１ 千代崎 西区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

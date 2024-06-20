@@ -1,0 +1,20 @@
+{
+  "id": "森罗万象之宴_ev-11",
+  "start": 1379289600,
+  "end": 1379289600,
+  "title": "森羅万象ノ宴 SP1",
+  "desc": "森罗万象之宴 SP1 于 东京都立产业贸易中心滨松町馆，秋叶原Cafe&Bar SIXTEEN（LIVE） 举办",
+  "url": "https://thwiki.cc/%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-11",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e93098c94e1b1bb8d30cae509190fe3293143b3fbb268857178e0b6febfad7c6",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心滨松町馆，秋叶原Cafe&Bar SIXTEEN（LIVE）",
+    "entity": []
+  },
+  "platform": 1
+}

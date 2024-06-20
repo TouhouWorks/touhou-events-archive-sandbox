@@ -1,0 +1,36 @@
+{
+  "id": "东方Project×百货商场活动_ev-5",
+  "start": 1527206400,
+  "end": 1527206400,
+  "title": "博丽神社～春之祭2018 in 台北",
+  "desc": "博丽神社～春之祭2018 in 台北 于 台北市三创生活园区1F 十二立方 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-5",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "91e445cc4c0c4a432a8cec04e76f4b8d974f4c69d9c730d940c862e6dae2831e",
+  "location": {
+    "type": "google",
+    "text": "台北市三创生活园区1F 十二立方",
+    "entity": [
+      {
+        "id": "ChIJc1otWHupQjQRYn2ASKtWHps",
+        "addressLine1": "三创生活园区",
+        "addressLine2": "台湾 台北市 中正区 Section 3, Civic Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "shopping_mall",
+          "electronics_store",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "SHOPPING_CENTER_AND_MALL",
+          "ELECTRONICS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

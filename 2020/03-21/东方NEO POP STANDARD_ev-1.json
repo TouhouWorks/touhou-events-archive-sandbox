@@ -1,0 +1,30 @@
+{
+  "id": "东方NEO POP STANDARD_ev-1",
+  "start": 1584748800,
+  "end": 1584748800,
+  "title": "東方NEO POP STANDARD1",
+  "desc": "东方NEO POP STANDARD1 于 静冈市 葵区 LIVE ROXY SHIZUOKA 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9NEO_POP_STANDARD#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5fa205f1dc3a4fa522ce8780201f2244deaa108c6367425dd05477ffe3cdaaee",
+  "location": {
+    "type": "google",
+    "text": "静冈市 葵区 LIVE ROXY SHIZUOKA",
+    "entity": [
+      {
+        "id": "ChIJ42o40_ZJGmARaR6BuH4uTk8",
+        "addressLine1": "LIVE ROXY SHIZUOKA",
+        "addressLine2": "日本、静岡県静岡市葵区黒金町２８−１−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

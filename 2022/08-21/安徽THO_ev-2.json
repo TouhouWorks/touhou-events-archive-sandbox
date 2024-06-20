@@ -1,0 +1,54 @@
+{
+  "id": "安徽THO_ev-2",
+  "start": 1661040000,
+  "end": 1661040000,
+  "title": "安徽THO-东方闻樱梦",
+  "desc": "安徽THO-东方闻樱梦 于 合肥市 蓝金湾大酒店 举办",
+  "url": "https://thwiki.cc/%E5%AE%89%E5%BE%BDTHO#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8097b5f3c11c8cb821b18531faa4f6342fb6329a09a56c3e0e2d221f226adf89",
+  "location": {
+    "type": "google",
+    "text": "合肥市 蓝金湾大酒店",
+    "entity": [
+      {
+        "id": "ChIJN3eeaftkyzURBMI0o571pQ4",
+        "addressLine1": "蓝金湾大酒店",
+        "addressLine2": "中華人民共和国 安徽省 合肥市 瑶海区 Xinbengbu Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJZYIRb_tkyzURqc4XqUm2kxA",
+        "addressLine1": "蓝金湾大酒店",
+        "addressLine2": "中華人民共和国 安徽省 合肥市 瑶海区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJiza4aPtkyzUR6--liN1qzGM",
+        "addressLine1": "蓝金湾大酒店停车场",
+        "addressLine2": "中華人民共和国 安徽省 合肥市 瑶海区 Xinbengbu Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

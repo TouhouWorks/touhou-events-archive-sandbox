@@ -1,0 +1,30 @@
+{
+  "id": "东方LIVEBOX_ev-29",
+  "start": 1487894400,
+  "end": 1487894400,
+  "title": "東方LIVEBOX NEXT 27",
+  "desc": "东方LIVEBOX NEXT 27 于 东京都 秋叶原Twin Box GARAGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LIVEBOX#ev-29",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f32f60c4eb2d7ea59196db8070935a3e60f2bc6d2ebfe96ce0aeb9591993d3f5",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原Twin Box GARAGE",
+    "entity": [
+      {
+        "id": "ChIJGVBuNByMGGARYbcPws7NzDc",
+        "addressLine1": "TwinBox AKIHABARA/GARAGE",
+        "addressLine2": "日本、東京都千代田区外神田３丁目２−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

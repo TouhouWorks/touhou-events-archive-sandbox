@@ -1,0 +1,30 @@
+{
+  "id": "T.M.R_ev-18",
+  "start": 1338595200,
+  "end": 1338595200,
+  "title": "T.M.R vol.18",
+  "desc": "T.M.R vol.18 于 爱知县名古屋市 SONIC REST CYCLE音 举办",
+  "url": "https://thwiki.cc/T.M.R#ev-18",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6962eb5a79d020a816cecd6a59a28abe14e11b60b0a41e6b3867f195988805d7",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 SONIC REST CYCLE音",
+    "entity": [
+      {
+        "id": "ChIJm1y8P8VwA2ARtG6KkJtFSfI",
+        "addressLine1": "SONIC REST CYCLE音",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目８−１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

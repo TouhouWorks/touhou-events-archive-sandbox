@@ -1,0 +1,30 @@
+{
+  "id": "MAD HOUSE_ev-1",
+  "start": 1377302400,
+  "end": 1377302400,
+  "title": "MAD HOUSE 1",
+  "desc": "MAD HOUSE 1 于 东京都 目黑鹿鸣馆 举办",
+  "url": "https://thwiki.cc/MAD_HOUSE#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "841bbbf80434ea1bd7cdb3e97d0d3db920072eb2c7efd52c3468a8b90af619d8",
+  "location": {
+    "type": "google",
+    "text": "东京都 目黑鹿鸣馆",
+    "entity": [
+      {
+        "id": "ChIJW6sxYBiLGGARof75kIIagfY",
+        "addressLine1": "目黑鹿鳴館",
+        "addressLine2": "日本、東京都目黒区目黒１丁目５−５−１７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

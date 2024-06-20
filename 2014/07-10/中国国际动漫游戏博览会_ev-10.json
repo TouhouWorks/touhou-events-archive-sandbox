@@ -1,0 +1,78 @@
+{
+  "id": "中国国际动漫游戏博览会_ev-10",
+  "start": 1404950400,
+  "end": 1404950400,
+  "title": "第十届中国国际动漫游戏博览会",
+  "desc": "第十届中国国际动漫游戏博览会 于 上海市 上海世博展览馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5aa0fd6517a4bfb17ad9d5e98738030ccb29c42a35c7c93246cfca5f34800ae4",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海世博展览馆",
+    "entity": [
+      {
+        "id": "ChIJXRi66vV6sjURCOZFp8-m2DI",
+        "addressLine1": "上海世博展览馆",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Guozhan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJx1bDQmh6sjURuL4-PtiIsEQ",
+        "addressLine1": "上海世博展览馆万信酒店",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 高科西路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJo1AslfV6sjURrPU2bGL_mqU",
+        "addressLine1": "上海世博展览馆下沉广场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Guozhan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ3ezUrPV6sjURawaaSvts15o",
+        "addressLine1": "上海世博展览馆购物中心美食广场UFO",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 The Expo Hall Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJESvzivp6sjURsUg2os2yAQY",
+        "addressLine1": "上海世博展览馆停车场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 The Expo Hall Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

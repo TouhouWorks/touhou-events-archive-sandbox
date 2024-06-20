@@ -1,0 +1,30 @@
+{
+  "id": "东方月下祭_ev-1",
+  "start": 1558224000,
+  "end": 1558224000,
+  "title": "東方月下祭1",
+  "desc": "东方月下祭1 于 东京都 新宿club SCIENCE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%88%E4%B8%8B%E7%A5%AD#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "022af3bccec8525f5b1ab8e01ba0c1fb3c7aecab801f2911c00a5de7ce08180d",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿club SCIENCE",
+    "entity": [
+      {
+        "id": "ChIJu_xTq2qNGGAR2NlcQ7sDMh4",
+        "addressLine1": "新宿 club SCIENCE",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目２５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

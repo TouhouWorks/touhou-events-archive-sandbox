@@ -1,0 +1,19 @@
+{
+  "id": "东方乐祭_ev-19",
+  "start": 1458518400,
+  "end": 1458518400,
+  "title": "東方樂祭 in 東方いよしこく祭3",
+  "desc": "东方乐祭 in 东方伊予四国祭3 于 松山市 松山市综合社区中心 企划展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-19",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "459039ac32d5558bc3c613077edbc6d692b47b25c44bc4a55c89687d9d53f6f0",
+  "location": {
+    "type": "google",
+    "text": "松山市 松山市综合社区中心 企划展示厅",
+    "entity": []
+  },
+  "platform": 1
+}

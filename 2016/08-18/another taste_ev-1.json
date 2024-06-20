@@ -1,0 +1,30 @@
+{
+  "id": "another taste_ev-1",
+  "start": 1471478400,
+  "end": 1471478400,
+  "title": "another taste vol.1",
+  "desc": "another taste vol.1 于 东京都 HOLIDAY SHINJUKU 举办",
+  "url": "https://thwiki.cc/another_taste#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f8031d5a33a681df2060fc4224ab6d1e2afdd8c615aa47c0e60b3e48f05aea45",
+  "location": {
+    "type": "google",
+    "text": "东京都 HOLIDAY SHINJUKU",
+    "entity": [
+      {
+        "id": "ChIJq6bNd6qNGGARMg1LrGCIn1w",
+        "addressLine1": "HOLIDAY SHINJUKU",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目２４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

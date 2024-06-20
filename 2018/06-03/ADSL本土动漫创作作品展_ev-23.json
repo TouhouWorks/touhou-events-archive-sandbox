@@ -1,0 +1,40 @@
+{
+  "id": "ADSL本土动漫创作作品展_ev-23",
+  "start": 1527984000,
+  "end": 1527984000,
+  "title": "A.D.S.L本土动漫创作作品展18",
+  "desc": "A.D.S.L本土动漫创作作品展18 于 广州市 番禺区 广州岭南国际电子商务产业园 举办",
+  "url": "https://thwiki.cc/ADSL%E6%9C%AC%E5%9C%9F%E5%8A%A8%E6%BC%AB%E5%88%9B%E4%BD%9C%E4%BD%9C%E5%93%81%E5%B1%95#ev-23",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "60fe1904803a066af7384fb609456dd0d2ee71a161b4cfb979b0a7858b63c753",
+  "location": {
+    "type": "google",
+    "text": "广州市 番禺区 广州岭南国际电子商务产业园",
+    "entity": [
+      {
+        "id": "ChIJfUNgNElUAjQRUFzv6L4JuDY",
+        "addressLine1": "岭南国际电子商务产业园",
+        "addressLine2": "中華人民共和国 広東省 広州市 番禺区 四街",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJhcpmuU5UAjQRvRDaxLEvGkk",
+        "addressLine1": "岭南国际电子商务产业园综合楼",
+        "addressLine2": "中華人民共和国 広東省 广州市番禺区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

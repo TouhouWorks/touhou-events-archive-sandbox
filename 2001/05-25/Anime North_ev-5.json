@@ -1,0 +1,44 @@
+{
+  "id": "Anime North_ev-5",
+  "start": 990748800,
+  "end": 990748800,
+  "title": "Anime North 2001",
+  "desc": "Anime North 2001 于 加拿大安大略省多伦多 Toronto Airport Marriott 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7fee1f38edabf9999f069ecdad90d1ef0ca8fdeaeb51bb105a7f1cd7d76b7c8e",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Airport Marriott",
+    "entity": [
+      {
+        "id": "ChIJOZ5kvZo5K4gReBnfJNE25OY",
+        "addressLine1": "Toronto Airport Marriott Hotel",
+        "addressLine2": "Dixon Road, エトビコ オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJlVJxkpo5K4gRezZQhQIVXvk",
+        "addressLine1": "Courtyard Toronto Airport",
+        "addressLine2": "Carlingview Drive, エトビコ トロント Toronto, オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

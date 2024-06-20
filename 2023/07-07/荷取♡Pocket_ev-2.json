@@ -1,0 +1,91 @@
+{
+  "id": "荷取♡Pocket_ev-2",
+  "start": 1688688000,
+  "end": 1688688000,
+  "title": "にとり♡ポケット2",
+  "desc": "荷取♡Pocket 2 于 线上 举办",
+  "url": "https://thwiki.cc/%E8%8D%B7%E5%8F%96%E2%99%A1Pocket#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "90c56a1bbef35318ebc9f8b56af5440eae637a50c127405e37aee9b181d3f77e",
+  "location": {
+    "type": "google",
+    "text": "线上",
+    "entity": [
+      {
+        "id": "ChIJ-XoBHMdwLTQR1PKQyC8pYVQ",
+        "addressLine1": "麻城市 线上塆",
+        "addressLine2": "中華人民共和国 湖北省 黄岡市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZcZiatgfaDQR9yXYfo26Ql0",
+        "addressLine1": "线上无限网路休闲馆－南崁店",
+        "addressLine2": "台湾 桃園 Luzhu District, 忠孝東路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_ya-3OeBImARz0WwouuWkAc",
+        "addressLine1": "スターバックスコーヒー 湾岸幕張パーキングエリア（上り線）店",
+        "addressLine2": "日本、千葉県千葉市美浜区浜田２丁目１０２",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ87syZbJbH2AR8S3_myjNYK8",
+        "addressLine1": "吉野家 新４号線上三川店",
+        "addressLine2": "日本、栃木県上三川町しらさぎ１丁目６−８",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJJwfwCiv5GGAR9ykHKB5L5yE",
+        "addressLine1": "吉野家 16号線上鶴間店",
+        "addressLine2": "日本、神奈川県相模原市南区上鶴間本町９丁目２−４０",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

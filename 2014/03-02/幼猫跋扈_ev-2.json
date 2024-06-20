@@ -1,0 +1,30 @@
+{
+  "id": "幼猫跋扈_ev-2",
+  "start": 1393718400,
+  "end": 1393718400,
+  "title": "幼猫跋扈2",
+  "desc": "幼猫跋扈2 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BC%E7%8C%AB%E8%B7%8B%E6%89%88#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "719bff6ad3f496213340a77cc8748c3b7b51528d1e70eb44ab8351f594d61f76",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

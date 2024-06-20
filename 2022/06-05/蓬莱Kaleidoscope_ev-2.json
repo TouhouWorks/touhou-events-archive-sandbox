@@ -1,0 +1,30 @@
+{
+  "id": "蓬莱Kaleidoscope_ev-2",
+  "start": 1654387200,
+  "end": 1654387200,
+  "title": "蓬莱カレイドスコオプ2",
+  "desc": "蓬莱Kaleidoscope2 于 名古屋市国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E8%93%AC%E8%8E%B1Kaleidoscope#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c4511e2e2448ad55a67ec952ccff3d012bd581c65fd18042939abb1e2d8d5660",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

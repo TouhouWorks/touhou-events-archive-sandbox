@@ -1,0 +1,19 @@
+{
+  "id": "东方圣虎宴_ev-2",
+  "start": 1542931200,
+  "end": 1542931200,
+  "title": "東方聖虎宴 vol.2",
+  "desc": "东方圣虎宴 vol.2 于 东京新宿御苑前PAPERA餐厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%9C%A3%E8%99%8E%E5%AE%B4#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bfcfeacc2699343de2b1338ee606acf5e476e27890a05952ae3df16812232e3c",
+  "location": {
+    "type": "google",
+    "text": "东京新宿御苑前PAPERA餐厅",
+    "entity": []
+  },
+  "platform": 1
+}

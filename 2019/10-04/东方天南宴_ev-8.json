@@ -1,0 +1,32 @@
+{
+  "id": "东方天南宴_ev-8",
+  "start": 1570147200,
+  "end": 1570147200,
+  "title": "东方天南宴8",
+  "desc": "东方天南宴8 于 天津咸水沽拾光轰趴馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-8",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "87682d4991e37c8ea820b6334bb866ae5ad819d2fb30ae3d4715d8d5bbc4d64a",
+  "location": {
+    "type": "google",
+    "text": "天津咸水沽拾光轰趴馆",
+    "entity": [
+      {
+        "id": "ChIJKUm5vQ_v7TUREkzBqn37EzA",
+        "addressLine1": "津南区 咸水沽镇",
+        "addressLine2": "中華人民共和国 天津",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

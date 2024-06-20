@@ -1,0 +1,19 @@
+{
+  "id": "不动的大图书馆_ev-11",
+  "start": 1350777600,
+  "end": 1350777600,
+  "title": "第十回 動かない大図書館",
+  "desc": "第十回 不动的大图书馆 于 大阪市 桃谷ゆとり空間 举办",
+  "url": "https://thwiki.cc/%E4%B8%8D%E5%8A%A8%E7%9A%84%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86#ev-11",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "95fbf5038c2cf74731869d15e9450c064e1fa541e376bb5c8d650b680f63b258",
+  "location": {
+    "type": "google",
+    "text": "大阪市 桃谷ゆとり空間",
+    "entity": []
+  },
+  "platform": 1
+}

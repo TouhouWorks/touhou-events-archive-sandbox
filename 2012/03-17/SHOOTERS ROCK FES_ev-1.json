@@ -1,0 +1,30 @@
+{
+  "id": "SHOOTERS ROCK FES_ev-1",
+  "start": 1331942400,
+  "end": 1331942400,
+  "title": "SHOOTERS ROCK FES in 大阪 TH HALL",
+  "desc": "SHOOTERS ROCK FES in 大阪 TH HALL 于 大阪府吹田市 大阪TH HALL 举办",
+  "url": "https://thwiki.cc/SHOOTERS_ROCK_FES#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7b58277af3d185bee81694e08b06ad38bc7f80095cf7a9309a13c9dd42b89322",
+  "location": {
+    "type": "google",
+    "text": "大阪府吹田市 大阪TH HALL",
+    "entity": [
+      {
+        "id": "ChIJZxclHgvlAGAROzL-a7raIUo",
+        "addressLine1": "TH-R HALL",
+        "addressLine2": "日本、大阪府吹田市千里山東１丁目６−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

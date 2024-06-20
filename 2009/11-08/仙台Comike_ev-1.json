@@ -1,0 +1,30 @@
+{
+  "id": "仙台Comike_ev-1",
+  "start": 1257638400,
+  "end": 1257638400,
+  "title": "仙台コミケ178",
+  "desc": "仙台Comike178 于 宫城县产业交流中心 (夢メッセみやぎ) 举办",
+  "url": "https://thwiki.cc/%E4%BB%99%E5%8F%B0Comike#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1c09c5ffad73cc7048843d8f2d09052b1142eaf048ab270ff4c796f574be2ae6",
+  "location": {
+    "type": "google",
+    "text": "宫城县产业交流中心 (夢メッセみやぎ)",
+    "entity": [
+      {
+        "id": "ChIJTWqSuLqIiV8RxxbCk5-PQdA",
+        "addressLine1": "夢メッセみやぎ",
+        "addressLine2": "日本、宮城県仙台市宮城野区港３丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

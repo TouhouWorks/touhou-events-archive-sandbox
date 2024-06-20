@@ -1,0 +1,58 @@
+{
+  "id": "Shanghai Rendezvous_ev-1",
+  "start": 1293235200,
+  "end": 1293235200,
+  "title": "シャンハイランデブーVol.1",
+  "desc": "Shanghai Rendezvous Vol.1 于 东京都 田町Quarter Note 举办",
+  "url": "https://thwiki.cc/Shanghai_Rendezvous#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "599938ebf0bb46f74ec9c55c3e8df613a6530b970e089703e213052497befed1",
+  "location": {
+    "type": "google",
+    "text": "东京都 田町Quarter Note",
+    "entity": [
+      {
+        "id": "ChIJL7obYnAeGWARCB1rL4QZjoE",
+        "addressLine1": "田町",
+        "addressLine2": "日本、東京都八王子市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJBRvQpLSLGGAR7YlF4n7uHqE",
+        "addressLine1": "相鉄フレッサイン 東京田町",
+        "addressLine2": "日本、東京都港区芝浦３丁目１４−２１",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJW7_cCLSLGGARVMFH0PVMOz0",
+        "addressLine1": "田町駅",
+        "addressLine2": "日本、東京都港区芝５丁目３３",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

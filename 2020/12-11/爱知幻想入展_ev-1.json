@@ -1,0 +1,32 @@
+{
+  "id": "爱知幻想入展_ev-1",
+  "start": 1607644800,
+  "end": 1607644800,
+  "title": "あいち幻想入り展",
+  "desc": "爱知幻想入展 于 名古屋市 市民Gallery矢田 第4展示室 举办",
+  "url": "https://thwiki.cc/%E7%88%B1%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95#ev-1",
+  "type": [
+    "创作"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a9d15bf11dc265dcef6758e15fd10c32d77b76db91b4dfe145cfe3233f6be8f6",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 市民Gallery矢田 第4展示室",
+    "entity": [
+      {
+        "id": "ChIJG0-5kqlxA2ARWNn1rgJqYmA",
+        "addressLine1": "矢田",
+        "addressLine2": "日本、愛知県名古屋市東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "绕行Border of Live_ev-1",
+  "start": 1353715200,
+  "end": 1353715200,
+  "title": "巡るボーダーオブリヴ1",
+  "desc": "绕行Border of Live 1 于 东京都 四谷天窗.comfort 举办",
+  "url": "https://thwiki.cc/%E7%BB%95%E8%A1%8CBorder_of_Live#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "52dc8889bdbf65d41cca7785bdf5425ca2a6b5e0bd2ede10f6f19ffa86b9693e",
+  "location": {
+    "type": "google",
+    "text": "东京都 四谷天窗.comfort",
+    "entity": []
+  },
+  "platform": 1
+}

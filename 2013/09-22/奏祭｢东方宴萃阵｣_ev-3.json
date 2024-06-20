@@ -1,0 +1,57 @@
+{
+  "id": "奏祭｢东方宴萃阵｣_ev-3",
+  "start": 1379808000,
+  "end": 1379808000,
+  "title": "奏祭「東方宴萃陣」 第三陣",
+  "desc": "奏祭｢东方宴萃阵｣ 第三阵 于 爱知县名古屋市 club EDITS 举办",
+  "url": "https://thwiki.cc/%E5%A5%8F%E7%A5%AD%EF%BD%A2%E4%B8%9C%E6%96%B9%E5%AE%B4%E8%90%83%E9%98%B5%EF%BD%A3#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2b8f8b0b16e579590b5d62e1e45a19349606e47f74840b20056a0b92e8ddbc5b",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 club EDITS",
+    "entity": [
+      {
+        "id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
+        "addressLine1": "名古屋市",
+        "addressLine2": "日本、愛知県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJO9BXow96A2ARfYheCZ3ya1c",
+        "addressLine1": "名古屋市体育館",
+        "addressLine2": "日本、愛知県名古屋市熱田区六野２丁目５−３",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJD5FhuNBwA2ARhC5UKiCL4Qg",
+        "addressLine1": "爱知县美术馆",
+        "addressLine2": "日本、愛知県名古屋市東区東桜１丁目１３−２",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方喜喜大_ev-2",
+  "start": 1599868800,
+  "end": 1599868800,
+  "title": "東方喜々大vol.1",
+  "desc": "东方喜喜大vol.1 于 广岛市中区药研堀 三和大楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%96%9C%E5%96%9C%E5%A4%A7#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2064ee8fa7f05e2b365be699ce9b55cdf12aa18149283a9c6dc21dd93f2f873a",
+  "location": {
+    "type": "google",
+    "text": "广岛市中区药研堀 三和大楼",
+    "entity": []
+  },
+  "platform": 1
+}

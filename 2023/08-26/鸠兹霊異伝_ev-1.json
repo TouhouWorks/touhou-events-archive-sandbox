@@ -1,0 +1,33 @@
+{
+  "id": "鸠兹霊異伝_ev-1",
+  "start": 1693008000,
+  "end": 1693008000,
+  "title": "芜湖THP06Error-鸠兹霊異伝",
+  "desc": "芜湖THP06Error-鸠兹霊異伝 于 安徽省芜湖市 芜湖市神山公园 举办",
+  "url": "https://thwiki.cc/%E9%B8%A0%E5%85%B9%E9%9C%8A%E7%95%B0%E4%BC%9D#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "319419fd26e5da1e81e749799e4550e8c6fdaae9f3eb0bf2fa37aed8e7961de3",
+  "location": {
+    "type": "google",
+    "text": "安徽省芜湖市 芜湖市神山公园",
+    "entity": [
+      {
+        "id": "ChIJY9QadRe6yjURAykXWKDJCug",
+        "addressLine1": "神山公园",
+        "addressLine2": "中華人民共和国 蕪湖市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

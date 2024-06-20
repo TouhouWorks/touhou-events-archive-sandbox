@@ -1,0 +1,30 @@
+{
+  "id": "GENSOU DANCE FESTIVAL_ev-4",
+  "start": 1639180800,
+  "end": 1639180800,
+  "title": "GENSOU DANCE FESTIVAL Vol.4",
+  "desc": "GENSOU DANCE FESTIVAL Vol.4 于 东京 GOTANDA G+ 举办",
+  "url": "https://thwiki.cc/GENSOU_DANCE_FESTIVAL#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fcc7bcdd90be6cd1255e8d531f3bfbb9df2602dc4aa45acf693f9be719b3b2d7",
+  "location": {
+    "type": "google",
+    "text": "东京 GOTANDA G+",
+    "entity": [
+      {
+        "id": "ChIJrT1vVx6LGGARn0Ripqhla6I",
+        "addressLine1": "GOTANDA G2 G+",
+        "addressLine2": "日本、東京都品川区西五反田２丁目５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

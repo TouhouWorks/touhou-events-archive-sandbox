@@ -1,0 +1,19 @@
+{
+  "id": "温泉旅游幻想乡_ev-3",
+  "start": 1706918400,
+  "end": 1706918400,
+  "title": "湯巡り幻想郷 in冈山！",
+  "desc": "温泉旅游幻想乡 in冈山！ 于 冈山县 汤原国际观光酒店 举办",
+  "url": "https://thwiki.cc/%E6%B8%A9%E6%B3%89%E6%97%85%E6%B8%B8%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0fba96e3395249859adf08190983ac172a118deb830ef3356d232821bc68db42",
+  "location": {
+    "type": "google",
+    "text": "冈山县 汤原国际观光酒店",
+    "entity": []
+  },
+  "platform": 1
+}

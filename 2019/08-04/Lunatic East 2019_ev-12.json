@@ -1,0 +1,82 @@
+{
+  "id": "Lunatic East 2019_ev-12",
+  "start": 1564876800,
+  "end": 1564876800,
+  "title": "Lunatic East 2019 12",
+  "desc": "Lunatic East 2019 12 于 大阪市 心斋桥SOMA 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-12",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e18cc0d744a1d3cf9ee238a3c70d2ebec7bc7bfb14dda7c14f79d11b63997e76",
+  "location": {
+    "type": "google",
+    "text": "大阪市 心斋桥SOMA",
+    "entity": [
+      {
+        "id": "ChIJcxIbNhHnAGARl8cKu_vPFMA",
+        "addressLine1": "心斎橋筋",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJHZ9qxhDnAGARS3udWVQdvD0",
+        "addressLine1": "心斋桥PARCO",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋１丁目８−３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJEeUCdRrnAGARFkXthBm7LvU",
+        "addressLine1": "心斋桥",
+        "addressLine2": "日本、大阪府大阪市中央区南船場３丁目１２",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJc7M3_BPnAGARI8OZlTnEXGI",
+        "addressLine1": "心斋桥筋商店街",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋２丁目２−２２",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_aLxqxDnAGARSB1qIUKUSYU",
+        "addressLine1": "心齋橋",
+        "addressLine2": "日本、大阪府大阪市中央区南船場３丁目５",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

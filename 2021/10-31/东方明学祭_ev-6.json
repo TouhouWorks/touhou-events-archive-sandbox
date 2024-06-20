@@ -1,0 +1,35 @@
+{
+  "id": "东方明学祭_ev-6",
+  "start": 1635638400,
+  "end": 1635638400,
+  "title": "東方明學祭6",
+  "desc": "东方明学祭6 于 东京都 明治大学和泉校区 第二校舍 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%8E%E5%AD%A6%E7%A5%AD#ev-6",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e96a9266abcaf8f25a0dde6c61e08d730cf9e23b17335b1fc48e815baeb23e8a",
+  "location": {
+    "type": "google",
+    "text": "东京都 明治大学和泉校区 第二校舍",
+    "entity": [
+      {
+        "id": "ChIJZ-HxKKrzGGARHGE5XXaFBTk",
+        "addressLine1": "明治大学 和泉キャンパス",
+        "addressLine2": "日本、東京都杉並区永福１丁目９−１ 第一校舎",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "COLLEGE_AND_UNIVERSITY",
+          "school",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

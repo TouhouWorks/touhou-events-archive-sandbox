@@ -1,0 +1,78 @@
+{
+  "id": "博丽神社歌谣祭_ev-1",
+  "start": 1467504000,
+  "end": 1467504000,
+  "title": "博麗神社うた祭",
+  "desc": "博丽神社歌谣祭 于 神奈川县川崎市川崎区CLUB CITTA&#39; 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%AD%8C%E8%B0%A3%E7%A5%AD#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "96e3f4b659296e0a6460fab6fd180512525230c717cc98c7a4bddfbc4840119a",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市川崎区CLUB CITTA&#39;",
+    "entity": [
+      {
+        "id": "ChIJcdnaNqJgGGARY-poze0nnmE",
+        "addressLine1": "CLUB CITTA'",
+        "addressLine2": "日本、神奈川県川崎市川崎区小川町５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHyrRcixnGGARFr3CgK3TpjQ",
+        "addressLine1": "フレッシュランチ39川崎店",
+        "addressLine2": "日本、神奈川県川崎市川崎区桜本１丁目２０−１８",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ61YPdSdhGGARI0E-30e3KQ4",
+        "addressLine1": "サンキューカット島忠ホームズ川崎大師店",
+        "addressLine2": "日本、神奈川県川崎市川崎区中瀬３丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJye6woQ5hGGARaSvw6UN4HTA",
+        "addressLine1": "麻雀 るーと３９",
+        "addressLine2": "日本、神奈川県川崎市川崎区砂子２丁目３−１７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "EkJWaWEgQ2x1YiBDaXR0YScsIOWwj-W3neeUuiDlt53ltI7ljLog5bed5bSO5biCIOelnuWliOW3neecjCDml6XmnKwiLiosChQKEgkvPwu0o2AYYBHUwLcHUFqNzRIUChIJCXd0tKNgGGARtgmn9RR3Yco",
+        "addressLine1": "Via Club Citta'",
+        "addressLine2": "小川町 川崎区 川崎市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

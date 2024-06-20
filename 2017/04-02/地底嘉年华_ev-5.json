@@ -1,0 +1,30 @@
+{
+  "id": "地底嘉年华_ev-5",
+  "start": 1491091200,
+  "end": 1491091200,
+  "title": "アンダーグラウンドカーニバル5",
+  "desc": "地底嘉年华5 于 名古屋市国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E5%9C%B0%E5%BA%95%E5%98%89%E5%B9%B4%E5%8D%8E#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "08210ebb1131af1684321d76afaebfddcd451a8d1e0e95708f80bd8f1c9977ce",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,82 @@
+{
+  "id": "东方Project×百货商场活动_ev-20",
+  "start": 1600214400,
+  "end": 1600214400,
+  "title": "东方Project×atré秋叶原 「博丽神社～秋之祭2020」",
+  "desc": "东方Project×atré秋叶原 「博丽神社～秋之祭2020」 于 东京都千代田区atré秋叶原 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-20",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "76bdb9ff4b147e82dab081a6609081c9097ef112f4973753170e7a9112b52358",
+  "location": {
+    "type": "google",
+    "text": "东京都千代田区atré秋叶原",
+    "entity": [
+      {
+        "id": "ChIJN2UoRR2MGGARPrpOSvznx7o",
+        "addressLine1": "atré 秋叶原1",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１７−６",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJneOucKiOGGARh9QMapkLl9A",
+        "addressLine1": "atré 秋叶原2",
+        "addressLine2": "日本、東京都千代田区神田花岡町１−９",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJfyPEV66NGGARpOlygWPqtyo",
+        "addressLine1": "アトレ秋葉原 南側ガラス広告",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１７−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJX6iONQCNGGARPPT4PG5y_rg",
+        "addressLine1": "ラブライブ！シリーズ オフィシャルストア スクールアイドルシアター アトレ秋葉原店",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１７−６",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJjWXDRB2MGGARAjdlMVB6sKM",
+        "addressLine1": "KoKuMiN アトレ秋葉原1店",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１７−６",
+        "provider": "google_places",
+        "categories": [
+          "PHARMACY",
+          "SHOPS_AND_SERVICES",
+          "drugstore",
+          "health",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

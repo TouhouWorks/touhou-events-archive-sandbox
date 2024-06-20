@@ -1,0 +1,42 @@
+{
+  "id": "Comic Fiesta_ev-7",
+  "start": 1229731200,
+  "end": 1229731200,
+  "title": "Comic Fiesta 2008",
+  "desc": "Comic Fiesta 2008 于 马来西亚吉隆坡 双威会议中心 举办",
+  "url": "https://thwiki.cc/Comic_Fiesta#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "520715200c0cdfc9dec00089d7e7307220847682a3248665c158ff807335a955",
+  "location": {
+    "type": "google",
+    "text": "马来西亚吉隆坡 双威会议中心",
+    "entity": [
+      {
+        "id": "ChIJj_5ctm03zDERMQAzrnIc5uQ",
+        "addressLine1": "SUNway",
+        "addressLine2": "Jalan Cheras, Maluri, クアラ・ルンプル マレーシア",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ__zTe9M3zDERtzz3V5s1Bnc",
+        "addressLine1": "吉隆坡会展中心",
+        "addressLine2": "マレーシア クアラ・ルンプル Kuala Lumpur City Centre",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

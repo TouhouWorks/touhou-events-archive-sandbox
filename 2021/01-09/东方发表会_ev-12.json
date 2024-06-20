@@ -1,0 +1,19 @@
+{
+  "id": "东方发表会_ev-12",
+  "start": 1610150400,
+  "end": 1610150400,
+  "title": "第8回東方発表会",
+  "desc": "第8回东方发表会 于 东京都町田市 新宿文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8F%91%E8%A1%A8%E4%BC%9A#ev-12",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ec266749b3031d4b879d4e5dcf59ef03e0834c285ee1c34c92834b30fce6e0c5",
+  "location": {
+    "type": "google",
+    "text": "东京都町田市 新宿文化中心",
+    "entity": []
+  },
+  "platform": 1
+}

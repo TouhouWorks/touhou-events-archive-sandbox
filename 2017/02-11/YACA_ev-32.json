@@ -1,0 +1,50 @@
+{
+  "id": "YACA_ev-32",
+  "start": 1486771200,
+  "end": 1486771200,
+  "title": "YACA51",
+  "desc": "YACA51 于 广州市 南丰国际会展中心 举办",
+  "url": "https://thwiki.cc/YACA#ev-32",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "df93904149a2b5e64f3ae95e23e32f4fa0de6282e40b4c6a197f84a99f7fb39d",
+  "location": {
+    "type": "google",
+    "text": "广州市 南丰国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJs116Fu3_AjQRJ8bGxhzI3hE",
+        "addressLine1": "南丰国际会展中心",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4bZWau3_AjQRcak4v_b7Tkw",
+        "addressLine1": "南丰国际会展中心",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 龙口",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJQVSXFu3_AjQRowQ-KAYQMRc",
+        "addressLine1": "南丰国际会展中心",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Chebei",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

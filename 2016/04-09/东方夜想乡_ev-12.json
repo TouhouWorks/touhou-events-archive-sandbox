@@ -1,0 +1,19 @@
+{
+  "id": "东方夜想乡_ev-12",
+  "start": 1460160000,
+  "end": 1460160000,
+  "title": "東方夜想郷12",
+  "desc": "东方夜想乡12 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%9C%E6%83%B3%E4%B9%A1#ev-12",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6a2f588e7360abfa24c9ca9d35d51747c8175489cd5bf5fbf23ae52c3e278bd4",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1
+}

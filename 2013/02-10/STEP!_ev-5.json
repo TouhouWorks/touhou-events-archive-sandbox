@@ -1,0 +1,57 @@
+{
+  "id": "STEP!_ev-5",
+  "start": 1360454400,
+  "end": 1360454400,
+  "title": "STEP! vol.5",
+  "desc": "STEP! vol.5 于 广岛市 club BORDER 举办",
+  "url": "https://thwiki.cc/STEP!#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ea9548a913c987bec18056db39655c8bfbb3ac46b68d3c422c0cd3548af77fd3",
+  "location": {
+    "type": "google",
+    "text": "广岛市 club BORDER",
+    "entity": [
+      {
+        "id": "ChIJu0_z7giZWjURcvfBz1DO5Ac",
+        "addressLine1": "广岛市",
+        "addressLine2": "日本、広島県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ1WUiL7yjWjUR3C5HsJS8-UE",
+        "addressLine1": "CLUB A-1",
+        "addressLine2": "日本、広島県広島市中区堀川町１−１４",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJyyk7L4mYWjURZnuahBFJY_M",
+        "addressLine1": "三瀧寺",
+        "addressLine2": "日本、広島県広島市西区三滝山４１１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

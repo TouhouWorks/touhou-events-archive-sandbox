@@ -1,0 +1,30 @@
+{
+  "id": "处处都是幻想乡_ev-6",
+  "start": 1572134400,
+  "end": 1572134400,
+  "title": "どこもかしこも幻想郷 inむつ2",
+  "desc": "处处都是幻想乡 in陆奥2 于 陆奥市 みどりのさきもり館 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "22b57e57d230fe8c67766c8a9ea0285ecdbb616fa32f61d0867ce6be67057519",
+  "location": {
+    "type": "google",
+    "text": "陆奥市 みどりのさきもり館",
+    "entity": [
+      {
+        "id": "ChIJdw1Ul1EVnF8Ro5TNxKQHKd0",
+        "addressLine1": "みどりのさきもり館",
+        "addressLine2": "日本、青森県むつ市宇田町２１−２５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

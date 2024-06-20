@@ -1,0 +1,30 @@
+{
+  "id": "SHOOTERS ROCK FES_ev-2",
+  "start": 1363996800,
+  "end": 1363996800,
+  "title": "SHOOTERS ROCK FES 2013",
+  "desc": "SHOOTERS ROCK FES 2013 于 东京都 新宿ANTIKNOCK 举办",
+  "url": "https://thwiki.cc/SHOOTERS_ROCK_FES#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "94b1e8ebf3a1793d657f8d602345a0f83bde8a6eeddd997c07e942c624a701d8",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿ANTIKNOCK",
+    "entity": [
+      {
+        "id": "ChIJN2qZ1NqMGGARPaTbIWZkVms",
+        "addressLine1": "新宿ANTIKNOCK",
+        "addressLine2": "日本、東京都新宿区新宿４丁目３−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

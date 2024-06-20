@@ -1,0 +1,91 @@
+{
+  "id": "ABnormal Comic Day!_ev-1",
+  "start": 1622332800,
+  "end": 1622332800,
+  "title": "ABnormal Comic Day!6R",
+  "desc": "ABnormal Comic Day!6R 于 东京都 东京卸商中心 举办",
+  "url": "https://thwiki.cc/ABnormal_Comic_Day!#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "abf0585070a34ed1b700d068758f3e3361f69005c4874bd847fa4dac25a0206c",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京卸商中心",
+    "entity": [
+      {
+        "id": "ChIJdQvJeoWLGGARNY5i-6ADoEY",
+        "addressLine1": "東京23区",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      },
+      {
+        "id": "ChIJh0d3BpbzGGARuZ2BbkxCZZE",
+        "addressLine1": "購物中心 經堂CORTY",
+        "addressLine2": "日本、東京都世田谷区経堂２丁目１−３３",
+        "provider": "google_places",
+        "categories": [
+          "department_store",
+          "book_store",
+          "restaurant",
+          "establishment",
+          "store",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food",
+          "SHOPS_AND_SERVICES",
+          "shopping_mall",
+          "BOOK_STORE",
+          "DEPARTMENT_STORE",
+          "RESTAURANT",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL",
+          "FOOD_AND_BEVERAGE"
+        ]
+      },
+      {
+        "id": "ChIJr2cNBsGOGGARSX3xfkspQHc",
+        "addressLine1": "浅草文化观光中心",
+        "addressLine2": "日本、東京都台東区雷門２丁目１８−９",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "travel_agency",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "TRAVEL_SERVICES"
+        ]
+      },
+      {
+        "id": "ChIJq6qWSNiMGGARk4NsE00pAOE",
+        "addressLine1": "アパホテル〈新宿 歌舞伎町中央〉",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目２６−５",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJVVWVMdSMGGAR_AbSms-8FLA",
+        "addressLine1": "新宿中心大厦",
+        "addressLine2": "日本、東京都新宿区西新宿１丁目２５−２５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,54 @@
+{
+  "id": "大⑨州东方祭_ev-62",
+  "start": 1694304000,
+  "end": 1694304000,
+  "title": "大⑨州東方祭60",
+  "desc": "大⑨州东方祭60 于 熊本市 熊本城Hall 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-62",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f160a475f346ce605e92723184bc4420abff6d70ebd27db305ef604cffc8131",
+  "location": {
+    "type": "google",
+    "text": "熊本市 熊本城Hall",
+    "entity": [
+      {
+        "id": "ChIJF_zWtCb1QDUROe0JM37gGQo",
+        "addressLine1": "熊本城ホール",
+        "addressLine2": "日本、熊本県熊本市中央区桜町３−４０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWco6Ag70QDURMOTNdshmi14",
+        "addressLine1": "熊本城",
+        "addressLine2": "日本、熊本県熊本市中央区本丸１−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmzfvMQ_0QDUROFnOR2wq8YE",
+        "addressLine1": "アークホテル熊本城前",
+        "addressLine2": "日本、熊本県熊本市中央区城東町５−１６",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

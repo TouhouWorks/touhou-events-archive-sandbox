@@ -1,0 +1,30 @@
+{
+  "id": "东方神祭_ev-7",
+  "start": 1379203200,
+  "end": 1379203200,
+  "title": "東方神祭1",
+  "desc": "东方神祭1 于 大阪产业创造馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fe1bb0899bd87bc22fc277a6ae163fdf04922bab626bd6d797a07068c689daae",
+  "location": {
+    "type": "google",
+    "text": "大阪产业创造馆",
+    "entity": [
+      {
+        "id": "ChIJw7ILcCHnAGARAM1Jy48J9Cc",
+        "addressLine1": "大阪産業創造館",
+        "addressLine2": "日本、大阪府大阪市中央区本町１丁目４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

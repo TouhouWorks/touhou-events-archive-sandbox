@@ -1,0 +1,30 @@
+{
+  "id": "东方柳都麦酒_ev-2",
+  "start": 1633132800,
+  "end": 1633132800,
+  "title": "東方柳都麦酒 二杯目",
+  "desc": "东方柳都麦酒 二杯目 于 新潟市 Live Hall GOLDEN PIGS - RED STAGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9F%B3%E9%83%BD%E9%BA%A6%E9%85%92#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7e8acf90286ad55e511c04cbbd8498132e752d3c44897a4c0194acfeea0b32e8",
+  "location": {
+    "type": "google",
+    "text": "新潟市 Live Hall GOLDEN PIGS - RED STAGE",
+    "entity": [
+      {
+        "id": "ChIJz6uW1e3J9F8RwiQqprfQQLw",
+        "addressLine1": "GOLDEN PIGS RED STAGE",
+        "addressLine2": "日本、新潟県新潟市中央区東堀通６番町１０４７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

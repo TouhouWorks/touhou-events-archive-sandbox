@@ -1,0 +1,32 @@
+{
+  "id": "TOUHOU FESTIVAL_ev-1",
+  "start": 1377302400,
+  "end": 1377302400,
+  "title": "TOUHOU FESTIVAL 1",
+  "desc": "TOUHOU FESTIVAL 1 于 马来西亚雪兰莪八打灵再也 双威金字塔会议中心 举办",
+  "url": "https://thwiki.cc/TOUHOU_FESTIVAL#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "97db72c61f00e1e3a20f0a2252d85cb693c432ff37ef185962d883a5f6f7890d",
+  "location": {
+    "type": "google",
+    "text": "马来西亚雪兰莪八打灵再也 双威金字塔会议中心",
+    "entity": [
+      {
+        "id": "ChIJm21YdodMzDERJW_y1EmlGV4",
+        "addressLine1": "双威金字塔",
+        "addressLine2": "マレーシア スランゴル プタリン・ジャヤ バンダー・サンウェイ Jalan PJS 11/15",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "在名古屋！东方同人志读书会_ev-1",
+  "start": 1405123200,
+  "end": 1405123200,
+  "title": "名古屋で！東方同人誌読書会1",
+  "desc": "在名古屋！东方同人志读书会1 于 名古屋企业福祉会馆 举办",
+  "url": "https://thwiki.cc/%E5%9C%A8%E5%90%8D%E5%8F%A4%E5%B1%8B%EF%BC%81%E4%B8%9C%E6%96%B9%E5%90%8C%E4%BA%BA%E5%BF%97%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5cc742acc3b6e54540c4474e6d2108e16a7f9f9c98aa95df80dccd91f96a3db3",
+  "location": {
+    "type": "google",
+    "text": "名古屋企业福祉会馆",
+    "entity": [
+      {
+        "id": "ChIJs_f5-TJ3A2ARiLwPg7aax48",
+        "addressLine1": "名古屋中小企業福祉会館",
+        "addressLine2": "日本、愛知県名古屋市中区大須２丁目１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

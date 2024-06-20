@@ -1,0 +1,40 @@
+{
+  "id": "Etcetera_ev-56",
+  "start": 1448668800,
+  "end": 1448668800,
+  "title": "えとせとら Vol.55",
+  "desc": "Etcetera Vol.55 于 东京都 涩谷eggman 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-56",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "da38aeb4a5988543ac33c319e36245af6bf8bb3c6d29ebe64fea44667ede0b07",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷eggman",
+    "entity": [
+      {
+        "id": "ChIJuaJzMK-MGGARKPIPCK4DOhU",
+        "addressLine1": "Eggman",
+        "addressLine2": "１丁目-６-８ 神南 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJt3v5Pq-MGGARlrfvAgs9tVM",
+        "addressLine1": "㈱エッグマン 事務所",
+        "addressLine2": "日本、東京都渋谷区神南１丁目５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

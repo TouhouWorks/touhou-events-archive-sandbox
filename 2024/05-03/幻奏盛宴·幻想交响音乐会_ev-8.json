@@ -1,0 +1,30 @@
+{
+  "id": "幻奏盛宴·幻想交响音乐会_ev-8",
+  "start": 1714694400,
+  "end": 1714694400,
+  "title": "幻奏盛宴·幻想交响音乐会 ～ 悠扬的珠江夜韵",
+  "desc": "幻奏盛宴·幻想交响音乐会 ～ 悠扬的珠江夜韵 于 广州 广东艺术剧院 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-8",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9ad42ddde52788da6ee58594d1ff02bf7d9dd29637cbdf3061f69f0e31a2cf88",
+  "location": {
+    "type": "google",
+    "text": "广州 广东艺术剧院",
+    "entity": [
+      {
+        "id": "ChIJF5XNu2P4AjQRGvskeG3t0IU",
+        "addressLine1": "广东省木偶艺术剧院",
+        "addressLine2": "中華人民共和国 広東省 广州 茘湾区 Lizhiwan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

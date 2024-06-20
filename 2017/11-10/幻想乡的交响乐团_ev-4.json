@@ -1,0 +1,30 @@
+{
+  "id": "幻想乡的交响乐团_ev-4",
+  "start": 1510272000,
+  "end": 1510272000,
+  "title": "幻想郷の交響楽団 - 夢幻音樂祭 -",
+  "desc": "幻想乡的交响乐团 - 梦幻音乐祭 - 于 东京都新宿区西新宿3-20-2 东京歌剧城3F 武满彻纪念演奏厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2#ev-4",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "05f8205d4310172cda348f702946f400daaab1fbde532796e79ce0b8b92acd50",
+  "location": {
+    "type": "google",
+    "text": "东京都新宿区西新宿3-20-2 东京歌剧城3F 武满彻纪念演奏厅",
+    "entity": [
+      {
+        "id": "ChIJZw5vwi3zGGARTZzWN1lBYUo",
+        "addressLine1": "东京歌剧城",
+        "addressLine2": "日本、東京都新宿区西新宿３−２０−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

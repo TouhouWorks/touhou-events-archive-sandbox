@@ -1,0 +1,32 @@
+{
+  "id": "东方根音乐祭_ev-4",
+  "start": 1706313600,
+  "end": 1706313600,
+  "title": "東方根っこ音楽祭4",
+  "desc": "东方根音乐祭4 于 爱媛县松山市 Bar necco 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A0%B9%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "27950e61c3f07bfd8618a65dbca451cec5dbd37c7fe0fd1c40a7d420543a2645",
+  "location": {
+    "type": "google",
+    "text": "爱媛县松山市 Bar necco",
+    "entity": [
+      {
+        "id": "ChIJn4AbuCrlTzUR26k4qP0UBQ8",
+        "addressLine1": "BAR necco",
+        "addressLine2": "日本、愛媛県松山市三番町２丁目3−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

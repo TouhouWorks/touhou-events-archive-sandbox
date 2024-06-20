@@ -1,0 +1,40 @@
+{
+  "id": "东方乐祭_ev-88",
+  "start": 1707609600,
+  "end": 1707609600,
+  "title": "東方樂祭 2024 in 東方駿河祭・第14幕",
+  "desc": "东方乐祭 2024 in 东方骏河祭·第14幕 于 静冈县沼津市 キラメッセぬまづ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-88",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1beec310d02505e1f0c4b1e15ac5af331ea45147448e357a7189194404fbeb72",
+  "location": {
+    "type": "google",
+    "text": "静冈县沼津市 キラメッセぬまづ",
+    "entity": [
+      {
+        "id": "ChIJ____JlyFGWARWbp63NX2yt0",
+        "addressLine1": "キラメッセぬまづ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJtd4_5maFGWARf6pu2qKwR-c",
+        "addressLine1": "プラサヴェルデ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

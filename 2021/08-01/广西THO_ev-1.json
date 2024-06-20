@@ -1,0 +1,32 @@
+{
+  "id": "广西THO_ev-1",
+  "start": 1627776000,
+  "end": 1627776000,
+  "title": "广西THO-幻想桂风颂1",
+  "desc": "广西THO-幻想桂风颂1 于 南宁市 西乡塘区 金御华尊国际大酒店至尊厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BF%E8%A5%BFTHO#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f2a666fa72a54be4b3b02cb373475468c1112f51974fb0d66e35977bc516470c",
+  "location": {
+    "type": "google",
+    "text": "南宁市 西乡塘区 金御华尊国际大酒店至尊厅",
+    "entity": [
+      {
+        "id": "ChIJ86QZ-1nvszYRoJ_Ukiv--1U",
+        "addressLine1": "金御华尊国际大酒店地下停车场",
+        "addressLine2": "中華人民共和国 広西チワン族自治区 南宁市西乡塘区 48, Beihu North Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

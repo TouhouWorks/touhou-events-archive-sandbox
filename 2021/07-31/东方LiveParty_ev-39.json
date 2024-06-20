@@ -1,0 +1,32 @@
+{
+  "id": "东方LiveParty_ev-39",
+  "start": 1627689600,
+  "end": 1627689600,
+  "title": "东方LiveParty×广西THO-幻想桂风颂",
+  "desc": "东方LiveParty×广西THO-幻想桂风颂 于 南宁 老牌LiveHouse“候朋现场” 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-39",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71100a56e9b53423695b4b529d91b47aac3b9b432a044fd844daf20498e3e7a7",
+  "location": {
+    "type": "google",
+    "text": "南宁 老牌LiveHouse“候朋现场”",
+    "entity": [
+      {
+        "id": "ChIJNVX-vrTpszYRW3ZUPgDku1c",
+        "addressLine1": "候朋现场",
+        "addressLine2": "中華人民共和国 南宁 青秀区",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

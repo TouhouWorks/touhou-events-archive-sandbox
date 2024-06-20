@@ -1,0 +1,20 @@
+{
+  "id": "绮音夜游_ev-3",
+  "start": 1692316800,
+  "end": 1692316800,
+  "title": "绮音夜游α",
+  "desc": "绮音夜游α 于 上海 力波接待中心 声学工艺音乐厅 举办",
+  "url": "https://thwiki.cc/%E7%BB%AE%E9%9F%B3%E5%A4%9C%E6%B8%B8#ev-3",
+  "type": [
+    "音乐会",
+    "会议"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a2d338fd46252aa19f034219b72b4769db532e29688f3d8cc39c31ced5853fe4",
+  "location": {
+    "type": "google",
+    "text": "上海 力波接待中心 声学工艺音乐厅",
+    "entity": []
+  },
+  "platform": 1
+}

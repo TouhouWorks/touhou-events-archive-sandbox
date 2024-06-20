@@ -1,0 +1,30 @@
+{
+  "id": "DESIRE D LIVE!_ev-1",
+  "start": 1523750400,
+  "end": 1523750400,
+  "title": "DESIRE D LIVE! 1",
+  "desc": "DESIRE D LIVE! 1 于 东京都 下北泽ERA 举办",
+  "url": "https://thwiki.cc/DESIRE_D_LIVE!#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "716db52dda72227ecbf78751fc2bef0621dd0c30007204e2b49d1d5a61797624",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽ERA",
+    "entity": [
+      {
+        "id": "ChIJW0zC_GrzGGARhmEYBAIFvZk",
+        "addressLine1": "下北沢ERA",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目３４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "东方乐祭_ev-8",
+  "start": 1432425600,
+  "end": 1432425600,
+  "title": "東方樂祭 in 青森痛車フェスティバル in 八甲田丸",
+  "desc": "东方乐祭 in 青森痛车Festival in 八甲田丸 于 青森市 青函联络船Memorial Ship八甲田丸 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-8",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d7e5cd864efdb5a000807f1bb5f7f0641bafb0e3582229c6502ded333ba29553",
+  "location": {
+    "type": "google",
+    "text": "青森市 青函联络船Memorial Ship八甲田丸",
+    "entity": [
+      {
+        "id": "ChIJiyg579-em18RhhGxO5NLF1E",
+        "addressLine1": "青函連絡船メモリアルシップ八甲田丸",
+        "addressLine2": "日本、青森県青森市柳川１丁目４−１１２−１５ 地先",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

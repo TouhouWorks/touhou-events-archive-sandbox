@@ -1,0 +1,30 @@
+{
+  "id": "中四国东方祭_ev-9",
+  "start": 1538265600,
+  "end": 1538265600,
+  "title": "中四国東方祭7",
+  "desc": "中四国东方祭7 于 广岛市 广岛县立广岛产业会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%9B%E5%9B%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "514878cedf073bf42c37b7785bbbc12817669aef9bb0abea019ce921ab91bfcb",
+  "location": {
+    "type": "google",
+    "text": "广岛市 广岛县立广岛产业会馆",
+    "entity": [
+      {
+        "id": "ChIJTc7ljh6iWjUR_2CvV1ILPXc",
+        "addressLine1": "廣島縣立廣島產業會館",
+        "addressLine2": "日本、広島県広島市南区比治山本町１２−１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

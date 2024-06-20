@@ -1,0 +1,31 @@
+{
+  "id": "BARKIN' DOG WITH NEW MONSTERS_ev-1",
+  "start": 1440288000,
+  "end": 1440288000,
+  "title": "BARKIN' DOG WITH NEW MONSTERS 1",
+  "desc": "BARKIN&#39; DOG WITH NEW MONSTERS 1 于 东京都 Studio音乐馆 秋叶原 举办",
+  "url": "https://thwiki.cc/BARKIN%27_DOG_WITH_NEW_MONSTERS#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a517426c387f31d75a40c54ef113a2ff47de11c2a013a253bdcc6184cbb1388c",
+  "location": {
+    "type": "google",
+    "text": "东京都 Studio音乐馆 秋叶原",
+    "entity": [
+      {
+        "id": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+        "addressLine1": "秋葉原電気街",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

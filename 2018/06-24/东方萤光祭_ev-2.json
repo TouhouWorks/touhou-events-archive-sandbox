@@ -1,0 +1,30 @@
+{
+  "id": "东方萤光祭_ev-2",
+  "start": 1529798400,
+  "end": 1529798400,
+  "title": "東方蛍光祭2",
+  "desc": "东方萤光祭2 于 东京都 Rental Hall绵商会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%A4%E5%85%89%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eba3ac57aec65887a6aca6a5e731470e599473003c4d048ef48ad6228ae775be",
+  "location": {
+    "type": "google",
+    "text": "东京都 Rental Hall绵商会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

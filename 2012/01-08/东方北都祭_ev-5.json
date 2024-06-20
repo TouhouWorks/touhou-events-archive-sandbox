@@ -1,0 +1,30 @@
+{
+  "id": "东方北都祭_ev-5",
+  "start": 1325980800,
+  "end": 1325980800,
+  "title": "東方北都祭 第五弾",
+  "desc": "东方北都祭 第五弹 于 札幌会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%83%BD%E7%A5%AD#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5d6ccac7238f23534b746cf3a2fb14ec88eaf5c9fa41b4576198fdad93ad8b0e",
+  "location": {
+    "type": "google",
+    "text": "札幌会议中心",
+    "entity": [
+      {
+        "id": "ChIJYSd5ztsrC18RYepUkTimRTc",
+        "addressLine1": "札幌會議中心",
+        "addressLine2": "日本、北海道札幌市白石区東札幌６条１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

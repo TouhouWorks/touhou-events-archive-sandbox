@@ -1,0 +1,32 @@
+{
+  "id": "东燕屋~祇园幻想浪漫谭~_ev-5",
+  "start": 1358553600,
+  "end": 1358553600,
+  "title": "東燕屋〜祇園幻想浪漫譚〜 第五話",
+  "desc": "东燕屋~祇园幻想浪漫谭~ 第五话 于 京都府京都市东山区 京都Swallowtail 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E7%87%95%E5%B1%8B~%E7%A5%87%E5%9B%AD%E5%B9%BB%E6%83%B3%E6%B5%AA%E6%BC%AB%E8%B0%AD~#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6a8a8bce22901e6b5d920e4eb7881bb3149f187758c75f7aa2e5c23ea5cf6f7",
+  "location": {
+    "type": "google",
+    "text": "京都府京都市东山区 京都Swallowtail",
+    "entity": [
+      {
+        "id": "ChIJh6gl4swIAWARsZAP1d28V8c",
+        "addressLine1": "東山区",
+        "addressLine2": "日本、京都府京都市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

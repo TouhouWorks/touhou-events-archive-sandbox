@@ -1,0 +1,78 @@
+{
+  "id": "豚魂_ev-1",
+  "start": 1349481600,
+  "end": 1349481600,
+  "title": "ぶたたま1",
+  "desc": "豚魂1 于 大阪府大阪市 江坂MUSE 举办",
+  "url": "https://thwiki.cc/%E8%B1%9A%E9%AD%82#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bda9299b06065d4551ad6c0abfc0799f0172e6b5921cdcec3fbabbd1a65e9ec3",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 江坂MUSE",
+    "entity": [
+      {
+        "id": "ChIJa3NiXPrkAGARFRvvOWpdNic",
+        "addressLine1": "ESAKA MUSE",
+        "addressLine2": "日本、大阪府吹田市豊津町１０−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJzJOthbnAGAR7gCGD6JIkDc",
+        "addressLine1": "OSAKA MUSE",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋１丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7xEdT7nmAGARYQc8ZWRPI5Q",
+        "addressLine1": "The Osaka Museum of Housing and Living",
+        "addressLine2": "６丁目-４-２０ 天神橋 北区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJa7dX-nLnAGARYuCX2mxyVWA",
+        "addressLine1": "Nakanoshima Museum of Art, Osaka",
+        "addressLine2": "４丁目-３-１ 中之島 北区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJR5zaJTLnAGARyuJ_yX2DhOk",
+        "addressLine1": "Museo de Historia de Osaka",
+        "addressLine2": "４丁目-１-３２ 大手前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

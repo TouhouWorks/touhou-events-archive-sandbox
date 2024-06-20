@@ -1,0 +1,84 @@
+{
+  "id": "花色的Dance Hall_ev-1",
+  "start": 1426291200,
+  "end": 1426291200,
+  "title": "花色のダンスホール1",
+  "desc": "花色的Dance Hall 1 于 东京都 浅草KURAWOOD 举办",
+  "url": "https://thwiki.cc/%E8%8A%B1%E8%89%B2%E7%9A%84Dance_Hall#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3a0403fe477ac37dc8920a239675d23b248f81b36fa8481c551b88aa35fdc8ec",
+  "location": {
+    "type": "google",
+    "text": "东京都 浅草KURAWOOD",
+    "entity": [
+      {
+        "id": "ChIJM1N_BMKOGGARZ0DHgTj9hHw",
+        "addressLine1": "浅草",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJx62FmcGOGGARDxQTl8Zx6U4",
+        "addressLine1": "浅草神社",
+        "addressLine2": "日本、東京都台東区浅草２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJL34SkMaOGGAR8M8COhoCH_Q",
+        "addressLine1": "浅草",
+        "addressLine2": "日本、東京都台東区浅草１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "Ejrml6XmnKzjgIHmnbHkuqzpg73loqjnlLDljLrlkL7lprvmqYvvvJHkuIHnm64g5rWF6I2J6YCa44KKIi4qLAoUChIJCZ23ls-OGGARi_3sls7iTVUSFAoSCQ1r65TFjhhgEZtLvl-kyL7k",
+        "addressLine1": "浅草通り",
+        "addressLine2": "日本、東京都墨田区吾妻橋１丁目",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJVVUlLuqOGGAR7MGQwTISSQA",
+        "addressLine1": "浅草警察署",
+        "addressLine2": "日本、東京都台東区浅草４丁目４７−１１",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

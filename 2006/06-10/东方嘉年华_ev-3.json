@@ -1,0 +1,70 @@
+{
+  "id": "东方嘉年华_ev-3",
+  "start": 1149897600,
+  "end": 1149897600,
+  "title": "東方カーニバル3",
+  "desc": "东方嘉年华3 于 田町 Studio Cube 326 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%98%89%E5%B9%B4%E5%8D%8E#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5feaf18b5d72197cc73b83bd4cb60da8306b5a2c10d01735966a4cae96543be5",
+  "location": {
+    "type": "google",
+    "text": "田町 Studio Cube 326",
+    "entity": [
+      {
+        "id": "ChIJExG4ARGLImARPAJAaNDfCuw",
+        "addressLine1": "田町３２６",
+        "addressLine2": "日本、千葉県成田市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJNazBPzZlImAR9kOWdQcsAZg",
+        "addressLine1": "田町３２６５",
+        "addressLine2": "日本、茨城県龍ケ崎市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJYZU7PTZlImARoxKFSsUPRnc",
+        "addressLine1": "田町３２６０",
+        "addressLine2": "日本、茨城県龍ケ崎市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJmUPAFTZlImARehlfh8joQYI",
+        "addressLine1": "田町３２６１",
+        "addressLine2": "日本、茨城県龍ケ崎市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJoXV_xtGPIWARaMTOq0Kyo4k",
+        "addressLine1": "町田町３２６",
+        "addressLine2": "日本、茨城県常陸太田市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

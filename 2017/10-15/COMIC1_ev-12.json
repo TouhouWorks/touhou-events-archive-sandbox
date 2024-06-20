@@ -1,0 +1,30 @@
+{
+  "id": "COMIC1_ev-12",
+  "start": 1508025600,
+  "end": 1508025600,
+  "title": "COMIC1☆12",
+  "desc": "COMIC1☆12 于 东京都 东京国际展示场 东4-5展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c394b250d4c3a9793115da5190dfa02856637b45e60d86a98e7f758d3d38021b",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东4-5展厅",
+    "entity": [
+      {
+        "id": "ChIJq6qqetyJGGARr-ij2aZrEVg",
+        "addressLine1": "東京ビッグサイト東4ホール",
+        "addressLine2": "日本、東京都江東区有明３丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,80 @@
+{
+  "id": "东方东云夜会_ev-6",
+  "start": 1561161600,
+  "end": 1561161600,
+  "title": "東方東雲夜会6",
+  "desc": "东方东云夜会6 于 爱媛县松山市 松山SALONKITTY 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B8%9C%E4%BA%91%E5%A4%9C%E4%BC%9A#ev-6",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b779707a78ba8104815cd4acd3b00a1716f11bdf91b123ca31604920ccb46c1e",
+  "location": {
+    "type": "google",
+    "text": "爱媛县松山市 松山SALONKITTY",
+    "entity": [
+      {
+        "id": "ChIJsYR-DIflTzUREAMADBZkWos",
+        "addressLine1": "キティホール",
+        "addressLine2": "日本、愛媛県松山市河原町１３８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "EjTml6XmnKzjgIHmhJvlqpvnnIzmnb7lsbHluILvvJHvvJIg5p2-5bGx6Ieq5YuV6LuK6YGTIi4qLAoUChIJc9IgYRHRTzURLTjT_GEG9nISFAoSCe9nPAc2zlE1EZjYq9M71syV",
+        "addressLine1": "松山自動車道",
+        "addressLine2": "日本、愛媛県松山市１２",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJo5bKX73lTzUR3Xn3XAskGJg",
+        "addressLine1": "松山市保健所",
+        "addressLine2": "日本、愛媛県松山市萱町６丁目３０−５",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJK6fg64vlTzUR4xFJpvFoI3k",
+        "addressLine1": "松山市",
+        "addressLine2": "日本、愛媛県松山市湊町５丁目",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJgT2XZC7wTzURsxCmwsQ8MuI",
+        "addressLine1": "松山空港（松山空港ビル株式会社） (MYJ)",
+        "addressLine2": "日本、愛媛県松山市南吉田町２７３１",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

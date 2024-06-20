@@ -1,0 +1,32 @@
+{
+  "id": "幻奏盛宴·幻想交响音乐会_ev-6",
+  "start": 1633046400,
+  "end": 1633046400,
+  "title": "幻奏盛宴·幻想交响音乐会 ～ 七色的上海幻夜2021",
+  "desc": "幻奏盛宴·幻想交响音乐会 ～ 七色的上海幻夜2021 于 上海 浦东新舞台 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-6",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1d3c6cd408b2d843525c800dc1bbf20b2a59b92e9621e7fa84fc0db4ac10506f",
+  "location": {
+    "type": "google",
+    "text": "上海 浦东新舞台",
+    "entity": [
+      {
+        "id": "ChIJ3Uhiz99wsjURQuTAak7Xai0",
+        "addressLine1": "浦东新舞台",
+        "addressLine2": "中華人民共和国 上海 浦東新区 Lujiazui, Pudong Avenue",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

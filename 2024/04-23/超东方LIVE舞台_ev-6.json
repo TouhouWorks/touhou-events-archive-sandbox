@@ -1,0 +1,62 @@
+{
+  "id": "超东方LIVE舞台_ev-6",
+  "start": 1713830400,
+  "end": 1713830400,
+  "title": "超東方LIVEステージ2024",
+  "desc": "超东方LIVE舞台2024 于 川崎市CLUB CITTA’ 举办",
+  "url": "https://thwiki.cc/%E8%B6%85%E4%B8%9C%E6%96%B9LIVE%E8%88%9E%E5%8F%B0#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d10b49e9fc3ca0504ddfcd7c9d3da2b298aa931454fc0652fb061ef71a5a8057",
+  "location": {
+    "type": "google",
+    "text": "川崎市CLUB CITTA’",
+    "entity": [
+      {
+        "id": "ChIJcdnaNqJgGGARY-poze0nnmE",
+        "addressLine1": "CLUB CITTA'",
+        "addressLine2": "日本、神奈川県川崎市川崎区小川町５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJP8Dw2IRhGGARlXuFwIy3bb4",
+        "addressLine1": "クラブチッタ アティック",
+        "addressLine2": "日本、神奈川県川崎市川崎区小川町５−７",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "EkJWaWEgQ2x1YiBDaXR0YScsIOWwj-W3neeUuiDlt53ltI7ljLog5bed5bSO5biCIOelnuWliOW3neecjCDml6XmnKwiLiosChQKEgkvPwu0o2AYYBHUwLcHUFqNzRIUChIJCXd0tKNgGGARtgmn9RR3Yco",
+        "addressLine1": "Via Club Citta'",
+        "addressLine2": "小川町 川崎区 川崎市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJVZLNNqJgGGARnIaNmHMa_F4",
+        "addressLine1": "Club Citta Office",
+        "addressLine2": "５-７ 小川町 川崎区 川崎市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方LiveParty_ev-30",
+  "start": 1604188800,
+  "end": 1604188800,
+  "title": "东方LiveParty×长安THO延康衿歌",
+  "desc": "东方LiveParty×长安THO延康衿歌 于 西安 创矩音乐现场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-30",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "67e64264ec46ce47f4717644cc9673f02ec37b15408d76727ac1313d20bba08d",
+  "location": {
+    "type": "google",
+    "text": "西安 创矩音乐现场",
+    "entity": [
+      {
+        "id": "ChIJo8qdDQ16YzYRfak7nw8886U",
+        "addressLine1": "创矩音乐现场",
+        "addressLine2": "中華人民共和国 西安 蓮湖区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

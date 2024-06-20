@@ -1,0 +1,80 @@
+{
+  "id": "超新星_ev-2",
+  "start": 1265932800,
+  "end": 1265932800,
+  "title": "超新星2",
+  "desc": "超新星2 于 长野县松本市 SONIC Matsumoto 举办",
+  "url": "https://thwiki.cc/%E8%B6%85%E6%96%B0%E6%98%9F#ev-2",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cb3d5626e0da6b96f743c1be3044f07d1702298cdfdff9fadbb27a10a2c59cc2",
+  "location": {
+    "type": "google",
+    "text": "长野县松本市 SONIC Matsumoto",
+    "entity": [
+      {
+        "id": "ChIJw6WHdI0OHWAR7fy_C3Dmf_4",
+        "addressLine1": "スタジオ・ソニック",
+        "addressLine2": "日本、長野県松本市深志２丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJMaHqpfwPHWARyCD3cuB3ov0",
+        "addressLine1": "Shinshu-Matsumoto Airport (MMJ)",
+        "addressLine2": "８９０９ 空港東 松本市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJV2ISx5EOHWAR-ftu9zlN0f0",
+        "addressLine1": "Matsumoto Hotel Kagetsu",
+        "addressLine2": "４丁目-８-９ 大手 松本市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ_58CxzgNHWARiPkJul18vnc",
+        "addressLine1": "Matsumoto Jūjō",
+        "addressLine2": "３丁目-１３-１ 浅間温泉 松本市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJAf5msI8OHWARqoTNfaT88qQ",
+        "addressLine1": "Matsumoto Marunouchi Hotel",
+        "addressLine2": "３丁目-５-１５ 大手 松本市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

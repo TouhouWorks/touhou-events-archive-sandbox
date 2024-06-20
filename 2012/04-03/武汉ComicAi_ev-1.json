@@ -1,0 +1,74 @@
+{
+  "id": "武汉ComicAi_ev-1",
+  "start": 1333411200,
+  "end": 1333411200,
+  "title": "武汉ComicAi06",
+  "desc": "武汉ComicAi06 于 湖北省武汉市 武汉国际会展中心 举办",
+  "url": "https://thwiki.cc/%E6%AD%A6%E6%B1%89ComicAi#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "11556d771c49612c7e4b0628368a1199607ea181910fefd0d445b5d2edb91e4a",
+  "location": {
+    "type": "google",
+    "text": "湖北省武汉市 武汉国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJHVhjY_CuLjQRHb-Yeb2KNxo",
+        "addressLine1": "武汉国际会展中心",
+        "addressLine2": "中華人民共和国 湖北省武汉市 江漢区 Jiefang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4b6nY_CuLjQRKjeq5p2U7Gc",
+        "addressLine1": "武汉国际会展中心",
+        "addressLine2": "中華人民共和国 湖北省武汉市 江漢区 永清",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJHVhjY_CuLjQR42bHDP8AeY0",
+        "addressLine1": "武汉国际会展中心停车场",
+        "addressLine2": "中華人民共和国 湖北省武汉市 江漢区 万松园 Wuzhan East Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJUYv3VvCuLjQRQPZn9Qm-znM",
+        "addressLine1": "武汉国际会展中心－停车场西门",
+        "addressLine2": "中華人民共和国 湖北省武汉市 江漢区 696",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJZQUZbYuxLjQRIWn0-LfT2D0",
+        "addressLine1": "武汉国际博览中心",
+        "addressLine2": "中華人民共和国 湖北省武汉市 漢陽区 Yingwu Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

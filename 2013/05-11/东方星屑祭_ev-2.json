@@ -1,0 +1,67 @@
+{
+  "id": "东方星屑祭_ev-2",
+  "start": 1368230400,
+  "end": 1368230400,
+  "title": "東方星屑祭2",
+  "desc": "东方星屑祭2 于 东京都 下北泽stardust 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8dc169ebd6fbcf8feeaedf61803cef9db1a4fde068f9e4e4e932fa072dc8c3c6",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽stardust",
+    "entity": [
+      {
+        "id": "ChIJH29Bw6_zGGARckC2x9hAYMM",
+        "addressLine1": "スターダスト",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目１９−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJw_teZ_8hGGARgsSeLR2OLjM",
+        "addressLine1": "下北沢",
+        "addressLine2": "日本、東京都世田谷区北沢",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJM2EpmmvzGGARXV5tNZ86xGY",
+        "addressLine1": "下北泽",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目２４",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJYy4a-neIGGARElTreB7JDXw",
+        "addressLine1": "キタザワ引越センター",
+        "addressLine2": "日本、東京都江戸川区北葛西２丁目５−２８",
+        "provider": "google_places",
+        "categories": [
+          "moving_company",
+          "MOVING_SERVICE",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方幻想指南_ev-12",
+  "start": 1702771200,
+  "end": 1702771200,
+  "title": "东方幻想指南12 幻生演替的七福船",
+  "desc": "东方幻想指南12 幻生演替的七福船 于 北京大学 第二教学楼 205教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%8C%87%E5%8D%97#ev-12",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ace9e2f06a568fa4a6d85a38171b4b77c2288ca8fe549ff57f5b1ecfdf56770a",
+  "location": {
+    "type": "google",
+    "text": "北京大学 第二教学楼 205教室",
+    "entity": [
+      {
+        "id": "ChIJZwqHnbJW8DURJm6LBWbdR-c",
+        "addressLine1": "北京大学第二教学楼",
+        "addressLine2": "中華人民共和国 北京市 海淀区 颐和园路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方ROCK BEACH_ev-1",
+  "start": 1667606400,
+  "end": 1667606400,
+  "title": "東方ロックビーチ vol.1",
+  "desc": "东方ROCK BEACH vol.1 于 滨松市 Live&Disco MARGARITA 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9ROCK_BEACH#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "27179639a40525c288bd923ade04c1f98a9c9cdf4d32a05f3ff8d333e60427ed",
+  "location": {
+    "type": "google",
+    "text": "滨松市 Live&Disco MARGARITA",
+    "entity": [
+      {
+        "id": "ChIJfzwCNIbXGmARleMmBZvurJY",
+        "addressLine1": "Live&Disco Margarita ライブハウス マルガリータ",
+        "addressLine2": "日本、静岡県浜松市西区舞阪町弁天島３２８５−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

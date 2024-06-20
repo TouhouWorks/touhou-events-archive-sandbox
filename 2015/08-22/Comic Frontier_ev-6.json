@@ -1,0 +1,30 @@
+{
+  "id": "Comic Frontier_ev-6",
+  "start": 1440201600,
+  "end": 1440201600,
+  "title": "Comic Frontier 6",
+  "desc": "Comic Frontier 6 于 印度尼西亚 雅加达 SMESCO Exhibition Hall展厅 举办",
+  "url": "https://thwiki.cc/Comic_Frontier#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "00f96bea7fb1f9f3e44cea8870851c17a3ff59f832dddbda49accae61384d168",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 雅加达 SMESCO Exhibition Hall展厅",
+    "entity": [
+      {
+        "id": "ChIJu99X_MPzaS4R7CcIH_qnEe4",
+        "addressLine1": "Exhibition Hall - SMESCO Indonesia",
+        "addressLine2": "Jalan Gatot Subroto, RT.11/RW.3, Pancoran, South Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

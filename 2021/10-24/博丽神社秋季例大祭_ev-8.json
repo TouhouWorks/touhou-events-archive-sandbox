@@ -1,0 +1,19 @@
+{
+  "id": "博丽神社秋季例大祭_ev-8",
+  "start": 1635033600,
+  "end": 1635033600,
+  "title": "第八回 博麗神社秋季例大祭",
+  "desc": "第八回 博丽神社秋季例大祭 于 东京Big Sight 青海展示厅 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "04be9ed4eef79b0e178df046370adb1ccf88f8b516235ac6421eb57e59abf8df",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 青海展示厅",
+    "entity": []
+  },
+  "platform": 1
+}

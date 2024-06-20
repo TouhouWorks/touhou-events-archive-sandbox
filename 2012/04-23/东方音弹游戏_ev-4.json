@@ -1,0 +1,19 @@
+{
+  "id": "东方音弹游戏_ev-4",
+  "start": 1335139200,
+  "end": 1335139200,
+  "title": "東方音弾遊戯4",
+  "desc": "东方音弹游戏4 于 <a rel=\"nofollow\" class=\"external text\" href=\"http://yaruki0.sakura.ne.jp/event/ondanyugi4/\">主催设置的会场</a> 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E5%BC%B9%E6%B8%B8%E6%88%8F#ev-4",
+  "type": [
+    "创作"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dde75487bbe3d1469c4b429b9f7ebc7de610af3749348d7403d276251fa0a58a",
+  "location": {
+    "type": "google",
+    "text": "<a rel=\"nofollow\" class=\"external text\" href=\"http://yaruki0.sakura.ne.jp/event/ondanyugi4/\">主催设置的会场</a>",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "东方乐祭Global_ev-5",
+  "start": 1475539200,
+  "end": 1475539200,
+  "title": "東方樂祭Global 2016 in China 广州站",
+  "desc": "东方乐祭Global 2016 in China 广州站 于 广州市 广州越秀广州大道361-365号TU凸空间 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-5",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "42313feba36681367b57cb880bd4403dbf290d46a3656bfea9744529111871e1",
+  "location": {
+    "type": "google",
+    "text": "广州市 广州越秀广州大道361-365号TU凸空间",
+    "entity": [
+      {
+        "id": "ChIJ55VQPSP_AjQRXdlPYIemJ6A",
+        "addressLine1": "TU凸空间",
+        "addressLine2": "中華人民共和国 広州市 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "东方异能物怪录_ev-44",
+  "start": 1714867200,
+  "end": 1714867200,
+  "title": "東方異能物怪録卷之四拾四",
+  "desc": "东方异能物怪录卷之四拾四 于 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E8%83%BD%E7%89%A9%E6%80%AA%E5%BD%95#ev-44",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5732ea70f1aa0cbc8d89c1353baef39910d85f1f444d04e0b1d3143be3a00884",
+  "location": {
+    "type": "google",
+    "text": "nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

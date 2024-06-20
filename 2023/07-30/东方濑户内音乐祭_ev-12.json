@@ -1,0 +1,19 @@
+{
+  "id": "东方濑户内音乐祭_ev-12",
+  "start": 1690675200,
+  "end": 1690675200,
+  "title": "東方せとうち音楽祭12",
+  "desc": "东方濑户内音乐祭12 于 东温市 L&#39;Espace City 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%BF%91%E6%88%B7%E5%86%85%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-12",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "98e5d92629a89ffa650ae3d8c43cb741c32ca3837323277f2c815e2702910b90",
+  "location": {
+    "type": "google",
+    "text": "东温市 L&#39;Espace City",
+    "entity": []
+  },
+  "platform": 1
+}

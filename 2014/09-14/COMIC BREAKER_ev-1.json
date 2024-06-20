@@ -1,0 +1,19 @@
+{
+  "id": "COMIC BREAKER_ev-1",
+  "start": 1410652800,
+  "end": 1410652800,
+  "title": "COMIC BREAKER 12",
+  "desc": "COMIC BREAKER 12 于 山梨县甲府市 JIT广场甲府 举办",
+  "url": "https://thwiki.cc/COMIC_BREAKER#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d607ddbf82087a2ba85af81e15f36e56b710479ee239bc90a07a6ac692f68622",
+  "location": {
+    "type": "google",
+    "text": "山梨县甲府市 JIT广场甲府",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,52 @@
+{
+  "id": "幻想叶隐闻乐_ev-1",
+  "start": 1691712000,
+  "end": 1691712000,
+  "title": "幻想葉隠聞楽1",
+  "desc": "幻想叶隐闻乐1 于 佐贺县佐贺市 music bar Ivy 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E5%8F%B6%E9%9A%90%E9%97%BB%E4%B9%90#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d80db2ec1ef93f49afdd3eb04bc904dd86962fcc3a4215f15fdb5085e5d98df5",
+  "location": {
+    "type": "google",
+    "text": "佐贺县佐贺市 music bar Ivy",
+    "entity": [
+      {
+        "id": "ChIJKTJtQnPKQTURi7SU3Gue1GI",
+        "addressLine1": "IVY COURT",
+        "addressLine2": "３丁目-１-１１ 大財 佐賀市 佐賀県 日本",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJWxhPqUDKQTURwP2Tt3OHl94",
+        "addressLine1": "Aibikeshohinsaga Daisan Hansha",
+        "addressLine2": "３丁目-８-１８ 神園 佐賀市 佐賀県 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJNQrgvou1QTUR6AgHLNzAfh0",
+        "addressLine1": "Ivy.",
+        "addressLine2": "日本、佐賀県佐賀市田代１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

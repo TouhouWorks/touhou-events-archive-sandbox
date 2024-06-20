@@ -1,0 +1,31 @@
+{
+  "id": "东方舞踏馆_ev-3",
+  "start": 1567296000,
+  "end": 1567296000,
+  "title": "東方舞踏館3",
+  "desc": "东方舞踏馆3 于 东京都墨田区本所地区Plaza BIG SHIP 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%88%9E%E8%B8%8F%E9%A6%86#ev-3",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b089726ad610b225ba34ca8a90598a075d6683064f0c85046837eb3fccd0297a",
+  "location": {
+    "type": "google",
+    "text": "东京都墨田区本所地区Plaza BIG SHIP",
+    "entity": [
+      {
+        "id": "ChIJX5bcBcyOGGAR9sWFPPNye4g",
+        "addressLine1": "本所地域プラザ BIG SHIP",
+        "addressLine2": "日本、東京都墨田区本所１丁目１３−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

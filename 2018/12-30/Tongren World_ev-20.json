@@ -1,0 +1,30 @@
+{
+  "id": "Tongren World_ev-20",
+  "start": 1546128000,
+  "end": 1546128000,
+  "title": "Tongren World19",
+  "desc": "Tongren World19 于 广州市 海珠区 保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bda0baf8a551f9d65377c0261e06db8936488ea42e8c532a43e78a5a417f4ddb",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

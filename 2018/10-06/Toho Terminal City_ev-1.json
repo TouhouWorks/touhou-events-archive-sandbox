@@ -1,0 +1,32 @@
+{
+  "id": "Toho Terminal City_ev-1",
+  "start": 1538784000,
+  "end": 1538784000,
+  "title": "Toho Terminal City 1",
+  "desc": "Toho Terminal City 1 于 京都市 Studio246 KYOTO 举办",
+  "url": "https://thwiki.cc/Toho_Terminal_City#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "262bad94ac279248e0bf6e5b2e14abed143da14099892306f0f0388f62ff24b0",
+  "location": {
+    "type": "google",
+    "text": "京都市 Studio246 KYOTO",
+    "entity": [
+      {
+        "id": "ChIJk9aIligGAWAR7OoDDLYhqXg",
+        "addressLine1": "Studio 246 Kyoto",
+        "addressLine2": "マルヨシ １９ 四条大宮町 下京区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

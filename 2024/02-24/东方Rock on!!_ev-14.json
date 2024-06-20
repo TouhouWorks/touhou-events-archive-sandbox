@@ -1,0 +1,32 @@
+{
+  "id": "东方Rock on!!_ev-14",
+  "start": 1708732800,
+  "end": 1708732800,
+  "title": "東方ロックオン!!第14回",
+  "desc": "东方Rock on!!第14回 于 爱知县名古屋市 club LOVER:z 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Rock_on!!#ev-14",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b76e9969124ba4821187c2ebbd0a138fdb7c60ce2f9521af0cfad83207503736",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 club LOVER:z",
+    "entity": [
+      {
+        "id": "ChIJpWalSNtwA2AR9AgEZNDFY_Y",
+        "addressLine1": "Club LOVER:z (ラバーズ)",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２２−２２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

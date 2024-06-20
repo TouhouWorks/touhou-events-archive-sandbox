@@ -1,0 +1,70 @@
+{
+  "id": "中原东方同好茶会_ev-6",
+  "start": 1570320000,
+  "end": 1570320000,
+  "title": "中原第六届东方同好茶会",
+  "desc": "中原第六届东方同好茶会 于 郑州 正商新蓝钻 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%8E%9F%E4%B8%9C%E6%96%B9%E5%90%8C%E5%A5%BD%E8%8C%B6%E4%BC%9A#ev-6",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2f51835e63d7ba8369ce5a6a50699afcb811ac28bd3aa0fd7f65ccbd4573715a",
+  "location": {
+    "type": "google",
+    "text": "郑州 正商新蓝钻",
+    "entity": [
+      {
+        "id": "ChIJoUWgspxo1zUR1nvRHK6g5qY",
+        "addressLine1": "正商新蓝钻A区7栋",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJhR4OrYRo1zUReFVgrKOOD6A",
+        "addressLine1": "正商新蓝钻A区",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区 Weilai Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK9f2p5xo1zURRQBLDRL0J5k",
+        "addressLine1": "正商新蓝钻A区5栋",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJq0WPo5xo1zURJQ3a-us3i5w",
+        "addressLine1": "正商新蓝钻A区8栋",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJIaRWbZto1zURGMuC2awkbGw",
+        "addressLine1": "正商新蓝钻A区13栋",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

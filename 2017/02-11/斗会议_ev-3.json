@@ -1,0 +1,30 @@
+{
+  "id": "斗会议_ev-3",
+  "start": 1486771200,
+  "end": 1486771200,
+  "title": "闘会議2017 GAME PARTY JAPAN ～ゲームファンとゲーム大会の祭典～",
+  "desc": "斗会议2017 GAME PARTY JAPAN ~游戏实况与游戏大会的祭典~ 于 千叶县千叶市 幕张展览馆（幕張メッセ） 举办",
+  "url": "https://thwiki.cc/%E6%96%97%E4%BC%9A%E8%AE%AE#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "98ccc9eb64f5147e6436d597e846537744d3d0dab20016f9c9829b54e08b3972",
+  "location": {
+    "type": "google",
+    "text": "千叶县千叶市 幕张展览馆（幕張メッセ）",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕張メッセ",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方彩曲夜_ev-1",
+  "start": 1567209600,
+  "end": 1567209600,
+  "title": "Touhou NightSKY 1",
+  "desc": "东方彩曲夜1 于 马来西亚 沙登 马来西亚国际会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BD%A9%E6%9B%B2%E5%A4%9C#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8b78af99ac16dbefbe83310c94737e8fac067844a786646c4769e6ae6d4f902e",
+  "location": {
+    "type": "google",
+    "text": "马来西亚 沙登 马来西亚国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJvTc0j2RIzDERFLBFjAGj8yQ",
+        "addressLine1": "马来西亚国际贸易与会展中心",
+        "addressLine2": "マレーシア クアラ・ルンプル Segambut, Jalan Dutamas 2",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

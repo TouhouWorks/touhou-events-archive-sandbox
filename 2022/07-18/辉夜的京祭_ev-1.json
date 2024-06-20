@@ -1,0 +1,19 @@
+{
+  "id": "辉夜的京祭_ev-1",
+  "start": 1658102400,
+  "end": 1658102400,
+  "title": "輝夜の京祭 第一幕",
+  "desc": "辉夜的京祭 第一幕 于 京都府龟冈市 Galleria龟冈 响Hall 举办",
+  "url": "https://thwiki.cc/%E8%BE%89%E5%A4%9C%E7%9A%84%E4%BA%AC%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e88f19af711bd9e16b0ea454e4e480ec0a43f059f6435a92d30377c382356dd2",
+  "location": {
+    "type": "google",
+    "text": "京都府龟冈市 Galleria龟冈 响Hall",
+    "entity": []
+  },
+  "platform": 1
+}

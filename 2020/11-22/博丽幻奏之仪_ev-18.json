@@ -1,0 +1,19 @@
+{
+  "id": "博丽幻奏之仪_ev-18",
+  "start": 1606003200,
+  "end": 1606003200,
+  "title": "博麗幻奏之儀 拾捌部",
+  "desc": "博丽幻奏之仪 拾捌部 于 Youtube 线上 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E5%B9%BB%E5%A5%8F%E4%B9%8B%E4%BB%AA#ev-18",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "256c1ac2fe8c64e507a14028b3e2c1214c7164e861e9411295df06678b4fd239",
+  "location": {
+    "type": "google",
+    "text": "Youtube 线上",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,41 @@
+{
+  "id": "东方乐祭Global_ev-6",
+  "start": 1480896000,
+  "end": 1480896000,
+  "title": "東方樂祭Global 2016 in China 上海站",
+  "desc": "东方乐祭Global 2016 in China 上海站 于 上海市黄浦区重庆南路308号 MAO LIVEHOUSE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-6",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ef6da915e8fb516d11dcefd935630147433ead5c9565a0b410d4aa8154e2b928",
+  "location": {
+    "type": "google",
+    "text": "上海市黄浦区重庆南路308号 MAO LIVEHOUSE",
+    "entity": [
+      {
+        "id": "ChIJ5zcwRZ56sjURCwvhU_Kko18",
+        "addressLine1": "重庆南路308号",
+        "addressLine2": "中華人民共和国 上海市 黄浦区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      },
+      {
+        "id": "EjrkuK3oj6_kurrmsJHlhbHlkozlm70g5LiK5rW35biC6buE5rWm5Yy66YeN5bqG5Y2X6LevMzA45Y-3Ii4qLAoUChIJ5cOJUHRwsjURZxdibagzpkISFAoSCZOLZ05jcLI1EcKm-TQZkaub",
+        "addressLine1": "重庆南路308号",
+        "addressLine2": "中華人民共和国 上海市黄浦区",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

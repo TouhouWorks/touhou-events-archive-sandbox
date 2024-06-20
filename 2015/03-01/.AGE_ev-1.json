@@ -1,0 +1,19 @@
+{
+  "id": ".AGE_ev-1",
+  "start": 1425168000,
+  "end": 1425168000,
+  "title": "ドットエイジ2",
+  "desc": ".AGE2 于 东京都 东京批发贸易中心 举办",
+  "url": "https://thwiki.cc/.AGE#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "297b239b4c116f8142f95f0f3bcb7042de0f888e4869d01091d7fc99280bbea7",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京批发贸易中心",
+    "entity": []
+  },
+  "platform": 1
+}

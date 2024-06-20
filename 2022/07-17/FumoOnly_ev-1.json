@@ -1,0 +1,30 @@
+{
+  "id": "FumoOnly_ev-1",
+  "start": 1658016000,
+  "end": 1658016000,
+  "title": "FumoOnly-东方湖歌宴",
+  "desc": "FumoOnly-东方湖歌宴 于 江苏省苏州市吴中区迎春南路97号白金汉爵大酒店306会议厅 举办",
+  "url": "https://thwiki.cc/FumoOnly#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ffc5f03c575c847c3b362ce8589673fab6409db03f4537fb9411ed6f994ad412",
+  "location": {
+    "type": "google",
+    "text": "江苏省苏州市吴中区迎春南路97号白金汉爵大酒店306会议厅",
+    "entity": [
+      {
+        "id": "ChIJ0e7C4b0JszURHqD_t4YjdUM",
+        "addressLine1": "迎春南路97号",
+        "addressLine2": "中華人民共和国 江蘇省 蘇州市 呉中区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

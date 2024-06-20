@@ -1,0 +1,30 @@
+{
+  "id": "Rock'n roll By Twisted_ev-1",
+  "start": 1410566400,
+  "end": 1410566400,
+  "title": "Rock'n roll By Twisted 1",
+  "desc": "Rock&#39;n roll By Twisted 1 于 大阪府大阪市 南堀江knave 举办",
+  "url": "https://thwiki.cc/Rock%27n_roll_By_Twisted#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3fb4e8325d6bb26edffc2d70a49e94097613f0236c5c9327015b61285793404d",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 南堀江knave",
+    "entity": [
+      {
+        "id": "ChIJtZobEQfnAGARdE8RoBVGBh4",
+        "addressLine1": "南堀江knave",
+        "addressLine2": "日本、大阪府大阪市西区南堀江３丁目１１−２１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "福建THONLY_ev-1",
+  "start": 1579305600,
+  "end": 1579305600,
+  "title": "福建THONLY-白鷺風茗",
+  "desc": "福建THONLY-白鹭风茗 于 厦门 华侨大厦大酒店 五楼 举办",
+  "url": "https://thwiki.cc/%E7%A6%8F%E5%BB%BATHONLY#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f5edc1530348dbaa7b7ce3b89accb6ead9e5f1be92653eeb5b00b318fd059ce6",
+  "location": {
+    "type": "google",
+    "text": "厦门 华侨大厦大酒店 五楼",
+    "entity": []
+  },
+  "platform": 1
+}

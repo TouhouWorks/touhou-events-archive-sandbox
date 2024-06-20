@@ -1,0 +1,30 @@
+{
+  "id": "TOUHOU ROCK FES_ev-1",
+  "start": 1570233600,
+  "end": 1570233600,
+  "title": "TOUHOU ROCK FES 2019",
+  "desc": "TOUHOU ROCK FES 2019 于 东京都 高円寺Club ROOTS! 举办",
+  "url": "https://thwiki.cc/TOUHOU_ROCK_FES#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a029a57c10415340b316c49a8a6619aa8cf8ec592db17206466838bb47791304",
+  "location": {
+    "type": "google",
+    "text": "东京都 高円寺Club ROOTS!",
+    "entity": [
+      {
+        "id": "ChIJbQXdoX3yGGARwviBA_I6jTA",
+        "addressLine1": "高円寺 CLUB ROOTS",
+        "addressLine2": "３丁目-２２-３ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

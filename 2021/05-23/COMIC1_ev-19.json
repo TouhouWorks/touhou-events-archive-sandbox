@@ -1,0 +1,19 @@
+{
+  "id": "COMIC1_ev-19",
+  "start": 1621728000,
+  "end": 1621728000,
+  "title": "COMIC1 BS祭 スペシャル",
+  "desc": "COMIC1 BS祭 Special 于 东京都 东京国际展示场 青海展示栋 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57512d8a9872fa4367a637dbaaadb646d856de03231a3db1f6ffba5116ba017a",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 青海展示栋",
+    "entity": []
+  },
+  "platform": 1
+}

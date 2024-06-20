@@ -1,0 +1,33 @@
+{
+  "id": "东方Practice_ev-122",
+  "start": 1662249600,
+  "end": 1662249600,
+  "title": "東方Practice 95",
+  "desc": "东方Practice 95 于 名古屋市 荣CLUB JB&#39;S 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-122",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e15f98c627f0fbfc06869a7534eb355da2316d901ba77fa1cd2d12b611eae96a",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 荣CLUB JB&#39;S",
+    "entity": [
+      {
+        "id": "ChIJSdJNa9BwA2AR7vtuAqJv5J0",
+        "addressLine1": "club JB'S",
+        "addressLine2": "４丁目-３-１５ 栄 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

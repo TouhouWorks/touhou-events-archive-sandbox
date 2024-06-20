@@ -1,0 +1,19 @@
+{
+  "id": "少女游戏谈_ev-1",
+  "start": 1282348800,
+  "end": 1282348800,
+  "title": "少女遊戱談1",
+  "desc": "少女游戏谈1 于 韩国 首尔 蚕室 广告文化中心 三楼展览室 举办",
+  "url": "https://thwiki.cc/%E5%B0%91%E5%A5%B3%E6%B8%B8%E6%88%8F%E8%B0%88#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6bc473879ec0d9fafaec08af8a5bb0a4e7bfab565046ba0bfe277218a51eafe7",
+  "location": {
+    "type": "google",
+    "text": "韩国 首尔 蚕室 广告文化中心 三楼展览室",
+    "entity": []
+  },
+  "platform": 1
+}

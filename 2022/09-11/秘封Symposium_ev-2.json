@@ -1,0 +1,30 @@
+{
+  "id": "秘封Symposium_ev-2",
+  "start": 1662854400,
+  "end": 1662854400,
+  "title": "秘封シンポジウム 第2回",
+  "desc": "秘封Symposium 第2回 于 京都市 FANJ 举办",
+  "url": "https://thwiki.cc/%E7%A7%98%E5%B0%81Symposium#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2851de53d050ba59b5f83e13d9a6d05e5941dc766767291bb05a7e8bdc7eacc1",
+  "location": {
+    "type": "google",
+    "text": "京都市 FANJ",
+    "entity": [
+      {
+        "id": "ChIJ7U5C9tQJAWARTVPn9nxYY7g",
+        "addressLine1": "京都FANJ",
+        "addressLine2": "日本、京都府京都市左京区上高野車地町１０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,74 @@
+{
+  "id": "Far East \"JAMMING\" Night_ev-3",
+  "start": 1431129600,
+  "end": 1431129600,
+  "title": "Far East \"JAMMING\" Night3",
+  "desc": "Far East \"JAMMING\" Night3 于 东京都 Tokyo TUC 举办",
+  "url": "https://thwiki.cc/Far_East_%22JAMMING%22_Night#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ac44a27fb09c3f25a1df5124e29f26bcd18ed8c930928031e0646871dedc7fec",
+  "location": {
+    "type": "google",
+    "text": "东京都 Tokyo TUC",
+    "entity": [
+      {
+        "id": "ChIJB2VdgoaNGGARrQIAaN8TZP4",
+        "addressLine1": "TUCショップ 新宿歌舞伎町店",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJE9M6Sh2MGGAR__IpnD4NF-o",
+        "addressLine1": "TUC",
+        "addressLine2": "１丁目-１５ 外神田 東京 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK1ekecCOGGARGvqKqBYYz_M",
+        "addressLine1": "TUC SHOP　浅草店",
+        "addressLine2": "日本、東京都台東区浅草２丁目４−６",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJkemqWZ6OGGARJxJKbpZeQts",
+        "addressLine1": "ＴＵＣショップ新上野店",
+        "addressLine2": "日本、東京都台東区上野６丁目１３−８",
+        "provider": "google_places",
+        "categories": [
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJaZqcFcmNGGAR4xQ2rt5cqqE",
+        "addressLine1": "TUCショップ 新大久保駅前店",
+        "addressLine2": "日本、東京都新宿区百人町２丁目１０−１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "洛阳东方线下活动_ev-3",
+  "start": 1707955200,
+  "end": 1707955200,
+  "title": "洛阳东方线下活动-洛阳东方茶会·东方雾隐清观",
+  "desc": "洛阳东方线下活动-洛阳东方茶会·东方雾隐清观 于 河南省洛阳市涧西区辽宁路华阳世纪中心西侧20米 舍·素(世纪华阳店) 举办",
+  "url": "https://thwiki.cc/%E6%B4%9B%E9%98%B3%E4%B8%9C%E6%96%B9%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "58c7d945e021cd2c3cee893756b5706e9e450cce3ea39e17fd105083f5a0b058",
+  "location": {
+    "type": "google",
+    "text": "河南省洛阳市涧西区辽宁路华阳世纪中心西侧20米 舍·素(世纪华阳店)",
+    "entity": [
+      {
+        "id": "ChIJg8lM0PRveDYRled7ivRAQjs",
+        "addressLine1": "Century Center",
+        "addressLine2": "Liaoning Rd, 澗西区 洛陽市 河南省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

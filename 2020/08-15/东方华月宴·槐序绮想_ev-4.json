@@ -1,0 +1,32 @@
+{
+  "id": "东方华月宴·槐序绮想_ev-4",
+  "start": 1597449600,
+  "end": 1597449600,
+  "title": "鄭州THO-東方繁星頌",
+  "desc": "郑州THO-东方繁星颂 于 郑州 源丰商务酒店(陇海路店) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f7d69be28e5c5dd0200369c209dcc45b7a3e6c735be7d5255db7bd43cb01487d",
+  "location": {
+    "type": "google",
+    "text": "郑州 源丰商务酒店(陇海路店)",
+    "entity": [
+      {
+        "id": "ChIJU1fKrxlm1zURzRt4SHGhrkU",
+        "addressLine1": "源丰商务酒店",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区 Longhai East Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

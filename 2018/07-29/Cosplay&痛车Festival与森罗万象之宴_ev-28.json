@@ -1,0 +1,36 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-28",
+  "start": 1532822400,
+  "end": 1532822400,
+  "title": "第二十八回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第二十八回 Cosplay&痛车Festival与森罗万象之宴 于 千叶县木更津市 木更津キサラピア 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-28",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bca11f592f11dc278197aa9243978dd8f0ef7ba8a907e14954fbe245a228fd14",
+  "location": {
+    "type": "google",
+    "text": "千叶县木更津市 木更津キサラピア",
+    "entity": [
+      {
+        "id": "ChIJhdmSPotzGGARLvUioImhVns",
+        "addressLine1": "木更津かんらんしゃパーク キサラピア",
+        "addressLine2": "日本、千葉県木更津市金田東２丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "COMIC1_ev-16",
+  "start": 1570320000,
+  "end": 1570320000,
+  "title": "COMIC1☆16",
+  "desc": "COMIC1☆16 于 东京都 东京国际展示场 南展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fe23a18e5681a6cbbee228861ee3a598ff773d385b38fec92182eb2e76db37b0",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 南展厅",
+    "entity": [
+      {
+        "id": "ChIJfeA_Vd6JGGARbeHNibw9Gho",
+        "addressLine1": "東京ビッグサイト 南展示棟",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

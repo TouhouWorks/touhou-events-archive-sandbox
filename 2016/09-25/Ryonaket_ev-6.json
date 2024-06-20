@@ -1,0 +1,19 @@
+{
+  "id": "Ryonaket_ev-6",
+  "start": 1474761600,
+  "end": 1474761600,
+  "title": "りょなけっと6",
+  "desc": "Ryonaket 6 于 东京都 东京批发贸易中心 举办",
+  "url": "https://thwiki.cc/Ryonaket#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c625750246418de47365fe8fe369d2a05993966fdb5e103ef312999b54350465",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京批发贸易中心",
+    "entity": []
+  },
+  "platform": 1
+}

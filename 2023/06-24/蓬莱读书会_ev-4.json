@@ -1,0 +1,44 @@
+{
+  "id": "蓬莱读书会_ev-4",
+  "start": 1687564800,
+  "end": 1687564800,
+  "title": "第四回蓬莱読書会",
+  "desc": "第四回蓬莱读书会 于 名古屋国际中心 举办",
+  "url": "https://thwiki.cc/%E8%93%AC%E8%8E%B1%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-4",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0fea37d92bb98f2720ab4713cfe5e77d0e2f6fdfb7451cf2f3388f601e8755e3",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际中心",
+    "entity": [
+      {
+        "id": "ChIJrw8vrtt2A2ARxr3xTRAK40I",
+        "addressLine1": "名古屋国际中心",
+        "addressLine2": "日本、愛知県名古屋市中村区那古野１丁目４７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJP2Beltt2A2ARCMIYoITaxbU",
+        "addressLine1": "国际中心（爱知）",
+        "addressLine2": "日本、愛知県名古屋市中村区名駅４丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

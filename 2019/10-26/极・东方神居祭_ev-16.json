@@ -1,0 +1,32 @@
+{
+  "id": "极・东方神居祭_ev-16",
+  "start": 1572048000,
+  "end": 1572048000,
+  "title": "極・東方神居祭16",
+  "desc": "极・东方神居祭16 于 札幌 TKPガーデンシティPREMIUM札幌大通 举办",
+  "url": "https://thwiki.cc/%E6%9E%81%E3%83%BB%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "178ae43f9edd2ee6ea448e5f0a6692bfaffb475d8c541181d7c9021b70cec955",
+  "location": {
+    "type": "google",
+    "text": "札幌 TKPガーデンシティPREMIUM札幌大通",
+    "entity": [
+      {
+        "id": "ChIJZ3p5CHYpC18RLKWt5ln9NtA",
+        "addressLine1": "TKPガーデンシティPREMIUM札幌大通",
+        "addressLine2": "日本、北海道札幌市中央区南１条西１丁目8−２",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

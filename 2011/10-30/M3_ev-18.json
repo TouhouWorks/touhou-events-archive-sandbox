@@ -1,0 +1,34 @@
+{
+  "id": "M3_ev-18",
+  "start": 1319932800,
+  "end": 1319932800,
+  "title": "M3-2011秋",
+  "desc": "M3-2011秋 于 东京流通中心(TRC) 第1・第2展厅 举办",
+  "url": "https://thwiki.cc/M3#ev-18",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2d75897ade14de7094c1ef9928dc0844134505f5433842fa2a72b659821066db",
+  "location": {
+    "type": "google",
+    "text": "东京流通中心(TRC) 第1・第2展厅",
+    "entity": [
+      {
+        "id": "ChIJITG0R7xhGGARCCOKn_nfktc",
+        "addressLine1": "流通センター駅",
+        "addressLine2": "日本、東京都大田区平和島６丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

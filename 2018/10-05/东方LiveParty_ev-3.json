@@ -1,0 +1,30 @@
+{
+  "id": "东方LiveParty_ev-3",
+  "start": 1538697600,
+  "end": 1538697600,
+  "title": "东方LiveParty×东方游剧天",
+  "desc": "东方LiveParty×东方游剧天 于 广州 岭南电子商务产业园 1层 会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c5abca26d770aab413b82fcd841ed83c5e88784c1b0e7c037e64a5aa958399f",
+  "location": {
+    "type": "google",
+    "text": "广州 岭南电子商务产业园 1层 会展中心",
+    "entity": [
+      {
+        "id": "ChIJEeDY0tZVAjQR2UrP34A_oaI",
+        "addressLine1": "电子商务产业园",
+        "addressLine2": "中華人民共和国 広東省 广州 海珠区 工业大道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

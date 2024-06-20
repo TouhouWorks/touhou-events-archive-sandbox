@@ -1,0 +1,19 @@
+{
+  "id": "东方晓月宴_ev-1",
+  "start": 1382227200,
+  "end": 1382227200,
+  "title": "東方暁月宴1",
+  "desc": "东方晓月宴1 于 熊本市 Precious熊本-Fantasy Cafe- 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%99%93%E6%9C%88%E5%AE%B4#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "25d3181cbc37c429910fc8339c32eade302dde4b6e79b7dd79e9ab4437009723",
+  "location": {
+    "type": "google",
+    "text": "熊本市 Precious熊本-Fantasy Cafe-",
+    "entity": []
+  },
+  "platform": 1
+}

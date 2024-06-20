@@ -1,0 +1,32 @@
+{
+  "id": "上海活动写真馆_ev-1",
+  "start": 1305936000,
+  "end": 1305936000,
+  "title": "上海活動写真館1",
+  "desc": "上海活动写真馆1 于 东京都 STUDIO NOAH池袋店 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7%E6%B4%BB%E5%8A%A8%E5%86%99%E7%9C%9F%E9%A6%86#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4005585a2813bde2bfb54aed866c63c046a34d0379b1d7e476bc3957ce944c86",
+  "location": {
+    "type": "google",
+    "text": "东京都 STUDIO NOAH池袋店",
+    "entity": [
+      {
+        "id": "ChIJeRnSH2SNGGARkUPVyFncObU",
+        "addressLine1": "サウンドスタジオノア 池袋店",
+        "addressLine2": "日本、東京都豊島区東池袋２丁目６３−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

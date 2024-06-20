@@ -1,0 +1,30 @@
+{
+  "id": "雾之异变_ev-1",
+  "start": 1367280000,
+  "end": 1367280000,
+  "title": "重慶東方projectONLY—霧之異變",
+  "desc": "重庆东方ONLY—雾之异变 于 重庆市 陈家坪展览中心 多功能厅 举办",
+  "url": "https://thwiki.cc/%E9%9B%BE%E4%B9%8B%E5%BC%82%E5%8F%98#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82fc8fbfb611c936aa5a76e9923db958cc4196ece4aa1b809e8c9b746cb2f149",
+  "location": {
+    "type": "google",
+    "text": "重庆市 陈家坪展览中心 多功能厅",
+    "entity": [
+      {
+        "id": "ChIJ2ybXov7K7DYRnDcY0hAq1cQ",
+        "addressLine1": "陈家坪展览中心",
+        "addressLine2": "中華人民共和国 重庆市 九竜坡区 高新区 Keyuansi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

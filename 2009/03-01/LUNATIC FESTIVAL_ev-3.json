@@ -1,0 +1,42 @@
+{
+  "id": "LUNATIC FESTIVAL_ev-3",
+  "start": 1235865600,
+  "end": 1235865600,
+  "title": "るなフェス3",
+  "desc": "LUNATIC FESTIVAL 3 于 金泽流通会馆 举办",
+  "url": "https://thwiki.cc/LUNATIC_FESTIVAL#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "70bbb9248d893063e197419e4593e3ae15c457601bac75e88179b101769f8382",
+  "location": {
+    "type": "google",
+    "text": "金泽流通会馆",
+    "entity": [
+      {
+        "id": "ChIJy4mb_w_N-V8RpAKIAY7F98A",
+        "addressLine1": "金沢流通会館お客様駐車場",
+        "addressLine2": "日本、石川県金沢市問屋町１丁目",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJlZH1U9_M-V8Ru6DqD1dI43I",
+        "addressLine1": "金沢流通会館",
+        "addressLine2": "日本、石川県金沢市問屋町２丁目６１番地",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

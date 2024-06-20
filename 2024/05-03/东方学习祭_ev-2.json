@@ -1,0 +1,19 @@
+{
+  "id": "东方学习祭_ev-2",
+  "start": 1714694400,
+  "end": 1714694400,
+  "title": "第2回 東方勉強祭 ～Let's Study with Touhou Project～",
+  "desc": "第2回 东方学习祭 ~Let&#39;s Study with Touhou Project~ 于 东京Big Sight 东展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%AD%A6%E4%B9%A0%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0ef650269dd7c30d6982c1e1dbb1f1699e6c8d26918b45eb160d1ccf2291f1e9",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 东展厅",
+    "entity": []
+  },
+  "platform": 1
+}

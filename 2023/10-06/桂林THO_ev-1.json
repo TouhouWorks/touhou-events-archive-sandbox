@@ -1,0 +1,19 @@
+{
+  "id": "桂林THO_ev-1",
+  "start": 1696550400,
+  "end": 1696550400,
+  "title": "桂林THO-幻想漓水行",
+  "desc": "桂林THO-幻想漓水行 于 广西壮族自治区桂林市七星区穿山东路16-7号维也纳酒店（桂林会展中心店） 举办",
+  "url": "https://thwiki.cc/%E6%A1%82%E6%9E%97THO#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "acf8698e7d1b5450d52d91d5562a3bc35c19a2cae7989759846881f6c94e8e48",
+  "location": {
+    "type": "google",
+    "text": "广西壮族自治区桂林市七星区穿山东路16-7号维也纳酒店（桂林会展中心店）",
+    "entity": []
+  },
+  "platform": 1
+}

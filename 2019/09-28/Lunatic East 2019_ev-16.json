@@ -1,0 +1,30 @@
+{
+  "id": "Lunatic East 2019_ev-16",
+  "start": 1569628800,
+  "end": 1569628800,
+  "title": "Lunatic East 2019 16",
+  "desc": "Lunatic East 2019 16 于 东京都 新宿club SCIENCE 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-16",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a042f7c57d496f0300f089ccda78412ed88ae71689a7089571b29b611b691dd9",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿club SCIENCE",
+    "entity": [
+      {
+        "id": "ChIJu_xTq2qNGGAR2NlcQ7sDMh4",
+        "addressLine1": "新宿 club SCIENCE",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目２５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Saturday Night Fever_ev-1",
+  "start": 1311465600,
+  "end": 1311465600,
+  "title": "Saturday Night Fever 1",
+  "desc": "Saturday Night Fever 1 于 北九州市 西日本综合展示场 举办",
+  "url": "https://thwiki.cc/Saturday_Night_Fever#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b0b7f98acbad8e66c3889df559ab749f1cf18c7d3fbc53746651b2ea0c6187c6",
+  "location": {
+    "type": "google",
+    "text": "北九州市 西日本综合展示场",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

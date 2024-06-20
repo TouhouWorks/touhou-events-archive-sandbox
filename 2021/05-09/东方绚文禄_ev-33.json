@@ -1,0 +1,30 @@
+{
+  "id": "东方绚文禄_ev-33",
+  "start": 1620518400,
+  "end": 1620518400,
+  "title": "東方絢文禄 尾張の卷 第三十二弾",
+  "desc": "东方绚文禄 尾张之卷 第三十二弹 于 名古屋国际会议场 白鸟Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-33",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "83a54f867ba997b0bfe7acb8d5d2c242906455cbe9b3616558ad7268560d96db",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际会议场 白鸟Hall",
+    "entity": [
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "名古屋国际会议场",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

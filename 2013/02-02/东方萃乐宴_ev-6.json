@@ -1,0 +1,30 @@
+{
+  "id": "东方萃乐宴_ev-6",
+  "start": 1359763200,
+  "end": 1359763200,
+  "title": "東方萃楽宴6",
+  "desc": "东方萃乐宴6 于 福冈县北九州市 SUB kokura 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E4%B9%90%E5%AE%B4#ev-6",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "96577e9ba41e390d51b39a82b7690bd828628b4f8f342478be6a59e7fab39b8a",
+  "location": {
+    "type": "google",
+    "text": "福冈县北九州市 SUB kokura",
+    "entity": [
+      {
+        "id": "ChIJueAxhFG_QzURV2QW2TA7CU0",
+        "addressLine1": "SUB　kokura",
+        "addressLine2": "日本、福岡県北九州市小倉北区紺屋町７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

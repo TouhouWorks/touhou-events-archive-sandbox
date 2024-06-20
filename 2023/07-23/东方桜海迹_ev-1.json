@@ -1,0 +1,19 @@
+{
+  "id": "东方桜海迹_ev-1",
+  "start": 1690070400,
+  "end": 1690070400,
+  "title": "东方桜海迹1",
+  "desc": "东方桜海迹1 于 烟台市莱山区上市里霓虹街187号 顺酒馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A1%9C%E6%B5%B7%E8%BF%B9#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2f896dd1b3194446c6a17ad08951d4d8c4f874ebc359dc20644eb7993058d7b2",
+  "location": {
+    "type": "google",
+    "text": "烟台市莱山区上市里霓虹街187号 顺酒馆",
+    "entity": []
+  },
+  "platform": 1
+}

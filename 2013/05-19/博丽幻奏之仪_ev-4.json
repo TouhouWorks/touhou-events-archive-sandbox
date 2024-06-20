@@ -1,0 +1,34 @@
+{
+  "id": "博丽幻奏之仪_ev-4",
+  "start": 1368921600,
+  "end": 1368921600,
+  "title": "博麗幻奏之儀 肆部",
+  "desc": "博丽幻奏之仪 肆部 于 东京 东京大学本乡校区 生协第二食堂 三层大厅 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E5%B9%BB%E5%A5%8F%E4%B9%8B%E4%BB%AA#ev-4",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e527ca24a91770748d4565509acd6be3b8aa978bd9623783aeead0b7381ab529",
+  "location": {
+    "type": "google",
+    "text": "东京 东京大学本乡校区 生协第二食堂 三层大厅",
+    "entity": [
+      {
+        "id": "ChIJeagCVSWMGGARyjOxYq_d524",
+        "addressLine1": "東京大學本鄉第二食堂",
+        "addressLine2": "日本、東京都文京区本郷７丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

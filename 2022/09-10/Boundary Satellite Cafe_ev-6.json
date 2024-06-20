@@ -1,0 +1,20 @@
+{
+  "id": "Boundary Satellite Cafe_ev-6",
+  "start": 1662768000,
+  "end": 1662768000,
+  "title": "第六回 Boundary Satellite Cafe",
+  "desc": "第六回 Boundary Satellite Cafe 于 京都市 Mogu Mogu（9月10日）</br>狐庵 KissaCo（9月11日） 举办",
+  "url": "https://thwiki.cc/Boundary_Satellite_Cafe#ev-6",
+  "type": [
+    "展会",
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5a30486e431e351177f3acf2c53483d2fd5532b183704636e91c2836fbbf53e5",
+  "location": {
+    "type": "google",
+    "text": "京都市 Mogu Mogu（9月10日）</br>狐庵 KissaCo（9月11日）",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,60 @@
+{
+  "id": "Bakery风见出张音乐会_ev-1",
+  "start": 1313280000,
+  "end": 1313280000,
+  "title": "ベーカリー風見出張音楽会～ひまわりパンとなないろハーブティー（毒～",
+  "desc": "Bakery风见出张音乐会～向日葵面包和七色香草茶（毒～ 于 东京都 新宿Marble 举办",
+  "url": "https://thwiki.cc/Bakery%E9%A3%8E%E8%A7%81%E5%87%BA%E5%BC%A0%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8a7368d4a95f5e83b7b695a86f14837e757b39b2cedf691bb5e87eec7bae2b67",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿Marble",
+    "entity": [
+      {
+        "id": "ChIJWUBAWIeNGGARx5IeuCQ80Ts",
+        "addressLine1": "新宿Marble",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目４５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJlVe4oleLGGARRzgwYZOj3a4",
+        "addressLine1": "Marble Lounge",
+        "addressLine2": "６丁目-６-２ 西新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJQc2aedONGGARSgi_VjUib-w",
+        "addressLine1": "marbre vegan",
+        "addressLine2": "２丁目-１-５ 新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "bakery",
+          "BAKERY",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

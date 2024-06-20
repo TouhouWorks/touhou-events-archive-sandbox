@@ -1,0 +1,86 @@
+{
+  "id": "Fullcontact!_ev-2",
+  "start": 1358553600,
+  "end": 1358553600,
+  "title": "Fullcontact!Vol.2",
+  "desc": "Fullcontact!Vol.2 于 东京都 浅草桥BUNGAJAN 举办",
+  "url": "https://thwiki.cc/Fullcontact!#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "339be06244a5c8b206a58b65312b6cae165e2a2b9f31285e51b77558905ab990",
+  "location": {
+    "type": "google",
+    "text": "东京都 浅草桥BUNGAJAN",
+    "entity": [
+      {
+        "id": "ChIJy9u3lbGOGGAR64cimvJDwnE",
+        "addressLine1": "浅草桥",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJM1N_BMKOGGARZ0DHgTj9hHw",
+        "addressLine1": "浅草",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJr-AfyrOOGGARWBazD9OfYeg",
+        "addressLine1": "浅草桥",
+        "addressLine2": "日本、東京都台東区浅草橋１丁目１８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJVVUlLuqOGGAR7MGQwTISSQA",
+        "addressLine1": "浅草警察署",
+        "addressLine2": "日本、東京都台東区浅草４丁目４７−１１",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK0ZAJ-mOGGARPYbIUXnw6a8",
+        "addressLine1": "浅草病院",
+        "addressLine2": "日本、東京都台東区今戸２丁目２６−１５",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

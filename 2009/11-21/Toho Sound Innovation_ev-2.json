@@ -1,0 +1,34 @@
+{
+  "id": "Toho Sound Innovation_ev-2",
+  "start": 1258761600,
+  "end": 1258761600,
+  "title": "Toho Sound Innovation vol.2",
+  "desc": "Toho Sound Innovation vol.2 于 东京都 秋叶原MOGRA 举办",
+  "url": "https://thwiki.cc/Toho_Sound_Innovation#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5072b94ece8cb7936955a78c571b1166c2f7674c814b9adaffb5879a9c2f1ce7",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原MOGRA",
+    "entity": [
+      {
+        "id": "ChIJfTAoGaeOGGARgOE33ESSm-Q",
+        "addressLine1": "MOGRA",
+        "addressLine2": "日本、東京都台東区秋葉原３−１１−階",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

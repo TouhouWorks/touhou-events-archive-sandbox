@@ -1,0 +1,54 @@
+{
+  "id": "东方飨宴祭_ev-2",
+  "start": 1329523200,
+  "end": 1329523200,
+  "title": "東方饗宴祭巻の弐",
+  "desc": "东方飨宴祭巻の弐 于 东京都 下北泽REG 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A3%A8%E5%AE%B4%E7%A5%AD#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3ff31b9c6ef6086e943f192659f2a059fa3e232745be8f0d9056a7dc959edf81",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽REG",
+    "entity": [
+      {
+        "id": "ChIJQbfC_mrzGGARhMNloioNlFM",
+        "addressLine1": "RAGTAG 下北沢店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目３４−１２",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJrfw27eXzGGAR89tYHaRHOo8",
+        "addressLine1": "Regolith",
+        "addressLine2": "２丁目-６-８ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAQAAwGrzGGARWnJvCW7FpfE",
+        "addressLine1": "regalo farm",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目３０−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

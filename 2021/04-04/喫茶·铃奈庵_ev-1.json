@@ -1,0 +1,19 @@
+{
+  "id": "喫茶·铃奈庵_ev-1",
+  "start": 1617494400,
+  "end": 1617494400,
+  "title": "喫茶･鈴奈庵1",
+  "desc": "喫茶·铃奈庵1 于 三重县松阪市 月光屋顶 第2章 举办",
+  "url": "https://thwiki.cc/%E5%96%AB%E8%8C%B6%C2%B7%E9%93%83%E5%A5%88%E5%BA%B5#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "54be7e9bbdbf916da49890085d6b742282fa64bb97823bc49e08d453da02e4b1",
+  "location": {
+    "type": "google",
+    "text": "三重县松阪市 月光屋顶 第2章",
+    "entity": []
+  },
+  "platform": 1
+}

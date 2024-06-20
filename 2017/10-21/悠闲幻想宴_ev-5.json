@@ -1,0 +1,40 @@
+{
+  "id": "悠闲幻想宴_ev-5",
+  "start": 1508544000,
+  "end": 1508544000,
+  "title": "まったり幻想宴5",
+  "desc": "悠闲幻想宴5 于 东京文具共和会馆 举办",
+  "url": "https://thwiki.cc/%E6%82%A0%E9%97%B2%E5%B9%BB%E6%83%B3%E5%AE%B4#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0079694de3daf091de1d5ca44b269e16a709ea45a937c88c68c6fcbf068b2ef",
+  "location": {
+    "type": "google",
+    "text": "东京文具共和会馆",
+    "entity": [
+      {
+        "id": "ChIJLUVUa7OOGGARaUkVezfio_E",
+        "addressLine1": "貸し会議室 東京文具共和会館 浅草橋",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn_zvFLOOGGARdkIjVUs9QMY",
+        "addressLine1": "東京文具共和会館",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

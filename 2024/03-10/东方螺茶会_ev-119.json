@@ -1,0 +1,70 @@
+{
+  "id": "东方螺茶会_ev-119",
+  "start": 1710028800,
+  "end": 1710028800,
+  "title": "東方螺茶会 土佐の宴 第六季",
+  "desc": "东方螺茶会 土佐之宴 第六季 于 高知市文化Plaza (かるぽーと) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-119",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2e15a8b9d209a918a0129a3ccada4eabe0e6b7dc31022df5e2046eecac64d0ef",
+  "location": {
+    "type": "google",
+    "text": "高知市文化Plaza (かるぽーと)",
+    "entity": [
+      {
+        "id": "ChIJGaWJIE8ZTjURc-3k7JTHrtI",
+        "addressLine1": "高知市文化プラザかるぽーと",
+        "addressLine2": "日本、高知県高知市九反田１−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJC6lx4E4ZTjURUftusqheNjs",
+        "addressLine1": "かるぽーと",
+        "addressLine2": "日本、高知県高知市九反田２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzWfsIE8ZTjUROZL857n_7sU",
+        "addressLine1": "（公財）高知市文化振興事業団",
+        "addressLine2": "日本、高知県高知市九反田２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJI_PyIE8ZTjURn-0_Y2plgdA",
+        "addressLine1": "高知市文化プラザかるぽーと 大・小ホール、スタジオ",
+        "addressLine2": "日本、高知県高知市九反田２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzWfsIE8ZTjURsTyuyIyWJ9Q",
+        "addressLine1": "高知市文化プラザ・かるぽーとホール・ギャラリー・スタジオのお問い合わせ",
+        "addressLine2": "日本、高知県高知市九反田２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

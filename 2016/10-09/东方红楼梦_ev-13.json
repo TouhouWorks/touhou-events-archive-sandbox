@@ -1,0 +1,19 @@
+{
+  "id": "东方红楼梦_ev-13",
+  "start": 1475971200,
+  "end": 1475971200,
+  "title": "東方紅楼夢12",
+  "desc": "东方红楼梦12 于 大阪国际展览中心 4号馆・6号馆B区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dd35f625a1e4a0cf5431d1dcb8d383ae027edab1dc44ab9e8ef90cae4279f8b5",
+  "location": {
+    "type": "google",
+    "text": "大阪国际展览中心 4号馆・6号馆B区",
+    "entity": []
+  },
+  "platform": 1
+}

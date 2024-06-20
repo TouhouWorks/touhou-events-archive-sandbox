@@ -1,0 +1,34 @@
+{
+  "id": "空气3月的同人祭_ev-1",
+  "start": 1647648000,
+  "end": 1647648000,
+  "title": "エア3月の同人祭2022",
+  "desc": "空气3月的同人祭2022 于 东京都 Melonbooks秋叶原1号店大楼 举办",
+  "url": "https://thwiki.cc/%E7%A9%BA%E6%B0%943%E6%9C%88%E7%9A%84%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ebdb3d1d2d1bd042586d3d7964c50c01b9fa85de61b4d7b34325db27f2083a84",
+  "location": {
+    "type": "google",
+    "text": "东京都 Melonbooks秋叶原1号店大楼",
+    "entity": [
+      {
+        "id": "ChIJgz-DBh2MGGARF6SNNgpQLNU",
+        "addressLine1": "Melonbooks 秋叶原1号店",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１０−５",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

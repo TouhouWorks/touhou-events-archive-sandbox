@@ -1,0 +1,42 @@
+{
+  "id": "爱知名古屋东方读书会_ev-4",
+  "start": 1711756800,
+  "end": 1711756800,
+  "title": "第四回 あいち名古屋東方読書会",
+  "desc": "第四回 爱知名古屋东方读书会 于 名古屋市Niterra日本特殊陶业市民会馆 举办",
+  "url": "https://thwiki.cc/%E7%88%B1%E7%9F%A5%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-4",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a951c71e3e6bf91ccfe2d06b8ffbe8e08077d52ed0dcccedd5f73359c36f1635",
+  "location": {
+    "type": "google",
+    "text": "名古屋市Niterra日本特殊陶业市民会馆",
+    "entity": [
+      {
+        "id": "ChIJs1wJR013A2AR4JKEBgLg9VI",
+        "addressLine1": "日本特殊陶業市民会館",
+        "addressLine2": "日本、愛知県名古屋市中区金山１丁目５−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJTa2US013A2ARrH248lJHgZw",
+        "addressLine1": "日本特殊陶業市民会館 有料駐車場(主催者優先)",
+        "addressLine2": "日本、愛知県名古屋市中区金山１丁目５",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

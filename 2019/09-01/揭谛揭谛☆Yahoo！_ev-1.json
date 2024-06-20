@@ -1,0 +1,30 @@
+{
+  "id": "揭谛揭谛☆Yahoo！_ev-1",
+  "start": 1567296000,
+  "end": 1567296000,
+  "title": "ぎゃてぎゃてやっほー！1",
+  "desc": "揭谛揭谛☆Yahoo！1 于 东京 绵商会馆 4层 举办",
+  "url": "https://thwiki.cc/%E6%8F%AD%E8%B0%9B%E6%8F%AD%E8%B0%9B%E2%98%86Yahoo%EF%BC%81#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f937ea2b3e4639955e61c387f23f20916676229ae096d1c24d792047abb408f0",
+  "location": {
+    "type": "google",
+    "text": "东京 绵商会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

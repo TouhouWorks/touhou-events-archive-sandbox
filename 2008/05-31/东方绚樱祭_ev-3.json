@@ -1,0 +1,32 @@
+{
+  "id": "东方绚樱祭_ev-3",
+  "start": 1212192000,
+  "end": 1212192000,
+  "title": "東方絢櫻祭3 -櫻華永燦-",
+  "desc": "东方绚樱祭3 -樱华永灿- 于 台北市 耕莘文教院 1层 大礼堂 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%A8%B1%E7%A5%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f15d2139a40a67755947199662b96f1b4ec2ecebb493dd481d43bf2dea167a46",
+  "location": {
+    "type": "google",
+    "text": "台北市 耕莘文教院 1层 大礼堂",
+    "entity": [
+      {
+        "id": "ChIJZwbBg46pQjQRVrZeVjmWJ6o",
+        "addressLine1": "耕莘文教院",
+        "addressLine2": "台湾 台北市 中正区",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

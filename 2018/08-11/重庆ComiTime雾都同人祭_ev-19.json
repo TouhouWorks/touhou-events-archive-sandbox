@@ -1,0 +1,72 @@
+{
+  "id": "重庆ComiTime雾都同人祭_ev-19",
+  "start": 1533945600,
+  "end": 1533945600,
+  "title": "ComiTime18",
+  "desc": "ComiTime18 于 重庆市 重庆国际博览中心 举办",
+  "url": "https://thwiki.cc/%E9%87%8D%E5%BA%86ComiTime%E9%9B%BE%E9%83%BD%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4e917f21e7c7d7fee482a795853502c2f14d3a282d205b9c22835f7fe14b8707",
+  "location": {
+    "type": "google",
+    "text": "重庆市 重庆国际博览中心",
+    "entity": [
+      {
+        "id": "ChIJmWr6hug0kzYRFeZfSweg7v4",
+        "addressLine1": "重庆国际博览中心",
+        "addressLine2": "中華人民共和国 重庆市 南岸区 Sigongli",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJcR3qTc4skzYRXSl0UxfqP6I",
+        "addressLine1": "重庆国际博览中心",
+        "addressLine2": "中華人民共和国 重庆市 渝北区 Nanqu N Ring Avenue",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDa8iBc8skzYR-KIcsQmjGL8",
+        "addressLine1": "重庆国际博览中心有限公司",
+        "addressLine2": "中華人民共和国 重庆市 渝北区 Yuelai Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1RWmotMskzYR_ufUYhNjTO0",
+        "addressLine1": "重庆国际博览中心特斯拉目的地充电站",
+        "addressLine2": "中華人民共和国 重庆市 渝北区 环岛路, P1",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJL9m7C9MskzYRRa6Nium8-7s",
+        "addressLine1": "重庆国际博览中心南区P2停车场",
+        "addressLine2": "中華人民共和国 重庆市 渝北区 Nanqu S Ring Avenue",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

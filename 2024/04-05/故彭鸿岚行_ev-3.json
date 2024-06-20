@@ -1,0 +1,32 @@
+{
+  "id": "故彭鸿岚行_ev-3",
+  "start": 1712275200,
+  "end": 1712275200,
+  "title": "徐州THO·阑珊夕影",
+  "desc": "徐州THO·阑珊夕影 于 江苏省 徐州市 泉山区 万达广场全季酒店 举办",
+  "url": "https://thwiki.cc/%E6%95%85%E5%BD%AD%E9%B8%BF%E5%B2%9A%E8%A1%8C#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a87e89d936efd5931e51e79904e131d0f30d3f2ca289a8a1cb7e59816f9836ab",
+  "location": {
+    "type": "google",
+    "text": "江苏省 徐州市 泉山区 万达广场全季酒店",
+    "entity": [
+      {
+        "id": "ChIJ6V86rZ8HxjURwhXzz2d_G9c",
+        "addressLine1": "泉山区",
+        "addressLine2": "中華人民共和国 江苏省徐州市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

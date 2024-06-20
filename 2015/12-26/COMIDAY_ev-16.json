@@ -1,0 +1,30 @@
+{
+  "id": "COMIDAY_ev-16",
+  "start": 1451088000,
+  "end": 1451088000,
+  "title": "COMIDAY16",
+  "desc": "COMIDAY16 于 成都市 世纪城新国际会展中心 5号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43049f4d13444d6ff4fcacf7f7bfdf8e2436976c2f7495f4fee83167a74b266d",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 5号馆",
+    "entity": [
+      {
+        "id": "ChIJ70jmuUDG7zYRx7UB1oK79Yw",
+        "addressLine1": "世纪城新国际会展中心",
+        "addressLine2": "中華人民共和国 四川省 成都市 武侯区 Yulin",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

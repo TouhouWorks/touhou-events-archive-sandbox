@@ -1,0 +1,34 @@
+{
+  "id": "Border Room Tokyo_ev-2",
+  "start": 1490400000,
+  "end": 1490400000,
+  "title": "Border Room Tokyo 2",
+  "desc": "Border Room Tokyo 2 于 东京都 青山蜂 举办",
+  "url": "https://thwiki.cc/Border_Room_Tokyo#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f5f08e76a5393ed061b8302c6c312a7c800cc32bbb93c06aaaf05b5b9475ec6b",
+  "location": {
+    "type": "google",
+    "text": "东京都 青山蜂",
+    "entity": [
+      {
+        "id": "ChIJGTANf16LGGARzn7_UG-qz8U",
+        "addressLine1": "青山蜂",
+        "addressLine2": "日本、東京都渋谷区渋谷４丁目５−９",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

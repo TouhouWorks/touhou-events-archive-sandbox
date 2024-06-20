@@ -1,0 +1,74 @@
+{
+  "id": "ComicTreasure_ev-28",
+  "start": 1474156800,
+  "end": 1474156800,
+  "title": "こみっく★トレジャー28",
+  "desc": "ComicTreasure 28 于 INTEX大阪 1、2号馆 举办",
+  "url": "https://thwiki.cc/ComicTreasure#ev-28",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "edb22599ed67f4c64f0bfdbc113dc5cf5248db34f45eacc292bfbc279faeacf3",
+  "location": {
+    "type": "google",
+    "text": "INTEX大阪 1、2号馆",
+    "entity": [
+      {
+        "id": "ChIJdwdVAv7pAGARh8sIUPpzxdc",
+        "addressLine1": "池島住宅2号館",
+        "addressLine2": "日本、大阪府大阪市港区池島３丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPU9wFK_pAGARlDmenzI84FE",
+        "addressLine1": "インテックス大阪 2号館",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1YCPIirnAGARIMEDra8C9nA",
+        "addressLine1": "2号館食堂",
+        "addressLine2": "日本、大阪府大阪市中央区北浜４丁目７−１９",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJf9beBSLnAGARAGozCAV7vgk",
+        "addressLine1": "船場センタービル２号館",
+        "addressLine2": "日本、大阪府大阪市中央区船場中央１丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJf0-eLD7hAGARdGxwBXP0ld0",
+        "addressLine1": "2号館",
+        "addressLine2": "日本、大阪府大阪市城東区今福南４丁目１１−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "豫章幻想茶会_ev-5",
+  "start": 1564790400,
+  "end": 1564790400,
+  "title": "豫章幻想茶会·贰",
+  "desc": "豫章幻想茶会·贰 于 南昌市 民德路莫泰186旅馆 二楼半会议室 举办",
+  "url": "https://thwiki.cc/%E8%B1%AB%E7%AB%A0%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9A#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bef1eeb05ca0c42604014ae8e963558fca596b12defacd402bf5b494d9eb4bfb",
+  "location": {
+    "type": "google",
+    "text": "南昌市 民德路莫泰186旅馆 二楼半会议室",
+    "entity": []
+  },
+  "platform": 1
+}

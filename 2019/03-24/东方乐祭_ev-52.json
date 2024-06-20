@@ -1,0 +1,30 @@
+{
+  "id": "东方乐祭_ev-52",
+  "start": 1553385600,
+  "end": 1553385600,
+  "title": "東方樂祭 in 東方上州祭 第3幕",
+  "desc": "东方乐祭 in 东方上州祭 第3幕 于 前桥市 Yamada Green Dome前桥 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-52",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7899248a5b258435481018d5bf742e06448517cec60367c0a3f537b2b7b7a553",
+  "location": {
+    "type": "google",
+    "text": "前桥市 Yamada Green Dome前桥",
+    "entity": [
+      {
+        "id": "ChIJPRHN4D7zHmARMlfxxq7CwG4",
+        "addressLine1": "ヤマダグリーンドーム前橋",
+        "addressLine2": "日本、群馬県前橋市岩神町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

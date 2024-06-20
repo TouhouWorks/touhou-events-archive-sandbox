@@ -1,0 +1,32 @@
+{
+  "id": "Project.S_ev-2",
+  "start": 1243123200,
+  "end": 1243123200,
+  "title": "Project.S 2nd stage",
+  "desc": "Project.S 2nd stage 于 东京都 东京Kinema俱乐部 举办",
+  "url": "https://thwiki.cc/Project.S#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0e67d6fbd5e2e2381226465276ebfd6af6c65d9237aba604b4a2627854963e0e",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京Kinema俱乐部",
+    "entity": [
+      {
+        "id": "ChIJFb3HRmrzGGAR6UtOzsmv-2U",
+        "addressLine1": "Kinema Club Shimokitazawa",
+        "addressLine2": "２丁目-９-２１ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

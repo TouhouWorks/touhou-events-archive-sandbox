@@ -1,0 +1,30 @@
+{
+  "id": "Anime North_ev-9",
+  "start": 1117152000,
+  "end": 1117152000,
+  "title": "Anime North 2005",
+  "desc": "Anime North 2005 于 加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Hotel 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7f812b7b3bcd93cd4c0f16a63b853d2a2bfe28c500e8ba14f9d2fc7b4fc5855",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Hotel",
+    "entity": [
+      {
+        "id": "ChIJM2DYCfQ5K4gRzJY7mVl398w",
+        "addressLine1": "Toronto Congress Centre",
+        "addressLine2": "Dixon Road, エトビコ オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

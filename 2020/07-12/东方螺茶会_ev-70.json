@@ -1,0 +1,19 @@
+{
+  "id": "东方螺茶会_ev-70",
+  "start": 1594512000,
+  "end": 1594512000,
+  "title": "東方螺茶会 讃岐の宴 第八季",
+  "desc": "东方螺茶会 赞岐之宴 第八季 于 香川县产业交流中心 (サンメッセ香川) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-70",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7711d8b4f306c706d4cd252a6b495f433eb13e35a3bfc6bac04567bc1cb989de",
+  "location": {
+    "type": "google",
+    "text": "香川县产业交流中心 (サンメッセ香川)",
+    "entity": []
+  },
+  "platform": 1
+}

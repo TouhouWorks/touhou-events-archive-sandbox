@@ -1,0 +1,42 @@
+{
+  "id": "金泽东方祭_ev-4",
+  "start": 1401580800,
+  "end": 1401580800,
+  "title": "金沢東方祭3",
+  "desc": "金泽东方祭3 于 金泽流通会馆 举办",
+  "url": "https://thwiki.cc/%E9%87%91%E6%B3%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "197a7c466aa6477b6125df7309cff3639b5c8eccd8751173d350576fd650f0a8",
+  "location": {
+    "type": "google",
+    "text": "金泽流通会馆",
+    "entity": [
+      {
+        "id": "ChIJy4mb_w_N-V8RpAKIAY7F98A",
+        "addressLine1": "金沢流通会館お客様駐車場",
+        "addressLine2": "日本、石川県金沢市問屋町１丁目",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJlZH1U9_M-V8Ru6DqD1dI43I",
+        "addressLine1": "金沢流通会館",
+        "addressLine2": "日本、石川県金沢市問屋町２丁目６１番地",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

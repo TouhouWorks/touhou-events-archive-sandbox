@@ -1,0 +1,19 @@
+{
+  "id": "东方木棉宴_ev-4",
+  "start": 1640908800,
+  "end": 1640908800,
+  "title": "东方木棉宴3",
+  "desc": "东方木棉宴3 于 广州 小北 维度空间餐厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%A8%E6%A3%89%E5%AE%B4#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "22390c51de3c3539d8f84847e585677dd48efe3fb0fcbfc702304165e359c88b",
+  "location": {
+    "type": "google",
+    "text": "广州 小北 维度空间餐厅",
+    "entity": []
+  },
+  "platform": 1
+}

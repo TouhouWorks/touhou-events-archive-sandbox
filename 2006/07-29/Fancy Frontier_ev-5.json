@@ -1,0 +1,19 @@
+{
+  "id": "Fancy Frontier_ev-5",
+  "start": 1154131200,
+  "end": 1154131200,
+  "title": "Fancy Frontier 8",
+  "desc": "Fancy Frontier 8 于 台北市 国立台湾大学综合体育馆 1、3层 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "781de6fa1796e0f4a0702892f239569d82c4753c2b62c93e7c90f957ec975869",
+  "location": {
+    "type": "google",
+    "text": "台北市 国立台湾大学综合体育馆 1、3层",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "locked girl consideration_ev-1",
+  "start": 1290211200,
+  "end": 1290211200,
+  "title": "locked girl consideration 1",
+  "desc": "locked girl consideration 1 于 东京都 新大久保Club Voice 举办",
+  "url": "https://thwiki.cc/locked_girl_consideration#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2e2ff824e1a7ff6a7c9be40fa29198bc33ed01274c8b1a1de16879fbfd49698",
+  "location": {
+    "type": "google",
+    "text": "东京都 新大久保Club Voice",
+    "entity": [
+      {
+        "id": "ChIJqUylySiNGGARySjTjWSuNZc",
+        "addressLine1": "新大久保CLUB Voice",
+        "addressLine2": "１丁目-１０-７ 百人町 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

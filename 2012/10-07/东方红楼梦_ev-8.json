@@ -1,0 +1,19 @@
+{
+  "id": "东方红楼梦_ev-8",
+  "start": 1349568000,
+  "end": 1349568000,
+  "title": "東方紅楼夢8",
+  "desc": "东方红楼梦8 于 大阪国际展览中心 4号馆・5号馆・6号馆B区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2d9c9ceabf7778f60780bd7f625be8f4e03944f526200ac62e9131c153c90b8e",
+  "location": {
+    "type": "google",
+    "text": "大阪国际展览中心 4号馆・5号馆・6号馆B区",
+    "entity": []
+  },
+  "platform": 1
+}

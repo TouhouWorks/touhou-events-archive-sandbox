@@ -1,0 +1,47 @@
+{
+  "id": "幻梦奏_ev-9",
+  "start": 1665187200,
+  "end": 1665187200,
+  "title": "幻夢奏2022",
+  "desc": "幻梦奏2022 于 大阪 BAR Guild 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%A2%A6%E5%A5%8F#ev-9",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2508a5ad2f0b6891abe797e69094109c977713d69711548f52b90d1bb27c435",
+  "location": {
+    "type": "google",
+    "text": "大阪 BAR Guild",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJE-og97rnAGARyw8e_3pzTw0",
+        "addressLine1": "アニソンバーギルド大阪店",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋２丁目３−１３",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

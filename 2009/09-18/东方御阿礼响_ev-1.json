@@ -1,0 +1,56 @@
+{
+  "id": "东方御阿礼响_ev-1",
+  "start": 1253232000,
+  "end": 1253232000,
+  "title": "東方御阿禮響 第一幕",
+  "desc": "东方御阿礼响 第一幕 于 滨松市 Rock Bar LUCREZIA 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BE%A1%E9%98%BF%E7%A4%BC%E5%93%8D#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "582865100e310f692019714ae52102f4ce9bb3b79b31821aaa33eca5a604cff0",
+  "location": {
+    "type": "google",
+    "text": "滨松市 Rock Bar LUCREZIA",
+    "entity": [
+      {
+        "id": "ChIJXWREc3veGmARewC3-FQPZ2E",
+        "addressLine1": "Bar",
+        "addressLine2": "３２０−２１ 鍛冶町 中区 浜松市 静岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAfzhSHveGmARq6XTyG3zxN4",
+        "addressLine1": "Bar",
+        "addressLine2": "３２３−３ 田町 中央区 浜松市 静岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9_TYl3reGmARncR_7FM0AUI",
+        "addressLine1": "Bar",
+        "addressLine2": "板屋町 中央区 浜松市 静岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "AutumnEventCollaboration_ev-1",
+  "start": 1475971200,
+  "end": 1475971200,
+  "title": "AutumnEventCollaboration 1",
+  "desc": "AutumnEventCollaboration 1 于 大阪市、东京都、京都市 举办",
+  "url": "https://thwiki.cc/AutumnEventCollaboration#ev-1",
+  "type": [
+    "收集"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d7c6f9026861b93b786cb2cc570d227b707aac8f2fbbc17bd0f0b0c0b0532ab4",
+  "location": {
+    "type": "google",
+    "text": "大阪市、东京都、京都市",
+    "entity": []
+  },
+  "platform": 1
+}

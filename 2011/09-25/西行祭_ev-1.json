@@ -1,0 +1,30 @@
+{
+  "id": "西行祭_ev-1",
+  "start": 1316908800,
+  "end": 1316908800,
+  "title": "西行祭1",
+  "desc": "西行祭1 于 西日本综合展示场 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E8%A1%8C%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a4f382aaebe4e6e389fcb5b0f94f2ff20fe218c0efd7723dc9143281866170d0",
+  "location": {
+    "type": "google",
+    "text": "西日本综合展示场",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

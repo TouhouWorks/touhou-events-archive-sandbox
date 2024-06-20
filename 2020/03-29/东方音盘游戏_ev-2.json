@@ -1,0 +1,30 @@
+{
+  "id": "东方音盘游戏_ev-2",
+  "start": 1585440000,
+  "end": 1585440000,
+  "title": "東方音盤遊戯 弐",
+  "desc": "东方音盘游戏 弐 于 东京都 STELLA浅草 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E7%9B%98%E6%B8%B8%E6%88%8F#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "05f94d9efe725fb9298efbf5ffa4d12cd77d522b63bc33d3424fdff816d4a877",
+  "location": {
+    "type": "google",
+    "text": "东京都 STELLA浅草",
+    "entity": [
+      {
+        "id": "ChIJmSeJiV2PGGARNQrucaoLJ1Y",
+        "addressLine1": "浅草STELLA",
+        "addressLine2": "日本、東京都台東区西浅草２丁目１４−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

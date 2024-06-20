@@ -1,0 +1,19 @@
+{
+  "id": "东方虾夷祭_ev-2",
+  "start": 1273276800,
+  "end": 1273276800,
+  "title": "東方蝦夷祭 in夕張",
+  "desc": "东方虾夷祭 in夕张 于 夕张市 HOTEL MOUNT RACEY 2层 会议室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%99%BE%E5%A4%B7%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2b3866282aa94d0dbd44789dddb289ab5bad90a2ed53cc03d3689d69a9e530c9",
+  "location": {
+    "type": "google",
+    "text": "夕张市 HOTEL MOUNT RACEY 2层 会议室",
+    "entity": []
+  },
+  "platform": 1
+}

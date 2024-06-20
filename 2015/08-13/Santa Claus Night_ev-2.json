@@ -1,0 +1,32 @@
+{
+  "id": "Santa Claus Night_ev-2",
+  "start": 1439424000,
+  "end": 1439424000,
+  "title": "サンタクローズナイト2",
+  "desc": "Santa Claus Night 2 于 东京都 涩谷club asia 举办",
+  "url": "https://thwiki.cc/Santa_Claus_Night#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4d47893ad2013cfd86328e1a7d79c0e529d8c5c191b340bbe6736ba13f45a73b",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷club asia",
+    "entity": [
+      {
+        "id": "ChIJVVUBPKqMGGARiXgNlzpNTaU",
+        "addressLine1": "club asia",
+        "addressLine2": "１-８ 円山町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "博丽幻奏之仪_ev-7",
+  "start": 1416614400,
+  "end": 1416614400,
+  "title": "博麗幻奏之儀 漆部",
+  "desc": "博丽幻奏之仪 柒部 于 东京 东京大学驹场校区 通讯广场北馆 二楼音乐自习室 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E5%B9%BB%E5%A5%8F%E4%B9%8B%E4%BB%AA#ev-7",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b4b754c7a78135f1f51ed95b90c3ff9754c414dfd64533de3b90cf7c5ee77e5c",
+  "location": {
+    "type": "google",
+    "text": "东京 东京大学驹场校区 通讯广场北馆 二楼音乐自习室",
+    "entity": []
+  },
+  "platform": 1
+}

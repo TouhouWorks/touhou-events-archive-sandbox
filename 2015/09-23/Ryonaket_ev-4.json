@@ -1,0 +1,19 @@
+{
+  "id": "Ryonaket_ev-4",
+  "start": 1442966400,
+  "end": 1442966400,
+  "title": "りょなけっと4",
+  "desc": "Ryonaket 4 于 东京都 东京批发贸易中心 举办",
+  "url": "https://thwiki.cc/Ryonaket#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a126cdeef789da061b1da76c9584bde575211788ae6c1bd95d9940bef5ffec66",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京批发贸易中心",
+    "entity": []
+  },
+  "platform": 1
+}

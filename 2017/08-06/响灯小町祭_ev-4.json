@@ -1,0 +1,58 @@
+{
+  "id": "响灯小町祭_ev-4",
+  "start": 1501977600,
+  "end": 1501977600,
+  "title": "ぷち響灯小町祭1",
+  "desc": "微型响灯小町祭1 于 秋田市 秋田县JA大楼 举办",
+  "url": "https://thwiki.cc/%E5%93%8D%E7%81%AF%E5%B0%8F%E7%94%BA%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82d9c9047fb1d53d87ecb400e485b13ce5965dca3754c2ae0e00985f1c9a9750",
+  "location": {
+    "type": "google",
+    "text": "秋田市 秋田县JA大楼",
+    "entity": [
+      {
+        "id": "ChIJVc-kdenCj18RYPK0VXG8pEE",
+        "addressLine1": "大町",
+        "addressLine2": "日本、秋田県秋田市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ5clLRurCj18RSgpib0YRR8g",
+        "addressLine1": "JTB 秋田支店",
+        "addressLine2": "日本、秋田県秋田市大町３丁目４−１",
+        "provider": "google_places",
+        "categories": [
+          "travel_agency",
+          "establishment",
+          "point_of_interest",
+          "TRAVEL_SERVICES"
+        ]
+      },
+      {
+        "id": "ChIJNxVkvJPCj18RPzhg5H0hLAk",
+        "addressLine1": "上海楼酒家",
+        "addressLine2": "日本、秋田県秋田市中通７丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方四国祭_ev-1",
+  "start": 1251590400,
+  "end": 1251590400,
+  "title": "東方四国祭1",
+  "desc": "东方四国祭1 于 松山市综合社区中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%9B%9B%E5%9B%BD%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2e4bf1bf06e29fb587471108c05695cd6c0065040c6a0878cc110a5b7faf0e96",
+  "location": {
+    "type": "google",
+    "text": "松山市综合社区中心",
+    "entity": []
+  },
+  "platform": 1
+}

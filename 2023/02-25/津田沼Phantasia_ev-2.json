@@ -1,0 +1,44 @@
+{
+  "id": "津田沼Phantasia_ev-2",
+  "start": 1677283200,
+  "end": 1677283200,
+  "title": "ツダヌマファンタジア2",
+  "desc": "津田沼Phantasia 2 于 千叶县船桥市 Mediterrano casa Tsudanuma 举办",
+  "url": "https://thwiki.cc/%E6%B4%A5%E7%94%B0%E6%B2%BCPhantasia#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8fd8540e6e74baba26d8509511614613249eef639a845824ff6d71537a80c616",
+  "location": {
+    "type": "google",
+    "text": "千叶县船桥市 Mediterrano casa Tsudanuma",
+    "entity": [
+      {
+        "id": "ChIJU8nCUCmAImAR9HKtROdEpGg",
+        "addressLine1": "津田沼",
+        "addressLine2": "日本、千葉県習志野市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJx7xItop_GGARqjqBItnOEYY",
+        "addressLine1": "B.B.Q rave kitchen Mediterraneo casa Tsudanuma",
+        "addressLine2": "２丁目-１-５ 前原西 船橋市 千葉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

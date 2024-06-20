@@ -1,0 +1,74 @@
+{
+  "id": "东方LiveParty_ev-26",
+  "start": 1595635200,
+  "end": 1595635200,
+  "title": "东方LivePartyMINILIVE in 魅知幻想博览会2020上海场",
+  "desc": "东方LivePartyMINILIVE in 魅知幻想博览会2020上海场 于 上海 国家会展中心 2.1馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-26",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eef5e5880f8ecbdc89c93a06a6abe8da1a4f2521e56b61c6a4c5cafee5ac29e2",
+  "location": {
+    "type": "google",
+    "text": "上海 国家会展中心 2.1馆",
+    "entity": [
+      {
+        "id": "ChIJo7X-2iBnsjURXtgsaWdzMx0",
+        "addressLine1": "国家会展中心",
+        "addressLine2": "中華人民共和国 上海 青浦区 Laigang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJUaGavLFnsjURucq1WCQNLS4",
+        "addressLine1": "国家会展中心上海洲际酒店",
+        "addressLine2": "中華人民共和国 上海市 青浦区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJp7cngi9nsjURtTc5jIjjEbM",
+        "addressLine1": "国家会展中心上海洲际酒店－车库",
+        "addressLine2": "中華人民共和国 上海市 青浦区 Zhuguang Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJHZxm5iRnsjUR4kJWAMX_jwQ",
+        "addressLine1": "国家会展中心4号馆",
+        "addressLine2": "中華人民共和国 上海市 青浦区 Zhuguang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJQ_OMHSRnsjURyZMXFJyUi4s",
+        "addressLine1": "国家会展中心（上海）",
+        "addressLine2": "中華人民共和国 上海 青浦区 333, 崧泽大道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

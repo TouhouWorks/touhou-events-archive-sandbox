@@ -1,0 +1,89 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-7",
+  "start": 1445040000,
+  "end": 1445040000,
+  "title": "第七回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第七回 Cosplay&痛车Festival与森罗万象之宴 于 东京都 秋叶原UDX 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-7",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3af2319554b7e9bdb698aee071b6279c6b4c2a9c65d0ad2264235f6b34271a16",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原UDX",
+    "entity": [
+      {
+        "id": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+        "addressLine1": "秋叶原UDX",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__9v5hyMGGAReXRnTyegrEI",
+        "addressLine1": "秋葉原UDXレストラン＆ショップ アキバ・イチ",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１ 秋葉原UDX",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "CAFE",
+          "restaurant",
+          "establishment",
+          "store",
+          "CONVENIENCE_STORE",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food",
+          "supermarket",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "RESTAURANT",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE"
+        ]
+      },
+      {
+        "id": "ChIJy4w6DwCPGGARlGmEpOxF6DM",
+        "addressLine1": "秋葉原UDX 2F JR側デッキ",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJp2I7cY6NGGARVKPt0uBX73g",
+        "addressLine1": "秋葉原UDX アキバ広場",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ0-OhfkWNGGARYbcQGZZelIk",
+        "addressLine1": "UDXギャラリー（秋葉原）",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

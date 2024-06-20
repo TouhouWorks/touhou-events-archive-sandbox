@@ -1,0 +1,61 @@
+{
+  "id": "下北的Emotion_ev-1",
+  "start": 1386460800,
+  "end": 1386460800,
+  "title": "下北のエモーション1",
+  "desc": "下北的Emotion 1 于 东京都 下北泽VOICE FACTORY 举办",
+  "url": "https://thwiki.cc/%E4%B8%8B%E5%8C%97%E7%9A%84Emotion#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "efdcd7a75e75ffa4c77c1e4424a449f689519eba2e7ade24fa8e23dff98411e6",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽VOICE FACTORY",
+    "entity": [
+      {
+        "id": "ChIJw_teZ_8hGGARgsSeLR2OLjM",
+        "addressLine1": "下北沢",
+        "addressLine2": "日本、東京都世田谷区北沢",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJM2EpmmvzGGARXV5tNZ86xGY",
+        "addressLine1": "下北泽",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目２４",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJDePlg2nzGGARofCnYZae0MI",
+        "addressLine1": "Treasure Factory Style Shimokitazawa",
+        "addressLine2": "２丁目-３-９ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOE_STORE",
+          "SHOPS_AND_SERVICES",
+          "shoe_store",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

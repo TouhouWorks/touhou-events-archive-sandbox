@@ -1,0 +1,42 @@
+{
+  "id": "T.M.R_ev-38",
+  "start": 1532131200,
+  "end": 1532131200,
+  "title": "T.M.R vol.38",
+  "desc": "T.M.R vol.38 于 爱知县名古屋市 新荣DAYTRIVE 举办",
+  "url": "https://thwiki.cc/T.M.R#ev-38",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6c1842cc20c552b7b612c1db3a324fdfa1a62a8cfb3b66d4b2564583725e0f5",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 新荣DAYTRIVE",
+    "entity": [
+      {
+        "id": "ChIJ11vPRNtwA2ARkxdIcUS6DEk",
+        "addressLine1": "DAYTRIVE",
+        "addressLine2": "２丁目-２２-１４ 東桜 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJz9Gu2cFwA2AR7xVN6jA-vfY",
+        "addressLine1": "新栄",
+        "addressLine2": "日本、愛知県名古屋市中区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

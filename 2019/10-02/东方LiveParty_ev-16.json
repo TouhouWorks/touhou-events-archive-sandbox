@@ -1,0 +1,79 @@
+{
+  "id": "东方LiveParty_ev-16",
+  "start": 1569974400,
+  "end": 1569974400,
+  "title": "东方LiveParty×东方文椛祭",
+  "desc": "东方LiveParty×东方文椛祭 于 长沙 MAO Livehouse 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-16",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "972d40fa9c569038fc7b66dedd9ac88f3f14d3cb4a77451505d334a8e57a8270",
+  "location": {
+    "type": "google",
+    "text": "长沙 MAO Livehouse",
+    "entity": [
+      {
+        "id": "ChIJxWQcnvM1JzQRgKbxoZy75bE",
+        "addressLine1": "长沙",
+        "addressLine2": "中華人民共和国 湖南省",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJgRN-7t_P7zYRnyu7_dXyVfU",
+        "addressLine1": "Mao Live House Cheng Du",
+        "addressLine2": "成華区 1F001 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZcwdziO_ojYRl6QbHUkxm28",
+        "addressLine1": "会同県 长沙",
+        "addressLine2": "中華人民共和国 湖南省 懐化市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJu2LhpKkhZzURnXCJhZvWyWI",
+        "addressLine1": "长沙",
+        "addressLine2": "ヨンドク郡",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJTY1y2DojaDQRoV3N9qZ2FII",
+        "addressLine1": "长沙公园",
+        "addressLine2": "台湾 桃園 Pingzhen District, Kaifeng Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

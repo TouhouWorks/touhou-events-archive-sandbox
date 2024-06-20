@@ -1,0 +1,30 @@
+{
+  "id": "妖怪之山的警卫_ev-2",
+  "start": 1472860800,
+  "end": 1472860800,
+  "title": "妖怪の山の見張り役2",
+  "desc": "妖怪之山的警卫2 于 东京都 绵商会馆 5层 举办",
+  "url": "https://thwiki.cc/%E5%A6%96%E6%80%AA%E4%B9%8B%E5%B1%B1%E7%9A%84%E8%AD%A6%E5%8D%AB#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "465a2f64bbd7faa3fb6a8c447e7e126b76938b913a16c447abbb72bd4e3e4146",
+  "location": {
+    "type": "google",
+    "text": "东京都 绵商会馆 5层",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

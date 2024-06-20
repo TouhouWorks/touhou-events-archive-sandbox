@@ -1,0 +1,32 @@
+{
+  "id": "东方天响录_ev-5",
+  "start": 1624665600,
+  "end": 1624665600,
+  "title": "南航THONLY 东方天响录5",
+  "desc": "南航THONLY 东方天响录5 于 南京市 南京航空航天大学 将军路校区 六号楼6202教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%93%8D%E5%BD%95#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "324a121d4f1a49603dc011290feabfbf7558af5beec73edbecc36fb553af2525",
+  "location": {
+    "type": "google",
+    "text": "南京市 南京航空航天大学 将军路校区 六号楼6202教室",
+    "entity": [
+      {
+        "id": "ChIJbxGANCKPtTURCQCAIN1hKWM",
+        "addressLine1": "南京航空航天大学将军路校区",
+        "addressLine2": "中華人民共和国 江蘇省 南京市 江寧区 Shengtai West Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

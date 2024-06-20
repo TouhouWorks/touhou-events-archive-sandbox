@@ -1,0 +1,32 @@
+{
+  "id": "东方越后祭_ev-1",
+  "start": 1715990400,
+  "end": 1715990400,
+  "title": "東方越後祭 第1幕",
+  "desc": "东方越后祭 第1幕 于 新潟县长冈市 City Hall Plaza 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%B6%8A%E5%90%8E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6b5ce0829e20ff7ccc69e9e5ae8546db7c7709006d5cf718c5b2983973b74599",
+  "location": {
+    "type": "google",
+    "text": "新潟县长冈市 City Hall Plaza",
+    "entity": [
+      {
+        "id": "ChIJZWbckFOo9V8Ry6DIOCeT8p8",
+        "addressLine1": "City Hall Plaza Aore Nagaoka",
+        "addressLine2": "１丁目-４-１０ 大手通 長岡市 新潟県 日本",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

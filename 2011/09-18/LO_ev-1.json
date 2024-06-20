@@ -1,0 +1,30 @@
+{
+  "id": "LO_ev-1",
+  "start": 1316304000,
+  "end": 1316304000,
+  "title": "LO OSAKA",
+  "desc": "LO OSAKA 于 大阪市 大阪OSAKA MUSE 举办",
+  "url": "https://thwiki.cc/LO#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce216045c133bc7ccb003c41f744219d3bf321baadf99acdf9c8290950c8c587",
+  "location": {
+    "type": "google",
+    "text": "大阪市 大阪OSAKA MUSE",
+    "entity": [
+      {
+        "id": "ChIJJzJOthbnAGAR7gCGD6JIkDc",
+        "addressLine1": "大阪ミューズ",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋１丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

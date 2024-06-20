@@ -1,0 +1,70 @@
+{
+  "id": "COMICUP_ev-12",
+  "start": 1376092800,
+  "end": 1376092800,
+  "title": "COMICUP12.5",
+  "desc": "COMICUP12.5 于 上海市 上海光大会展中心 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "481adb31e6132c82930e3480e65165a9e3988ae93cdceffbda07d92fd42b467e",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海光大会展中心",
+    "entity": [
+      {
+        "id": "ChIJd_iSD8RksjURdU7EUldzvu0",
+        "addressLine1": "上海光大会展中心Ｂ座",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 古北新区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJM9AuBcRksjUR9P2wRgAcE5I",
+        "addressLine1": "光大会展中心",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJeyh1rcZksjURiMIi934PaKw",
+        "addressLine1": "上海光大会展中心Ｆ座",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 蒲汇塘",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJnVCrBcRksjUR8nScv66BoMo",
+        "addressLine1": "上海光大会展中心Ｃ座",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 春申地区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJq1H4_sNksjURVIqoLDLk6O4",
+        "addressLine1": "上海光大会展中心Ｄ座",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 Wantiguan",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

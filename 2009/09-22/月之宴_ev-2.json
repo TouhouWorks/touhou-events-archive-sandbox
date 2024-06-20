@@ -1,0 +1,30 @@
+{
+  "id": "月之宴_ev-2",
+  "start": 1253577600,
+  "end": 1253577600,
+  "title": "月の宴2",
+  "desc": "月之宴2 于 东京都立产业贸易中心 滨松町馆 5层 举办",
+  "url": "https://thwiki.cc/%E6%9C%88%E4%B9%8B%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c976584f4b1245a7f2aa14595fdb25e551bf20eb9ef2315f2160ca755456b5bf",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 5层",
+    "entity": [
+      {
+        "id": "ChIJgSnVwGCLGGARDPI40IEPsl0",
+        "addressLine1": "東京都立產業貿易中心 濱松町館",
+        "addressLine2": "日本、東京都港区海岸１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

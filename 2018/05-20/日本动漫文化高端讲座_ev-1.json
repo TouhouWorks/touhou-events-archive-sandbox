@@ -1,0 +1,19 @@
+{
+  "id": "日本动漫文化高端讲座_ev-1",
+  "start": 1526774400,
+  "end": 1526774400,
+  "title": "第七届日本动漫文化高端讲座",
+  "desc": "第七届日本动漫文化高端讲座 于 北京大学英杰文化交流中心阳光厅 举办",
+  "url": "https://thwiki.cc/%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E6%96%87%E5%8C%96%E9%AB%98%E7%AB%AF%E8%AE%B2%E5%BA%A7#ev-1",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f8563144cef3ba9ab0507e0353a1e7d92467f5d8447b797d2ee58c405026cd7a",
+  "location": {
+    "type": "google",
+    "text": "北京大学英杰文化交流中心阳光厅",
+    "entity": []
+  },
+  "platform": 1
+}

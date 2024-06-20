@@ -1,0 +1,30 @@
+{
+  "id": "东方螺茶会_ev-14",
+  "start": 1576972800,
+  "end": 1576972800,
+  "title": "東方螺茶会 札幌の宴 第九季",
+  "desc": "东方螺茶会 札幌之宴 第九季 于 札幌会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "303ca2bcacf3a3fc5d6c85b82cf250f237539f0483147d5d42310505b7999deb",
+  "location": {
+    "type": "google",
+    "text": "札幌会议中心",
+    "entity": [
+      {
+        "id": "ChIJYSd5ztsrC18RYepUkTimRTc",
+        "addressLine1": "札幌會議中心",
+        "addressLine2": "日本、北海道札幌市白石区東札幌６条１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

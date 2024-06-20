@@ -1,0 +1,19 @@
+{
+  "id": "东方螺茶会_ev-66",
+  "start": 1553990400,
+  "end": 1553990400,
+  "title": "東方螺茶会 讃岐の宴 第四季",
+  "desc": "东方螺茶会 赞岐之宴 第四季 于 香川县产业交流中心 (サンメッセ香川) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-66",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9107254b163030ad8294882afc8bca935ecc9d77b31f2bcd0f6c8343c90680be",
+  "location": {
+    "type": "google",
+    "text": "香川县产业交流中心 (サンメッセ香川)",
+    "entity": []
+  },
+  "platform": 1
+}

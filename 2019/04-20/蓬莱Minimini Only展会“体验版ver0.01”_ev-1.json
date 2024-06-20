@@ -1,0 +1,44 @@
+{
+  "id": "蓬莱Minimini Only展会“体验版ver0.01”_ev-1",
+  "start": 1555718400,
+  "end": 1555718400,
+  "title": "蓬莱ミニミニオンリーイベント\"体験版ver0.01\"1",
+  "desc": "蓬莱Minimini Only展会“体验版ver0.01”1 于 大阪府大阪市中央区西心斋桥 lien 举办",
+  "url": "https://thwiki.cc/%E8%93%AC%E8%8E%B1Minimini_Only%E5%B1%95%E4%BC%9A%E2%80%9C%E4%BD%93%E9%AA%8C%E7%89%88ver0.01%E2%80%9D#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "449b53535624d0e8f687ef44c94cd7e94ba1d09952f85adaef0b09d86fbaacb5",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市中央区西心斋桥 lien",
+    "entity": [
+      {
+        "id": "ChIJkcNylRrnAGARwo7Jbeosr-E",
+        "addressLine1": "リアン 心斎橋｜lien shinsaibashi",
+        "addressLine2": "日本、大阪府大阪市中央区西心斎橋１丁目１３",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJayUXok7nAGARC5cay0qi6Uo",
+        "addressLine1": "レンタルスペース Lien(リアン）",
+        "addressLine2": "日本、大阪府大阪市中央区西心斎橋２丁目４−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

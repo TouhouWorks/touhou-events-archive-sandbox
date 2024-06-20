@@ -1,0 +1,30 @@
+{
+  "id": "生大祭～在麦芽中绽放，柳之濑的樱花_ev-1",
+  "start": 1365206400,
+  "end": 1365206400,
+  "title": "生大祭～麦芽に咲かせ、柳ヶ瀬の桜1",
+  "desc": "生大祭～在麦芽中绽放，柳之濑的樱花1 于 岐阜県岐阜市 Club-G 举办",
+  "url": "https://thwiki.cc/%E7%94%9F%E5%A4%A7%E7%A5%AD%EF%BD%9E%E5%9C%A8%E9%BA%A6%E8%8A%BD%E4%B8%AD%E7%BB%BD%E6%94%BE%EF%BC%8C%E6%9F%B3%E4%B9%8B%E6%BF%91%E7%9A%84%E6%A8%B1%E8%8A%B1#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bbdde7dfc1f9cb74d2a859e5b99a7369edd54f826f7ed918c19e4d3e04cd1a83",
+  "location": {
+    "type": "google",
+    "text": "岐阜県岐阜市 Club-G",
+    "entity": [
+      {
+        "id": "ChIJ3zL10UWpA2AR_GpEMp5h2Jo",
+        "addressLine1": "ｃｌｕｂ−Ｇ",
+        "addressLine2": "日本、岐阜県岐阜市日ノ出町１丁目１７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

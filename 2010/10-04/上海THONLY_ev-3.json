@@ -1,0 +1,75 @@
+{
+  "id": "上海THONLY_ev-3",
+  "start": 1286150400,
+  "end": 1286150400,
+  "title": "第三届上海THONLY 東方大往生～夢と生命境界の交響詩篇～",
+  "desc": "第三届上海THONLY 东方大往生～梦和生命境界的交响诗篇～ 于 上海市 MAO LIVEHOUSE SHANGHAI 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7THONLY#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e932e8ef60e990ca0909e6384e5713bb87006f902376f864c85d915fe31fbd89",
+  "location": {
+    "type": "google",
+    "text": "上海市 MAO LIVEHOUSE SHANGHAI",
+    "entity": [
+      {
+        "id": "ChIJwVCVdt6PrTURXzUsyXET5Mk",
+        "addressLine1": "Shanghai Pudong International Airport (PVG)",
+        "addressLine2": "Yingbin Expressway, 浦東新区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJ_-mi5Y1msjUR9tm8h7eW1dI",
+        "addressLine1": "Shanghai Hongqiao International Airport",
+        "addressLine2": "虹桥路长宁区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJEUwJhuhmsjURuaGla-XwWV0",
+        "addressLine1": "Shanghai Hongqiao Railway Station",
+        "addressLine2": "北横泾 閔行区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJYaTvvS9wsjURdc9pZBNBcRE",
+        "addressLine1": "Shanghai Railway Station",
+        "addressLine2": "同楽坊 静安区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+        "addressLine1": "上海市",
+        "addressLine2": "中華人民共和国 Shanghai",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方季奏宴_ev-2",
+  "start": 1442793600,
+  "end": 1442793600,
+  "title": "東方季奏宴season2",
+  "desc": "东方季奏宴season2 于 川崎市产业振兴会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%AD%A3%E5%A5%8F%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e34c0ff6a51f128dcb74e46ce844b2eb3fb9266bb8a4953fbdb6e51ae1da18ba",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

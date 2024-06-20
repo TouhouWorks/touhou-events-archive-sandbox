@@ -1,0 +1,34 @@
+{
+  "id": "幻想花祭_ev-1",
+  "start": 1294531200,
+  "end": 1294531200,
+  "title": "幻想花まつり1",
+  "desc": "幻想花祭1 于 名古屋市 日本Gaishi Forum 2层 接待厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E8%8A%B1%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f2bf5c411d09aaca4d151c30b586ef7427e3e14ef1919ab495bf406c6f6ba4c8",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 日本Gaishi Forum 2层 接待厅",
+    "entity": [
+      {
+        "id": "ChIJn-THSr97A2ARjSLpFGSqbYk",
+        "addressLine1": "日本ガイシフォーラム",
+        "addressLine2": "日本、愛知県名古屋市南区東又兵ヱ町５丁目１−１６",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

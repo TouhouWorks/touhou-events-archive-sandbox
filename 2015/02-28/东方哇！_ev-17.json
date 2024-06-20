@@ -1,0 +1,32 @@
+{
+  "id": "东方哇！_ev-17",
+  "start": 1425081600,
+  "end": 1425081600,
+  "title": "東方わぁい！其之拾漆",
+  "desc": "东方哇！其之拾漆 于 大阪市 Bar GUILD 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%93%87%EF%BC%81#ev-17",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c9078852818ff532b6d4553e3e12a63e0d0f2e2f1eba8bc39d0249c463dbe66",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Bar GUILD",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

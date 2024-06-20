@@ -1,0 +1,30 @@
+{
+  "id": "東方てきぱ☆_ev-4",
+  "start": 1595030400,
+  "end": 1595030400,
+  "title": "東方てきぱ☆～僕達は最初から屑だった",
+  "desc": "東方てきぱ☆～我们从一开始就是垃圾 于 大阪市 MILULARI 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E6%96%B9%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c22c069a9a2b401f819b66d94984e48c972908ba54a62cc7ceab04ecceb7be10",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

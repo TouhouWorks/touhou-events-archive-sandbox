@@ -1,0 +1,37 @@
+{
+  "id": "安徽THCP_ev-2",
+  "start": 1546992000,
+  "end": 1546992000,
+  "title": "THCP 0.5",
+  "desc": "THCP 0.5 于 合肥市 和音屋主题咖啡店 举办",
+  "url": "https://thwiki.cc/%E5%AE%89%E5%BE%BDTHCP#ev-2",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4998f10fafe7f2bae89b91bfa29037ddc235e3694a1ebe7b9a2bc47aecead335",
+  "location": {
+    "type": "google",
+    "text": "合肥市 和音屋主题咖啡店",
+    "entity": [
+      {
+        "id": "ChIJLz_WWCZkyzUREtsX0L8XoJ0",
+        "addressLine1": "和音屋主题咖啡店",
+        "addressLine2": "中華人民共和国 合肥市 包河区",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

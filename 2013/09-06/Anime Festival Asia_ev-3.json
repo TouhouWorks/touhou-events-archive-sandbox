@@ -1,0 +1,76 @@
+{
+  "id": "Anime Festival Asia_ev-3",
+  "start": 1378425600,
+  "end": 1378425600,
+  "title": "Anime Festival Asia 2013 Indonesia",
+  "desc": "Anime Festival Asia 2013 Indonesia 于 印度尼西亚 Jakarta Convention Center 举办",
+  "url": "https://thwiki.cc/Anime_Festival_Asia#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fe6230fc7112b130f572da316dedb946601f4a4011313877ffcb9463e65928b7",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 Jakarta Convention Center",
+    "entity": [
+      {
+        "id": "ChIJAa93va32aS4R0od5PTftqyM",
+        "addressLine1": "Jakarta Convention Center",
+        "addressLine2": "Jalan Gatot Subroto, RT.1/RW.3, Gelora, Central Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ79J4Hdv1aS4RMcLFlH3c1DY",
+        "addressLine1": "REDTOP Hotel & Convention Center",
+        "addressLine2": "Pecenongan Street, RT.2/RW.4, Kebon Kelapa, Central Jakarta City, Jakarta, インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJoT4Z2BYeai4RbcU0UsWMgxc",
+        "addressLine1": "Mercure Convention Center Ancol",
+        "addressLine2": "Jalan Pantai Indah, アンチョール North Jakarta City, Jakarta, インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJY5LKUTX0aS4RZyZYm1S6SUk",
+        "addressLine1": "Lumire Hotel & Convention Center",
+        "addressLine2": "Jalan Senen Raya, スネン Central Jakarta City, Jakarta, インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJo6OCRdr3aS4Rmca4OIn1M-8",
+        "addressLine1": "Plenary Hall, Jakarta Convention Center",
+        "addressLine2": "Jalan Gatot Subroto, RT.1/RW.3, Gelora, Central Jakarta City, Jakarta, インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

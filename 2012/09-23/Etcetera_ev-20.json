@@ -1,0 +1,30 @@
+{
+  "id": "Etcetera_ev-20",
+  "start": 1348358400,
+  "end": 1348358400,
+  "title": "えとせとら Vol.20 SP3",
+  "desc": "Etcetera Vol.20 SP3 于 东京都 パルシティ江東 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-20",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d578ec38b30d17c9857ab5d55a7cce9fa41e332bc99c4fe5d726fa178e565baa",
+  "location": {
+    "type": "google",
+    "text": "东京都 パルシティ江東",
+    "entity": [
+      {
+        "id": "ChIJQeQDGOSIGGARJvRkugmTlUI",
+        "addressLine1": "パルシティ江東",
+        "addressLine2": "日本、東京都江東区扇橋３丁目２２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

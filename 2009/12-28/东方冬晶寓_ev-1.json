@@ -1,0 +1,56 @@
+{
+  "id": "东方冬晶寓_ev-1",
+  "start": 1261958400,
+  "end": 1261958400,
+  "title": "東方冬晶寓1",
+  "desc": "东方冬晶寓1 于 东京都 调布市文化会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%86%AC%E6%99%B6%E5%AF%93#ev-1",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1e4a9f7ca76dafd1bc43cc0a1aa99d8acf55a58a2d631277ff3e946cee60ee38",
+  "location": {
+    "type": "google",
+    "text": "东京都 调布市文化会馆",
+    "entity": [
+      {
+        "id": "ChIJx-SpLxPwGGAROqfrEQDGUeU",
+        "addressLine1": "調布市文化会館 たづくり",
+        "addressLine2": "日本、東京都調布市小島町２丁目３３−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn9EJNBPwGGARoehKKzMVxZ4",
+        "addressLine1": "調布市 中央図書館",
+        "addressLine2": "日本、東京都調布市小島町２丁目３３−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJNfAPVADxGGAR7isEGZL3EfY",
+        "addressLine1": "創価学会 調布文化会館",
+        "addressLine2": "日本、東京都調布市多摩川３丁目７３−４",
+        "provider": "google_places",
+        "categories": [
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "推奏乐_ev-2",
+  "start": 1466899200,
+  "end": 1466899200,
+  "title": "推奏楽vol.2",
+  "desc": "推奏乐vol.2 于 东京都墨田区本所地区Plaza BIG SHIP 举办",
+  "url": "https://thwiki.cc/%E6%8E%A8%E5%A5%8F%E4%B9%90#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9f1d14b93d082c9ac842e6b4fb6a3a79bd46019f2bd23c9ac0cf8ad072e22407",
+  "location": {
+    "type": "google",
+    "text": "东京都墨田区本所地区Plaza BIG SHIP",
+    "entity": [
+      {
+        "id": "ChIJX5bcBcyOGGAR9sWFPPNye4g",
+        "addressLine1": "本所地域プラザ BIG SHIP",
+        "addressLine2": "日本、東京都墨田区本所１丁目１３−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

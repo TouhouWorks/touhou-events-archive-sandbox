@@ -1,0 +1,32 @@
+{
+  "id": "Anime North_ev-15",
+  "start": 1306454400,
+  "end": 1306454400,
+  "title": "Anime North 2011",
+  "desc": "Anime North 2011 于 加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Sheraton Toronto Airport, Marriott Toronto Airport 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c66fefa19f223f37ce3aa229ebacd10079ee3dc083be894a3588627526c03d0d",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Sheraton Toronto Airport, Marriott Toronto Airport",
+    "entity": [
+      {
+        "id": "ChIJ__8_riQ1K4gRKktBbiL-pXs",
+        "addressLine1": "シェラトン ゲートウェイ ホテル トロント インターナショナル エアポート",
+        "addressLine2": "カナダ オンタリオ トロント",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

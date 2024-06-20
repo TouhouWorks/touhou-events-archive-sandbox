@@ -1,0 +1,19 @@
+{
+  "id": "东方熙月华_ev-6",
+  "start": 1683072000,
+  "end": 1683072000,
+  "title": "东方熙月华6",
+  "desc": "东方熙月华6 于 清华大学建筑馆 七九吧咖啡厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%86%99%E6%9C%88%E5%8D%8E#ev-6",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "53130a13e7014cb05006b76be0af790b1f7c9dbb3236722bae49fab44f24a121",
+  "location": {
+    "type": "google",
+    "text": "清华大学建筑馆 七九吧咖啡厅",
+    "entity": []
+  },
+  "platform": 1
+}

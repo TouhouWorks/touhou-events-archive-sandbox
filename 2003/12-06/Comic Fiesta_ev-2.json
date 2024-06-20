@@ -1,0 +1,19 @@
+{
+  "id": "Comic Fiesta_ev-2",
+  "start": 1070668800,
+  "end": 1070668800,
+  "title": "Comic Fiesta 2003",
+  "desc": "Comic Fiesta 2003 于 马来西亚吉隆坡宴宾雅酒店 举办",
+  "url": "https://thwiki.cc/Comic_Fiesta#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cdbc5066cbe1116d0a15c8d8d994b361ccf289ba2f8e3d972b866441c2189cfe",
+  "location": {
+    "type": "google",
+    "text": "马来西亚吉隆坡宴宾雅酒店",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Comic Horizon_ev-7",
+  "start": 1557532800,
+  "end": 1557532800,
+  "title": "Comic Horizon 6",
+  "desc": "Comic Horizon 6 于 台北市 花博公园争艳馆 举办",
+  "url": "https://thwiki.cc/Comic_Horizon#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a7be539f56920b32e4937722672099ac5f0dbdf25df1281a93356c46140f70a1",
+  "location": {
+    "type": "google",
+    "text": "台北市 花博公园争艳馆",
+    "entity": [
+      {
+        "id": "ChIJqY40N0-pQjQR--Pjh74pGro",
+        "addressLine1": "花博公園爭艷館",
+        "addressLine2": "台湾 台北市 中山区 Yumen Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

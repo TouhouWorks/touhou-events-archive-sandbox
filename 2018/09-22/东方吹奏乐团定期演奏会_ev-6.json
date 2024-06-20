@@ -1,0 +1,30 @@
+{
+  "id": "东方吹奏乐团定期演奏会_ev-6",
+  "start": 1537574400,
+  "end": 1537574400,
+  "title": "東方吹奏樂団 第六回定期演奏会",
+  "desc": "东方吹奏乐团 第六回定期演奏会 于 浦安市文化会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%B9%E5%A5%8F%E4%B9%90%E5%9B%A2%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-6",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "18ef6ebb1fb1b5f9fdc3c65f02ca4359878b4371c313d0ea1e426159fded1f11",
+  "location": {
+    "type": "google",
+    "text": "浦安市文化会馆",
+    "entity": [
+      {
+        "id": "ChIJqQMF8pt9GGARru8SpKR15Dc",
+        "addressLine1": "浦安市 文化会館",
+        "addressLine2": "日本、千葉県浦安市猫実１丁目１−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

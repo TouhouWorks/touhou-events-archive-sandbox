@@ -1,0 +1,74 @@
+{
+  "id": "中四国东方祭_ev-11",
+  "start": 1559433600,
+  "end": 1559433600,
+  "title": "中四国東方祭9",
+  "desc": "中四国东方祭9 于 高松市 SUNPORT高松 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%9B%E5%9B%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a7dd19ab8365b0bb8ae2a4477749da838da3848cfdbd86b4c86bf0c26107d907",
+  "location": {
+    "type": "google",
+    "text": "高松市 SUNPORT高松",
+    "entity": [
+      {
+        "id": "ChIJkRDDUfHsUzURq6ODV9JO0Wk",
+        "addressLine1": "高松港",
+        "addressLine2": "日本、香川県高松市Sunport, ８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJgVzcP4jrUzURNHMFNrAKipc",
+        "addressLine1": "高松シンボルタワー",
+        "addressLine2": "日本、香川県高松市Sunport, ２−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJFS8ucHfsUzURvJqZvKa6LaA",
+        "addressLine1": "Sunport高松",
+        "addressLine2": "日本、香川県高松市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJVVUpcHjsUzURwDes9Tywyv0",
+        "addressLine1": "高松港土庄行き高速船のりば",
+        "addressLine2": "日本、香川県高松市Sunport, ８−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJq6q6DojrUzURos0za3n3h5I",
+        "addressLine1": "高松港旅客ターミナルビル",
+        "addressLine2": "日本、香川県高松市Sunport, １−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

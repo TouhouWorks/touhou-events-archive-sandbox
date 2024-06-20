@@ -1,0 +1,30 @@
+{
+  "id": "Comic World HK_ev-3",
+  "start": 919555200,
+  "end": 919555200,
+  "title": "Comic World HK 3",
+  "desc": "Comic World HK 3 于 香港 旺角麦花臣室内场馆 举办",
+  "url": "https://thwiki.cc/Comic_World_HK#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5a1fd2308a33aefe854bcd930c6c3f256ccd024874025845e7694e5f470405f0",
+  "location": {
+    "type": "google",
+    "text": "香港 旺角麦花臣室内场馆",
+    "entity": [
+      {
+        "id": "ChIJjVx4EcYABDQR9c0-8fvDLJw",
+        "addressLine1": "麥花臣場館",
+        "addressLine2": "香港 旺角 Nelson Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

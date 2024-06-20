@@ -1,0 +1,30 @@
+{
+  "id": "博丽神社歌谣祭_ev-4",
+  "start": 1510963200,
+  "end": 1510963200,
+  "title": "博麗神社うた祭in东京",
+  "desc": "博丽神社歌谣祭in东京 于 东京都新宿区西新宿6-5-1 爱尔兰特大厅二层 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E6%AD%8C%E8%B0%A3%E7%A5%AD#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ddfbcc8ca22ddcc3ddad263adbff8fca69957f91cab39b2af474732cda1874fb",
+  "location": {
+    "type": "google",
+    "text": "东京都新宿区西新宿6-5-1 爱尔兰特大厅二层",
+    "entity": [
+      {
+        "id": "ChIJ2YPaoviNGGARLm5bKtZqUEY",
+        "addressLine1": "西新宿６丁目５−１",
+        "addressLine2": "日本、東京都新宿区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

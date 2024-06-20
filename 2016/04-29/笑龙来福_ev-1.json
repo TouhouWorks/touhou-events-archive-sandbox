@@ -1,0 +1,40 @@
+{
+  "id": "笑龙来福_ev-1",
+  "start": 1461888000,
+  "end": 1461888000,
+  "title": "笑龍来福1",
+  "desc": "笑龙来福1 于 福冈市 福冈国际会议场 举办",
+  "url": "https://thwiki.cc/%E7%AC%91%E9%BE%99%E6%9D%A5%E7%A6%8F#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8fc48cabaa9727304060bf7cd5a800f709b01bb6b37168927782f577022260cd",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈国际会议场",
+    "entity": [
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡國際會議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZ59_0fORQTURkEIhmmckvE0",
+        "addressLine1": "博多国際展示場＆カンファレンスセンター（Hakata International Exhibition Hall & Conference Center）",
+        "addressLine2": "日本、福岡県福岡市博多区東光２丁目２２−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

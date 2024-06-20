@@ -1,0 +1,42 @@
+{
+  "id": "ComicTreasure_ev-30",
+  "start": 1504396800,
+  "end": 1504396800,
+  "title": "こみっく★トレジャー30",
+  "desc": "ComicTreasure 30 于 INTEX大阪 4、5号馆 举办",
+  "url": "https://thwiki.cc/ComicTreasure#ev-30",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3e738e5bdb0e385d197911a8ae921c7fa162c5b3de33c8a8e3aea8b68ef78041",
+  "location": {
+    "type": "google",
+    "text": "INTEX大阪 4、5号馆",
+    "entity": [
+      {
+        "id": "ChIJFWXQ2m7vAGARjoJGuZUkWSc",
+        "addressLine1": "５号倉庫",
+        "addressLine2": "日本、大阪府大阪市西淀川区佃４−１３",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "storage",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJC73HWwDnAGART0ceJ_55SEc",
+        "addressLine1": "船場センタービル５号館",
+        "addressLine2": "日本、大阪府大阪市中央区船場中央２丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方红楼梦_ev-5",
+  "start": 1255219200,
+  "end": 1255219200,
+  "title": "東方紅楼夢5",
+  "desc": "东方红楼梦5 于 大阪国际展览中心 6号馆A区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5b00f1f3a970a58ca8e92ae782e4a95690110647b73bc9dcea3b9fe72c7e5be5",
+  "location": {
+    "type": "google",
+    "text": "大阪国际展览中心 6号馆A区",
+    "entity": [
+      {
+        "id": "ChIJAQAAy0_oAGAR8pBrXsjJnMA",
+        "addressLine1": "インテックス大阪",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

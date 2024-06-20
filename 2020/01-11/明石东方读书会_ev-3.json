@@ -1,0 +1,82 @@
+{
+  "id": "明石东方读书会_ev-3",
+  "start": 1578700800,
+  "end": 1578700800,
+  "title": "第三回 明石東方読書会",
+  "desc": "第三回 明石东方读书会 于 兵库县明石市 明石公园 举办",
+  "url": "https://thwiki.cc/%E6%98%8E%E7%9F%B3%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-3",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d30b36a813f3b7c9d6d67c2f6cae4aec53bc4f38c70c7cfa9b33c7804f28c6f2",
+  "location": {
+    "type": "google",
+    "text": "兵库县明石市 明石公园",
+    "entity": [
+      {
+        "id": "ChIJAQDA3rfUVDUR7bfndBkKQt4",
+        "addressLine1": "兵庫県立明石公園",
+        "addressLine2": "日本、兵庫県明石市明石公園１−２７",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJE0b8mrPUVDURR84s2G-fGR8",
+        "addressLine1": "明石市都市整備部緑化公園課",
+        "addressLine2": "日本、兵庫県明石市中崎１丁目５−１",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJxfGLNjrXVDURnA5KVqQtTIM",
+        "addressLine1": "明石海浜公園 ジョギングコース［桜］",
+        "addressLine2": "日本、兵庫県明石市二見町南二見",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJ9UnNy8HVVDURpwxXgBk09e0",
+        "addressLine1": "明石公園 藤見池",
+        "addressLine2": "日本、兵庫県明石市明石公園１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJ4bpuEdLUVDUR3i203eloKSU",
+        "addressLine1": "明石公園 第2野球場",
+        "addressLine2": "日本、兵庫県明石市明石公園１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

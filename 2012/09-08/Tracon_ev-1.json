@@ -1,0 +1,19 @@
+{
+  "id": "Tracon_ev-1",
+  "start": 1347062400,
+  "end": 1347062400,
+  "title": "Tracon 7",
+  "desc": "Tracon 7 于 芬兰坦佩雷市 坦佩雷大厅 举办",
+  "url": "https://thwiki.cc/Tracon#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1acfbc50ab4f0ca96eede24e0b3374f671c0dad5d1f31997b1c0fef9768f0004",
+  "location": {
+    "type": "google",
+    "text": "芬兰坦佩雷市 坦佩雷大厅",
+    "entity": []
+  },
+  "platform": 1
+}

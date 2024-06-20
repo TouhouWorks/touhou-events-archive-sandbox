@@ -1,0 +1,74 @@
+{
+  "id": "幻想半日谈_ev-2",
+  "start": 1573257600,
+  "end": 1573257600,
+  "title": "青岛THONLY東方絳雪祭",
+  "desc": "青岛THONLY东方绛雪祭 于 山东省青岛市 德爱花园大酒店 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E5%8D%8A%E6%97%A5%E8%B0%88#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "58074d1d791549ab0df3310896f2f3bb11abf0ba084da1e01e088d1847a449ad",
+  "location": {
+    "type": "google",
+    "text": "山东省青岛市 德爱花园大酒店",
+    "entity": [
+      {
+        "id": "ChIJN7dcRMQPljURfmBEcCGS3No",
+        "addressLine1": "德爱花园大酒店（东北门）",
+        "addressLine2": "中華人民共和国 山东省青岛市 市北区 Baotou Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ3em8EsQPljUReyWRFYSKKQY",
+        "addressLine1": "德爱花园大酒店会议室",
+        "addressLine2": "中華人民共和国 山东省青岛市 市北区 湛山",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJs219D8QPljURzIVxYMjA2m0",
+        "addressLine1": "德爱花园大酒店",
+        "addressLine2": "中華人民共和国 山东省青岛市 市北区 小村庄",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJW1v8DMQPljUR6m8bE_zrFVs",
+        "addressLine1": "德爱花园大酒店Ｆ座",
+        "addressLine2": "中華人民共和国 山东省青岛市 市北区 湛山",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ1czFA8QPljURPxcomfOcZzM",
+        "addressLine1": "德爱花园大酒店停车场",
+        "addressLine2": "中華人民共和国 山东省青岛市 市北区 Wuding Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

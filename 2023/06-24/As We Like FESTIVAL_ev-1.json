@@ -1,0 +1,32 @@
+{
+  "id": "As We Like FESTIVAL_ev-1",
+  "start": 1687564800,
+  "end": 1687564800,
+  "title": "As We Like FESTIVAL vol.1",
+  "desc": "As We Like FESTIVAL vol.1 于 爱知县名古屋市 Cafe & Bar sakaeBase 举办",
+  "url": "https://thwiki.cc/As_We_Like_FESTIVAL#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f2d8adf4fb559e35e5c98da04de49ad56a333756f52f10eaa55384cbc06a732b",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Cafe & Bar sakaeBase",
+    "entity": [
+      {
+        "id": "ChIJoXF1KtBwA2ARnE6PtkU0cH4",
+        "addressLine1": "Cafe＆Bar SakaeBase",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目１６−８ メンバーズ",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

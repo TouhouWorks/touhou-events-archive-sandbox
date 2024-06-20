@@ -1,0 +1,30 @@
+{
+  "id": "COMICUP_ev-42",
+  "start": 1660953600,
+  "end": 1660953600,
+  "title": "COMICUP2022SP",
+  "desc": "COMICUP2022SP 于 广州市 广州保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-42",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cad1411e911c713b9b082537ed5855f93fd963b7e0674b48661c54e833c25ac0",
+  "location": {
+    "type": "google",
+    "text": "广州市 广州保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世貿展覧館",
+        "addressLine2": "中華人民共和国 広東省 広州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

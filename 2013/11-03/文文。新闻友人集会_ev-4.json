@@ -1,0 +1,32 @@
+{
+  "id": "文文。新闻友人集会_ev-4",
+  "start": 1383436800,
+  "end": 1383436800,
+  "title": "第百二十八季 文々。新聞友の会",
+  "desc": "第百二十八季 文文。新闻友人集会 于 京都市劝业馆 3层 第3展厅 举办",
+  "url": "https://thwiki.cc/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "69e255e8db2fbba683a4b25951799cddd3385477e62f0a3019a0b3c5ff5898f0",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 3层 第3展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勸業館 Miyako Messe",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

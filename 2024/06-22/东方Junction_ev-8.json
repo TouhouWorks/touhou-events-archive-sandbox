@@ -1,0 +1,32 @@
+{
+  "id": "东方Junction_ev-8",
+  "start": 1719014400,
+  "end": 1719014400,
+  "title": "東方Junction8",
+  "desc": "东方Junction8 于 广岛县广岛市 SPYDER Live&Bar 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Junction#ev-8",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "826431353fef21f1ae4549c54b684b6fcd9b05880191265cfff9a5bb3b7346cb",
+  "location": {
+    "type": "google",
+    "text": "广岛县广岛市 SPYDER Live&Bar",
+    "entity": [
+      {
+        "id": "ChIJVVXJFgSiWjUR2CN_x2pJeGY",
+        "addressLine1": "SPYDER LIVE&BAR スパイダー",
+        "addressLine2": "１３-１３ 銀山町 中区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

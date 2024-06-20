@@ -1,0 +1,30 @@
+{
+  "id": "京滨东方读书会_ev-1",
+  "start": 1677283200,
+  "end": 1677283200,
+  "title": "京浜東方読書会1",
+  "desc": "京滨东方读书会1 于 川崎市 川崎保育会馆 举办",
+  "url": "https://thwiki.cc/%E4%BA%AC%E6%BB%A8%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e713b715ded3349daa7b899fa7e990271404388ec35da6e97530faf0e85df94a",
+  "location": {
+    "type": "google",
+    "text": "川崎市 川崎保育会馆",
+    "entity": [
+      {
+        "id": "ChIJ1dEN_KVgGGARoYixHUq_Lvw",
+        "addressLine1": "かわさき保育会館",
+        "addressLine2": "日本、神奈川県川崎市川崎区渡田新町３丁目２−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "COMIDAY_ev-17",
+  "start": 1461974400,
+  "end": 1461974400,
+  "title": "COMIDAY17",
+  "desc": "COMIDAY17 于 成都市 国际非物质文化遗产博览园 五洲情会展中心 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-17",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0d5c60956273418ec849ead567ee0ccf2b743207a6b427d452fa3bf343ff44ed",
+  "location": {
+    "type": "google",
+    "text": "成都市 国际非物质文化遗产博览园 五洲情会展中心",
+    "entity": [
+      {
+        "id": "ChIJz-SotLzC7zYRebzI4SRzdrI",
+        "addressLine1": "国际非物质文化遗产博览园五洲情停车场",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Guanghua Boulevard 2 Section",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

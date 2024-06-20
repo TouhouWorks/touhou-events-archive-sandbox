@@ -1,0 +1,32 @@
+{
+  "id": "东方雅乐多箱_ev-4",
+  "start": 1287792000,
+  "end": 1287792000,
+  "title": "東方雅樂多箱 第参幕",
+  "desc": "东方雅乐多箱 第参幕 于 港区 青山ever 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9B%85%E4%B9%90%E5%A4%9A%E7%AE%B1#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c954a5a18f2857c7d138cd92615ace59934301ca770b256bff43141f84a4a616",
+  "location": {
+    "type": "google",
+    "text": "港区 青山ever",
+    "entity": [
+      {
+        "id": "ChIJD8fRtWaLGGARatqhbYGjXqQ",
+        "addressLine1": "青山 ever",
+        "addressLine2": "日本、東京都港区南青山６丁目２−９",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "南京Comicjehad_ev-2",
+  "start": 1290297600,
+  "end": 1290297600,
+  "title": "南京Comicjehad 7",
+  "desc": "南京Comicjehad 7 于 江苏省南京市 轩辕体育馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%97%E4%BA%ACComicjehad#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4f891fce123bf582fff2901a9ccba95958012f8645514595a45de77847d2b54d",
+  "location": {
+    "type": "google",
+    "text": "江苏省南京市 轩辕体育馆",
+    "entity": [
+      {
+        "id": "ChIJHeixK690yjURsTeOKWBZ1B0",
+        "addressLine1": "轩辕体育馆",
+        "addressLine2": "中華人民共和国 江苏省南京市 浦口区 岔路口",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

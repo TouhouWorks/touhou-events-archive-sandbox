@@ -1,0 +1,32 @@
+{
+  "id": "福建THONLY_ev-2",
+  "start": 1698451200,
+  "end": 1698451200,
+  "title": "福建THONLY-白鷺風茗1.5",
+  "desc": "福建THONLY-白鹭风茗1.5 于 厦门 厦门国际博览中心 举办",
+  "url": "https://thwiki.cc/%E7%A6%8F%E5%BB%BATHONLY#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "84f3f6fe5c0e8d1639f2f7c8c59bd83603b8440bfca258d33c97a88556541d12",
+  "location": {
+    "type": "google",
+    "text": "厦门 厦门国际博览中心",
+    "entity": [
+      {
+        "id": "ChIJE8YaOLibFDQRGaaX6jG8tTk",
+        "addressLine1": "厦门国际会议展览中心",
+        "addressLine2": "中華人民共和国 福建省 厦门 思明区 Huizhan Road",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

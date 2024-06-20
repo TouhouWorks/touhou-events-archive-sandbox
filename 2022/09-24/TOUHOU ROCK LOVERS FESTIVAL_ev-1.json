@@ -1,0 +1,32 @@
+{
+  "id": "TOUHOU ROCK LOVERS FESTIVAL_ev-1",
+  "start": 1663977600,
+  "end": 1663977600,
+  "title": "TOUHOU ROCK LOVERS FESTIVAL1",
+  "desc": "TOUHOU ROCK LOVERS FESTIVAL1 于 爱知县名古屋市 club LOVER:z 举办",
+  "url": "https://thwiki.cc/TOUHOU_ROCK_LOVERS_FESTIVAL#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f58ea2516dae1bc13647ccd0282f25b95a63c2f609bf272cf4b674681466ebb8",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 club LOVER:z",
+    "entity": [
+      {
+        "id": "ChIJpWalSNtwA2AR9AgEZNDFY_Y",
+        "addressLine1": "Club LOVER:z (ラバーズ)",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２２−２２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

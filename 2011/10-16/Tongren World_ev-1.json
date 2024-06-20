@@ -1,0 +1,74 @@
+{
+  "id": "Tongren World_ev-1",
+  "start": 1318723200,
+  "end": 1318723200,
+  "title": "Tongren World1",
+  "desc": "Tongren World1 于 广州市 海珠区 太古仓码头 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6a3c1b0ae853dcbdd4ba03cc6dc98f59b4bd7fc3108cf31d4b5f73498f0ec184",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 太古仓码头",
+    "entity": [
+      {
+        "id": "ChIJV_M3KjtWAjQRhk4UToNvOMY",
+        "addressLine1": "太古仓",
+        "addressLine2": "中華人民共和国 广州市海珠区",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJqYvM9DpWAjQRI9swCjE5eJE",
+        "addressLine1": "太古仓游艇会",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Gexin Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn-fa8zpWAjQR4I5tiZuzvIc",
+        "addressLine1": "太古仓路",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Taigucang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWzeb7DpWAjQREAj7mN9Um7k",
+        "addressLine1": "太古仓壹号",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Gexin Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJa5702DpWAjQRtKAD7k32HBc",
+        "addressLine1": "太古仓停车场",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Gexin Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

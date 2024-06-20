@@ -1,0 +1,32 @@
+{
+  "id": "Etcetera_ev-69",
+  "start": 1485648000,
+  "end": 1485648000,
+  "title": "えとせとら Vol.68",
+  "desc": "Etcetera Vol.68 于 东京都 fai青山 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-69",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4e5521652d05c9870eb638d4283c165555cb0d4015f2f5a552d6cef414c6d5c3",
+  "location": {
+    "type": "google",
+    "text": "东京都 fai青山",
+    "entity": [
+      {
+        "id": "ChIJcUnZ51-LGGARZPUQ7NGgSF4",
+        "addressLine1": "FAI AOYAMA",
+        "addressLine2": "日本、東京都港区南青山５丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

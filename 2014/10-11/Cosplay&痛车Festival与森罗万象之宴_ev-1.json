@@ -1,0 +1,36 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-1",
+  "start": 1412985600,
+  "end": 1412985600,
+  "title": "第一回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第一回 Cosplay&痛车Festival与森罗万象之宴 于 大阪府河内长野市 关西Cycle Sports Center 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-1",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "030019c76dffefe935422330806d07e1c701f43fe0b952091700308337af1fa3",
+  "location": {
+    "type": "google",
+    "text": "大阪府河内长野市 关西Cycle Sports Center",
+    "entity": [
+      {
+        "id": "ChIJowad4H3UAGARwwpdwjd8Cko",
+        "addressLine1": "关西自行车运动中心",
+        "addressLine2": "日本、大阪府河内長野市天野町１３０４",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Boundary Satellite Cafe_ev-2",
+  "start": 1541808000,
+  "end": 1541808000,
+  "title": "第二回 Boundary Satellite Cafe",
+  "desc": "第二回 Boundary Satellite Cafe 于 京都市 家紋イン 東寺東前 BAR施設 举办",
+  "url": "https://thwiki.cc/Boundary_Satellite_Cafe#ev-2",
+  "type": [
+    "店铺联动",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "760c5eb239f9ed428dfbb9dbe77b0bdf912e3bc31f3ddbb9009a77472a7f9049",
+  "location": {
+    "type": "google",
+    "text": "京都市 家紋イン 東寺東前 BAR施設",
+    "entity": []
+  },
+  "platform": 1
+}

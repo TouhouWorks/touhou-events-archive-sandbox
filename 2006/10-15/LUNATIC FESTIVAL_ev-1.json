@@ -1,0 +1,30 @@
+{
+  "id": "LUNATIC FESTIVAL_ev-1",
+  "start": 1160870400,
+  "end": 1160870400,
+  "title": "るなフェス1",
+  "desc": "LUNATIC FESTIVAL 1 于 金泽市 北陆放送会馆 (MROホール) 举办",
+  "url": "https://thwiki.cc/LUNATIC_FESTIVAL#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "212a03645d8641641bbcfa470a46897ee4de0766697d02c444309166d2d8470f",
+  "location": {
+    "type": "google",
+    "text": "金泽市 北陆放送会馆 (MROホール)",
+    "entity": [
+      {
+        "id": "ChIJ-Ux7fHg0-F8RyirLoZtkOSk",
+        "addressLine1": "北陸放送会館",
+        "addressLine2": "日本、石川県金沢市本多町３丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

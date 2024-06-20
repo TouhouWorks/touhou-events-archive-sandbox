@@ -1,0 +1,30 @@
+{
+  "id": "COMICUP_ev-45",
+  "start": 1693008000,
+  "end": 1693008000,
+  "title": "COMICUPGuangZhou05",
+  "desc": "COMICUPGuangZhou05 于 广州市 广州保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-45",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2082d36a0d0efb5cc6462b9a93559dd494e5316d4ddd465ebcc940fe89fd4e07",
+  "location": {
+    "type": "google",
+    "text": "广州市 广州保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世貿展覧館",
+        "addressLine2": "中華人民共和国 広東省 広州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

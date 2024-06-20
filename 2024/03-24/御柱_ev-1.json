@@ -1,0 +1,32 @@
+{
+  "id": "御柱_ev-1",
+  "start": 1711238400,
+  "end": 1711238400,
+  "title": "御柱1",
+  "desc": "御柱1 于 宫城县仙台市 Monet仙台 举办",
+  "url": "https://thwiki.cc/%E5%BE%A1%E6%9F%B1#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3495b552858abff97b6bec7eedfd7a482101a909db2ce697f2d44fed9ecf620a",
+  "location": {
+    "type": "google",
+    "text": "宫城县仙台市 Monet仙台",
+    "entity": [
+      {
+        "id": "ChIJFQXhf0opil8R3SP11OoiBQg",
+        "addressLine1": "Monet",
+        "addressLine2": "日本、宮城県仙台市青葉区国分町３丁目１−１２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

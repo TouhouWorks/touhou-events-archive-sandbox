@@ -1,0 +1,73 @@
+{
+  "id": "苇海炉边话_ev-1",
+  "start": 1556668800,
+  "end": 1556668800,
+  "title": "第一回苇海炉边话",
+  "desc": "第一回苇海炉边话 于 大连市 JueCafe 举办",
+  "url": "https://thwiki.cc/%E8%8B%87%E6%B5%B7%E7%82%89%E8%BE%B9%E8%AF%9D#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5d7bd4ebeca572457a33016311b850ac6702fbad1bfa08faf572e213137c7d63",
+  "location": {
+    "type": "google",
+    "text": "大连市 JueCafe",
+    "entity": [
+      {
+        "id": "ChIJP1j2OhRahjURNsllbOuKc3Y",
+        "addressLine1": "大连市",
+        "addressLine2": "中華人民共和国 遼寧省",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJVUdqE0pgjzURoG-6rF95DG4",
+        "addressLine1": "大连市体育馆",
+        "addressLine2": "中華人民共和国 遼寧省 大連市 沙河口区 绕山路",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJqbCaDCyWQzURAl7dIytHrks",
+        "addressLine1": "北九州市大连友好纪念馆",
+        "addressLine2": "日本、福岡県北九州市門司区東港町１−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJuRAzNOkXaTQRPVL6nDtwjW0",
+        "addressLine1": "大连市",
+        "addressLine2": "台湾 台中 北屯区 Section 3rd, Dalian Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_eVp3siTGGARw_7Jn-3tMO8",
+        "addressLine1": "大连飯店",
+        "addressLine2": "日本、東京都北区岸町１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

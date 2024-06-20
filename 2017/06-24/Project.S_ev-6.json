@@ -1,0 +1,82 @@
+{
+  "id": "Project.S_ev-6",
+  "start": 1498262400,
+  "end": 1498262400,
+  "title": "Project.S 6th stage",
+  "desc": "Project.S 6th stage 于 东京都 原宿ASTRO HALL 举办",
+  "url": "https://thwiki.cc/Project.S#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1109ad643426144a9d2125d30580caf7bfc9c41dc6b031eb3fc5765f7817034d",
+  "location": {
+    "type": "google",
+    "text": "东京都 原宿ASTRO HALL",
+    "entity": [
+      {
+        "id": "ChIJrRjgjaSMGGARzxkPqmTXln8",
+        "addressLine1": "Laforet HARAJUKU／ラフォーレ 原宿",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１１−６",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJaxoXgJyNGGARyK5KTPgFvFc",
+        "addressLine1": "ラフォーレミュージアム原宿",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１１−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPyOTG8KMGGARh_IXobWxHmo",
+        "addressLine1": "新宿御苑",
+        "addressLine2": "日本、東京都新宿区内藤町１１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJVaoStLyMGGARVMpCIrvCGTs",
+        "addressLine1": "原宿警察署",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目４−１７",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_yy1ybqMGGAR0tPR4qiHDVY",
+        "addressLine1": "原宿",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

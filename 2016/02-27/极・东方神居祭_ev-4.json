@@ -1,0 +1,52 @@
+{
+  "id": "极・东方神居祭_ev-4",
+  "start": 1456531200,
+  "end": 1456531200,
+  "title": "極・東方神居祭4",
+  "desc": "极・东方神居祭4 于 札幌Premier Hotel-TSUBAKI- 举办",
+  "url": "https://thwiki.cc/%E6%9E%81%E3%83%BB%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0bef739b8f71ab1bdfd538e13f01ce503d8f3effabcca72ca39f7bc95da2dff6",
+  "location": {
+    "type": "google",
+    "text": "札幌Premier Hotel-TSUBAKI-",
+    "entity": [
+      {
+        "id": "ChIJ11BVqIkpC18RbV3S7FzmBqs",
+        "addressLine1": "Premier Hotel Tsubaki Sapporo",
+        "addressLine2": "１丁目-１-１ 豊平４条 豊平区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJhyKYbYApC18RbtBUxSsOOLc",
+        "addressLine1": "Premier Hotel Tsubaki Sapporo",
+        "addressLine2": "１丁目-１ 豊平４条 豊平区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

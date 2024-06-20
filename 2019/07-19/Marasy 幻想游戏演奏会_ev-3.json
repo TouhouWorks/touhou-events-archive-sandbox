@@ -1,0 +1,30 @@
+{
+  "id": "Marasy 幻想游戏演奏会_ev-3",
+  "start": 1563494400,
+  "end": 1563494400,
+  "title": "まらしぃ 幻想遊戯演奏会2019 in名古屋",
+  "desc": "Marasy 幻想游戏演奏会2019 in名古屋 于 爱知县名古屋市 名古屋市艺术创造中心 举办",
+  "url": "https://thwiki.cc/Marasy_%E5%B9%BB%E6%83%B3%E6%B8%B8%E6%88%8F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "128a40c483e9b63ec4b3d6c6b20ad4d58a2b77842a0b9579049c62a74cba715a",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 名古屋市艺术创造中心",
+    "entity": [
+      {
+        "id": "ChIJIWxfAN1wA2ARfLHf7wSL2L8",
+        "addressLine1": "名古屋市芸術創造センター",
+        "addressLine2": "日本、愛知県名古屋市東区葵１丁目３−２７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

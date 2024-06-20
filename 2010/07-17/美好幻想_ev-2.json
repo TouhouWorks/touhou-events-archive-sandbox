@@ -1,0 +1,84 @@
+{
+  "id": "美好幻想_ev-2",
+  "start": 1279324800,
+  "end": 1279324800,
+  "title": "ステキゲンソウセカンドライフ",
+  "desc": "美好幻想Second Life 于 大阪府大阪市 京桥LiveHouse ism 举办",
+  "url": "https://thwiki.cc/%E7%BE%8E%E5%A5%BD%E5%B9%BB%E6%83%B3#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2fae3dd55a1862d484d1765c52f8e85f55752a19e4b55d274df8e7d37781ad18",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 京桥LiveHouse ism",
+    "entity": [
+      {
+        "id": "ChIJ2ad6Z9fgAGARVAVYgrWpUpM",
+        "addressLine1": "京桥（大阪）",
+        "addressLine2": "日本、大阪府大阪市城東区新喜多１丁目３",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJVdmZLfHhAGAR_074-NjkIfA",
+        "addressLine1": "タイムズ大阪京橋駅前",
+        "addressLine2": "日本、大阪府大阪市都島区片町２丁目３",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJFfJbeIbhAGAR6MN1KLwu4MQ",
+        "addressLine1": "tokinohana 京橋店",
+        "addressLine2": "日本、大阪府大阪市都島区片町２丁目７−５０",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "FLORIST",
+          "florist",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJr7kgHl_hAGARNp6G1zXpvO8",
+        "addressLine1": "カラオケまねきねこ 京橋店",
+        "addressLine2": "日本、大阪府大阪市都島区東野田町３丁目１２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn06IRCrhAGARqB7LMMso_sQ",
+        "addressLine1": "京橋 二刀流",
+        "addressLine2": "日本、大阪府大阪市都島区東野田町４丁目５−４４",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

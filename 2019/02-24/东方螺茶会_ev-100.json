@@ -1,0 +1,30 @@
+{
+  "id": "东方螺茶会_ev-100",
+  "start": 1550966400,
+  "end": 1550966400,
+  "title": "東方螺茶会 山形の宴 第二季",
+  "desc": "东方螺茶会 山形之宴 第二季 于 山形国际交流Plaza (山形ビッグウイング) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-100",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "244ccfdcee93ccc84d1630dc3094a72e89233c27167b6aff17aec6d2fff05011",
+  "location": {
+    "type": "google",
+    "text": "山形国际交流Plaza (山形ビッグウイング)",
+    "entity": [
+      {
+        "id": "ChIJRTQK56rJi18RFybbaBQdhIE",
+        "addressLine1": "山形ビッグウイング",
+        "addressLine2": "日本、山形県山形市平久保１００",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,76 @@
+{
+  "id": "东方清泉飨_ev-1",
+  "start": 1564185600,
+  "end": 1564185600,
+  "title": "東方清泉飨1",
+  "desc": "东方清泉飨1 于 济南 喜来登酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%85%E6%B3%89%E9%A3%A8#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5ab08c49f48ff2253669b6073e03eaaba1c8a495f1dc9ab79f42f26d088c650f",
+  "location": {
+    "type": "google",
+    "text": "济南 喜来登酒店",
+    "entity": [
+      {
+        "id": "ChIJB5-7YNYDwjUR1DbugcdE2jo",
+        "addressLine1": "济南喜来登酒店",
+        "addressLine2": "中華人民共和国 山東省 済南市 歴下区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJa5FaSNoDwjURxI1fUcYYznM",
+        "addressLine1": "济南喜来登酒店停车场",
+        "addressLine2": "中華人民共和国 山東省 済南市 歴下区 Longao North Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJT6rD3QQBwjUROIVxBTC-UUs",
+        "addressLine1": "喜来登酒店盛宴自助西餐厅",
+        "addressLine2": "中華人民共和国 济南 歴下区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJqen4OucGwjURqotF6GfigCM",
+        "addressLine1": "喜来登酒店家具",
+        "addressLine2": "中華人民共和国 山東省 济南 天橋区 792, 东北方向170米",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJ5wnbXdUDwjURuI_qwa18ocM",
+        "addressLine1": "喜来登酒店盛宴自助西餐厅",
+        "addressLine2": "中華人民共和国 山東省 济南 歴下区 Longao North Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

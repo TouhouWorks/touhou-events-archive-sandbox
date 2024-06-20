@@ -1,0 +1,30 @@
+{
+  "id": "COMICUP_ev-8",
+  "start": 1329609600,
+  "end": 1329609600,
+  "title": "COMICUP09",
+  "desc": "COMICUP09 于 上海市 世博会展中心 前非洲联合馆 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "494c66e905b04ffbcf52ccd743d67b14fcef3b4e7306722c9f35417b577db056",
+  "location": {
+    "type": "google",
+    "text": "上海市 世博会展中心 前非洲联合馆",
+    "entity": [
+      {
+        "id": "ChIJx1AUzuh6sjUR3Eu13WGvTjg",
+        "addressLine1": "非洲联合馆",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Comic Fiesta_ev-14",
+  "start": 1450483200,
+  "end": 1450483200,
+  "title": "Comic Fiesta 2015",
+  "desc": "Comic Fiesta 2015 于 马来西亚吉隆坡 Mines国际会展中心 举办",
+  "url": "https://thwiki.cc/Comic_Fiesta#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dc781a9500036867005935136b501c5641f6ee2c9d01b05ba6cac48e9ae038a5",
+  "location": {
+    "type": "google",
+    "text": "马来西亚吉隆坡 Mines国际会展中心",
+    "entity": []
+  },
+  "platform": 1
+}

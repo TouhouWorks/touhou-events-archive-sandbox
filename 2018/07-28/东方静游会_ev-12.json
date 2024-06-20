@@ -1,0 +1,41 @@
+{
+  "id": "东方静游会_ev-12",
+  "start": 1532736000,
+  "end": 1532736000,
+  "title": "東方静遊會vol.11",
+  "desc": "东方静游会vol.11 于 静冈县藤枝市 LIVEHOUSE KOKOPELLI 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%99%E6%B8%B8%E4%BC%9A#ev-12",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bd52afc26c71dad80dcacb35f9c5fb608800f6491b576647f458ad04edb865a6",
+  "location": {
+    "type": "google",
+    "text": "静冈县藤枝市 LIVEHOUSE KOKOPELLI",
+    "entity": [
+      {
+        "id": "ChIJBZzbHhpSGmARtPeBMroylZA",
+        "addressLine1": "藤枝市",
+        "addressLine2": "日本、静岡県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJryWoX_BPGmARK6Ad4w3fo8c",
+        "addressLine1": "ライブハウス藤枝ココペリ",
+        "addressLine2": "日本、静岡県藤枝市駅前２丁目６−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "PARTY FROM TOHO_ev-3",
+  "start": 1686960000,
+  "end": 1686960000,
+  "title": "PARTY FROM TOHO -Scope3 人里-",
+  "desc": "PARTY FROM TOHO -Scope3 人里- 于 新潟县新潟市 Club SEVEN 举办",
+  "url": "https://thwiki.cc/PARTY_FROM_TOHO#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "372db668b706f5a16156784dd04c0590f68e3ea118ebbd51c5961edc47b80008",
+  "location": {
+    "type": "google",
+    "text": "新潟县新潟市 Club SEVEN",
+    "entity": [
+      {
+        "id": "ChIJ___7UPDJ9F8R-Pnf7eYM-bM",
+        "addressLine1": "club SEVEN",
+        "addressLine2": "日本、新潟県新潟市中央区東堀前通８番町１３７１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

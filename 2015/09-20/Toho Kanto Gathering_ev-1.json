@@ -1,0 +1,18 @@
+{
+  "id": "Toho Kanto Gathering_ev-1",
+  "start": 1442707200,
+  "end": 1442707200,
+  "title": "Toho Kanto Gathering 1",
+  "desc": "Toho Kanto Gathering 1 于 东京都 unique LABORATORY 举办",
+  "url": "https://thwiki.cc/Toho_Kanto_Gathering#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f8959fbe43d9b016cf815aa22f26d0db6f447105232515ebe5bc3c20a831132b",
+  "location": {
+    "type": "google",
+    "text": "东京都 unique LABORATORY"
+  },
+  "platform": 1
+}

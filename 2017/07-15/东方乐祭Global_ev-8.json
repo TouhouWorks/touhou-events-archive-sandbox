@@ -1,0 +1,31 @@
+{
+  "id": "东方乐祭Global_ev-8",
+  "start": 1500076800,
+  "end": 1500076800,
+  "title": "東方樂祭Global 2017 in China 北京站",
+  "desc": "东方乐祭Global 2017 in China 北京站 于 北京市 北京光耀东方国贸国际会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-8",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f0d62f8db3c008c519e0ecf8ddf9e8fd720693610d80706ca118baa8872d3874",
+  "location": {
+    "type": "google",
+    "text": "北京市 北京光耀东方国贸国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJM9gNiAhO8DUR3et5lSj2KuI",
+        "addressLine1": "国贸国际会展中心",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Yangfangdian Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

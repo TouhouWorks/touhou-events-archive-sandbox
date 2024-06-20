@@ -1,0 +1,32 @@
+{
+  "id": "Marasy 幻想游戏演奏会_ev-6",
+  "start": 1656720000,
+  "end": 1656720000,
+  "title": "まらしぃ 幻想遊戯演奏会2022 in京都",
+  "desc": "Marasy 幻想游戏演奏会2022 in京都 于 京都市 ROHM Theatre京都 举办",
+  "url": "https://thwiki.cc/Marasy_%E5%B9%BB%E6%83%B3%E6%B8%B8%E6%88%8F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2bfc7822b8501a8ea56c7c9f58743b5dd9118c7276410462c151e156d27427a5",
+  "location": {
+    "type": "google",
+    "text": "京都市 ROHM Theatre京都",
+    "entity": [
+      {
+        "id": "ChIJnYHfm-UIAWARhMmEUN9cq9M",
+        "addressLine1": "Rohm théâtre",
+        "addressLine2": "１３ 岡崎最勝寺町 左京区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

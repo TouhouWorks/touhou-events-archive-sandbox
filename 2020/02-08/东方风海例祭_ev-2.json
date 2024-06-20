@@ -1,0 +1,19 @@
+{
+  "id": "东方风海例祭_ev-2",
+  "start": 1581120000,
+  "end": 1581120000,
+  "title": "大连THO02 东方风海例祭",
+  "desc": "大连THO02 东方风海例祭 于 大连 心悦酒店 5楼大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A3%8E%E6%B5%B7%E4%BE%8B%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f7b01952af4d38c1401d17877babb0e84e7a1abac783f20e9779b6b711add653",
+  "location": {
+    "type": "google",
+    "text": "大连 心悦酒店 5楼大厅",
+    "entity": []
+  },
+  "platform": 1
+}

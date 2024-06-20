@@ -1,0 +1,88 @@
+{
+  "id": "eastern rock'in holic_ev-3",
+  "start": 1347062400,
+  "end": 1347062400,
+  "title": "eastern rock'in holic 3",
+  "desc": "eastern rock&#39;in holic 3 于 名古屋市 鹤舞DAYTRIP 举办",
+  "url": "https://thwiki.cc/eastern_rock%27in_holic#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "da0336d8c4b95eda381be14d1bbc227bd9ebd0761bd781ea9df0d5aa3c721c2c",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 鹤舞DAYTRIP",
+    "entity": [
+      {
+        "id": "ChIJhQRJ57xwA2ARhOfZe0TviiU",
+        "addressLine1": "鶴舞",
+        "addressLine2": "日本、愛知県名古屋市昭和区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ8dymrL5wA2AR1UCWVPCShvs",
+        "addressLine1": "鶴舞駅",
+        "addressLine2": "日本、愛知県名古屋市中区千代田５丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJR2Eikr1wA2ARiMo_xE7eXlA",
+        "addressLine1": "鹤舞公园",
+        "addressLine2": "日本、愛知県名古屋市昭和区鶴舞１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJPYg6iLtwA2ARAfeMr3O3_tw",
+        "addressLine1": "鹤舞中央图书馆",
+        "addressLine2": "日本、愛知県名古屋市昭和区鶴舞１丁目１−１５５",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJxb_nZLlwA2ARVJPB2Ao_GRA",
+        "addressLine1": "株式会社ミニミニ鶴舞店",
+        "addressLine2": "日本、愛知県名古屋市中区千代田３丁目１１−１２",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "insurance_agency",
+          "INSURANCE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

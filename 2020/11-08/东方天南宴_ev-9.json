@@ -1,0 +1,19 @@
+{
+  "id": "东方天南宴_ev-9",
+  "start": 1604793600,
+  "end": 1604793600,
+  "title": "东方天南宴9",
+  "desc": "东方天南宴9 于 天天嘿嘿轰趴馆（南开馨达店）白堤路馨达园 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-9",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "54f931e9f0ff64e1b003a7b1fb1c3c9680f16ae3855a7e11f23d2477a9a2119f",
+  "location": {
+    "type": "google",
+    "text": "天天嘿嘿轰趴馆（南开馨达店）白堤路馨达园",
+    "entity": []
+  },
+  "platform": 1
+}

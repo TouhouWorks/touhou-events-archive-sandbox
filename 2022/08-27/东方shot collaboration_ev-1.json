@@ -1,0 +1,35 @@
+{
+  "id": "东方shot collaboration_ev-1",
+  "start": 1661558400,
+  "end": 1661558400,
+  "title": "第一回 東方shot collaboration",
+  "desc": "第一回 东方shot collaboration 于 大阪市 北新地CRC 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9shot_collaboration#ev-1",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "111592de06cc3d2eace9ac474b405bf5b47ff2c1c2692bc83743cb3a1b04306d",
+  "location": {
+    "type": "google",
+    "text": "大阪市 北新地CRC",
+    "entity": [
+      {
+        "id": "ChIJJXNO6JvnAGARehNZC32MnAs",
+        "addressLine1": "北新地CRC -COMMUNICATION ROCK CITY-",
+        "addressLine2": "日本、大阪府大阪市北区曾根崎新地１丁目７",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

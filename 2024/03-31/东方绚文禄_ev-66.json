@@ -1,0 +1,30 @@
+{
+  "id": "东方绚文禄_ev-66",
+  "start": 1711843200,
+  "end": 1711843200,
+  "title": "東方絢文禄 駿河の卷 第十五弾",
+  "desc": "东方绚文禄 骏河之卷 第十五弹 于 静冈产业支援中心 (ツインメッセ静岡) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-66",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "95590ffd1e41fb6f1fff43c620e0c5920cb6d70bd5e10b80f309269b088ae282",
+  "location": {
+    "type": "google",
+    "text": "静冈产业支援中心 (ツインメッセ静岡)",
+    "entity": [
+      {
+        "id": "ChIJeXI-rRs2GmAR4lK1W1YYlxE",
+        "addressLine1": "ツインメッセ静岡",
+        "addressLine2": "日本、静岡県静岡市駿河区曲金３丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

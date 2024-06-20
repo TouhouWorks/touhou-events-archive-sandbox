@@ -1,0 +1,40 @@
+{
+  "id": "横滨町田东方读书会_ev-3",
+  "start": 1510963200,
+  "end": 1510963200,
+  "title": "第三回横浜町田東方読書会",
+  "desc": "第三回横滨町田东方读书会 于 神奈川县横滨市 十日市场地区中心 举办",
+  "url": "https://thwiki.cc/%E6%A8%AA%E6%BB%A8%E7%94%BA%E7%94%B0%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-3",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fb2bc1479d28ebf45ee205092d8d1acbfd54e93526817786977638b9f19db590",
+  "location": {
+    "type": "google",
+    "text": "神奈川县横滨市 十日市场地区中心",
+    "entity": [
+      {
+        "id": "ChIJNbgGJxH4GGAREJfYUDZUqjM",
+        "addressLine1": "十日市場地区センター",
+        "addressLine2": "日本、神奈川県横浜市緑区十日市場町８０８−３",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJW84YgBD4GGARVyEIRYodO8I",
+        "addressLine1": "横浜市十日市場地域ケアプラザ",
+        "addressLine2": "日本、神奈川県横浜市緑区十日市場町８２５−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

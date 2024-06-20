@@ -1,0 +1,70 @@
+{
+  "id": "ComicDive_ev-4",
+  "start": 1287878400,
+  "end": 1287878400,
+  "title": "ComicDive 4",
+  "desc": "ComicDive 4 于 北京市 全国农业展览馆 举办",
+  "url": "https://thwiki.cc/ComicDive#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "05bc7e5a729965755e6d1d84b9ab2f0f89094981b80b904ac747ed261d001c76",
+  "location": {
+    "type": "google",
+    "text": "北京市 全国农业展览馆",
+    "entity": [
+      {
+        "id": "ChIJzc2du4ms8TURr9vq5MSsafc",
+        "addressLine1": "全国农业展览馆－１１号馆",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 建国门",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJt4ajcois8TURfq6W58ejzC8",
+        "addressLine1": "全国农业展览馆",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Shichahai",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJqbNupIms8TURLuPpkT5-i_E",
+        "addressLine1": "全国农业展览馆-11号馆",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Guanzhong Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJx24iFYis8TURr-awLzsN4pk",
+        "addressLine1": "全国农业展览馆－５号馆",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 八王坟",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ6a2kCoes8TUR2QhemGeuyyM",
+        "addressLine1": "全国农业展览馆－４号馆",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 左家庄",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

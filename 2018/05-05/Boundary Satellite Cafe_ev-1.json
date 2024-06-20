@@ -1,0 +1,35 @@
+{
+  "id": "Boundary Satellite Cafe_ev-1",
+  "start": 1525478400,
+  "end": 1525478400,
+  "title": "Boundary Satellite Cafe",
+  "desc": "Boundary Satellite Cafe 于 东京都 Ginger & Star Cafe 举办",
+  "url": "https://thwiki.cc/Boundary_Satellite_Cafe#ev-1",
+  "type": [
+    "店铺联动",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7e6da0a343912d96cc9dbeeb6a2b4e3dc565e4975c713a62f126fc7dec37be3",
+  "location": {
+    "type": "google",
+    "text": "东京都 Ginger & Star Cafe",
+    "entity": [
+      {
+        "id": "ChIJiZGYymWNGGARBLmDkkEDlcc",
+        "addressLine1": "Ginger&Star Cafe",
+        "addressLine2": "２丁目-５７-２ 東池袋 豊島区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

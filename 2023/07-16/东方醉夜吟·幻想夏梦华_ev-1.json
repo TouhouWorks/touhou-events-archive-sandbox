@@ -1,0 +1,30 @@
+{
+  "id": "东方醉夜吟·幻想夏梦华_ev-1",
+  "start": 1689465600,
+  "end": 1689465600,
+  "title": "遵义THP-东方醉夜吟·幻想夏梦华",
+  "desc": "遵义THP-东方醉夜吟·幻想夏梦华 于 贵州省遵义市 红花岗区万里路127号 星力城a馆大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%86%89%E5%A4%9C%E5%90%9F%C2%B7%E5%B9%BB%E6%83%B3%E5%A4%8F%E6%A2%A6%E5%8D%8E#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5797d978544b575309ae5eb7c5fe08469c4a89276dedd61fac9825819619ca2c",
+  "location": {
+    "type": "google",
+    "text": "贵州省遵义市 红花岗区万里路127号 星力城a馆大厅",
+    "entity": [
+      {
+        "id": "ChIJyY4xjoRglTYR_4JSZNeQUyk",
+        "addressLine1": "万里路127号",
+        "addressLine2": "中華人民共和国 貴州省 遵義県 紅花崗区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

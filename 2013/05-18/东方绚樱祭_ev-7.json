@@ -1,0 +1,30 @@
+{
+  "id": "东方绚樱祭_ev-7",
+  "start": 1368835200,
+  "end": 1368835200,
+  "title": "東方絢櫻祭7 -紛櫻漫舞-",
+  "desc": "东方绚樱祭7 -纷樱漫舞- 于 国立台北科技大学 中正纪念馆 中正厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%A8%B1%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "50ecdee5880a329853d552b670038a5f3fcb9167cd5ae89a48351981b6b8f0da",
+  "location": {
+    "type": "google",
+    "text": "国立台北科技大学 中正纪念馆 中正厅",
+    "entity": [
+      {
+        "id": "ChIJy1OgS32pQjQRVBuU_libkfI",
+        "addressLine1": "国立台北科技大学中正纪念馆",
+        "addressLine2": "台湾 台北市 大安区 Section 3rd, Zhongxiao East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

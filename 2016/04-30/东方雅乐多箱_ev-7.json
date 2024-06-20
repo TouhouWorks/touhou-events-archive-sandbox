@@ -1,0 +1,66 @@
+{
+  "id": "东方雅乐多箱_ev-7",
+  "start": 1461974400,
+  "end": 1461974400,
+  "title": "東方雅樂多箱 第伍幕",
+  "desc": "东方雅乐多箱 第伍幕 于 新宿azito 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9B%85%E4%B9%90%E5%A4%9A%E7%AE%B1#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1b285b127ddf2c3310f64a22aa6c16da3f0af0c24e80ac79c4fd3beab97e8779",
+  "location": {
+    "type": "google",
+    "text": "新宿azito",
+    "entity": [
+      {
+        "id": "ChIJ8XlcyCmNGGARDKqvjSR6b7A",
+        "addressLine1": "新宿azito〜Party&Studio〜",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJP6ehttyMGGARG6GzdcVkHRg",
+        "addressLine1": "新宿UNDERGROUND Azzitto1224",
+        "addressLine2": "日本、東京都新宿区新宿２丁目１１−１０",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6ezmKd2MGGAR_PoVfRer-74",
+        "addressLine1": "agit",
+        "addressLine2": "２丁目-１５-９ 新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJi1RCB1aMGGARGywqlLT0rjA",
+        "addressLine1": "Ajito",
+        "addressLine2": "１３４ 矢来町 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,79 @@
+{
+  "id": "香港城市大学秋祭_ev-1",
+  "start": 1317513600,
+  "end": 1317513600,
+  "title": "香港城市大学秋祭2011",
+  "desc": "香港城市大学秋祭2011 于 香港 香港城市大学 举办",
+  "url": "https://thwiki.cc/%E9%A6%99%E6%B8%AF%E5%9F%8E%E5%B8%82%E5%A4%A7%E5%AD%A6%E7%A7%8B%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a475e5716185bd24a0c767b87ea67ea3b40488680ca6902df27a44e5a19c9335",
+  "location": {
+    "type": "google",
+    "text": "香港 香港城市大学",
+    "entity": [
+      {
+        "id": "ChIJNe_zADQHBDQRWakL-09wYes",
+        "addressLine1": "香港城市大学",
+        "addressLine2": "香港 九龍塘 Tat Chee Avenue",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "COLLEGE_AND_UNIVERSITY",
+          "school",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJNe_zADQHBDQRnYryvVVDO7E",
+        "addressLine1": "香港城市大学杨建文学术楼",
+        "addressLine2": "香港 九龍塘 Tat Chee Avenue",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJNe_zADQHBDQRuO3ayQD0pN8",
+        "addressLine1": "香港城市大学刘鸣炜学术楼",
+        "addressLine2": "香港 九龍塘 Tat Chee Avenue",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJW3phljYHBDQRIF7gZ-uhf6c",
+        "addressLine1": "城市大学",
+        "addressLine2": "香港",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJ11d2pzcHBDQRQE9aa3slP3Y",
+        "addressLine1": "香港城市大学学生宿舍",
+        "addressLine2": "香港 Beacon Hill, Cornwall Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

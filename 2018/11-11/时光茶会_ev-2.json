@@ -1,0 +1,36 @@
+{
+  "id": "时光茶会_ev-2",
+  "start": 1541894400,
+  "end": 1541894400,
+  "title": "时光茶会2",
+  "desc": "时光茶会2 于 长沙 时光书院 举办",
+  "url": "https://thwiki.cc/%E6%97%B6%E5%85%89%E8%8C%B6%E4%BC%9A#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "819b41b5cbd9d67f13202f3f3a058a33b35c9dcd7fa8be3e4b227f1056038fcd",
+  "location": {
+    "type": "google",
+    "text": "长沙 时光书院",
+    "entity": [
+      {
+        "id": "ChIJCUli9CNLJzQRalHAGVme0Dg",
+        "addressLine1": "时光书院",
+        "addressLine2": "中華人民共和国 长沙 岳麓区",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

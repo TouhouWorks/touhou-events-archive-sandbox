@@ -1,0 +1,74 @@
+{
+  "id": "囧囧有神同人祭_ev-1",
+  "start": 1221955200,
+  "end": 1221955200,
+  "title": "囧囧有神同人祭1",
+  "desc": "囧囧有神同人祭1 于 北京市 中关村E世界 举办",
+  "url": "https://thwiki.cc/%E5%9B%A7%E5%9B%A7%E6%9C%89%E7%A5%9E%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c52072b0701a4c285965c284f1ceebe6d86dfdbc83d6fbc9361d8411781ff660",
+  "location": {
+    "type": "google",
+    "text": "北京市 中关村E世界",
+    "entity": [
+      {
+        "id": "ChIJEcUyw1FR8DURSd3n5qieLp0",
+        "addressLine1": "中关村e世界财富中心",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJN3_folFR8DURkmGsQoBfQqk",
+        "addressLine1": "ｅ世界财富中心Ａ座",
+        "addressLine2": "中華人民共和国 北京市 海淀区 中关村",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJbYG5mFFR8DURGwp-7xF0mX8",
+        "addressLine1": "中关村e世界",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun, Zhongguancun Street",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJoc_oWFBR8DURMa5Vcdso8pM",
+        "addressLine1": "E世界财富中心",
+        "addressLine2": "中華人民共和国 北京市 海淀区 中关村",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ00o86VFR8DURWLDTz-3h5nI",
+        "addressLine1": "中关村e世界动漫城",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun, Zhongguancun Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

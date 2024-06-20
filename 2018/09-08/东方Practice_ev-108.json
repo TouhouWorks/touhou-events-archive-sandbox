@@ -1,0 +1,83 @@
+{
+  "id": "东方Practice_ev-108",
+  "start": 1536364800,
+  "end": 1536364800,
+  "title": "東方Practice SP 13th",
+  "desc": "东方Practice SP 13th 于 名古屋市 荣FLEX LOUNGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-108",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4faae0d56924a514690467d7aff75025ed99d73ad4abd16091401336a561c46e",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 荣FLEX LOUNGE",
+    "entity": [
+      {
+        "id": "ChIJ8-aFn-l2A2ARj722MYnYkc8",
+        "addressLine1": "SKY LOUNGE THE ONE AND ONLY -NAGOYA-",
+        "addressLine2": "日本、愛知県名古屋市西区牛島町６−１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJBwUloqNxA2ARE_Mvgxkk4nY",
+        "addressLine1": "Oriental Lounge Nishiki",
+        "addressLine2": "３丁目-１８-１２ 錦 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJbwyTGNNwA2ARq2VnMnAb7Hg",
+        "addressLine1": "ORIENTAL LOUNGE SAKAE",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目１２−４",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJO29o7MJwA2ARw1XUXHkczfE",
+        "addressLine1": "Live & Lounge Vio",
+        "addressLine2": "２丁目-１-９ 新栄 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

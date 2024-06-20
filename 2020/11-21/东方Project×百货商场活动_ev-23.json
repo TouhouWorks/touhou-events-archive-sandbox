@@ -1,0 +1,32 @@
+{
+  "id": "东方Project×百货商场活动_ev-23",
+  "start": 1605916800,
+  "end": 1605916800,
+  "title": "东方Project×Gee!STORE仙台 「博丽神社～秋之祭2020」",
+  "desc": "东方Project×Gee!STORE仙台 「博丽神社～秋之祭2020」 于 宫城县仙台市青叶区中央3丁目8-3 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-23",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "017e0426eee4a02f6b1e4f010734754017344237ea1848ebfcc5795b5c5cf956",
+  "location": {
+    "type": "google",
+    "text": "宫城县仙台市青叶区中央3丁目8-3",
+    "entity": [
+      {
+        "id": "ChIJPZwq6Bcoil8RiCtCU-KddNI",
+        "addressLine1": "3 Chome-8-20 Chūō Parking",
+        "addressLine2": "３丁目-８ 中央 青葉区 仙台市 宮城県 日本",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

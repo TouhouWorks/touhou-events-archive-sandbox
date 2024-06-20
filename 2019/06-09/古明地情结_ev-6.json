@@ -1,0 +1,32 @@
+{
+  "id": "古明地情结_ev-6",
+  "start": 1560038400,
+  "end": 1560038400,
+  "title": "古明地こんぷれっくす むっつめ。",
+  "desc": "古明地情结 第六只眼。 于 京都市劝业馆 (みやこめっせ) 地下1层 第1展厅 举办",
+  "url": "https://thwiki.cc/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%83%85%E7%BB%93#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "091ee38a81e942359681c6391762451adc24b8b253fe73ff37ed3f1b499572ea",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 (みやこめっせ) 地下1层 第1展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勧業館 みやこめっせ",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

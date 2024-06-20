@@ -1,0 +1,30 @@
+{
+  "id": "出行LIVE_ev-1",
+  "start": 1229990400,
+  "end": 1229990400,
+  "title": "おでかけライブ札幌109",
+  "desc": "出行LIVE 札幌109 于 札幌市 K&#39;s Denki月寒Dome 举办",
+  "url": "https://thwiki.cc/%E5%87%BA%E8%A1%8CLIVE#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "27273877d560a38f05bef31d9ec000fac8d166493dee3f854518123987788d20",
+  "location": {
+    "type": "google",
+    "text": "札幌市 K&#39;s Denki月寒Dome",
+    "entity": [
+      {
+        "id": "EjHml6XmnKzjgIHljJfmtbfpgZPmnK3luYzluILosYrlubPljLrvvJEg5pyI5a-S6YCaIi4qLAoUChIJtcnQ2twqC18R9JQMd5LoIOsSFAoSCZeTTiCAKQtfEb9cBC9aHkQ6",
+        "addressLine1": "月寒通",
+        "addressLine2": "日本、北海道札幌市豊平区１",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

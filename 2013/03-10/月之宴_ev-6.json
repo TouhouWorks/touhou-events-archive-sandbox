@@ -1,0 +1,30 @@
+{
+  "id": "月之宴_ev-6",
+  "start": 1362873600,
+  "end": 1362873600,
+  "title": "月の宴6",
+  "desc": "月之宴6 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E6%9C%88%E4%B9%8B%E5%AE%B4#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "01ad132a27c52d05fa444c88a2110ad7497af8822f6ceca0223c2004814e6c2f",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

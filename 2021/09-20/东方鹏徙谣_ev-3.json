@@ -1,0 +1,30 @@
+{
+  "id": "东方鹏徙谣_ev-3",
+  "start": 1632096000,
+  "end": 1632096000,
+  "title": "深圳THONLY-东方鹏徙谣2021",
+  "desc": "深圳THONLY-東方鹏徙谣2021 于 深圳 龙岗区雅南路1号星河·领创天下 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%B9%8F%E5%BE%99%E8%B0%A3#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "75f831bf878c9024d960e8476d358ec2e9a621a594ce1a9e88ed8c8f3179d511",
+  "location": {
+    "type": "google",
+    "text": "深圳 龙岗区雅南路1号星河·领创天下",
+    "entity": [
+      {
+        "id": "ChIJG4BOG7r0AzQRGbB5E8v_M6Y",
+        "addressLine1": "Xinghe Lingchuang Tianxia",
+        "addressLine2": "米左右东南方向130米 50, 竜崗区 深セン 広東省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

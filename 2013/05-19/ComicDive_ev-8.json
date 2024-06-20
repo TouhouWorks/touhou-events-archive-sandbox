@@ -1,0 +1,72 @@
+{
+  "id": "ComicDive_ev-8",
+  "start": 1368921600,
+  "end": 1368921600,
+  "title": "ComicDive 8",
+  "desc": "ComicDive 8 于 北京市 国家会议中心 举办",
+  "url": "https://thwiki.cc/ComicDive#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a62c77f91226de5d2e92557bf6d6fab1c58fcc2e1123d01e62393a61b6389950",
+  "location": {
+    "type": "google",
+    "text": "北京市 国家会议中心",
+    "entity": [
+      {
+        "id": "ChIJU4rZfuZU8DURBBsb5tW4n0Q",
+        "addressLine1": "国家会议中心",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 塔院",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ7VsgT-RU8DURNUKwO0CDOw0",
+        "addressLine1": "国家会议中心大酒店",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 北辰西路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ7VsgT-RU8DURXwJSUl60DWQ",
+        "addressLine1": "国家会议中心",
+        "addressLine2": "中華人民共和国 北京市 朝陽区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1bYERORU8DURHyCCnhn95mU",
+        "addressLine1": "国家会议中心大酒店",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 太阳宫",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJk1vXH-RU8DURnyAiEgeoDw4",
+        "addressLine1": "国家会议中心写字楼北区",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 安贞 Tianchen East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

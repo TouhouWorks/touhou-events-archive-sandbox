@@ -1,0 +1,32 @@
+{
+  "id": "东方EGO Rock！_ev-3",
+  "start": 1702684800,
+  "end": 1702684800,
+  "title": "東方EGO Rock！3",
+  "desc": "东方EGO Rock！3 于 东京 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9EGO_Rock%EF%BC%81#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e157f61966d0b62d8b0140d711a520985105495d2f22847892fcd615ec46994d",
+  "location": {
+    "type": "google",
+    "text": "东京 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

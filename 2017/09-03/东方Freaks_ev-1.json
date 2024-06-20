@@ -1,0 +1,80 @@
+{
+  "id": "东方Freaks_ev-1",
+  "start": 1504396800,
+  "end": 1504396800,
+  "title": "東方フリークスVol.1",
+  "desc": "东方FREAKSVol.1 于 东京市 新宿MARZ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Freaks#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "41beaef87229f0dd8c4581fe72c3c6bdc430cf7ce276b46902b4e97191aed9f5",
+  "location": {
+    "type": "google",
+    "text": "东京市 新宿MARZ",
+    "entity": [
+      {
+        "id": "ChIJGa1pCzqNGGARK201-NazdyA",
+        "addressLine1": "新宿MARZ",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目４５−１ トキワビル",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJvViFdd2MGGARTCXIxOB_cgo",
+        "addressLine1": "东京商务酒店",
+        "addressLine2": "日本、東京都新宿区新宿６丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJC_yOqtuMGGAR9FuU41KJ-x0",
+        "addressLine1": "Apple 新宿",
+        "addressLine2": "日本、東京都新宿区新宿３丁目３０−１３",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJJZ39lduMGGARfWqY3-nupT0",
+        "addressLine1": "Theatre新宿",
+        "addressLine2": "日本、東京都新宿区新宿３丁目１４−２０",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFeuwj9WMGGARy3TKjB1ibDE",
+        "addressLine1": "新宿警察署",
+        "addressLine2": "日本、東京都新宿区西新宿６丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

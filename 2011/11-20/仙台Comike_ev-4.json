@@ -1,0 +1,30 @@
+{
+  "id": "仙台Comike_ev-4",
+  "start": 1321747200,
+  "end": 1321747200,
+  "title": "仙台コミケ195",
+  "desc": "仙台Comike195 于 宫城县仙台产业展示馆 举办",
+  "url": "https://thwiki.cc/%E4%BB%99%E5%8F%B0Comike#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e2fcd8f02f8f6479c74f345a448f617ef20be5c531af9d9e6c6670f1cb96b6f0",
+  "location": {
+    "type": "google",
+    "text": "宫城县仙台产业展示馆",
+    "entity": [
+      {
+        "id": "ChIJhT8_a5Qmil8RJ9UGcfppomc",
+        "addressLine1": "仙台産業展示館",
+        "addressLine2": "日本、宮城県仙台市太白区中田町杉ノ下１８−１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

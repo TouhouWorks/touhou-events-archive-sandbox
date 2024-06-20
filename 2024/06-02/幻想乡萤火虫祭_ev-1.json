@@ -1,0 +1,30 @@
+{
+  "id": "幻想乡萤火虫祭_ev-1",
+  "start": 1717286400,
+  "end": 1717286400,
+  "title": "幻想郷ほたる祭り1",
+  "desc": "幻想乡萤火虫祭1 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E8%90%A4%E7%81%AB%E8%99%AB%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3e8b3153154d92731d5a5016d1dd585f949e823e6a8a1cf4cf20cb671171d53e",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "COMIDAY_ev-22",
+  "start": 1533340800,
+  "end": 1533340800,
+  "title": "COMIDAY22",
+  "desc": "COMIDAY22 于 成都市 世纪城新国际会展中心 8号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-22",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3fc87924366603c025fcc1fd34daebc9e987931010cac5ef845829a5bc8feb69",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 8号馆",
+    "entity": []
+  },
+  "platform": 1
+}

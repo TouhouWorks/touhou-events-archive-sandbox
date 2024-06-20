@@ -1,0 +1,36 @@
+{
+  "id": "东方Project×百货商场活动_ev-15",
+  "start": 1565395200,
+  "end": 1565395200,
+  "title": "博丽神社～一点点夏之祭2019 in Animate秋叶原别馆",
+  "desc": "博丽神社～一点点夏之祭2019 in Animate秋叶原别馆 于 东京 Animate秋叶原别馆 7层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-15",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2e33ee0a7602fb02453093e238b5b8cb3ef7fa2f37f92771dbd62e0345073262",
+  "location": {
+    "type": "google",
+    "text": "东京 Animate秋叶原别馆 7层",
+    "entity": [
+      {
+        "id": "ChIJAVf7lh2MGGARJylRnQ_3dpI",
+        "addressLine1": "Animate 秋叶原店",
+        "addressLine2": "日本、東京都千代田区外神田４丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

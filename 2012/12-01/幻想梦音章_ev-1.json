@@ -1,0 +1,83 @@
+{
+  "id": "幻想梦音章_ev-1",
+  "start": 1354320000,
+  "end": 1354320000,
+  "title": "幻想夢音章1",
+  "desc": "幻想梦音章1 于 东京都 京王永山 M.studio 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E6%A2%A6%E9%9F%B3%E7%AB%A0#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f8ed977299eb1bd20d5d51040bef56c9c3ae6755353ad49c056bd17017b6176",
+  "location": {
+    "type": "google",
+    "text": "东京都 京王永山 M.studio",
+    "entity": [
+      {
+        "id": "ChIJBRdUOVX7GGARMlCwV9khjr0",
+        "addressLine1": "プチラフィネ 京王リトナード永山店",
+        "addressLine2": "日本、東京都多摩市永山１丁目１８−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJO4fdGFX7GGARzQvtwG5K8LQ",
+        "addressLine1": "京王永山",
+        "addressLine2": "日本、東京都多摩市永山１丁目",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLTdSEVX7GGARe6lTGk0elwI",
+        "addressLine1": "京王永山",
+        "addressLine2": "日本、東京都多摩市永山１丁目１８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJe2tmHqPlGGARPZlg2yyb_q4",
+        "addressLine1": "串カツ田中 京王永山店",
+        "addressLine2": "日本、東京都多摩市永山１丁目3−４",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "SHOPS_AND_SERVICES",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "meal_delivery",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJd_l8uavkGGARE_KBndseEPU",
+        "addressLine1": "M.studio 永山店",
+        "addressLine2": "日本、東京都多摩市馬引沢１丁目１６−１０",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

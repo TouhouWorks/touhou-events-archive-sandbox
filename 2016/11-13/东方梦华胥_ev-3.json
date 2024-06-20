@@ -1,0 +1,19 @@
+{
+  "id": "东方梦华胥_ev-3",
+  "start": 1478995200,
+  "end": 1478995200,
+  "title": "第三届武漢THONLY-東方楓月祭",
+  "desc": "第三届武汉THONLY-东方枫月祭 于 武汉 梅园宾馆 1层多功能厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E5%8D%8E%E8%83%A5#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c951c7eed20df279c2903e9bd2424260c0e46ef507280b2b95e11b6fb172fee",
+  "location": {
+    "type": "google",
+    "text": "武汉 梅园宾馆 1层多功能厅",
+    "entity": []
+  },
+  "platform": 1
+}

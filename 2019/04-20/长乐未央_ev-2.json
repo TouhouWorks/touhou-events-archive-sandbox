@@ -1,0 +1,42 @@
+{
+  "id": "长乐未央_ev-2",
+  "start": 1555718400,
+  "end": 1555718400,
+  "title": "长安THONLY-长乐未央",
+  "desc": "长安THONLY-长乐未央 于 西安市 汇成天玺酒店 举办",
+  "url": "https://thwiki.cc/%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AE#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3b251299237582c962abf84dab88676aad47f913ed1866f89508684f3a00a48b",
+  "location": {
+    "type": "google",
+    "text": "西安市 汇成天玺酒店",
+    "entity": [
+      {
+        "id": "ChIJ6djrPQNxYzYRYoUIMt4S4MM",
+        "addressLine1": "汇成天玺酒店",
+        "addressLine2": "中華人民共和国 陝西省 西安市 雁塔区 Zhuque Avenue South Section",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJmY9rJANxYzYRtK7iG3h5k0A",
+        "addressLine1": "汇成天玺酒店电动汽车充电站",
+        "addressLine2": "中華人民共和国 西安市 雁塔区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

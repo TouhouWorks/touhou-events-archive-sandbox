@@ -1,0 +1,38 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-9",
+  "start": 1448755200,
+  "end": 1448755200,
+  "title": "第九回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第九回 Cosplay&痛车Festival与森罗万象之宴 于 兵库县淡路市 淡路世界公园ONOKORO 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-9",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fa3c37a89b206006d53ef6109c8222a1814f58dcaa49b3c61b133ba9942e1e69",
+  "location": {
+    "type": "google",
+    "text": "兵库县淡路市 淡路世界公园ONOKORO",
+    "entity": [
+      {
+        "id": "ChIJ-UeXVe62VDURu11ahEPDMAo",
+        "addressLine1": "淡路世界公園",
+        "addressLine2": "日本、兵庫県淡路市塩田新島８−５",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "SHOPS_AND_SERVICES",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

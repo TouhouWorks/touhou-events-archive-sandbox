@@ -1,0 +1,42 @@
+{
+  "id": "东方幻骚祭_ev-5",
+  "start": 1643414400,
+  "end": 1643414400,
+  "title": "第四回東方幻騒祭",
+  "desc": "第四回东方幻骚祭 于 东京都新宿区 新宿azito 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E9%AA%9A%E7%A5%AD#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bb82876d9d68f0ba668e9be4ac2457260cd7f52387cbda781969f47accab6bab",
+  "location": {
+    "type": "google",
+    "text": "东京都新宿区 新宿azito",
+    "entity": [
+      {
+        "id": "ChIJ8XlcyCmNGGARDKqvjSR6b7A",
+        "addressLine1": "新宿azito〜Party&Studio〜",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6ezmKd2MGGAR_PoVfRer-74",
+        "addressLine1": "agit",
+        "addressLine2": "２丁目-１５-９ 新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "博多妖樱祭_ev-2",
+  "start": 1585440000,
+  "end": 1585440000,
+  "title": "博多妖桜祭2",
+  "desc": "博多妖樱祭2 于 福冈市 Papillon 24 Gas Hall 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E5%A4%9A%E5%A6%96%E6%A8%B1%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f26e259dcf04b83a0f631bb961be5c8c1624ff49856727de3b028f178db6157",
+  "location": {
+    "type": "google",
+    "text": "福冈市 Papillon 24 Gas Hall",
+    "entity": [
+      {
+        "id": "ChIJVVVVktyRQTURYVI0sdQfdAM",
+        "addressLine1": "Papillon 24 Gas Hall",
+        "addressLine2": "１丁目-１７-１ 千代 博多区 福岡市 福岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "百鬼战争_ev-8",
+  "start": 1556928000,
+  "end": 1556928000,
+  "title": "第八次百鬼戦争",
+  "desc": "第八次百鬼战争 于 东京都台东区 Asakusa Gold Sounds 举办",
+  "url": "https://thwiki.cc/%E7%99%BE%E9%AC%BC%E6%88%98%E4%BA%89#ev-8",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5726b4c5c073eb48c6b7262aacef6c53ad2d07b91dc4e6ecd82d4bae87b12219",
+  "location": {
+    "type": "google",
+    "text": "东京都台东区 Asakusa Gold Sounds",
+    "entity": [
+      {
+        "id": "ChIJo0k5_ceOGGARPkEL_KsfPhI",
+        "addressLine1": "Asakusa Gold Sounds",
+        "addressLine2": "日本、東京都台東区駒形１丁目３−８",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

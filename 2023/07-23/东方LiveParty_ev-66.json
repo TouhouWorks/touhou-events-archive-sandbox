@@ -1,0 +1,32 @@
+{
+  "id": "东方LiveParty_ev-66",
+  "start": 1690070400,
+  "end": 1690070400,
+  "title": "东方LiveParty×广西THO-幻想桂风颂03",
+  "desc": "东方LiveParty×广西THO-幻想桂风颂03 于 广西壮族自治区 南宁市 青秀区 广西建设五象大酒店 4F多功能厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-66",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "599964afc7e0e533eae5b9d8a8610f4a81314fa46d593441f10ab5b0c3a491c0",
+  "location": {
+    "type": "google",
+    "text": "广西壮族自治区 南宁市 青秀区 广西建设五象大酒店 4F多功能厅",
+    "entity": [
+      {
+        "id": "ChIJKTT1Av3oszYRJNgyeSA2Tgk",
+        "addressLine1": "五像大酒店",
+        "addressLine2": "中華人民共和国 南寧市 青秀区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

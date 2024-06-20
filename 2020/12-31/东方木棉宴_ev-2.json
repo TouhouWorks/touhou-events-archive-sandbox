@@ -1,0 +1,44 @@
+{
+  "id": "东方木棉宴_ev-2",
+  "start": 1609372800,
+  "end": 1609372800,
+  "title": "东方木棉宴2",
+  "desc": "东方木棉宴2 于 广州 建国酒店 君豪餐厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%A8%E6%A3%89%E5%AE%B4#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fc816b38648ca42e0fc900dbb1c57449539b91166c97eab5ceb641abdf805e87",
+  "location": {
+    "type": "google",
+    "text": "广州 建国酒店 君豪餐厅",
+    "entity": [
+      {
+        "id": "ChIJv9AYVvD-AjQRYbnJGXKjf34",
+        "addressLine1": "建国酒店君豪西餐厅",
+        "addressLine2": "中華人民共和国 広東省 广州 天河区 Linhe Middle Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPw_E-fD-AjQRmJUzSJixVa8",
+        "addressLine1": "君豪餐厅",
+        "addressLine2": "中華人民共和国 広東省 広州市 天河区 Linhe Middle Road, 广州建国酒店",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

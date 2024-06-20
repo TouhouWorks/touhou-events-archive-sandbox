@@ -1,0 +1,30 @@
+{
+  "id": "Luna Petit。_ev-1",
+  "start": 1264896000,
+  "end": 1264896000,
+  "title": "るなぷち。1",
+  "desc": "Luna Petit。1 于 新潟市 新潟市产业振兴中心 1层 展厅 举办",
+  "url": "https://thwiki.cc/Luna_Petit%E3%80%82#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "29ec1cbddad990ef6d02d03d012f3a8af52289021514a7b9b3c2f6a3a319d439",
+  "location": {
+    "type": "google",
+    "text": "新潟市 新潟市产业振兴中心 1层 展厅",
+    "entity": [
+      {
+        "id": "ChIJO0lAe8LI9F8RkO-8bqXzivk",
+        "addressLine1": "新潟市産業振興センター",
+        "addressLine2": "日本、新潟県新潟市中央区鐘木１８５−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

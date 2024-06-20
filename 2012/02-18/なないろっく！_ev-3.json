@@ -1,0 +1,86 @@
+{
+  "id": "なないろっく！_ev-3",
+  "start": 1329523200,
+  "end": 1329523200,
+  "title": "なないろっく！ Vol.3",
+  "desc": "なないろっく！ Vol.3 于 东京都 池袋RUIDO K3 举办",
+  "url": "https://thwiki.cc/%E3%81%AA%E3%81%AA%E3%81%84%E3%82%8D%E3%81%A3%E3%81%8F%EF%BC%81#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2fcc185a8366e109fd626bdffc28fff0bc9bd727ef515b279cdebde936cb2bca",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋RUIDO K3",
+    "entity": [
+      {
+        "id": "ChIJJ1xYpaCSGGARumLc8TmsILQ",
+        "addressLine1": "池袋",
+        "addressLine2": "日本、東京都豊島区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZZnCnWeNGGARb-f8twHaqvQ",
+        "addressLine1": "池袋PARCO",
+        "addressLine2": "日本、東京都豊島区南池袋１丁目２８−２",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJE901bmeNGGARpBR-pAWCZow",
+        "addressLine1": "池袋PARCO",
+        "addressLine2": "日本、東京都豊島区東池袋１丁目５０−３５",
+        "provider": "google_places",
+        "categories": [
+          "department_store",
+          "SHOPS_AND_SERVICES",
+          "shopping_mall",
+          "DEPARTMENT_STORE",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJ0zU9amaNGGARr1F49--AhgI",
+        "addressLine1": "池袋保健所",
+        "addressLine2": "日本、東京都豊島区東池袋４丁目４２−１６",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJF_6T72WNGGARnH3_iYHwfds",
+        "addressLine1": "ハローワーク 池袋",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目５−１３",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

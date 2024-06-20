@@ -1,0 +1,34 @@
+{
+  "id": "Petit Fancy_ev-5",
+  "start": 1272067200,
+  "end": 1272067200,
+  "title": "Petit Fancy12",
+  "desc": "Petit Fancy12 于 台北市台湾大学综合体育馆一楼 举办",
+  "url": "https://thwiki.cc/Petit_Fancy#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cb4e1b13210e149ccde53e31b081cf69ea22fe5b1bfbd22457cb87730f276864",
+  "location": {
+    "type": "google",
+    "text": "台北市台湾大学综合体育馆一楼",
+    "entity": [
+      {
+        "id": "ChIJHYeewoupQjQRo1LvtfKwHYY",
+        "addressLine1": "台灣大學綜合體育館",
+        "addressLine2": "台湾 台北市 大安区 Section 4, Roosevelt Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

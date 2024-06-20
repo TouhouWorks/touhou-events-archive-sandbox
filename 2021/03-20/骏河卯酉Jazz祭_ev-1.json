@@ -1,0 +1,30 @@
+{
+  "id": "骏河卯酉Jazz祭_ev-1",
+  "start": 1616198400,
+  "end": 1616198400,
+  "title": "するが卯酉ジャズ祭1",
+  "desc": "骏河卯酉Jazz祭1 于 静冈市 LIVEHOUSE UHU 举办",
+  "url": "https://thwiki.cc/%E9%AA%8F%E6%B2%B3%E5%8D%AF%E9%85%89Jazz%E7%A5%AD#ev-1",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d6450460a0aab853c265e1d26d473b284b56518c25d29203435fd2d7e05960dc",
+  "location": {
+    "type": "google",
+    "text": "静冈市 LIVEHOUSE UHU",
+    "entity": [
+      {
+        "id": "ChIJvRx-1R9KGmAR7-1XSnkU1NM",
+        "addressLine1": "Live House UHU Sizuoka",
+        "addressLine2": "日本、静岡県静岡市葵区七間町１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

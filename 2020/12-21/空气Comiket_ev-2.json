@@ -1,0 +1,19 @@
+{
+  "id": "空气Comiket_ev-2",
+  "start": 1608508800,
+  "end": 1608508800,
+  "title": "エアコミケ2",
+  "desc": "空气Comiket2 于 https://twitter.com/hashtag/エアコミケ2 举办",
+  "url": "https://thwiki.cc/%E7%A9%BA%E6%B0%94Comiket#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d479ea8c3d3da66bed32815a0996f528290fd77c1d0c3a05282467a38d0db080",
+  "location": {
+    "type": "google",
+    "text": "https://twitter.com/hashtag/エアコミケ2",
+    "entity": []
+  },
+  "platform": 1
+}

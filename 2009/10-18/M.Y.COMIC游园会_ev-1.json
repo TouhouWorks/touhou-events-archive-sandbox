@@ -1,0 +1,46 @@
+{
+  "id": "M.Y.COMIC游园会_ev-1",
+  "start": 1255824000,
+  "end": 1255824000,
+  "title": "第一次M.Y.Comic游园会",
+  "desc": "第一次M.Y.Comic游园会 于 北京市 中关村e世界数码广场 举办",
+  "url": "https://thwiki.cc/M.Y.COMIC%E6%B8%B8%E5%9B%AD%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "70838bfd2702fddb7220b8f539296bee8de149fe25d09933422f992e138b2bc3",
+  "location": {
+    "type": "google",
+    "text": "北京市 中关村e世界数码广场",
+    "entity": [
+      {
+        "id": "ChIJbYG5mFFR8DURKc0CEVNJHT0",
+        "addressLine1": "中关村e世界数码广场",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun, 中关村大街",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJA4Z3glFR8DURob8-XmkzKLw",
+        "addressLine1": "中关村E世界数码广场停车场",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun, Zhongguancun Street",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

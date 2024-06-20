@@ -1,0 +1,73 @@
+{
+  "id": "森罗万象之宴_ev-20",
+  "start": 1402790400,
+  "end": 1402790400,
+  "title": "第18回 森羅万象ノ宴 in 夕張まんがメロン祭り",
+  "desc": "第18回 森罗万象之宴 in 夕张漫画Melon祭 于 夕张市民会馆 举办",
+  "url": "https://thwiki.cc/%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-20",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3565b5d222db74f96495aaed647b2f4b38a1242a072c7149cd49d572ad5d630c",
+  "location": {
+    "type": "google",
+    "text": "夕张市民会馆",
+    "entity": [
+      {
+        "id": "ChIJdWZQNMBPGmARAMschqGUZ_s",
+        "addressLine1": "藤枝市民会館",
+        "addressLine2": "日本、静岡県藤枝市岡出山１丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc5cPY1ToGGARZCh01EQoVfw",
+        "addressLine1": "新座市民会館",
+        "addressLine2": "日本、埼玉県新座市野火止１丁目１−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJtWcifyrAGGAR2LJXPIDjpOc",
+        "addressLine1": "市民会馆入口",
+        "addressLine2": "日本、埼玉県さいたま市浦和区仲町２丁目５",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJAQBt0gVOGGARf3h-3SlGE-o",
+        "addressLine1": "藤沢市キッチンカー事業者連絡協議会",
+        "addressLine2": "日本、神奈川県藤沢市辻堂元町３丁目１５−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJC7WWRcgNA2ARqpnoitQL_f4",
+        "addressLine1": "犬山市民文化會館",
+        "addressLine2": "日本、愛知県犬山市羽黒摺墨１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

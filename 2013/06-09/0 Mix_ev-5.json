@@ -1,0 +1,30 @@
+{
+  "id": "0 Mix_ev-5",
+  "start": 1370736000,
+  "end": 1370736000,
+  "title": "0 Mix vol.5",
+  "desc": "0 Mix vol.5 于 大阪市 B-SQUARE 举办",
+  "url": "https://thwiki.cc/0_Mix#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "27aa28436832e891eca3e4bcc279317a9c472e13e7755dd8b20e793f648560c2",
+  "location": {
+    "type": "google",
+    "text": "大阪市 B-SQUARE",
+    "entity": [
+      {
+        "id": "ChIJsWNcqpXmAGARPs65-2ofCJY",
+        "addressLine1": "ライブスペース B.SQUARE",
+        "addressLine2": "日本、大阪府大阪市北区万歳町４−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

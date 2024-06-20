@@ -1,0 +1,30 @@
+{
+  "id": "Lunatic East 2019_ev-8",
+  "start": 1562976000,
+  "end": 1562976000,
+  "title": "Lunatic East 2019 8",
+  "desc": "Lunatic East 2019 8 于 名古屋市 HOLIDAY NEXT名古屋 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-8",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "53bc5874552b2224358abe3690a2c9b55b5379f6e52ef3f4a4b7ca362941719c",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 HOLIDAY NEXT名古屋",
+    "entity": [
+      {
+        "id": "ChIJ6_iBvNJwA2ARyjRrFx6gL7M",
+        "addressLine1": "HOLIDAY NEXT NAGOYA",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目２３−２３−３２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

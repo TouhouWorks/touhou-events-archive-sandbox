@@ -1,0 +1,30 @@
+{
+  "id": "POP FANTASY_ev-5",
+  "start": 1537747200,
+  "end": 1537747200,
+  "title": "POP FANTASY ～East & West Final Tour 2018～ 東京",
+  "desc": "POP FANTASY ~East & West Final Tour 2018～ 东京 于 东京都 初台DOORS 举办",
+  "url": "https://thwiki.cc/POP_FANTASY#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5fa1323004501de2ea24f68eecdf1c110052f891633b62e9dacf5925a9512bb2",
+  "location": {
+    "type": "google",
+    "text": "东京都 初台DOORS",
+    "entity": [
+      {
+        "id": "ChIJE-UjAi7zGGARSpiMoEOsmhU",
+        "addressLine1": "初台DOORS",
+        "addressLine2": "日本、東京都渋谷区本町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

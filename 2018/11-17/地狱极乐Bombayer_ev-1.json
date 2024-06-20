@@ -1,0 +1,32 @@
+{
+  "id": "地狱极乐Bombayer_ev-1",
+  "start": 1542412800,
+  "end": 1542412800,
+  "title": "地獄極楽ボンバイエ 1",
+  "desc": "地狱极乐Bombayer 1 于 爱知县名古屋市 LIVE BOX UNLIMITS大须 举办",
+  "url": "https://thwiki.cc/%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90Bombayer#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "109181ecb36c55649169b9a3aa4905ac48e054fdafaeba614ec9f3c8e911f93f",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 LIVE BOX UNLIMITS大须",
+    "entity": [
+      {
+        "id": "ChIJW4mGMDJ3A2ARW1w8quFU11s",
+        "addressLine1": "Live Box UNLIMITS 大須",
+        "addressLine2": "日本、愛知県名古屋市中区大須２丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

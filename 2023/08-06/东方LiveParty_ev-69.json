@@ -1,0 +1,32 @@
+{
+  "id": "东方LiveParty_ev-69",
+  "start": 1691280000,
+  "end": 1691280000,
+  "title": "东方LiveParty×苏州THO2023·東方蘇酒宴",
+  "desc": "东方LiveParty×苏州THO2023·東方蘇酒宴 于 江苏省 苏州市 吴中区 山丘livehouse（斜塘店） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-69",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "631b0a5f98f5d16871adad7f35c3f7a8422cc835cebf733cd81035d45b732943",
+  "location": {
+    "type": "google",
+    "text": "江苏省 苏州市 吴中区 山丘livehouse（斜塘店）",
+    "entity": [
+      {
+        "id": "ChIJN02dHSCoszURj49mEA0TccU",
+        "addressLine1": "吴中区斜塘",
+        "addressLine2": "中華人民共和国 江苏省苏州市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

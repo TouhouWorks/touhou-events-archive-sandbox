@@ -1,0 +1,19 @@
+{
+  "id": "上海ComiCon_ev-2",
+  "start": 1212278400,
+  "end": 1212278400,
+  "title": "上海ComiCon2",
+  "desc": "上海ComiCon2 于 上海市 上海师范大学羽球馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b7f980705493821dd1d497c40f4e2516b5c5929d7b87044084476dd41ad06b5e",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海师范大学羽球馆",
+    "entity": []
+  },
+  "platform": 1
+}

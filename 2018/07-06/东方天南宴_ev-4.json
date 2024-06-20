@@ -1,0 +1,30 @@
+{
+  "id": "东方天南宴_ev-4",
+  "start": 1530835200,
+  "end": 1530835200,
+  "title": "东方天南宴4",
+  "desc": "东方天南宴4 于 天津市竹子众创空间 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1535f19e6f8f4bae24c3b626c7b8d3f3efa8b5452a2454e265ba88ec48dd08f6",
+  "location": {
+    "type": "google",
+    "text": "天津市竹子众创空间",
+    "entity": [
+      {
+        "id": "ChIJ21Ocft_-7TURayiFdvJk4ws",
+        "addressLine1": "天津竹子众创空间",
+        "addressLine2": "中華人民共和国 天津市 河北区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方上州祭_ev-7",
+  "start": 1710028800,
+  "end": 1710028800,
+  "title": "東方上州祭 第7幕",
+  "desc": "东方上州祭 第7幕 于 前桥市 Yamada Green Dome前桥 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B8%8A%E5%B7%9E%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7db0cef2b725b7ec64f4c566917614390537568f9fe713e4873dde6ed62a5894",
+  "location": {
+    "type": "google",
+    "text": "前桥市 Yamada Green Dome前桥",
+    "entity": [
+      {
+        "id": "ChIJPRHN4D7zHmARMlfxxq7CwG4",
+        "addressLine1": "ヤマダグリーンドーム前橋",
+        "addressLine2": "日本、群馬県前橋市岩神町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "大富豪 vs 大贫民_ev-1",
+  "start": 1696636800,
+  "end": 1696636800,
+  "title": "大富豪 vs 大貧民1",
+  "desc": "大富豪 vs 大贫民1 于 东京都 涩谷TAKEOFF7 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E5%AF%8C%E8%B1%AA_vs_%E5%A4%A7%E8%B4%AB%E6%B0%91#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0e242b46083e3cf5d7578a81e97009ef1d0eff5e0bd2c2ff68af1e03e76434d5",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷TAKEOFF7",
+    "entity": [
+      {
+        "id": "ChIJB0p0c6mMGGARghtYK0lGJJ4",
+        "addressLine1": "SHIBUYA TAKE OFF 7",
+        "addressLine2": "３２-１２ 宇田川町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

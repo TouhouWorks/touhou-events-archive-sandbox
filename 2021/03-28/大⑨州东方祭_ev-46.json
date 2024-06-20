@@ -1,0 +1,40 @@
+{
+  "id": "大⑨州东方祭_ev-46",
+  "start": 1616889600,
+  "end": 1616889600,
+  "title": "大⑨州東方祭44",
+  "desc": "大⑨州东方祭44 于 宫崎市 宫崎市民Plaza 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-46",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2384c4bf0b23e2d099e80f80fe1e04f0ec48ca4aab2bcf349f4e6fcdfe0bbabb",
+  "location": {
+    "type": "google",
+    "text": "宫崎市 宫崎市民Plaza",
+    "entity": [
+      {
+        "id": "ChIJC_wUiAG3ODURYEeK4Lf26sU",
+        "addressLine1": "宮崎市民倶楽部",
+        "addressLine2": "日本、宮崎県宮崎市福島町壱本橋３０３３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVTadpBK3ODURw_1lgiVvZCU",
+        "addressLine1": "宮崎市民プラザ",
+        "addressLine2": "日本、宮崎県宮崎市橘通西１丁目１−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

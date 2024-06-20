@@ -1,0 +1,32 @@
+{
+  "id": "应天盛夏宴_ev-2",
+  "start": 1693008000,
+  "end": 1693008000,
+  "title": "应天盛夏宴2",
+  "desc": "应天盛夏宴2 于 江苏省南京市 大玩派轰趴馆（仙林店） 举办",
+  "url": "https://thwiki.cc/%E5%BA%94%E5%A4%A9%E7%9B%9B%E5%A4%8F%E5%AE%B4#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2708431c5e72c349f80ae2fd43a68f72bc2f93a433ce2295eb6fae966c82ee6d",
+  "location": {
+    "type": "google",
+    "text": "江苏省南京市 大玩派轰趴馆（仙林店）",
+    "entity": [
+      {
+        "id": "ChIJz-LAvE3stTURHuq80nV1Y3E",
+        "addressLine1": "棲霞区 仙林",
+        "addressLine2": "中華人民共和国 江苏省南京市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

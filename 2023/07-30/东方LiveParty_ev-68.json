@@ -1,0 +1,32 @@
+{
+  "id": "东方LiveParty_ev-68",
+  "start": 1690675200,
+  "end": 1690675200,
+  "title": "东方LiveParty×魅知幻想歌谣会 in 济南",
+  "desc": "东方LiveParty×魅知幻想歌谣会 in 济南 于 山东省 济南市 历下区 鲁能贵和洲际酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-68",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4cf65b482256d82949262e3329fbe4f50ce9d8c657538fe5f7221793969c2479",
+  "location": {
+    "type": "google",
+    "text": "山东省 济南市 历下区 鲁能贵和洲际酒店",
+    "entity": [
+      {
+        "id": "ChIJ0zl4TMkFwjURMX0bRjWrNoE",
+        "addressLine1": "济南鲁能贵和洲际酒店停车场",
+        "addressLine2": "中華人民共和国 山东省济南市历下区 3, 鲁能贵和洲际酒店",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

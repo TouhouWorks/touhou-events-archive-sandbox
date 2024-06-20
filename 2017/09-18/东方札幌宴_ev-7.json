@@ -1,0 +1,19 @@
+{
+  "id": "东方札幌宴_ev-7",
+  "start": 1505692800,
+  "end": 1505692800,
+  "title": "東方子雪祭～札幌東方宴第漆章～",
+  "desc": "东方子雪祭～札幌东方宴第漆章～ 于 札幌流通综合会馆（Axes Sapporo） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%AD%E5%B9%8C%E5%AE%B4#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "283a30b07ea6e507c6a2b807b5fa90cf0dbfa2702f063eb1877e2330cf8838cc",
+  "location": {
+    "type": "google",
+    "text": "札幌流通综合会馆（Axes Sapporo）",
+    "entity": []
+  },
+  "platform": 1
+}

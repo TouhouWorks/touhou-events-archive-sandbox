@@ -1,0 +1,30 @@
+{
+  "id": "Grazy Crazy!!_ev-2",
+  "start": 1639785600,
+  "end": 1639785600,
+  "title": "Grazy Crazy!! 2",
+  "desc": "Grazy Crazy!! 2 于 埼玉县川口市 西川口 Live House Hearts 举办",
+  "url": "https://thwiki.cc/Grazy_Crazy!!#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82f40a3eb6a33cbdd044e5106580359833489740fa6574ef10be7478bd2aba26",
+  "location": {
+    "type": "google",
+    "text": "埼玉县川口市 西川口 Live House Hearts",
+    "entity": [
+      {
+        "id": "ChIJ14R_pKOUGGARPeViXy59BS0",
+        "addressLine1": "西川口Live House Hearts",
+        "addressLine2": "日本、埼玉県川口市並木２丁目１０−２５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,78 @@
+{
+  "id": "东方百鬼夜行 in 爱工大祭_ev-6",
+  "start": 1412985600,
+  "end": 1412985600,
+  "title": "東方百鬼夜行 in 愛工大祭2014",
+  "desc": "东方百鬼夜行 in 爱工大祭2014 于 爱知县丰田市 爱知工业大学 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C_in_%E7%88%B1%E5%B7%A5%E5%A4%A7%E7%A5%AD#ev-6",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e22447b8ab9eacedc975d69a4d5423e5f89722fbd427e972bd4b750115085339",
+  "location": {
+    "type": "google",
+    "text": "爱知县丰田市 爱知工业大学",
+    "entity": [
+      {
+        "id": "ChIJJdmpHg5nA2ARQ7KHIqr7kUs",
+        "addressLine1": "愛知工业大学",
+        "addressLine2": "日本、愛知県豊田市八草町八千草１２４７",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZfkhF45gA2ARA7EBF3prErE",
+        "addressLine1": "愛知工業大学名電高等学校 ゴルフ部合宿所",
+        "addressLine2": "日本、愛知県豊田市保見町小黒実８８",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJA_Kz4g1nA2ARYV6sw8V4HHs",
+        "addressLine1": "愛知工業大学 学友会",
+        "addressLine2": "日本、愛知県豊田市八草町八千草",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJQ-lkVmxnA2ARxmzyJhTW_Y0",
+        "addressLine1": "弓道場",
+        "addressLine2": "日本、愛知県豊田市八草町八千草",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPW5Z9A1nA2ARFUvkOmZ5eFA",
+        "addressLine1": "愛知工業大学図書館",
+        "addressLine2": "日本、愛知県豊田市八草町八千草１２４７",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

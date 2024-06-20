@@ -1,0 +1,30 @@
+{
+  "id": "广州萤火虫动漫游戏嘉年华_ev-22",
+  "start": 1563408000,
+  "end": 1563408000,
+  "title": "广州萤火虫动漫游戏嘉年华22",
+  "desc": "广州萤火虫动漫游戏嘉年华22 于 广州市 琶洲保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BF%E5%B7%9E%E8%90%A4%E7%81%AB%E8%99%AB%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E5%98%89%E5%B9%B4%E5%8D%8E#ev-22",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f7c2e3f46522b0476ac1c786ea22a0f98fc07fa293e9b6fe0eaf8d5483254405",
+  "location": {
+    "type": "google",
+    "text": "广州市 琶洲保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方红楼梦_ev-1",
+  "start": 1126396800,
+  "end": 1126396800,
+  "title": "東方紅楼夢1",
+  "desc": "东方红楼梦1 于 新大阪 Sen&#39;i City 2号馆 5层展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e26d51de45ad7a43aca4f597583909a767abd5f3ca4801d1d7a72b6d2e357aa7",
+  "location": {
+    "type": "google",
+    "text": "新大阪 Sen&#39;i City 2号馆 5层展厅",
+    "entity": []
+  },
+  "platform": 1
+}

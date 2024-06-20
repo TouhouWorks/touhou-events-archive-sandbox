@@ -1,0 +1,32 @@
+{
+  "id": "OFF DAY_ev-10",
+  "start": 1690675200,
+  "end": 1690675200,
+  "title": "OFF DAY 10",
+  "desc": "OFF DAY 10 于 东京都 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/OFF_DAY#ev-10",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e3c1a18825283c3b7504cb5b2c3f826cbe6dd15c850b6895f946f9fc888457b5",
+  "location": {
+    "type": "google",
+    "text": "东京都 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

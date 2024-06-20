@@ -1,0 +1,78 @@
+{
+  "id": "寄世界于AI~Cybernetic picnic_ev-1",
+  "start": 1596931200,
+  "end": 1596931200,
+  "title": "寄世界于AI1",
+  "desc": "寄世界于AI1 于 广州 越秀区AS生活馆 举办",
+  "url": "https://thwiki.cc/%E5%AF%84%E4%B8%96%E7%95%8C%E4%BA%8EAI~Cybernetic_picnic#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "258cbb7eae390a300ee18aa1599354a2699e8f501cda83572793ea59d841b662",
+  "location": {
+    "type": "google",
+    "text": "AI1  广州 越秀区AS生活馆",
+    "entity": [
+      {
+        "id": "ChIJWabDG9T4AjQR5Cz79bu_vr4",
+        "addressLine1": "越秀区",
+        "addressLine2": "中華人民共和国 広東省 广州",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ0ZAH_z3_AjQR_7z4gvPb4qU",
+        "addressLine1": "佐登妮丝美容SPA生活馆",
+        "addressLine2": "中華人民共和国 広東省 广州越秀区五羊新城 Siyounan 2 Street",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJoUgWcDX_AjQR_YkhE2Ek6rE",
+        "addressLine1": "佐登妮丝美容SPA生活馆东湖路店",
+        "addressLine2": "中華人民共和国 広東省 广州越秀区东湖路",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAwNFWyL_AjQRBqae-YOzbhU",
+        "addressLine1": "佐登妮丝美容SPA生活馆",
+        "addressLine2": "中華人民共和国 広東省 广州越秀区 Meihua Road",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJgTp6aRf_AjQRRQzVZXgORtA",
+        "addressLine1": "宠物生活馆",
+        "addressLine2": "中華人民共和国 広東省 广州越秀区 Guangzhou Boulevard Middle",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

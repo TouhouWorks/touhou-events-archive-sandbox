@@ -1,0 +1,30 @@
+{
+  "id": "东方北陆祭_ev-2",
+  "start": 1297555200,
+  "end": 1297555200,
+  "title": "東方北陸祭 第二弾",
+  "desc": "东方北陆祭 第二弹 于 金泽市北陆放送会馆2层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%99%86%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1ed438c36e413c5a95f7d84168ae7aa26cbc66ed20c9623f5595782918fe029e",
+  "location": {
+    "type": "google",
+    "text": "金泽市北陆放送会馆2层",
+    "entity": [
+      {
+        "id": "ChIJ-Ux7fHg0-F8RyirLoZtkOSk",
+        "addressLine1": "北陸放送会館",
+        "addressLine2": "日本、石川県金沢市本多町３丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

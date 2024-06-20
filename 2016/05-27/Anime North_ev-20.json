@@ -1,0 +1,19 @@
+{
+  "id": "Anime North_ev-20",
+  "start": 1464307200,
+  "end": 1464307200,
+  "title": "Anime North 2016",
+  "desc": "Anime North 2016 于 加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Sheraton Toronto Airport, Crowne Plaza Hotel, Radisson Suites Hotel, Airport Holiday Inn Hotel 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1381b83cc0a3956396ac802b398c95b1eef581674b37fe1adb927b2dbf8c3607",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Sheraton Toronto Airport, Crowne Plaza Hotel, Radisson Suites Hotel, Airport Holiday Inn Hotel",
+    "entity": []
+  },
+  "platform": 1
+}

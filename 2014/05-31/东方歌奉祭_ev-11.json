@@ -1,0 +1,70 @@
+{
+  "id": "东方歌奉祭_ev-11",
+  "start": 1401494400,
+  "end": 1401494400,
+  "title": "第十弾 東方歌奉祭",
+  "desc": "第十弹 东方歌奉祭 于 东京都 カラオケの鉄人 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%AD%8C%E5%A5%89%E7%A5%AD#ev-11",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0ba94356453ac28c2a7b0774b13686a502ba24defa67674b4d3a1117f5d71dd2",
+  "location": {
+    "type": "google",
+    "text": "东京都 カラオケの鉄人",
+    "entity": [
+      {
+        "id": "ChIJFeicFmaNGGARX4UILxEPkJw",
+        "addressLine1": "カラオケの鉄人 池袋東口店",
+        "addressLine2": "日本、東京都豊島区東池袋１丁目２０−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDzDrramMGGAR2KNJozYgv6A",
+        "addressLine1": "カラオケノテツジンシブヤセンターガイテン",
+        "addressLine2": "日本、東京都渋谷区宇田川町２９−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJM4gKAdeMGGARZDBO2lxRa90",
+        "addressLine1": "カラオケの鉄人 新宿大ガード店",
+        "addressLine2": "日本、東京都新宿区西新宿１丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJV3rCVp6OGGARfeiJ908QwZs",
+        "addressLine1": "カラオケの鉄人 上野店",
+        "addressLine2": "日本、東京都台東区上野６丁目１３−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDzDrramMGGARXRWiKlY3opg",
+        "addressLine1": "カラオケの鉄人 渋谷道玄坂店",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目２９−１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "雾之异变_ev-4",
+  "start": 1696204800,
+  "end": 1696204800,
+  "title": "重庆THO·肆·丰饶异变",
+  "desc": "重庆THO·肆·丰饶异变 于 重庆市 大渡口区 顺祥壹街B馆 举办",
+  "url": "https://thwiki.cc/%E9%9B%BE%E4%B9%8B%E5%BC%82%E5%8F%98#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cf4dde5dabb2a39ec2c8c9f5775f33a5fec154d121f2510a1e7c031528c2ac32",
+  "location": {
+    "type": "google",
+    "text": "重庆市 大渡口区 顺祥壹街B馆",
+    "entity": [
+      {
+        "id": "ChIJtWC4woa17DYRw11EmR6Zp1I",
+        "addressLine1": "顺祥壹街购物中心",
+        "addressLine2": "中華人民共和国 重慶市 大渡口区 大渡口公园 Wenti Road",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

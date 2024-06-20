@@ -1,0 +1,74 @@
+{
+  "id": "COMICUP_ev-4",
+  "start": 1257033600,
+  "end": 1257033600,
+  "title": "COMICUP05",
+  "desc": "COMICUP05 于 上海市 上海世贸商城 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2115e07363317e8434cafc0b4c7998cab66f3e88d39cfb1ead7375154997345a",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海世贸商城",
+    "entity": [
+      {
+        "id": "ChIJ-SfC96dlsjURUJNSWpSQ5Ec",
+        "addressLine1": "上海世贸商城",
+        "addressLine2": "中華人民共和国 上海市 長寧区 新龙华",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJf5eqFQhlsjURnck-3b72y7Y",
+        "addressLine1": "上海世贸商城展览馆",
+        "addressLine2": "中華人民共和国 上海市 長寧区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJKfS9PghlsjURgSTBe-DQZ2A",
+        "addressLine1": "世贸商城",
+        "addressLine2": "中華人民共和国 上海市 長寧区 Yan'an Road (W)",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJKfS9PghlsjURh6jWZPNHXJs",
+        "addressLine1": "上海世贸商城停车场",
+        "addressLine2": "中華人民共和国 上海市 長寧区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJL7ZqHwhlsjURr900U2mfg18",
+        "addressLine1": "上海世贸商城停车场（P8）",
+        "addressLine2": "中華人民共和国 上海市 長寧区 Xingyi Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

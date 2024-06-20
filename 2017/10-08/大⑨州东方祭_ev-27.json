@@ -1,0 +1,58 @@
+{
+  "id": "大⑨州东方祭_ev-27",
+  "start": 1507420800,
+  "end": 1507420800,
+  "title": "大⑨州東方祭26",
+  "desc": "大⑨州东方祭26 于 大分市 大分Event Hall 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-27",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "780bb1e2f31bddcc2f57efd44680c792a3ee9cf3cf162c34f1a5f6fdb54b1c50",
+  "location": {
+    "type": "google",
+    "text": "大分市 大分Event Hall",
+    "entity": [
+      {
+        "id": "ChIJedrB-WqfRjURNYg24EdFYR0",
+        "addressLine1": "大分",
+        "addressLine2": "日本、大分県大分市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ0_NGv3mfRjURek6LSNF4Ux8",
+        "addressLine1": "大分市保健所",
+        "addressLine2": "日本、大分県大分市荷揚町６−１",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJZwT4B1qeRjURuY3YpGqo_Sc",
+        "addressLine1": "大分高専",
+        "addressLine2": "日本、大分県大分市牧１６６６",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

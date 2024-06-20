@@ -1,0 +1,19 @@
+{
+  "id": "西北农林科技大学东方例会_ev-1",
+  "start": 1539475200,
+  "end": 1539475200,
+  "title": "农林幻想茶会",
+  "desc": "农林幻想茶会 于 咸阳市西北农林科技大学北校区东区超市二楼创咖 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E5%8C%97%E5%86%9C%E6%9E%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%B8%9C%E6%96%B9%E4%BE%8B%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c44b61cd1b6e4b0a7a918cfb22788c8bbd0cad84809a5dbaf3ef164ead18fdca",
+  "location": {
+    "type": "google",
+    "text": "咸阳市西北农林科技大学北校区东区超市二楼创咖",
+    "entity": []
+  },
+  "platform": 1
+}

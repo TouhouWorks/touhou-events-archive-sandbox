@@ -1,0 +1,30 @@
+{
+  "id": "杜之奇迹_ev-10",
+  "start": 1266105600,
+  "end": 1266105600,
+  "title": "杜の奇跡16",
+  "desc": "杜之奇迹16 于 宫城县产业交流中心 举办",
+  "url": "https://thwiki.cc/%E6%9D%9C%E4%B9%8B%E5%A5%87%E8%BF%B9#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "549c6f8cfb7cb92da89736cd360b59f24d3eb526561fd7ce09e865ab20bd950f",
+  "location": {
+    "type": "google",
+    "text": "宫城县产业交流中心",
+    "entity": [
+      {
+        "id": "ChIJTWqSuLqIiV8RxxbCk5-PQdA",
+        "addressLine1": "夢メッセみやぎ",
+        "addressLine2": "日本、宮城県仙台市宮城野区港３丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

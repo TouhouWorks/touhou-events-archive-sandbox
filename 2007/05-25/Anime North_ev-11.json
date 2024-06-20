@@ -1,0 +1,19 @@
+{
+  "id": "Anime North_ev-11",
+  "start": 1180051200,
+  "end": 1180051200,
+  "title": "Anime North 2007",
+  "desc": "Anime North 2007 于 加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Renaissance Toronto Airport Hotel 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3c45c3ae19a6f7515c8544906144ae8979d496104c6bda4595cf5ae9b96feb24",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Doubletree International Plaza Hotel, Renaissance Toronto Airport Hotel",
+    "entity": []
+  },
+  "platform": 1
+}

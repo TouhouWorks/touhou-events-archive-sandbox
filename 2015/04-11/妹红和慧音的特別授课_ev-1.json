@@ -1,0 +1,30 @@
+{
+  "id": "妹红和慧音的特別授课_ev-1",
+  "start": 1428710400,
+  "end": 1428710400,
+  "title": "もことけーねの特別授業1",
+  "desc": "妹红和慧音的特別授课1 于 东京都 大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E5%A6%B9%E7%BA%A2%E5%92%8C%E6%85%A7%E9%9F%B3%E7%9A%84%E7%89%B9%E5%88%A5%E6%8E%88%E8%AF%BE#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4b80c60a42cf26fdc971ced4c3d774f423b8700c95697a18e6887dc00ee656f4",
+  "location": {
+    "type": "google",
+    "text": "东京都 大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

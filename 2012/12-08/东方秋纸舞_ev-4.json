@@ -1,0 +1,30 @@
+{
+  "id": "东方秋纸舞_ev-4",
+  "start": 1354924800,
+  "end": 1354924800,
+  "title": "第一回 東方偽紙舞",
+  "desc": "第一回 东方伪纸舞 于 大阪府大阪市 大阪市立男女共同参划中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A7%8B%E7%BA%B8%E8%88%9E#ev-4",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e47a72389eb0248739fa58908230b9e2725c42ce474545ca9fdf48051e3c5e46",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪市立男女共同参划中心",
+    "entity": [
+      {
+        "id": "ChIJfQp3nsDnAGAR-GLnvqI-jRo",
+        "addressLine1": "大阪市立北恩加島小学校",
+        "addressLine2": "日本、大阪府大阪市大正区泉尾５丁目１７−３１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

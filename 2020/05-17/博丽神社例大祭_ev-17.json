@@ -1,0 +1,19 @@
+{
+  "id": "博丽神社例大祭_ev-17",
+  "start": 1589673600,
+  "end": 1589673600,
+  "title": "第十七回 博麗神社例大祭",
+  "desc": "第十七回 博丽神社例大祭 于 静冈双子展览馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-17",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b99b7ac9d2ee72ce204b16a0644abc2e77d0adbcc7ba59af34a5fa7d6751a0e8",
+  "location": {
+    "type": "google",
+    "text": "静冈双子展览馆",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "上海ComiCon_ev-12",
+  "start": 1361577600,
+  "end": 1361577600,
+  "title": "上海ComiCon12",
+  "desc": "上海ComiCon12 于 上海市 上海世博展览馆4号馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "95f75f2d8f94d62383082a5f3d23a16f34816b9a94a8e339e5a484eb555f80cf",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海世博展览馆4号馆",
+    "entity": []
+  },
+  "platform": 1
+}

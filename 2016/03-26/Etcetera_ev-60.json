@@ -1,0 +1,32 @@
+{
+  "id": "Etcetera_ev-60",
+  "start": 1458950400,
+  "end": 1458950400,
+  "title": "えとせとら Vol.59",
+  "desc": "Etcetera Vol.59 于 神奈川县川崎市 club月あかり夢てらす 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-60",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "951c87aaef42a512354230eb46e9a6a4412a6922d6ff1116c0a1d4d6455b6a1e",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市 club月あかり夢てらす",
+    "entity": [
+      {
+        "id": "ChIJC8oC6aJgGGARe2hrrYGdMHw",
+        "addressLine1": "月あかり 夢てらす",
+        "addressLine2": "日本、神奈川県川崎市川崎区砂子２丁目6−４",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

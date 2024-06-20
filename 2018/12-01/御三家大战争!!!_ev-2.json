@@ -1,0 +1,34 @@
+{
+  "id": "御三家大战争!!!_ev-2",
+  "start": 1543622400,
+  "end": 1543622400,
+  "title": "御三家大戦争!!! vol.2",
+  "desc": "御三家大战争!!! vol.2 于 福冈市 Dining & Flair Bar EDEN 举办",
+  "url": "https://thwiki.cc/%E5%BE%A1%E4%B8%89%E5%AE%B6%E5%A4%A7%E6%88%98%E4%BA%89!!!#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "985a9d3ecf6a281740089fda2e7efd892cd21ddf9098b7969671c926334ca37e",
+  "location": {
+    "type": "google",
+    "text": "福冈市 Dining & Flair Bar EDEN",
+    "entity": [
+      {
+        "id": "ChIJV9M7OYmRQTURtB4IV_h80x0",
+        "addressLine1": "Dining Flair Bar EDEN",
+        "addressLine2": "日本、福岡県福岡市中央区舞鶴１丁目８−３８",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

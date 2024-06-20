@@ -1,0 +1,19 @@
+{
+  "id": "LiveWanderer_ev-3",
+  "start": 1525478400,
+  "end": 1525478400,
+  "title": "LiveWanderer Ver2.00",
+  "desc": "LiveWanderer Ver2.00 于 「東京キネマ倶楽部」（東京都台東区根岸1丁目1-14）　JR鶯谷駅 南口徒歩2分 举办",
+  "url": "https://thwiki.cc/LiveWanderer#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "038dbfbcf9b98b2abd28e59dcb85b504e5d07e29f664a16fd4f5c53dcff31d01",
+  "location": {
+    "type": "google",
+    "text": "「東京キネマ倶楽部」（東京都台東区根岸1丁目1-14）　JR鶯谷駅 南口徒歩2分",
+    "entity": []
+  },
+  "platform": 1
+}

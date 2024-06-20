@@ -1,0 +1,19 @@
+{
+  "id": "COMIC1_ev-13",
+  "start": 1525046400,
+  "end": 1525046400,
+  "title": "COMIC1☆13",
+  "desc": "COMIC1☆13 于 东京都 东京国际展示场 东4-6展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2b7bd74382750f22a873853c93fbee94ddce9fbadcca76be93dde83c7f5ec035",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东4-6展厅",
+    "entity": []
+  },
+  "platform": 1
+}

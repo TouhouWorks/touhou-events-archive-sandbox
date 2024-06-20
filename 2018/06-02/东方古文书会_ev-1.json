@@ -1,0 +1,41 @@
+{
+  "id": "东方古文书会_ev-1",
+  "start": 1527897600,
+  "end": 1527897600,
+  "title": "第一回東方古文書会",
+  "desc": "第一回东方古文书会 于 东京都 五反田文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8F%A4%E6%96%87%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "47e21b57264be42b34525708b6a283ff10cdabec6b7444cb80167ad7de9f9af8",
+  "location": {
+    "type": "google",
+    "text": "东京都 五反田文化中心",
+    "entity": [
+      {
+        "id": "ChIJh_ybVrJ6GGARmiCAnUtTj5o",
+        "addressLine1": "五反田",
+        "addressLine2": "日本、東京都品川区",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJi3nu--CKGGARM98VeNqNWJ4",
+        "addressLine1": "五反田文化センター",
+        "addressLine2": "日本、東京都品川区西五反田６丁目５−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

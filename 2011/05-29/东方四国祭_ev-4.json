@@ -1,0 +1,30 @@
+{
+  "id": "东方四国祭_ev-4",
+  "start": 1306627200,
+  "end": 1306627200,
+  "title": "東方四国祭3 inとくしま",
+  "desc": "东方四国祭3 in德岛 于 德岛县立产业观光交流中心 (アスティとくしま) 3层 特别会议室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%9B%9B%E5%9B%BD%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2e672f0a26c91ced9e0cd0368af51cd62a0edbba16ffff65976296ee0faaca04",
+  "location": {
+    "type": "google",
+    "text": "德岛县立产业观光交流中心 (アスティとくしま) 3层 特别会议室",
+    "entity": [
+      {
+        "id": "ChIJCXaYu05tUzUREDgNWJO5ADU",
+        "addressLine1": "徳島県立産業観光交流センター アスティとくしま",
+        "addressLine2": "日本、徳島県徳島市山城町東浜傍示１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

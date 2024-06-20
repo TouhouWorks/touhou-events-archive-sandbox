@@ -1,0 +1,32 @@
+{
+  "id": "东方人人人_ev-4",
+  "start": 1686441600,
+  "end": 1686441600,
+  "title": "东方人人人·第四届",
+  "desc": "东方人人人·第四届 于 北京市 中国人民大学学生立德楼813 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%BA%E4%BA%BA%E4%BA%BA#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1e519d97f007e3a6eb41f5d6ec6312fba4df99c01aaaec820ac2f162b8cfacf9",
+  "location": {
+    "type": "google",
+    "text": "北京市 中国人民大学学生立德楼813",
+    "entity": [
+      {
+        "id": "ChIJ5e7v2FxR8DURXxYTdVz5P2g",
+        "addressLine1": "中国人民大学",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun Street",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

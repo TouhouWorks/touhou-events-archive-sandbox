@@ -1,0 +1,30 @@
+{
+  "id": "幻想凤乐宴_ev-1",
+  "start": 1377388800,
+  "end": 1377388800,
+  "title": "幻想鳳楽宴1",
+  "desc": "幻想凤乐宴1 于 东京都 两国SUNRIZE 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E5%87%A4%E4%B9%90%E5%AE%B4#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ea844b5a1b59d9174d5b07f93878bdcac48091b442dd953bf9d91756458b54bd",
+  "location": {
+    "type": "google",
+    "text": "东京都 两国SUNRIZE",
+    "entity": [
+      {
+        "id": "ChIJo69OrDWJGGAReucKQNxUnQA",
+        "addressLine1": "Ryōgoku Sunrize",
+        "addressLine2": "４丁目-３６-６ 両国 墨田区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

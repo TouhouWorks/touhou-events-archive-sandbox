@@ -1,0 +1,72 @@
+{
+  "id": "Lunatic East 2019_ev-3",
+  "start": 1559433600,
+  "end": 1559433600,
+  "title": "Lunatic East 2019 3",
+  "desc": "Lunatic East 2019 3 于 静冈市 静冈Sunash 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ef811fc0909e4c774bb475b6d0fd9f126a8c5f0b52ba7da1c531ad71e9148bdb",
+  "location": {
+    "type": "google",
+    "text": "静冈市 静冈Sunash",
+    "entity": [
+      {
+        "id": "ChIJd9EC3vpJGmARhw6k_Q2n1XQ",
+        "addressLine1": "Sunash",
+        "addressLine2": "１丁目-１-３２ 稲川 駿河区 静岡市 静岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJXwwq_vlJGmARC8sjC4ZH1Z0",
+        "addressLine1": "静冈",
+        "addressLine2": "日本、静岡県静岡市葵区黒金町５０",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJF4KQa1A2GmAR9QyflYUtrFY",
+        "addressLine1": "静冈大学",
+        "addressLine2": "日本、静岡県静岡市駿河区大谷８３６",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_TfVH_ZJGmARml12NalYE_8",
+        "addressLine1": "静岡銀行 呉服町支店",
+        "addressLine2": "日本、静岡県静岡市葵区追手町１−１３",
+        "provider": "google_places",
+        "categories": [
+          "bank",
+          "BANK",
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

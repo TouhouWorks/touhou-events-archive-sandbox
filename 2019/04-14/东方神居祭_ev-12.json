@@ -1,0 +1,19 @@
+{
+  "id": "东方神居祭_ev-12",
+  "start": 1555200000,
+  "end": 1555200000,
+  "title": "東方神居祭SP4",
+  "desc": "东方神居祭SP4 于 札幌 市民交流广场 3 层 创意工作室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d623acd5ca50928690d1394dcfa3b386b79da868fb8f162a971373cfa96e4723",
+  "location": {
+    "type": "google",
+    "text": "札幌 市民交流广场 3 层 创意工作室",
+    "entity": []
+  },
+  "platform": 1
+}

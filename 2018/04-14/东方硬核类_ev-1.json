@@ -1,0 +1,32 @@
+{
+  "id": "东方硬核类_ev-1",
+  "start": 1523664000,
+  "end": 1523664000,
+  "title": "東方硬核類 1",
+  "desc": "东方硬核类 1 于 东京都 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A1%AC%E6%A0%B8%E7%B1%BB#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5a001cca78c7d56474ba8ee0dfb414022bd717be6cc5f1ceb917fb6041aafba8",
+  "location": {
+    "type": "google",
+    "text": "东京都 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

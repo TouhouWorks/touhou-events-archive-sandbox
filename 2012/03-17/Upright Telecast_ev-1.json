@@ -1,0 +1,30 @@
+{
+  "id": "Upright Telecast_ev-1",
+  "start": 1331942400,
+  "end": 1331942400,
+  "title": "Upright Telecast 1",
+  "desc": "Upright Telecast 1 于 扇町para-dice 举办",
+  "url": "https://thwiki.cc/Upright_Telecast#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "91296277c625c93d69636e46be521b82bc554dd7af6648032adda7b79a19b92c",
+  "location": {
+    "type": "google",
+    "text": "扇町para-dice",
+    "entity": [
+      {
+        "id": "ChIJ15Sqy8bmAGARExdmYZGqo5A",
+        "addressLine1": "ライブハウス para-dice",
+        "addressLine2": "日本、大阪府大阪市北区天神橋４丁目７−３０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

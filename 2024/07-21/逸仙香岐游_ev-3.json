@@ -1,0 +1,30 @@
+{
+  "id": "逸仙香岐游_ev-3",
+  "start": 1721520000,
+  "end": 1721520000,
+  "title": "中山THP-逸仙香岐游3",
+  "desc": "中山THP-逸仙香岐游3 于 广东省中山市东区街道孙文东路839号(拾乐酒店) 举办",
+  "url": "https://thwiki.cc/%E9%80%B8%E4%BB%99%E9%A6%99%E5%B2%90%E6%B8%B8#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6f30e3e34f488fb782134ce109901ed851bed0633e3a7df5317cb35465b41d5d",
+  "location": {
+    "type": "google",
+    "text": "广东省中山市东区街道孙文东路839号(拾乐酒店)",
+    "entity": [
+      {
+        "id": "EjtTdW53ZW4gRWFzdCBSb2FkLCDkuK3lsbHluIIg5bqD5p2x55yBIOS4reiPr-S6uuawkeWFseWSjOWbvSIuKiwKFAoSCbnBye-W0gM0EW1721P0s2ciEhQKEgnl1yH8Ny0CNBHJF73LitZstA",
+        "addressLine1": "Sunwen East Road",
+        "addressLine2": "中山市 広東省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

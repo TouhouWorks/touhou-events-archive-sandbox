@@ -1,0 +1,80 @@
+{
+  "id": "TOHO TANZ BOX_ev-1",
+  "start": 1322006400,
+  "end": 1322006400,
+  "title": "TOHO TANZ BOX 1",
+  "desc": "TOHO TANZ BOX 1 于 东京都 AKIHABARA 85 举办",
+  "url": "https://thwiki.cc/TOHO_TANZ_BOX#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "19315931adba2599e40e982bb21846e38ebbd4bec3149f57b2c62d0ce1e16b6f",
+  "location": {
+    "type": "google",
+    "text": "东京都 AKIHABARA 85",
+    "entity": [
+      {
+        "id": "ChIJ__SmPqeOGGAR42HgD-XxuV4",
+        "addressLine1": "Akihabara",
+        "addressLine2": "台東区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+        "addressLine1": "秋葉原電気街",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      },
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJX05jZOaLGGAR2rUy9EXaYLk",
+        "addressLine1": "Chūka Soba Ginza Hachigo",
+        "addressLine2": "３丁目-１４-２ 銀座 中央区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJH8hUDqiOGGARKbhUAocHMfs",
+        "addressLine1": "remm AKIHABARA",
+        "addressLine2": "１丁目-６-５ 神田佐久間町 千代田区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

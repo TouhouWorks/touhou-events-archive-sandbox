@@ -1,0 +1,32 @@
+{
+  "id": "空之航路_ev-3",
+  "start": 1555113600,
+  "end": 1555113600,
+  "title": "空之航路~ 春日花火大会",
+  "desc": "空之航路~ 春日花火大会 于 北京航空航天大学 学院路校区 主M楼 402教室 举办",
+  "url": "https://thwiki.cc/%E7%A9%BA%E4%B9%8B%E8%88%AA%E8%B7%AF#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "33d7b77f82dc5645145666186b7266579f4bd35dccccf81ba7a3a51df159b084",
+  "location": {
+    "type": "google",
+    "text": "北京航空航天大学 学院路校区 主M楼 402教室",
+    "entity": [
+      {
+        "id": "ChIJG6HQkQtU8DURW1BxkWijAWY",
+        "addressLine1": "Beihang University",
+        "addressLine2": "Xueyuan Road, 海淀区 北京市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方筑音辉_ev-2",
+  "start": 1461888000,
+  "end": 1461888000,
+  "title": "東方筑音輝 2",
+  "desc": "东方筑音辉 2 于 福冈市 福冈国际会议场 2层 多功能Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%AD%91%E9%9F%B3%E8%BE%89#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5ec7d6db629ebbd00586ae7b74eef74d0d5d39f7fce96a6442ebf896816d8b74",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈国际会议场 2层 多功能Hall",
+    "entity": [
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡國際會議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

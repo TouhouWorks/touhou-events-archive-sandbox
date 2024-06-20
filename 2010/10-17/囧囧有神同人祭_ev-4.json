@@ -1,0 +1,31 @@
+{
+  "id": "囧囧有神同人祭_ev-4",
+  "start": 1287273600,
+  "end": 1287273600,
+  "title": "囧囧有神同人祭4",
+  "desc": "囧囧有神同人祭4 于 北京市 北京先农坛体育场室内田径馆 举办",
+  "url": "https://thwiki.cc/%E5%9B%A7%E5%9B%A7%E6%9C%89%E7%A5%9E%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3a612804b50ab4acfee25692b78f087bb181642a6ef916f80a7a60356c360cbf",
+  "location": {
+    "type": "google",
+    "text": "北京市 北京先农坛体育场室内田径馆",
+    "entity": [
+      {
+        "id": "ChIJi0xAJGpN8DURbMwt4KH5YmA",
+        "addressLine1": "先农坛",
+        "addressLine2": "中華人民共和国 北京市 西城区",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

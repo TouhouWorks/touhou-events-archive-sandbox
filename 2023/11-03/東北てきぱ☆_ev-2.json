@@ -1,0 +1,56 @@
+{
+  "id": "東北てきぱ☆_ev-2",
+  "start": 1698969600,
+  "end": 1698969600,
+  "title": "東北てきぱ☆in OSAKA",
+  "desc": "東北てきぱ☆in OSAKA 于 大阪市中央区 难波MILULARI Legacy 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E5%8C%97%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2825de2ffe2f2dee2ce6e417234d6cea09bd1e69155dbe810666cc57cfb6e313",
+  "location": {
+    "type": "google",
+    "text": "大阪市中央区 难波MILULARI Legacy",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJOXPJyWznAGARahb0KWFRjlM",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJFXXzNhPnAGARUifDEqMzXl4",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区難波１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东深见讲坛_ev-3",
+  "start": 1639180800,
+  "end": 1639180800,
+  "title": "东深见讲坛2021线上",
+  "desc": "东深见讲坛2021线上 于 魅知幻想博览会 月虹云市场2021 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%B7%B1%E8%A7%81%E8%AE%B2%E5%9D%9B#ev-3",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6e5890526c526b2c1b6bc9c252bd228f8896b479113c324e1abded8b27774b0",
+  "location": {
+    "type": "google",
+    "text": "魅知幻想博览会 月虹云市场2021",
+    "entity": []
+  },
+  "platform": 1
+}

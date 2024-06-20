@@ -1,0 +1,32 @@
+{
+  "id": "Return To \"Z\"_ev-3",
+  "start": 1448064000,
+  "end": 1448064000,
+  "title": "Return To \"Z\" 3",
+  "desc": "Return To \"Z\" 3 于 东京都 东京Kinema俱乐部 举办",
+  "url": "https://thwiki.cc/Return_To_%22Z%22#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b550938b0c874c8183e38c47c3f9a14b2472132d31d75958fb7eec56901aa043",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京Kinema俱乐部",
+    "entity": [
+      {
+        "id": "ChIJFb3HRmrzGGAR6UtOzsmv-2U",
+        "addressLine1": "Kinema Club Shimokitazawa",
+        "addressLine2": "２丁目-９-２１ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

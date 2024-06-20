@@ -1,0 +1,53 @@
+{
+  "id": "东方游剧天_ev-3",
+  "start": 1552089600,
+  "end": 1552089600,
+  "title": "東方遊劇天Z",
+  "desc": "东方游剧天Z 于 广州市 东方文德广场 二楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#ev-3",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "083914c74227d08ad84cfb213a061132c7ddee539346c38b8b5912b7f6df05a7",
+  "location": {
+    "type": "google",
+    "text": "广州市 东方文德广场 二楼",
+    "entity": [
+      {
+        "id": "ChIJf1u8Bcf4AjQRwoiK7Ilehts",
+        "addressLine1": "东方文德广场",
+        "addressLine2": "中華人民共和国 广州市 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK0jJVcb4AjQRSb870Wm0bhA",
+        "addressLine1": "东方文德广场停车场",
+        "addressLine2": "中華人民共和国 広東省 广州市 越秀区 Wende Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJbendUbj4AjQRK_XHE7ziEV4",
+        "addressLine1": "东方文德广场",
+        "addressLine2": "中華人民共和国 広東省 广州市 越秀区 Wende South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

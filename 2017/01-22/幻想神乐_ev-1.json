@@ -1,0 +1,30 @@
+{
+  "id": "幻想神乐_ev-1",
+  "start": 1485043200,
+  "end": 1485043200,
+  "title": "幻想神楽1",
+  "desc": "幻想神乐1 于 东京Big Sight 西4展厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E7%A5%9E%E4%B9%90#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "328723abdc6040c534e9fc6da81b8e9546a97c6ad94bef7c9669fa7f893168fc",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 西4展厅",
+    "entity": [
+      {
+        "id": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+        "addressLine1": "東京ビッグサイト",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

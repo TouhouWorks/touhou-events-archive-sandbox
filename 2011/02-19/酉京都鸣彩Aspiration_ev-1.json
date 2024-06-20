@@ -1,0 +1,92 @@
+{
+  "id": "酉京都鸣彩Aspiration_ev-1",
+  "start": 1298073600,
+  "end": 1298073600,
+  "title": "酉京都鳴彩アスピレーション1",
+  "desc": "酉京都鸣彩Aspiration 1 于 京都市 京都ARCDEUX 举办",
+  "url": "https://thwiki.cc/%E9%85%89%E4%BA%AC%E9%83%BD%E9%B8%A3%E5%BD%A9Aspiration#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9f426f6bba33fd82782a719c246c6891e2a39e0ed50eb4b2bac6248a80f8a333",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都ARCDEUX",
+    "entity": [
+      {
+        "id": "ChIJN_WB5L4IAWARq1GobfvD_Rc",
+        "addressLine1": "Arcdeux",
+        "addressLine2": "清水町 下京区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ-yPKba4IAWARlmFSBBCplMk",
+        "addressLine1": "京都剧场",
+        "addressLine2": "日本、京都府京都市下京区東塩小路町９０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJU6AVkuYIAWARWKx8NeUp25E",
+        "addressLine1": "京都市美術館",
+        "addressLine2": "日本、京都府京都市左京区岡崎円勝寺町１２４",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJp-TEFKwIAWAR8US2S0rRBV0",
+        "addressLine1": "京都酒店",
+        "addressLine2": "日本、京都府京都市南区東九条室町５７",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJF7FjtZsIAWAR28TtXaaV868",
+        "addressLine1": "京都Porta",
+        "addressLine2": "日本、京都府京都市下京区烏丸通塩小路下る東塩小路町９０２",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "PHARMACY",
+          "CAFE",
+          "book_store",
+          "restaurant",
+          "drugstore",
+          "health",
+          "establishment",
+          "store",
+          "food",
+          "clothing_store",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "shopping_mall",
+          "BOOK_STORE",
+          "RESTAURANT",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL",
+          "FOOD_AND_BEVERAGE",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

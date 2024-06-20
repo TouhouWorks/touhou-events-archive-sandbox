@@ -1,0 +1,43 @@
+{
+  "id": "YACA_ev-3",
+  "start": 1202688000,
+  "end": 1202688000,
+  "title": "YACA25",
+  "desc": "YACA25 于 广州市 荔湾区耀华小学 举办",
+  "url": "https://thwiki.cc/YACA#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e052f700fad048e0e778d209af2908d869a31c1fd5bf94e53645656a1e629f56",
+  "location": {
+    "type": "google",
+    "text": "广州市 荔湾区耀华小学",
+    "entity": [
+      {
+        "id": "ChIJt_OzsI74AjQRsv-bdj-rcZM",
+        "addressLine1": "广州市荔湾区耀华小学",
+        "addressLine2": "中華人民共和国 広東省 広州市 茘湾区 Changshou West Road",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "primary_school",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJA23kC4X4AjQRkSgJahHcUno",
+        "addressLine1": "耀华小学",
+        "addressLine2": "中華人民共和国 広東省 广州市荔湾区长堤路购物休闲街 Kangwang South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

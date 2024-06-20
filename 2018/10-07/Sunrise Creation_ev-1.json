@@ -1,0 +1,30 @@
+{
+  "id": "Sunrise Creation_ev-1",
+  "start": 1538870400,
+  "end": 1538870400,
+  "title": "サンライズクリエイション那霸SP2018",
+  "desc": "Sunrise Creation 那霸SP2018 于 冲绳县那霸市 冲绳县水产会馆 举办",
+  "url": "https://thwiki.cc/Sunrise_Creation#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9903889facb500a7256ed199b09082a2d682022049ebec05c924830df34274b9",
+  "location": {
+    "type": "google",
+    "text": "冲绳县那霸市 冲绳县水产会馆",
+    "entity": [
+      {
+        "id": "ChIJVVUFEX9p5TQR62Wq7SiCs20",
+        "addressLine1": "沖縄県水産会館",
+        "addressLine2": "日本、沖縄県那覇市前島３丁目２５−３９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

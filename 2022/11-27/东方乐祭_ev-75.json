@@ -1,0 +1,34 @@
+{
+  "id": "东方乐祭_ev-75",
+  "start": 1669507200,
+  "end": 1669507200,
+  "title": "東方樂祭 2022 in 東方甲州祭番外地in道の駅富士川",
+  "desc": "东方乐祭 2022 in 东方甲州祭番外地in道之驿富士川 于 山梨县南巨摩郡富士川町青柳町 道之驿富士川 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-75",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9cff0bcce2af417cf59c9a29c1af9d1ce2a61f8652dc0bd3322a103e6e71062c",
+  "location": {
+    "type": "google",
+    "text": "山梨县南巨摩郡富士川町青柳町 道之驿富士川",
+    "entity": [
+      {
+        "id": "ChIJH0vGLNPzG2ARL-G4Dp54QOs",
+        "addressLine1": "道の駅 富士川",
+        "addressLine2": "日本、山梨県富士川町青柳町１６５５−３",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

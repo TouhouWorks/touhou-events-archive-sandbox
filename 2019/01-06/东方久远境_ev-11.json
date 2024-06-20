@@ -1,0 +1,32 @@
+{
+  "id": "东方久远境_ev-11",
+  "start": 1546732800,
+  "end": 1546732800,
+  "title": "東方久遠境 LIVE on FIRE 熊本",
+  "desc": "东方久远境 LIVE on FIRE 熊本 于 熊本市 熊本市国际交流会馆 6层 Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "664c8d66f6e14307a83cfd31e41bfc63efcf507fcf58a9574fa9d8f46c54b73e",
+  "location": {
+    "type": "google",
+    "text": "熊本市 熊本市国际交流会馆 6层 Hall",
+    "entity": [
+      {
+        "id": "ChIJP1mjuhL0QDURHjlH1JM8_jk",
+        "addressLine1": "熊本市國際交流會館",
+        "addressLine2": "日本、熊本県熊本市中央区花畑町４−１８",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

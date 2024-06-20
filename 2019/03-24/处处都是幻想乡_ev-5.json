@@ -1,0 +1,98 @@
+{
+  "id": "处处都是幻想乡_ev-5",
+  "start": 1553385600,
+  "end": 1553385600,
+  "title": "どこもかしこも幻想郷 in茅野",
+  "desc": "处处都是幻想乡 in茅野 于 茅野市 Resort hotel蓼科 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9936aae21c8d8659ceef93fb5b15893fbbbadebbbb38dc2b9a1e724c541e2bba",
+  "location": {
+    "type": "google",
+    "text": "茅野市 Resort hotel蓼科",
+    "entity": [
+      {
+        "id": "ChIJSS68G1FOHGARSRF1KFmbTOs",
+        "addressLine1": "蓼科高原",
+        "addressLine2": "日本、長野県茅野市北山",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "natural_feature"
+        ]
+      },
+      {
+        "id": "ChIJbc9p30VOHGARYygxX43Ql4o",
+        "addressLine1": "蓼科グランドホテル滝の湯",
+        "addressLine2": "日本、長野県茅野市北山４０２８",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJq0RR2TVOHGARGBDuZ-qCKyU",
+        "addressLine1": "蓼科湖",
+        "addressLine2": "日本、長野県茅野市北山",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "natural_feature"
+        ]
+      },
+      {
+        "id": "ChIJkzQJd9VPHGARfXI1iErFt_8",
+        "addressLine1": "蓼科高原 バラクラ イングリッシュ ガーデン",
+        "addressLine2": "日本、長野県茅野市北山栗平５０４７",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "CAFE",
+          "bakery",
+          "FLORIST",
+          "restaurant",
+          "establishment",
+          "store",
+          "HOME_AND_GARDEN",
+          "food",
+          "clothing_store",
+          "PARK",
+          "tourist_attraction",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "BAKERY",
+          "florist",
+          "ATTRACTION",
+          "RESTAURANT",
+          "home_goods_store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "park"
+        ]
+      },
+      {
+        "id": "ChIJf8e2ahFOHGARwy7sE39QZlQ",
+        "addressLine1": "蓼科 東急ホテル",
+        "addressLine2": "日本、長野県茅野市北山鹿山４０２６−２",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

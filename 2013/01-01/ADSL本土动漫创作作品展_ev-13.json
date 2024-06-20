@@ -1,0 +1,30 @@
+{
+  "id": "ADSL本土动漫创作作品展_ev-13",
+  "start": 1356998400,
+  "end": 1356998400,
+  "title": "A.D.S.L本土动漫创作作品展12",
+  "desc": "A.D.S.L本土动漫创作作品展12 于 广州市 海珠区 T.I.T.创意园 举办",
+  "url": "https://thwiki.cc/ADSL%E6%9C%AC%E5%9C%9F%E5%8A%A8%E6%BC%AB%E5%88%9B%E4%BD%9C%E4%BD%9C%E5%93%81%E5%B1%95#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3035a5676c6a5d32a2da336fa086e8f91a783ad394518338cdd7f96b3645dafb",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 T.I.T.创意园",
+    "entity": [
+      {
+        "id": "ChIJa90NQHv_AjQRH5xFgsafz3w",
+        "addressLine1": "TIT Creative Industry Zone",
+        "addressLine2": "Xingang Middle Road, 客村 海珠区 広州市 広東省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

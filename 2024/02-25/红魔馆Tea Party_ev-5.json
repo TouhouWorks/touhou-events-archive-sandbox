@@ -1,0 +1,40 @@
+{
+  "id": "红魔馆Tea Party_ev-5",
+  "start": 1708819200,
+  "end": 1708819200,
+  "title": "紅魔館Tea Party 6",
+  "desc": "红魔馆Tea Party 6 于 福冈市 南近代大楼 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E9%AD%94%E9%A6%86Tea_Party#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0ecc861e13202cc64c0f38073ac4ea6ad0c8de2f926949afb315ee0e914b080f",
+  "location": {
+    "type": "google",
+    "text": "福冈市 南近代大楼",
+    "entity": [
+      {
+        "id": "ChIJA7wgo7SRQTURXI1KupCNcLs",
+        "addressLine1": "南近代ビル",
+        "addressLine2": "日本、福岡県福岡市博多区博多駅南４丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJrarQTp2RQTURZjpzA1mPP2k",
+        "addressLine1": "南近代ビル",
+        "addressLine2": "日本、福岡県福岡市博多区山王１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

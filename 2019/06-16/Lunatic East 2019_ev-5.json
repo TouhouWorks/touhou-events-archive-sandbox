@@ -1,0 +1,32 @@
+{
+  "id": "Lunatic East 2019_ev-5",
+  "start": 1560643200,
+  "end": 1560643200,
+  "title": "Lunatic East 2019 5",
+  "desc": "Lunatic East 2019 5 于 埼玉市 浦和Narciss 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dd3320f97d62d5f888fde7e2519a556e0d3531fd4969e92ae7201b8678dda706",
+  "location": {
+    "type": "google",
+    "text": "埼玉市 浦和Narciss",
+    "entity": [
+      {
+        "id": "ChIJhWZaVIHqGGARLDRblfJJyv0",
+        "addressLine1": "Narciss",
+        "addressLine2": "２丁目-１-５ 高砂 浦和区 さいたま市 埼玉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

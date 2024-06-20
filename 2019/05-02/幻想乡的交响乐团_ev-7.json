@@ -1,0 +1,30 @@
+{
+  "id": "幻想乡的交响乐团_ev-7",
+  "start": 1556755200,
+  "end": 1556755200,
+  "title": "幻想郷の交響楽団 - 夢幻繚乱花 -",
+  "desc": "幻想乡的交响乐团 - 梦幻缭乱花 - 于 东京都文京区 文京市民音乐厅 大厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2#ev-7",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1bd2699cabe3e356d1ca01f2684bba8631a9b84ecfcd7edf6f4d0a20608f92b2",
+  "location": {
+    "type": "google",
+    "text": "东京都文京区 文京市民音乐厅 大厅",
+    "entity": [
+      {
+        "id": "ChIJNT7qAziMGGARM6c8m3Cd1To",
+        "addressLine1": "文京市民會館",
+        "addressLine2": "日本、東京都文京区春日１丁目１６−２１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,84 @@
+{
+  "id": "东方久远境 大家的读书Club_ev-7",
+  "start": 1463875200,
+  "end": 1463875200,
+  "title": "東方久遠境 みんなの読書クラブ7",
+  "desc": "东方久远境 大家的读书Club 7 于 福冈县大野城市 大野城まどかぴあ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83_%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club#ev-7",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2bb9bca82bb4813f9781098035b1f80fd856d78dc9eed4866f31e7058c43b492",
+  "location": {
+    "type": "google",
+    "text": "福冈县大野城市 大野城まどかぴあ",
+    "entity": [
+      {
+        "id": "ChIJ2clYAHGaQTURC2LjdXxH_ZI",
+        "addressLine1": "大野城まどかぴあ",
+        "addressLine2": "日本、福岡県大野城市曙町２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ15CXqnGaQTURgQsOOhE-eV0",
+        "addressLine1": "大野城まどかぴあ 図書館",
+        "addressLine2": "日本、福岡県大野城市曙町２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJTWRKIuKbQTURok2M83-e5tY",
+        "addressLine1": "大野城まどかぴあ立体駐車場",
+        "addressLine2": "日本、福岡県大野城市曙町２丁目４−１",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ5xNjAHGaQTURkXP_U2uVmdk",
+        "addressLine1": "大野城まどかぴあ生涯学習センター",
+        "addressLine2": "日本、福岡県大野城市曙町２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJXwm-N3CaQTURlDOwSyVcPf4",
+        "addressLine1": "セブン-イレブン 大野城まどかぴあ前店",
+        "addressLine2": "日本、福岡県大野城市瓦田５丁目１３−２",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

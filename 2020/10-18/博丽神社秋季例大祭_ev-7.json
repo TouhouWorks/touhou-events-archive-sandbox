@@ -1,0 +1,19 @@
+{
+  "id": "博丽神社秋季例大祭_ev-7",
+  "start": 1602979200,
+  "end": 1602979200,
+  "title": "第七回 博麗神社秋季例大祭",
+  "desc": "第七回 博丽神社秋季例大祭 于 东京Big Sight 西展厅 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a060b0e50038108b1220cad89f8d25c78abfe2660b0e962b455d79b4452d6eae",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 西展厅",
+    "entity": []
+  },
+  "platform": 1
+}

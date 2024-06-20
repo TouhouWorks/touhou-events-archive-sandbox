@@ -1,0 +1,32 @@
+{
+  "id": "东方LiveParty_ev-72",
+  "start": 1696377600,
+  "end": 1696377600,
+  "title": "东方LivePartyin 武汉",
+  "desc": "东方LivePartyin 武汉 于 湖北省 武汉市 洪山区 VOX LIVEHOUSE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-72",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ace32b9c18c43e2f9c19e93e7e8e7bfd9f090763ff2dfb575219aebea06d6567",
+  "location": {
+    "type": "google",
+    "text": "湖北省 武汉市 洪山区 VOX LIVEHOUSE",
+    "entity": [
+      {
+        "id": "ChIJ9aNdysikLjQRgghIesaa09Y",
+        "addressLine1": "VOX LIVEHOUSE武昌店",
+        "addressLine2": "中華人民共和国 湖北省武汉市洪山区 Lumo Road",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,44 @@
+{
+  "id": "COMIC Planet_ev-1",
+  "start": 1243728000,
+  "end": 1243728000,
+  "title": "COMICぷらねっと板桥2",
+  "desc": "COMIC Planet板桥2 于 东京都 板桥High Life广场 举办",
+  "url": "https://thwiki.cc/COMIC_Planet#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ebcc956b2831475277697097256270932f6f048d4b9588376d6e0e5197a901dd",
+  "location": {
+    "type": "google",
+    "text": "东京都 板桥High Life广场",
+    "entity": [
+      {
+        "id": "ChIJOfIXFJuSGGARh62ShosncEc",
+        "addressLine1": "High Life Plaza Tokyo",
+        "addressLine2": "１丁目-５５ 板橋 板橋区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ-b2eFpuSGGARhXQEd8OE4R0",
+        "addressLine1": "High Life Plaza Itabashi",
+        "addressLine2": "１丁目-５５-１６ 板橋 板橋区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "御阿礼祭_ev-1",
+  "start": 1362873600,
+  "end": 1362873600,
+  "title": "御阿礼祭 第一回",
+  "desc": "御阿礼祭 第一回 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E5%BE%A1%E9%98%BF%E7%A4%BC%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "44ee5308bad517519657377b2ff9d30ba368f804930e89e16da0978457842e71",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

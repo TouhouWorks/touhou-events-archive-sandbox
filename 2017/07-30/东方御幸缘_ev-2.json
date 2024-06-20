@@ -1,0 +1,19 @@
+{
+  "id": "东方御幸缘_ev-2",
+  "start": 1501372800,
+  "end": 1501372800,
+  "title": "東方御幸縁 1",
+  "desc": "东方御幸缘 1 于 仓敷市环境交流广场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BE%A1%E5%B9%B8%E7%BC%98#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4efe9c1f7fbda6fdab616091e8c6b8ad9eb84bd2adf74c1e0430bf316f20e7f2",
+  "location": {
+    "type": "google",
+    "text": "仓敷市环境交流广场",
+    "entity": []
+  },
+  "platform": 1
+}

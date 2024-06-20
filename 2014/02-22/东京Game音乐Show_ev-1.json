@@ -1,0 +1,32 @@
+{
+  "id": "东京Game音乐Show_ev-1",
+  "start": 1393027200,
+  "end": 1393027200,
+  "title": "東京ゲーム音楽ショー2014",
+  "desc": "东京Game音乐Show 2014 于 东京都 晴海埠头晴海客船Terminal 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%ACGame%E9%9F%B3%E4%B9%90Show#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7893144cf8adead0d71f67a20706e1b91781a75e04ffd9ebe86d90c928aef07",
+  "location": {
+    "type": "google",
+    "text": "东京都 晴海埠头晴海客船Terminal",
+    "entity": [
+      {
+        "id": "ChIJFyPgbIKJGGARvreX2_t5jD4",
+        "addressLine1": "晴海",
+        "addressLine2": "日本、東京都中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

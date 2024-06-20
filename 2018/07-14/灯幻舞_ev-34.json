@@ -1,0 +1,19 @@
+{
+  "id": "灯幻舞_ev-34",
+  "start": 1531526400,
+  "end": 1531526400,
+  "title": "灯幻舞 34",
+  "desc": "灯幻舞 34 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E7%81%AF%E5%B9%BB%E8%88%9E#ev-34",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e9411381fd7ce198fde7d6a95ee8fc5bc3c2151cb4f5adecdd8c22414ae7e317",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1
+}

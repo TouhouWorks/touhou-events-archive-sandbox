@@ -1,0 +1,19 @@
+{
+  "id": "魅知幻想博览会_ev-7",
+  "start": 1674172800,
+  "end": 1674172800,
+  "title": "魅知幻想博览会 2023 线上场",
+  "desc": "魅知幻想博览会 2023 线上场 于 囧仙子通贩 举办",
+  "url": "https://thwiki.cc/%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8481abafee8f3d169403f5c98a975f47165a6e07f07e551137ee9627e156518a",
+  "location": {
+    "type": "google",
+    "text": "囧仙子通贩",
+    "entity": []
+  },
+  "platform": 1
+}

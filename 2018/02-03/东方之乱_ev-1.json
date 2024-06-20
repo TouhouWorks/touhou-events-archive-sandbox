@@ -1,0 +1,30 @@
+{
+  "id": "东方之乱_ev-1",
+  "start": 1517616000,
+  "end": 1517616000,
+  "title": "東方の乱 第一戦",
+  "desc": "东方之乱 第一战 于 东京市 新宿RUIDO K4 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%8B%E4%B9%B1#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2be57afbd0a3eb557f1151a08ef4903bf1584e43cfa1d6bf67a989ab569215fc",
+  "location": {
+    "type": "google",
+    "text": "东京市 新宿RUIDO K4",
+    "entity": [
+      {
+        "id": "ChIJq1JzqV2NGGARYUEpl1NHSPA",
+        "addressLine1": "原宿RUIDO",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

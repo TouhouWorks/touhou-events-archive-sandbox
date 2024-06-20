@@ -1,0 +1,47 @@
+{
+  "id": "御三家大战争!!!_ev-4",
+  "start": 1641686400,
+  "end": 1641686400,
+  "title": "御三家大戦争!!! vol.4",
+  "desc": "御三家大战争!!! vol.4 于 福冈市 Anime DiningBar CrossOver 举办",
+  "url": "https://thwiki.cc/%E5%BE%A1%E4%B8%89%E5%AE%B6%E5%A4%A7%E6%88%98%E4%BA%89!!!#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b2bd2b572fc295530504a99de9c1094fa237e4ceff00eac66dce4337fe999adc",
+  "location": {
+    "type": "google",
+    "text": "福冈市 Anime DiningBar CrossOver",
+    "entity": [
+      {
+        "id": "ChIJAzDigZaRQTURZneuzxVq-Uo",
+        "addressLine1": "ダイニングバー",
+        "addressLine2": "日本、福岡県福岡市中央区春吉３丁目５−７",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJl1mZuc-RQTURzy4N5R9O6Ak",
+        "addressLine1": "アニソンダイニングバー クロスオーバー",
+        "addressLine2": "日本、福岡県福岡市中央区天神３丁目１−１２",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

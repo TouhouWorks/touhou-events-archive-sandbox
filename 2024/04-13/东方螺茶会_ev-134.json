@@ -1,0 +1,70 @@
+{
+  "id": "东方螺茶会_ev-134",
+  "start": 1712966400,
+  "end": 1712966400,
+  "title": "東方螺茶会 愛媛の宴",
+  "desc": "东方螺茶会 爱媛之宴 于 爱媛国际贸易中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-134",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "380b44b54cf2bef7ff40c1073a9ec3090f1160137366ecd60cfaffe4d6fc0949",
+  "location": {
+    "type": "google",
+    "text": "爱媛国际贸易中心",
+    "entity": [
+      {
+        "id": "ChIJucjD1vlwYzYR6Js8ZHAz3_w",
+        "addressLine1": "国际贸易中心",
+        "addressLine2": "中華人民共和国 陝西省 西安市 雁塔区 电子城商圈 Chang'an South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJU4Almc49QDYRWH-WIzeV3fM",
+        "addressLine1": "国际贸易中心",
+        "addressLine2": "中華人民共和国 寧夏回族自治区 銀川市 興慶区 Wenhua W St",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJTbminR2pCjYRmxRBbqTq1vs",
+        "addressLine1": "山西国际贸易中心A座",
+        "addressLine2": "中華人民共和国 山西省 太原市 杏花嶺区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1x2t7AOt8TURK6aDmPdFoOw",
+        "addressLine1": "中国国际贸易中心展厅",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 国贸 Jianguomen Outer Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYaLZ2QOt8TURaWtuvgyI5fA",
+        "addressLine1": "中国国际贸易中心商务楼",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Guomao, Jianguomen Outer Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

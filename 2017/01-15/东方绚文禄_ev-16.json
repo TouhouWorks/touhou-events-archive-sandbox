@@ -1,0 +1,30 @@
+{
+  "id": "东方绚文禄_ev-16",
+  "start": 1484438400,
+  "end": 1484438400,
+  "title": "東方絢文禄 尾張の卷 第十五弾",
+  "desc": "东方绚文禄 尾张之卷 第十五弹 于 名古屋市国际展示场 第3展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e42863e83710ebefb6479fd7cdc6ec6e1c2c4d7edc07742d3bc3550ca24c1312",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第3展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

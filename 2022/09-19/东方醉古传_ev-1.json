@@ -1,0 +1,32 @@
+{
+  "id": "东方醉古传_ev-1",
+  "start": 1663545600,
+  "end": 1663545600,
+  "title": "東方酔古伝1",
+  "desc": "东方醉古传1 于 东京都 阿佐谷DRIFT 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%86%89%E5%8F%A4%E4%BC%A0#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d1cba8f02eb73c59428a4b0888082e7b224ab1e816fe87a8d23ef11ef589b37d",
+  "location": {
+    "type": "google",
+    "text": "东京都 阿佐谷DRIFT",
+    "entity": [
+      {
+        "id": "ChIJDSwYtY7zGGARDalQ04Vs6Bo",
+        "addressLine1": "阿佐ヶ谷DRIFT",
+        "addressLine2": "日本、東京都杉並区阿佐谷南３丁目３８−３０",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

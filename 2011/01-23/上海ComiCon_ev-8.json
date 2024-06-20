@@ -1,0 +1,40 @@
+{
+  "id": "上海ComiCon_ev-8",
+  "start": 1295740800,
+  "end": 1295740800,
+  "title": "上海ComiCon8",
+  "desc": "上海ComiCon8 于 上海市 半岛1919创意园区 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1140a17f918a2ca7615b350294d3b981d1f6d38b222704fca95ff03a084484c1",
+  "location": {
+    "type": "google",
+    "text": "上海市 半岛1919创意园区",
+    "entity": [
+      {
+        "id": "ChIJ3ea0KNRysjURIwDjRdyeltA",
+        "addressLine1": "半岛1919创意园区",
+        "addressLine2": "中華人民共和国 上海市 Baoshan, 淞兴西路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJcStry9VysjURxh3CGsWS0ts",
+        "addressLine1": "半岛1919创意园区停车场",
+        "addressLine2": "中華人民共和国 上海市 Baoshan, Songxing Road (W)",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

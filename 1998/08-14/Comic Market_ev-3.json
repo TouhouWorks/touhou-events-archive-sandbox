@@ -1,0 +1,19 @@
+{
+  "id": "Comic Market_ev-3",
+  "start": 903052800,
+  "end": 903052800,
+  "title": "Comic Market 54",
+  "desc": "Comic Market 54 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4f0b571e601c1872cab20b8dab3e8291468c66a4c92cd82bb3c164752e98ef17",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1
+}

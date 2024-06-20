@@ -1,0 +1,33 @@
+{
+  "id": "东方白幻奏_ev-1",
+  "start": 1296259200,
+  "end": 1296259200,
+  "title": "東方白幻奏1",
+  "desc": "东方白幻奏1 于 大阪市 心斋桥FUN J TWICE & TWICE CAFE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%99%BD%E5%B9%BB%E5%A5%8F#ev-1",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d8aafc949546c99d972d4f2f851189a82805f9f533a33e935209cf33ba98b65d",
+  "location": {
+    "type": "google",
+    "text": "大阪市 心斋桥FUN J TWICE & TWICE CAFE",
+    "entity": [
+      {
+        "id": "ChIJcxIbNhHnAGARl8cKu_vPFMA",
+        "addressLine1": "心斎橋筋",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

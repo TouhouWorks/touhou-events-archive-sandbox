@@ -1,0 +1,19 @@
+{
+  "id": "YACA_ev-1",
+  "start": 1184976000,
+  "end": 1184976000,
+  "title": "YACA24",
+  "desc": "YACA24 于 广州市 市二宫大型体育馆 举办",
+  "url": "https://thwiki.cc/YACA#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a9f69912c9255e17200c1456348117142d0a02e9723407c3bfd9dcdde606be26",
+  "location": {
+    "type": "google",
+    "text": "广州市 市二宫大型体育馆",
+    "entity": []
+  },
+  "platform": 1
+}

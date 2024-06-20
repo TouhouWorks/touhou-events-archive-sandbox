@@ -1,0 +1,30 @@
+{
+  "id": "龙珠神无月虹祭_ev-1",
+  "start": 1700956800,
+  "end": 1700956800,
+  "title": "龍珠神無月虹祭1",
+  "desc": "龙珠神无月虹祭1 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E9%BE%99%E7%8F%A0%E7%A5%9E%E6%97%A0%E6%9C%88%E8%99%B9%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f832e61abdcf8ff4ac53b40286435f397c91bca833cb7084220e9d24a18de5ff",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

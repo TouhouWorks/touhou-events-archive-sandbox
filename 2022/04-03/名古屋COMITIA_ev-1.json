@@ -1,0 +1,30 @@
+{
+  "id": "名古屋COMITIA_ev-1",
+  "start": 1648944000,
+  "end": 1648944000,
+  "title": "名古屋コミティア60",
+  "desc": "名古屋COMITIA 60 于 名古屋市 名古屋市国际会议场 举办",
+  "url": "https://thwiki.cc/%E5%90%8D%E5%8F%A4%E5%B1%8BCOMITIA#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a5bf0977f5bdefdd6a20f4055bb809b8df074b2f77d443ae1b18904b1f234c9",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 名古屋市国际会议场",
+    "entity": [
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "国際会議場",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

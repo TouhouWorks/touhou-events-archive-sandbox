@@ -1,0 +1,32 @@
+{
+  "id": "东方Swamp_ev-1",
+  "start": 1558224000,
+  "end": 1558224000,
+  "title": "東方すわんぷ1",
+  "desc": "东方Swamp 1 于 大阪市 SUPER RETRO MACHINE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Swamp#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "39a04027ea827e695b31bc3acf7aeb3358431ab47f1ce4001a2113a4a920b21f",
+  "location": {
+    "type": "google",
+    "text": "大阪市 SUPER RETRO MACHINE",
+    "entity": [
+      {
+        "id": "ChIJ3y3fPwXnAGARGWWUS2nLh6o",
+        "addressLine1": "super retro machine",
+        "addressLine2": "１丁目-１０-２ 北堀江 西区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

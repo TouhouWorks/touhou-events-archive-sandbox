@@ -1,0 +1,34 @@
+{
+  "id": "STAR DUST MEMORY 2012_ev-1",
+  "start": 1345766400,
+  "end": 1345766400,
+  "title": "STAR DUST MEMORY 2012 京都",
+  "desc": "STAR DUST MEMORY 2012 京都 于 京都府京都市 都雅都雅 举办",
+  "url": "https://thwiki.cc/STAR_DUST_MEMORY_2012#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1bf0a5c643c6961e1eb3c4fe02dde6f88c5b7b82f29a73bef1885e5ef7ffb236",
+  "location": {
+    "type": "google",
+    "text": "京都府京都市 都雅都雅",
+    "entity": [
+      {
+        "id": "ChIJ3xFYxJUIAWARXEErBTVGMZM",
+        "addressLine1": "都雅都雅",
+        "addressLine2": "日本、京都府京都市下京区貞安前之町６１３",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

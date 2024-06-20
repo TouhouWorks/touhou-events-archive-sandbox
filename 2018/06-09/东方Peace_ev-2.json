@@ -1,0 +1,40 @@
+{
+  "id": "东方Peace_ev-2",
+  "start": 1528502400,
+  "end": 1528502400,
+  "title": "東方ピース in 福岡",
+  "desc": "东方Peace in 福冈 于 福冈市 INSA 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Peace#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4c6be75ebcb7c2181b979556792cf6c352aa2327faf2c4c4c34cb3ed0c5f8db2",
+  "location": {
+    "type": "google",
+    "text": "福冈市 INSA",
+    "entity": [
+      {
+        "id": "ChIJY8d5KpSRQTURHjaNOdeqvz4",
+        "addressLine1": "INSA(インザ)",
+        "addressLine2": "日本、福岡県福岡市中央区春吉３丁目５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVVWVfcaRQTURuC4WCEMZ7do",
+        "addressLine1": "INSANA INTERNATIONAL PLACEMENT AGENCY INC.",
+        "addressLine2": "日本、福岡県福岡市博多区博多駅前１丁目２３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

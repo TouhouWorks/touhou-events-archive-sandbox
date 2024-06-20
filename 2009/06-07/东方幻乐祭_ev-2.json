@@ -1,0 +1,30 @@
+{
+  "id": "东方幻乐祭_ev-2",
+  "start": 1244332800,
+  "end": 1244332800,
+  "title": "東方幻楽祭2",
+  "desc": "东方幻乐祭2 于 川崎市产业振兴会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E4%B9%90%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4dd334a7a28b468d027f5819e73c46cc7a362653e1506c46c353d16711b857ca",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

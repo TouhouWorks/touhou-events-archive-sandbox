@@ -1,0 +1,42 @@
+{
+  "id": "游源记_ev-2",
+  "start": 1564272000,
+  "end": 1564272000,
+  "title": "深秘游源记",
+  "desc": "深秘游源记 于 深圳 凯利宾馆10F 举办",
+  "url": "https://thwiki.cc/%E6%B8%B8%E6%BA%90%E8%AE%B0#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "91bcca853a99ca976c7c04eb1902a340e035efb4cebaf72e421fec076ead03fb",
+  "location": {
+    "type": "google",
+    "text": "深圳 凯利宾馆10F",
+    "entity": [
+      {
+        "id": "ChIJhY5jNZX1AzQRO6x9Qxl3x6c",
+        "addressLine1": "凯利宾馆",
+        "addressLine2": "中華人民共和国 広東省 深圳 羅湖区 园岭",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJs4lEF7_1AzQRIa7fblfRs74",
+        "addressLine1": "凯利宾馆",
+        "addressLine2": "中華人民共和国 広東省 深圳 羅湖区 人民南路嘉宾路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

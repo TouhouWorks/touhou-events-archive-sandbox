@@ -1,0 +1,32 @@
+{
+  "id": "东方游宴雀_ev-1",
+  "start": 1498348800,
+  "end": 1498348800,
+  "title": "東方遊宴雀",
+  "desc": "东方游宴雀 于 京都市劝业馆 (みやこめっせ) 地下1层 第1展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%AE%B4%E9%9B%80#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "80f28f3558df02b35920da58a6840553296415fa6c40e487474549907df06a4b",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 (みやこめっせ) 地下1层 第1展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勧業館 みやこめっせ",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

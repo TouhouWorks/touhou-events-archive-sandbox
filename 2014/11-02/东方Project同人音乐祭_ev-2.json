@@ -1,0 +1,30 @@
+{
+  "id": "东方Project同人音乐祭_ev-2",
+  "start": 1414886400,
+  "end": 1414886400,
+  "title": "東方Project同人音樂祭2014",
+  "desc": "东方Project同人音乐祭2014 于 香港 国际展贸中心地下Music Zone 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%E5%90%8C%E4%BA%BA%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "989f677fcc801f54257c118278b0989a437d512fbb46d86003eac028146e810c",
+  "location": {
+    "type": "google",
+    "text": "香港 国际展贸中心地下Music Zone",
+    "entity": [
+      {
+        "id": "ChIJ5ayqG5gBBDQR6uyDaaBUGMM",
+        "addressLine1": "Music Zone @ E-Max",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

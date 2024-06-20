@@ -1,0 +1,32 @@
+{
+  "id": "Chocolate Fantacy Festival_ev-2",
+  "start": 1699142400,
+  "end": 1699142400,
+  "title": "ちょこふぁんフェス vol.1",
+  "desc": "Chocolate Fantacy Festival vol.1 于 东京都 涩谷Chelsea Hotel 举办",
+  "url": "https://thwiki.cc/Chocolate_Fantacy_Festival#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a6c635131acd66662d1cba62d30c45c9062e605fb0b42392a8405ca0abb1806b",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷Chelsea Hotel",
+    "entity": [
+      {
+        "id": "ChIJrZ7dO6mMGGAR40aPVfYqA4s",
+        "addressLine1": "Shibuya Chelsea Hotel",
+        "addressLine2": "４-７ 宇田川町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

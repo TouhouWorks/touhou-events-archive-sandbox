@@ -1,0 +1,19 @@
+{
+  "id": "Artpia_ev-1",
+  "start": 1334448000,
+  "end": 1334448000,
+  "title": "Artpia15",
+  "desc": "Artpia15 于 秋田县秋田市 秋田县JA大楼 举办",
+  "url": "https://thwiki.cc/Artpia#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "85f15ae9f736578beab8b9f46af331afdbcf1d854ff252c48297e7e750835a27",
+  "location": {
+    "type": "google",
+    "text": "秋田县秋田市 秋田县JA大楼",
+    "entity": []
+  },
+  "platform": 1
+}

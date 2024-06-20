@@ -1,0 +1,30 @@
+{
+  "id": "Lunate Garden_ev-1",
+  "start": 1720310400,
+  "end": 1720310400,
+  "title": "ルーネイトガーデン1",
+  "desc": "Lunate Garden 1 于 埼玉县春日部市 ふれあいキューブ 举办",
+  "url": "https://thwiki.cc/Lunate_Garden#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "93daf6440baf3f5daf0c34c21a1b10589522f734dd3e646e3f6a9ccb0c5ca309",
+  "location": {
+    "type": "google",
+    "text": "埼玉县春日部市 ふれあいキューブ",
+    "entity": [
+      {
+        "id": "ChIJk4WNwk65GGARSKdZp0uHHhU",
+        "addressLine1": "ふれあいキューブ",
+        "addressLine2": "日本、埼玉県春日部市南１丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,52 @@
+{
+  "id": "东方LiveParty_ev-34",
+  "start": 1618099200,
+  "end": 1618099200,
+  "title": "东方LiveParty×沈阳·tho2·东方春谣祭",
+  "desc": "东方LiveParty×沈阳·tho2·东方春谣祭 于 沈阳 金际酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-34",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0fc1c77fa5d05be2a631e744e494ea35d8c09a9301463e3940c86f8128e2c6b1",
+  "location": {
+    "type": "google",
+    "text": "沈阳 金际酒店",
+    "entity": [
+      {
+        "id": "ChIJvX-vwtd9JV4RqMpR_4Im40A",
+        "addressLine1": "沈阳金际酒店",
+        "addressLine2": "中華人民共和国 遼寧省 瀋陽市 鉄西新区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJN4M-wdd9JV4RRfxTvjWbHxI",
+        "addressLine1": "金际酒店",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳 鉄西新区 滑翔小区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJRyedxNd9JV4RQHvmSiiPO64",
+        "addressLine1": "金际酒店停车场",
+        "addressLine2": "中華人民共和国 沈阳 鉄西新区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

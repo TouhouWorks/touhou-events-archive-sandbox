@@ -1,0 +1,30 @@
+{
+  "id": "圣战东方! -The HARD TOHO!-_ev-3",
+  "start": 1308960000,
+  "end": 1308960000,
+  "title": "聖戦東方! -The HARD TOHO!-2rd Attack!!",
+  "desc": "圣战东方! -The HARD TOHO!-2rd Attack!! 于 东京都 青山LOOP 举办",
+  "url": "https://thwiki.cc/%E5%9C%A3%E6%88%98%E4%B8%9C%E6%96%B9!_-The_HARD_TOHO!-#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "875cc139de99dad531a624cf686f9502a98bf04fa8bcbcc622d0da971fb7fc39",
+  "location": {
+    "type": "google",
+    "text": "东京都 青山LOOP",
+    "entity": [
+      {
+        "id": "ChIJQa7l-YKMGGARq-jKEiihM-M",
+        "addressLine1": "LUUP",
+        "addressLine2": "２丁目-２ 青山 港区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

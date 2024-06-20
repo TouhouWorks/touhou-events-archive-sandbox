@@ -1,0 +1,32 @@
+{
+  "id": "礼物游戏_ev-1",
+  "start": 1488672000,
+  "end": 1488672000,
+  "title": "禮物遊戲1",
+  "desc": "礼物游戏1 于 台北市 台湾师范大学公馆校区 中正堂 举办",
+  "url": "https://thwiki.cc/%E7%A4%BC%E7%89%A9%E6%B8%B8%E6%88%8F#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c3ec1d610b84d5f49acbe7a965b261b65c49d28e2929345857d34fd2a89ef48f",
+  "location": {
+    "type": "google",
+    "text": "台北市 台湾师范大学公馆校区 中正堂",
+    "entity": [
+      {
+        "id": "ChIJVVUVkfWpQjQR_9XOzks2Va0",
+        "addressLine1": "Assembly Hall of National Taiwan Normal University",
+        "addressLine2": "文山区 台北市 台湾",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

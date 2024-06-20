@@ -1,0 +1,19 @@
+{
+  "id": "Ryonaket_ev-3",
+  "start": 1424563200,
+  "end": 1424563200,
+  "title": "りょなけっと3",
+  "desc": "Ryonaket 3 于 东京都 东京批发贸易中心 举办",
+  "url": "https://thwiki.cc/Ryonaket#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d3494287460ed0947886fe581379658ef94eccc39fddde5be5ef702ed1274add",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京批发贸易中心",
+    "entity": []
+  },
+  "platform": 1
+}

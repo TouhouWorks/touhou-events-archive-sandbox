@@ -1,0 +1,30 @@
+{
+  "id": "FUN成都_ev-1",
+  "start": 1418428800,
+  "end": 1418428800,
+  "title": "FUN成都FunTime初冬动漫戏剧音乐祭",
+  "desc": "FUN成都FunTime初冬动漫戏剧音乐祭 于 四川成都东郊记忆八点空间 举办",
+  "url": "https://thwiki.cc/FUN%E6%88%90%E9%83%BD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2d96025dd5d5ac1599aa7789c5f985a969a227f459228609df93ef57bc7fde42",
+  "location": {
+    "type": "google",
+    "text": "四川成都东郊记忆八点空间",
+    "entity": [
+      {
+        "id": "ChIJfc5yMuDP7zYRB7h7QM23a7c",
+        "addressLine1": "八点空间",
+        "addressLine2": "中華人民共和国 四川成都 成華区 建设路步行街",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

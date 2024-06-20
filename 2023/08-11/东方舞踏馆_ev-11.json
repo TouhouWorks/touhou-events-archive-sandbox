@@ -1,0 +1,31 @@
+{
+  "id": "东方舞踏馆_ev-11",
+  "start": 1691712000,
+  "end": 1691712000,
+  "title": "東方舞踏館11",
+  "desc": "东方舞踏馆11 于 东京都 パルシティ江東 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%88%9E%E8%B8%8F%E9%A6%86#ev-11",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1d5f2fd45e5b07e67f5f55805e11867eb1e43dac52f6fcefa789704847ebad10",
+  "location": {
+    "type": "google",
+    "text": "东京都 パルシティ江東",
+    "entity": [
+      {
+        "id": "ChIJQeQDGOSIGGARJvRkugmTlUI",
+        "addressLine1": "パルシティ江東",
+        "addressLine2": "日本、東京都江東区扇橋３丁目２２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

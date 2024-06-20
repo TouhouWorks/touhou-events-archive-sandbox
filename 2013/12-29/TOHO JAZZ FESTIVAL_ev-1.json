@@ -1,0 +1,30 @@
+{
+  "id": "TOHO JAZZ FESTIVAL_ev-1",
+  "start": 1388275200,
+  "end": 1388275200,
+  "title": "TOHO JAZZ FESTIVAL 1st",
+  "desc": "TOHO JAZZ FESTIVAL 1st 于 东京都武藏野市 吉祥寺CLUB SEATA 举办",
+  "url": "https://thwiki.cc/TOHO_JAZZ_FESTIVAL#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "72caf08205a166e597b04b5006825b372bdd289c3bb7e6ad1dabd21531019300",
+  "location": {
+    "type": "google",
+    "text": "东京都武藏野市 吉祥寺CLUB SEATA",
+    "entity": [
+      {
+        "id": "ChIJLZ0RAkfuGGARrn7Zw_y1CTU",
+        "addressLine1": "CLUB SEATA",
+        "addressLine2": "日本、東京都武蔵野市吉祥寺本町１丁目２０−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

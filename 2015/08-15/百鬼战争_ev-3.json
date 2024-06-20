@@ -1,0 +1,84 @@
+{
+  "id": "百鬼战争_ev-3",
+  "start": 1439596800,
+  "end": 1439596800,
+  "title": "第三次百鬼戦争",
+  "desc": "第三次百鬼战争 于 东京都台东区 浅草KURAWOOD 举办",
+  "url": "https://thwiki.cc/%E7%99%BE%E9%AC%BC%E6%88%98%E4%BA%89#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e759b063ad9d30beedba8719adc175855c44d87f0bfb470fd53a283900f41da8",
+  "location": {
+    "type": "google",
+    "text": "东京都台东区 浅草KURAWOOD",
+    "entity": [
+      {
+        "id": "ChIJM1N_BMKOGGARZ0DHgTj9hHw",
+        "addressLine1": "浅草",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJx62FmcGOGGARDxQTl8Zx6U4",
+        "addressLine1": "浅草神社",
+        "addressLine2": "日本、東京都台東区浅草２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJL34SkMaOGGAR8M8COhoCH_Q",
+        "addressLine1": "浅草",
+        "addressLine2": "日本、東京都台東区浅草１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "Ejrml6XmnKzjgIHmnbHkuqzpg73lj7DmnbHljLrlkL7lprvmqYvvvJHkuIHnm64g5rWF6I2J6YCa44KKIi4qLAoUChIJCZ23ls-OGGARi_3sls7iTVUSFAoSCQ1r65TFjhhgEZtLvl-kyL7k",
+        "addressLine1": "浅草通り",
+        "addressLine2": "日本、東京都台東区吾妻橋１丁目",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJVVUlLuqOGGAR7MGQwTISSQA",
+        "addressLine1": "浅草警察署",
+        "addressLine2": "日本、東京都台東区浅草４丁目４７−１１",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

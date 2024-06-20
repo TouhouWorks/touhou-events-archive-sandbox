@@ -1,0 +1,19 @@
+{
+  "id": "红魔馆Tea Party_ev-3",
+  "start": 1597449600,
+  "end": 1597449600,
+  "title": "紅魔館Tea Party web版",
+  "desc": "红魔馆Tea Party web版 于 https://tea-party.melonbooks.co.jp 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E9%AD%94%E9%A6%86Tea_Party#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "246506485d373f66a0023945672850a7739d6792a74bd47e6592f0cd17fd917a",
+  "location": {
+    "type": "google",
+    "text": "https://tea-party.melonbooks.co.jp",
+    "entity": []
+  },
+  "platform": 1
+}

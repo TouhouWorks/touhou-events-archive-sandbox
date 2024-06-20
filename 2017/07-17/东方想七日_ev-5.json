@@ -1,0 +1,30 @@
+{
+  "id": "东方想七日_ev-5",
+  "start": 1500249600,
+  "end": 1500249600,
+  "title": "東方想七日5",
+  "desc": "东方想七日5 于 东京都立产业贸易中心 台东馆 5层 展示室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%83%B3%E4%B8%83%E6%97%A5#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "05cab91539fd009834f95e55b8409bde18d6301e39d8cb56f59ca1c0a0662db8",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 台东馆 5层 展示室",
+    "entity": [
+      {
+        "id": "ChIJ9dCB2cOOGGARxq6ZRp_ssoI",
+        "addressLine1": "東京都立產業貿易中心 台東館",
+        "addressLine2": "日本、東京都台東区花川戸２丁目６−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

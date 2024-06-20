@@ -1,0 +1,30 @@
+{
+  "id": "幺乐团嘉年华！_ev-3",
+  "start": 1336262400,
+  "end": 1336262400,
+  "title": "幺樂団カァニバル！3",
+  "desc": "幺乐团嘉年华！3 于 东京都大田区产业广场Pio 2层 小展示厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BA%E4%B9%90%E5%9B%A2%E5%98%89%E5%B9%B4%E5%8D%8E%EF%BC%81#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c537cda4c66677c568d0c57006932e51b9c669db06b6f649a579f045e25c3a13",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 2层 小展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

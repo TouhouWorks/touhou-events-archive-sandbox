@@ -1,0 +1,30 @@
+{
+  "id": "趁鬼不在时 KICK ASS_ev-1",
+  "start": 1328918400,
+  "end": 1328918400,
+  "title": "鬼の居ぬ間に KICK ASS 1",
+  "desc": "趁鬼不在时 KICK ASS 1 于 大阪府大阪市 Live Space BAR SHRIMP 举办",
+  "url": "https://thwiki.cc/%E8%B6%81%E9%AC%BC%E4%B8%8D%E5%9C%A8%E6%97%B6_KICK_ASS#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7099b107d7bac25fac4d216941f15705a1bd20106bececf0d0af2b57b001d558",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 Live Space BAR SHRIMP",
+    "entity": [
+      {
+        "id": "ChIJVVWhzxPnAGAR_itgNAQD1U8",
+        "addressLine1": "Live Space BAR SHRIMP(道頓堀シュリンプ)",
+        "addressLine2": "日本、大阪府大阪市中央区西心斎橋２丁目４−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

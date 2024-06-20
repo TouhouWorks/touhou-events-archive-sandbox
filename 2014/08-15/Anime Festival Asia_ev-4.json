@@ -1,0 +1,30 @@
+{
+  "id": "Anime Festival Asia_ev-4",
+  "start": 1408060800,
+  "end": 1408060800,
+  "title": "Anime Festival Asia 2014 Indonesia",
+  "desc": "Anime Festival Asia 2014 Indonesia 于 印度尼西亚 Plenary Hall Jakarta Convention 举办",
+  "url": "https://thwiki.cc/Anime_Festival_Asia#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3740892cbfc71df307a834c4440c5c9b1bac74dc13c9a2240c56a8b2cd1a1cc4",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 Plenary Hall Jakarta Convention",
+    "entity": [
+      {
+        "id": "ChIJo6OCRdr3aS4Rmca4OIn1M-8",
+        "addressLine1": "Plenary Hall, Jakarta Convention Center",
+        "addressLine2": "Jalan Gatot Subroto, RT.1/RW.3, Gelora, Central Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

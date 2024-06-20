@@ -1,0 +1,30 @@
+{
+  "id": "Master Spark!!_ev-2",
+  "start": 1531526400,
+  "end": 1531526400,
+  "title": "Master Spark!! 2発目",
+  "desc": "Master Spark!! 2发目 于 札幌市 XENON 举办",
+  "url": "https://thwiki.cc/Master_Spark!!#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e0b87e58bb40384565b7f9ccd1f7817c9eaf3903a55f1ac3b1d013e0f2057c55",
+  "location": {
+    "type": "google",
+    "text": "札幌市 XENON",
+    "entity": [
+      {
+        "id": "ChIJ__9LJIYpC18RG97WSmR17ms",
+        "addressLine1": "XENON",
+        "addressLine2": "日本、北海道札幌市中央区南７条西４丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "处女座的Rondo_ev-1",
+  "start": 1683417600,
+  "end": 1683417600,
+  "title": "乙女座のロンド1",
+  "desc": "处女座的Rondo 1 于 东京Big Sight 东展厅 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A5%B3%E5%BA%A7%E7%9A%84Rondo#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "847a5f3ac17487f77c81b9fd46eb78b24c6cddcab048d5b2e8088ea39e58e21a",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 东展厅",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,42 @@
+{
+  "id": "大⑨州东方祭_ev-14",
+  "start": 1446940800,
+  "end": 1446940800,
+  "title": "大⑨州東方祭13",
+  "desc": "大⑨州东方祭13 于 熊本市 流通情报会馆 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b5e9f35df0e40430692737e7eefec8e008285f0887f86c3da9a9320a2da1d0dc",
+  "location": {
+    "type": "google",
+    "text": "熊本市 流通情报会馆",
+    "entity": [
+      {
+        "id": "ChIJ6UUaXJf0QDURzgCYkwbwqVw",
+        "addressLine1": "熊本市流通情報会館",
+        "addressLine2": "日本、熊本県熊本市南区流通団地１丁目２４−番地",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_1Bbrpf0QDURDVJGPR_5oCU",
+        "addressLine1": "熊本市流通情報会館 第2駐車場",
+        "addressLine2": "日本、熊本県熊本市南区流通団地２丁目１７",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Flower Party Festival_ev-1",
+  "start": 1250985600,
+  "end": 1250985600,
+  "title": "Flower Party Festival Vol.1",
+  "desc": "Flower Party Festival Vol.1 于 东京都 CLUB HAVANA 举办",
+  "url": "https://thwiki.cc/Flower_Party_Festival#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bfcc0251d31517c0bcd28fe1d180d64f6e44c9c05b90d102f39ad025d21451e1",
+  "location": {
+    "type": "google",
+    "text": "东京都 CLUB HAVANA",
+    "entity": [
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJs5ibb_MIAWARgBJwgv-P8Zo",
+        "addressLine1": "CLUB METRO",
+        "addressLine2": "日本、京都府京都市左京区下堤町８２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

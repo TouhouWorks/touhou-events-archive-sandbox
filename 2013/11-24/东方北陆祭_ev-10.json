@@ -1,0 +1,19 @@
+{
+  "id": "东方北陆祭_ev-10",
+  "start": 1385251200,
+  "end": 1385251200,
+  "title": "東方北陸祭 第十弾",
+  "desc": "东方北陆祭 第十弹 于 金泽市IT商业广场武藏 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%99%86%E7%A5%AD#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1856f0a055d83be53a3fde7555dd2ea2f26c33ef0f9ce05d77d97112c63a3a3c",
+  "location": {
+    "type": "google",
+    "text": "金泽市IT商业广场武藏",
+    "entity": []
+  },
+  "platform": 1
+}

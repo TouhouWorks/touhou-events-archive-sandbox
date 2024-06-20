@@ -1,0 +1,78 @@
+{
+  "id": "长乐未央_ev-3",
+  "start": 1569974400,
+  "end": 1569974400,
+  "title": "长安THONLY1.5-永兴幻梦",
+  "desc": "长安THONLY1.5-永兴幻梦 于 西安市 文德酒店 举办",
+  "url": "https://thwiki.cc/%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AE#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b38a837641e50923c1375f1d304891570f5755bd6c6f35c16f6abe3429d440a4",
+  "location": {
+    "type": "google",
+    "text": "西安市 文德酒店",
+    "entity": [
+      {
+        "id": "ChIJY03_39x8YzYRg9id_B3xhtY",
+        "addressLine1": "如家宾馆",
+        "addressLine2": "中華人民共和国 陝西省 西安市 未央区 Qinchuan Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ1yQqlS57YzYRxuwfZkLhU8c",
+        "addressLine1": "新城区酒店玻璃器配店",
+        "addressLine2": "中華人民共和国 陝西省 西安市 新城区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn87tThh7YzYRb_5j6BIac-A",
+        "addressLine1": "如家酒店",
+        "addressLine2": "中華人民共和国 陝西省 西安市 新城区 Taihua South Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJuZCu7Ol6YzYRGphtAeFwed4",
+        "addressLine1": "如家酒店",
+        "addressLine2": "中華人民共和国 西安市 碑林区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJMeFSa2R6YzYRGNA9jetBtfY",
+        "addressLine1": "如家快捷酒店",
+        "addressLine2": "中華人民共和国 陝西省 西安市 碑林区 竹笆市",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

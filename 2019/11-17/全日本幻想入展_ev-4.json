@@ -1,0 +1,32 @@
+{
+  "id": "全日本幻想入展_ev-4",
+  "start": 1573948800,
+  "end": 1573948800,
+  "title": "第4回 全日本幻想入り展",
+  "desc": "第4回 全日本幻想入展 于 京都市劝业馆 (みやこめっせ) 举办",
+  "url": "https://thwiki.cc/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95#ev-4",
+  "type": [
+    "创作"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d18a3bbd8fc94ed7d3e048209c4d3cb090f17906138855d5c09ebe7747defd24",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 (みやこめっせ)",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勧業館 みやこめっせ",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

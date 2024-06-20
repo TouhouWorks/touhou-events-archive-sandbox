@@ -1,0 +1,32 @@
+{
+  "id": "东方梦华胥_ev-2",
+  "start": 1376179200,
+  "end": 1376179200,
+  "title": "第二届武漢THONLY-東方咏月想——夏",
+  "desc": "第二届武汉THONLY-东方咏月想——夏 于 武汉 沿江一号MALL 梦剧场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E5%8D%8E%E8%83%A5#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d546c4643dd2c7c653b672e178dc9a007561ddf4f87bbde58d3546eab73a2815",
+  "location": {
+    "type": "google",
+    "text": "武汉 沿江一号MALL 梦剧场",
+    "entity": [
+      {
+        "id": "ChIJ4Y4LmqqvLjQRUwg4CyKDKpo",
+        "addressLine1": "沿江一号Mall",
+        "addressLine2": "中華人民共和国 湖北省 武汉 江漢区 Yanjiang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

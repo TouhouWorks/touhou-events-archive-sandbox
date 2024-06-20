@@ -1,0 +1,30 @@
+{
+  "id": "黑猫乃庵_ev-2",
+  "start": 1655510400,
+  "end": 1655510400,
+  "title": "黒猫乃庵2",
+  "desc": "黑猫乃庵2 于 川崎市 产业振兴会馆 4楼企划展示场 举办",
+  "url": "https://thwiki.cc/%E9%BB%91%E7%8C%AB%E4%B9%83%E5%BA%B5#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "85a55b271f3577af16c4f9e2cda86e8a6428b3e0f059a14f2537ab77e1e2c7e9",
+  "location": {
+    "type": "google",
+    "text": "川崎市 产业振兴会馆 4楼企划展示场",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

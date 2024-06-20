@@ -1,0 +1,42 @@
+{
+  "id": "大·东方Project展_ev-6",
+  "start": 1708041600,
+  "end": 1708041600,
+  "title": "大・東方Project展2023·大阪",
+  "desc": "大·东方Project展2023·大阪 于 大阪府大阪市 心斋桥PARCO  14F PARCO GALLERY 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%C2%B7%E4%B8%9C%E6%96%B9Project%E5%B1%95#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "429fc7cd98c2131b821cf2a60b7ed7d68fc378bb8517b15c615346bad86c088f",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 心斋桥PARCO  14F PARCO GALLERY",
+    "entity": [
+      {
+        "id": "ChIJHZ9qxhDnAGARS3udWVQdvD0",
+        "addressLine1": "心斎橋PARCO",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋１丁目８−３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJIUQMBzLnAGAR83TN76Ya-Dg",
+        "addressLine1": "心斎橋PARCO SPACE14",
+        "addressLine2": "日本、大阪府大阪市中央区心斎橋筋１丁目８−３ 14F",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,84 @@
+{
+  "id": "东方Project×百货商场活动_ev-49",
+  "start": 1682640000,
+  "end": 1682640000,
+  "title": "东方八百万商店Pop-up shop",
+  "desc": "东方八百万商店Pop-up shop 于 东京都千代田区外神田1-2-7 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-49",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "09d070386da88f03f8cddf5f7749f2a7373fa79ca24e31e59a0f9edc17cce0fb",
+  "location": {
+    "type": "google",
+    "text": "东京都千代田区外神田1-2-7",
+    "entity": [
+      {
+        "id": "ChIJ6zf2Fx2MGGARejZ0jh5LUMQ",
+        "addressLine1": "外神田１丁目２−７",
+        "addressLine2": "日本、東京都千代田区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJPyIFIx2MGGARnbEcq-CKLQw",
+        "addressLine1": "外神田１−２",
+        "addressLine2": "日本、東京都千代田区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_4",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJLdDA4HiNGGARCcHyQmvL0OI",
+        "addressLine1": "701",
+        "addressLine2": "日本、東京都千代田区外神田２−１−３",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ_3jUGR2MGGARF9hlBIuxOIc",
+        "addressLine1": "外神田１",
+        "addressLine2": "日本、東京都千代田区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJd1wZskSLGGARz2oHsATo3w4",
+        "addressLine1": "7-ELEVEN 秋葉原電氣街口店",
+        "addressLine2": "日本、東京都千代田区外神田１−１８−１９",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,76 @@
+{
+  "id": "幻想~炳春花月宴_ev-2",
+  "start": 1713571200,
+  "end": 1713571200,
+  "title": "浙工大THO-溪樱梦华引",
+  "desc": "浙工大THO-溪樱梦华引 于 浙江省杭州市 浙江工业大学 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3~%E7%82%B3%E6%98%A5%E8%8A%B1%E6%9C%88%E5%AE%B4#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3fbbee3f9b75be981a622d04ca1e0adf26b431cd76a7735ab090bc8275c790df",
+  "location": {
+    "type": "google",
+    "text": "浙江省杭州市 浙江工业大学",
+    "entity": [
+      {
+        "id": "ChIJLQ_ebw57SzQRFvhugIntvrI",
+        "addressLine1": "浙江工业大学屏峰校区",
+        "addressLine2": "中華人民共和国 浙江省杭州市 西湖区 Liuhe Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJxyPqjA17SzQRvC02TVGweK0",
+        "addressLine1": "浙江工业大学",
+        "addressLine2": "中華人民共和国 浙江省杭州市 西湖区 Liuhe Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJO79B6_adTDQRh0iJybKHbc4",
+        "addressLine1": "浙江工业大学（北门）",
+        "addressLine2": "中華人民共和国 浙江省杭州市 拱墅区 Desheng Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmfHfk_SdTDQRpNx5MP8DRIo",
+        "addressLine1": "浙江工业大学朝晖校区－田径场",
+        "addressLine2": "中華人民共和国 浙江省杭州市 下城区 朝晖地区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJU2reHRx8SzQRpY55F53Gssw",
+        "addressLine1": "浙江工业大学之江学院",
+        "addressLine2": "中華人民共和国 浙江省杭州市 西湖区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

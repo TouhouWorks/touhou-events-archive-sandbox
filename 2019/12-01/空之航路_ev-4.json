@@ -1,0 +1,32 @@
+{
+  "id": "空之航路_ev-4",
+  "start": 1575158400,
+  "end": 1575158400,
+  "title": "空之航路~ 动物灵奇谭",
+  "desc": "空之航路~ 动物灵奇谭 于 北京航空航天大学 学院路校区 主M楼 301教室 举办",
+  "url": "https://thwiki.cc/%E7%A9%BA%E4%B9%8B%E8%88%AA%E8%B7%AF#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "94ac3f4a685a5634c916afbca96c771744dbd7e030b164f9333c09fb7e8d59bc",
+  "location": {
+    "type": "google",
+    "text": "北京航空航天大学 学院路校区 主M楼 301教室",
+    "entity": [
+      {
+        "id": "ChIJG6HQkQtU8DURW1BxkWijAWY",
+        "addressLine1": "Beihang University",
+        "addressLine2": "Xueyuan Road, 海淀区 北京市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

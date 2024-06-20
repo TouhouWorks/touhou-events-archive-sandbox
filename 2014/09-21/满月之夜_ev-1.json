@@ -1,0 +1,19 @@
+{
+  "id": "满月之夜_ev-1",
+  "start": 1411257600,
+  "end": 1411257600,
+  "title": "満月の夜1",
+  "desc": "满月之夜1 于 三重县立太阳竞技场 举办",
+  "url": "https://thwiki.cc/%E6%BB%A1%E6%9C%88%E4%B9%8B%E5%A4%9C#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "065c0678019877480daf3f969d26e488ebdc1ec0450cfeca27ed23763dee7a63",
+  "location": {
+    "type": "google",
+    "text": "三重县立太阳竞技场",
+    "entity": []
+  },
+  "platform": 1
+}

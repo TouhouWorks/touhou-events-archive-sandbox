@@ -1,0 +1,32 @@
+{
+  "id": "东方Rock on!!_ev-9",
+  "start": 1607817600,
+  "end": 1607817600,
+  "title": "東方ロックオン!!第9回",
+  "desc": "东方Rock on!!第9回 于 爱知县名古屋市 club LOVER:z 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Rock_on!!#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "429c4b56a4e7619e0a60ef371d8e32bea825fbe5777f696814e8ea92ff5333d2",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 club LOVER:z",
+    "entity": [
+      {
+        "id": "ChIJpWalSNtwA2AR9AgEZNDFY_Y",
+        "addressLine1": "Club LOVER:z (ラバーズ)",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２２−２２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

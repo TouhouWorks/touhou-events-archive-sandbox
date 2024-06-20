@@ -1,0 +1,52 @@
+{
+  "id": "Anime North_ev-24",
+  "start": 1657843200,
+  "end": 1657843200,
+  "title": "Anime North 2022",
+  "desc": "Anime North 2022 于 加拿大安大略省多伦多 Toronto Congress Centre, Sheraton Toronto Airport 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-24",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9a353123fb91acae01f2edf933e60e37d60365e28cf8fa01c30c43e00449129a",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Toronto Congress Centre, Sheraton Toronto Airport",
+    "entity": [
+      {
+        "id": "ChIJM2DYCfQ5K4gRzJY7mVl398w",
+        "addressLine1": "Toronto Congress Centre",
+        "addressLine2": "Dixon Road, エトビコ Toronto, オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ-8k16iU5K4gR59rH_xZ40o4",
+        "addressLine1": "The Toronto Congress Centre",
+        "addressLine2": "Martin Grove Road, エトビコ Toronto, オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJ85n75U5K4gRUkSZx6UsSFw",
+        "addressLine1": "Sheraton Toronto Airport Hotel - Lot #312",
+        "addressLine2": "Dixon Road, エトビコ Toronto, オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

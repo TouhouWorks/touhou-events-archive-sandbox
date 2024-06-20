@@ -1,0 +1,30 @@
+{
+  "id": "Comic Frontier_ev-11",
+  "start": 1534550400,
+  "end": 1534550400,
+  "title": "Comic Frontier 11",
+  "desc": "Comic Frontier 11 于 印度尼西亚 雅加达 Balai Kartin会展中心 举办",
+  "url": "https://thwiki.cc/Comic_Frontier#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "668c230b5c9434ca01638b7a35d15d9bbfd3fd69521c77d02a32c5843e7d789e",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 雅加达 Balai Kartin会展中心",
+    "entity": [
+      {
+        "id": "ChIJSd7u6ObzaS4RqqDFKEOJl38",
+        "addressLine1": "Balai Kartini",
+        "addressLine2": "Jalan Gatot Subroto, RT.6/RW.3, クニンガン East Kuningan, South Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

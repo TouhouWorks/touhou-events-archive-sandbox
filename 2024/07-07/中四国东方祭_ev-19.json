@@ -1,0 +1,30 @@
+{
+  "id": "中四国东方祭_ev-19",
+  "start": 1720310400,
+  "end": 1720310400,
+  "title": "中四国東方祭18",
+  "desc": "中四国东方祭18 于 广岛市 东区民文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%9B%E5%9B%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0f6a441a03f93798fc4dc2c0c93bf765d68d9a70f48c47fea88658b726eb312b",
+  "location": {
+    "type": "google",
+    "text": "广岛市 东区民文化中心",
+    "entity": [
+      {
+        "id": "ChIJ1XPbYFqfWjURduqnRTmy_P8",
+        "addressLine1": "廣島東區區民文化中心",
+        "addressLine2": "日本、広島県広島市東区東蟹屋町１０−３１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

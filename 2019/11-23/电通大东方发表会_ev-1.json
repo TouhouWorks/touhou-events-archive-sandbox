@@ -1,0 +1,44 @@
+{
+  "id": "电通大东方发表会_ev-1",
+  "start": 1574467200,
+  "end": 1574467200,
+  "title": "電通大東方発表会1",
+  "desc": "电通大东方发表会1 于 调布市 电气通信大学 举办",
+  "url": "https://thwiki.cc/%E7%94%B5%E9%80%9A%E5%A4%A7%E4%B8%9C%E6%96%B9%E5%8F%91%E8%A1%A8%E4%BC%9A#ev-1",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c61340427fe4544f38dd8e2f51084c59b29be20ebbdfc016af4cd2668115f3dc",
+  "location": {
+    "type": "google",
+    "text": "调布市 电气通信大学",
+    "entity": [
+      {
+        "id": "ChIJFXZYHBTwGGARC_Jwdi6yEOU",
+        "addressLine1": "電気通信大学",
+        "addressLine2": "日本、東京都調布市調布ケ丘１丁目５−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJROLKxfwGGARsJKX3uuTAVY",
+        "addressLine1": "電気通信大学附属図書館",
+        "addressLine2": "日本、東京都調布市調布ケ丘１丁目５−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

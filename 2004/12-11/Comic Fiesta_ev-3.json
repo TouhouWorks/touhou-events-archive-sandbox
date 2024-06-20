@@ -1,0 +1,36 @@
+{
+  "id": "Comic Fiesta_ev-3",
+  "start": 1102723200,
+  "end": 1102723200,
+  "title": "Comic Fiesta 2004",
+  "desc": "Comic Fiesta 2004 于 马来西亚国家视觉艺术馆 举办",
+  "url": "https://thwiki.cc/Comic_Fiesta#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1239a879a5f1460d3e101d31b6ec5841c7f449d256f8f772c392d68408cfeaae",
+  "location": {
+    "type": "google",
+    "text": "马来西亚国家视觉艺术馆",
+    "entity": [
+      {
+        "id": "ChIJn7ct6mxIzDERAfOvaaTX5DM",
+        "addressLine1": "马来西亚国家美术馆",
+        "addressLine2": "マレーシア クアラ・ルンプル Titiwangsa, Jalan Tun Razak",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ENTERTAINMENT",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

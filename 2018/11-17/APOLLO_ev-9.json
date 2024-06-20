@@ -1,0 +1,19 @@
+{
+  "id": "APOLLO_ev-9",
+  "start": 1542412800,
+  "end": 1542412800,
+  "title": "BOOTH Festival APOLLO 第9回",
+  "desc": "BOOTH Festival APOLLO 第9回 于 https://booth.pm/ja/exhibitions/bf-apollo09 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9bfeb07428320a86dce36a182170286464ba811b1b8eb415b8ecc400967d522a",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/ja/exhibitions/bf-apollo09",
+    "entity": []
+  },
+  "platform": 1
+}

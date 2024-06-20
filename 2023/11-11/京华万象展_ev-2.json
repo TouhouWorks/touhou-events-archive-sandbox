@@ -1,0 +1,68 @@
+{
+  "id": "京华万象展_ev-2",
+  "start": 1699660800,
+  "end": 1699660800,
+  "title": "京华万象展2",
+  "desc": "京华万象展2 于 北京大红门国际会展中心 举办",
+  "url": "https://thwiki.cc/%E4%BA%AC%E5%8D%8E%E4%B8%87%E8%B1%A1%E5%B1%95#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "90f7f11dfe0322da3165785d07ee5f27cc95fdcafe49534a90f4e4e3f57e047a",
+  "location": {
+    "type": "google",
+    "text": "北京大红门国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJx2jGAtxM8DURyyiEFS359f8",
+        "addressLine1": "北京大红门国际会展中心－停车场",
+        "addressLine2": "中華人民共和国 北京市 豊台区 138, Yong Wai Gao Zhuang",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJgVftPQ5N8DURhHqkFKPMrxg",
+        "addressLine1": "北京大红门国际会展中心酒店",
+        "addressLine2": "中華人民共和国 北京市 東城区 Yongwaichezhan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmeYvS9lM8DURbTQKxKGmLbM",
+        "addressLine1": "大红门国际会展中心餐厅",
+        "addressLine2": "中華人民共和国 北京 豊台区",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJmeYvS9lM8DURhZPttjZRc14",
+        "addressLine1": "大红门国际会展中心停车场",
+        "addressLine2": "中華人民共和国 北京 豊台区 南苑路辅路",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

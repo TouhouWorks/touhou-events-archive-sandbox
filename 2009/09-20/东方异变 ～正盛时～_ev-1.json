@@ -1,0 +1,30 @@
+{
+  "id": "东方异变 ～正盛时～_ev-1",
+  "start": 1253404800,
+  "end": 1253404800,
+  "title": "東方異変 ～真っ只中～1",
+  "desc": "东方异变 ～正盛时～1 于 爱知县 名古屋市 CLUB DIAMOND HALL 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E5%8F%98_%EF%BD%9E%E6%AD%A3%E7%9B%9B%E6%97%B6%EF%BD%9E#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "de202bf55721a6f3f3a3d4ff566297db968efe3254b1710436cc036e104d1da2",
+  "location": {
+    "type": "google",
+    "text": "爱知县 名古屋市 CLUB DIAMOND HALL",
+    "entity": [
+      {
+        "id": "ChIJRexe7MJwA2ARL46Hq9eeOy0",
+        "addressLine1": "Diamond Hall",
+        "addressLine2": "２丁目-１-９ 新栄 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方梦神乐_ev-2",
+  "start": 1635552000,
+  "end": 1635552000,
+  "title": "東方夢神楽二",
+  "desc": "东方梦神乐二 于 东京都中央区 PLAZA MAAM 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%A5%9E%E4%B9%90#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "47144e2563767f640f22b8c2320645c3001b3a48f0f94216c516fe22a6a84367",
+  "location": {
+    "type": "google",
+    "text": "东京都中央区 PLAZA MAAM",
+    "entity": [
+      {
+        "id": "ChIJ_62Wg06JGGARY4VFa18LqKM",
+        "addressLine1": "Plaza maam",
+        "addressLine2": "１丁目-１-１２ 日本橋浜町 中央区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

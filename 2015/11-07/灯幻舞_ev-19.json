@@ -1,0 +1,30 @@
+{
+  "id": "灯幻舞_ev-19",
+  "start": 1446854400,
+  "end": 1446854400,
+  "title": "灯幻舞 ～十九灯夜",
+  "desc": "灯幻舞 ～十九灯夜 于 东京都 BIG SHIP 举办",
+  "url": "https://thwiki.cc/%E7%81%AF%E5%B9%BB%E8%88%9E#ev-19",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3d255a435d4f894c822a31219a15816c652c3a6fb4660b116f0275463aaa3fc7",
+  "location": {
+    "type": "google",
+    "text": "东京都 BIG SHIP",
+    "entity": [
+      {
+        "id": "ChIJX5bcBcyOGGAR9sWFPPNye4g",
+        "addressLine1": "本所地域プラザ BIG SHIP",
+        "addressLine2": "日本、東京都墨田区本所１丁目１３−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

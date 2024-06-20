@@ -1,0 +1,30 @@
+{
+  "id": "伊贺东方读书会_ev-3",
+  "start": 1553299200,
+  "end": 1553299200,
+  "title": "第三回 伊賀東方読書会",
+  "desc": "第三回 伊贺东方读书会 于 伊贺市生涯学习中心 举办",
+  "url": "https://thwiki.cc/%E4%BC%8A%E8%B4%BA%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-3",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aaec0a7c54adb69fd04ead97726851f1d66c8f757eb0aaf1a8f36ee211a788ce",
+  "location": {
+    "type": "google",
+    "text": "伊贺市生涯学习中心",
+    "entity": [
+      {
+        "id": "ChIJvUG_XABXAWARgvhEHRF2z6M",
+        "addressLine1": "伊賀市教育委員会 生涯学習課",
+        "addressLine2": "日本、三重県伊賀市四十九町３１８４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,56 @@
+{
+  "id": "汇喵音乐节_ev-1",
+  "start": 1628380800,
+  "end": 1628380800,
+  "title": "匯喵音乐节1",
+  "desc": "汇喵音乐节1 于 上海市 Rock Shanghai 举办",
+  "url": "https://thwiki.cc/%E6%B1%87%E5%96%B5%E9%9F%B3%E4%B9%90%E8%8A%82#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "46110ba3c90bc7346fd35a3ed2b420fb53d253a516705484533f42f4118cf915",
+  "location": {
+    "type": "google",
+    "text": "上海市 Rock Shanghai",
+    "entity": [
+      {
+        "id": "ChIJu07fuw9wsjUR8pGCNZOy1vQ",
+        "addressLine1": "Rock Shanghai",
+        "addressLine2": "中華人民共和国 上海市 静安区 Yan'an Road (M)",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJd63G0ltksjUR8zchSnI4UlE",
+        "addressLine1": "Rock Club",
+        "addressLine2": "Hongmei Road, 閔行区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJfQBD4X-DrTURk406QoMWFKE",
+        "addressLine1": "Rock-Robust",
+        "addressLine2": "Renmin East Road, 浦東新区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

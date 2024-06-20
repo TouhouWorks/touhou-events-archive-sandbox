@@ -1,0 +1,32 @@
+{
+  "id": "东方展示界_ev-2",
+  "start": 1705708800,
+  "end": 1705708800,
+  "title": "東方展示界2",
+  "desc": "东方展示界2 于 大阪市 Gallery glad 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B1%95%E7%A4%BA%E7%95%8C#ev-2",
+  "type": [
+    "创作"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5864d33917b0f0685ea104d4b449100801c2eb16e850a11cfe5baef506242fde",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Gallery glad",
+    "entity": [
+      {
+        "id": "ChIJSXkwz4PnAGARTuuUBnMJhXk",
+        "addressLine1": "Gallery glad.",
+        "addressLine2": "日本、大阪府大阪市西区九条３丁目２０−２１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Start of Year Cosplay Event_ev-1",
+  "start": 1302307200,
+  "end": 1302307200,
+  "title": "Start of Year Cosplay Event 2011",
+  "desc": "Start of Year Cosplay Event 2011 于 新加坡 Ngee Ann Polytechnic Convention Centre 举办",
+  "url": "https://thwiki.cc/Start_of_Year_Cosplay_Event#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b849e996dc99b059e8bf7baa7cfba97754464bb5be9ddc1259cec2fff8c7d6db",
+  "location": {
+    "type": "google",
+    "text": "新加坡 Ngee Ann Polytechnic Convention Centre",
+    "entity": [
+      {
+        "id": "ChIJWeO0jn0Q2jERQwzr3v_n0nU",
+        "addressLine1": "Ngee Ann Polytechnic",
+        "addressLine2": "クレメンティ・ロード, シンガポール新加坡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8UTuWIcQ2jERRmbWPcSBkQ0",
+        "addressLine1": "Block 68 - Convention Centre",
+        "addressLine2": "クレメンティ・ロード, 新加坡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "中国国际动漫游戏博览会_ev-7",
+  "start": 1309996800,
+  "end": 1309996800,
+  "title": "第七届中国国际动漫游戏博览会",
+  "desc": "第七届中国国际动漫游戏博览会 于 上海市 上海世博园中国国家馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ef8fbeff3e221d8767b81a7003c8100827607c9da185473774449dfc456e3f05",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海世博园中国国家馆",
+    "entity": [
+      {
+        "id": "ChIJZf5bMF56sjUREnXiKF_voso",
+        "addressLine1": "中国国家馆",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Shangnan Road",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

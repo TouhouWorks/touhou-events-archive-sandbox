@@ -1,0 +1,30 @@
+{
+  "id": "此花咲夜_ev-5",
+  "start": 1378598400,
+  "end": 1378598400,
+  "title": "このはな咲夜5",
+  "desc": "此花咲夜5 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E6%AD%A4%E8%8A%B1%E5%92%B2%E5%A4%9C#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e3a32c26dc210f7688e1691732a7c6fcee632047cd7c9c0f7b83883144f43902",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

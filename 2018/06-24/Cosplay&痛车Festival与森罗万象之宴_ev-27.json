@@ -1,0 +1,36 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-27",
+  "start": 1529798400,
+  "end": 1529798400,
+  "title": "第二十七回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第二十七回 Cosplay&痛车Festival与森罗万象之宴 于 滋贺县东近江市 东近江市政府永源寺分所 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-27",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "52f24a4776507bef04b4e51e6c35b2b20491c8cd88b3ffbca573b17ca6d0be55",
+  "location": {
+    "type": "google",
+    "text": "滋贺县东近江市 东近江市政府永源寺分所",
+    "entity": [
+      {
+        "id": "ChIJZ7SwnGPcA2ARTdWILaPV7VE",
+        "addressLine1": "永源寺",
+        "addressLine2": "日本、滋賀県東近江市永源寺高野町４１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

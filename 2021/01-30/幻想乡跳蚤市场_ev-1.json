@@ -1,0 +1,47 @@
+{
+  "id": "幻想乡跳蚤市场_ev-1",
+  "start": 1611964800,
+  "end": 1611964800,
+  "title": "幻想郷の蚤の市1",
+  "desc": "幻想乡跳蚤市场1 于 大阪市立浪速区民中心 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E8%B7%B3%E8%9A%A4%E5%B8%82%E5%9C%BA#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9eacedbecfd45f8ee55284f91b07255cd3c1bf95e4763a4faa2b6c4fce0b2ee9",
+  "location": {
+    "type": "google",
+    "text": "大阪市立浪速区民中心",
+    "entity": [
+      {
+        "id": "ChIJm2vmyAvnAGAR8wslfEMrw1I",
+        "addressLine1": "浪速区民センター",
+        "addressLine2": "日本、大阪府大阪市浪速区稲荷２丁目４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJB93xb47nAGARsXbk8qdUU7U",
+        "addressLine1": "珍珠中心",
+        "addressLine2": "日本、大阪府大阪市浪速区恵美須東２丁目４−１８",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "CAFE",
+          "cafe",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

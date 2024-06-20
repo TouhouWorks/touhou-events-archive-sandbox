@@ -1,0 +1,30 @@
+{
+  "id": "东方ABC_ev-10",
+  "start": 1484438400,
+  "end": 1484438400,
+  "title": "東方ABC in 北九州",
+  "desc": "东方ABC in 北九州 于 北九州市 西日本综合展示场 新馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9ABC#ev-10",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c83df5d789740091c3cbea7ac2983c154d9b45ed6ca12d518d225206955bf741",
+  "location": {
+    "type": "google",
+    "text": "北九州市 西日本综合展示场 新馆",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

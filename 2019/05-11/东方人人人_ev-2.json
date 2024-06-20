@@ -1,0 +1,32 @@
+{
+  "id": "东方人人人_ev-2",
+  "start": 1557532800,
+  "end": 1557532800,
+  "title": "东方人人人·异变十杰",
+  "desc": "东方人人人·异变十杰 于 北京市 中国人民大学学生活动中心报告厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%BA%E4%BA%BA%E4%BA%BA#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fa164a5b13dd4c253bc4b8a542768d2908fee729b4fa38e5a12fee231630fadb",
+  "location": {
+    "type": "google",
+    "text": "北京市 中国人民大学学生活动中心报告厅",
+    "entity": [
+      {
+        "id": "ChIJ6RSiLF1R8DURAlYGgVfM914",
+        "addressLine1": "中国人民大学学生活动中心",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Mingzhi Road",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

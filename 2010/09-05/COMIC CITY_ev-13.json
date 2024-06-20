@@ -1,0 +1,38 @@
+{
+  "id": "COMIC CITY_ev-13",
+  "start": 1283644800,
+  "end": 1283644800,
+  "title": "COMIC CITY 福岡24",
+  "desc": "COMIC CITY 福冈24 于 福冈市 福冈Yahoo!JAPAN巨蛋 举办",
+  "url": "https://thwiki.cc/COMIC_CITY#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ed97a6af07e3ecfb16d8f6b0df54aeb95ed232b8630bca3c9e303469ac82f847",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈Yahoo!JAPAN巨蛋",
+    "entity": [
+      {
+        "id": "ChIJS7bmAk2SQTURwlTt0njZnLc",
+        "addressLine1": "福冈PayPay巨蛋",
+        "addressLine2": "日本、福岡県福岡市中央区地行浜２丁目２−２",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "CHURCH",
+          "place_of_worship",
+          "church",
+          "stadium",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

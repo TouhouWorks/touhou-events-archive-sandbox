@@ -1,0 +1,30 @@
+{
+  "id": "LIVING ONLY_ev-2",
+  "start": 1701475200,
+  "end": 1701475200,
+  "title": "LIVING ONLY 2",
+  "desc": "LIVING ONLY 2 于 东京都三鹰市 吉祥寺NEPO 举办",
+  "url": "https://thwiki.cc/LIVING_ONLY#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f737098bfdc799664cd07475cc0c1f2e4dd8c317c765a5d66f9e85ac7ff15b50",
+  "location": {
+    "type": "google",
+    "text": "东京都三鹰市 吉祥寺NEPO",
+    "entity": [
+      {
+        "id": "ChIJcYqGXurvGGARNC7yNZ6gE9I",
+        "addressLine1": "NEPO",
+        "addressLine2": "日本、東京都三鷹市下連雀１丁目１７−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

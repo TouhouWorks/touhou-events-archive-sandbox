@@ -1,0 +1,30 @@
+{
+  "id": "东方收获祭 Touhou Harverst Festival_ev-2",
+  "start": 1349136000,
+  "end": 1349136000,
+  "title": "守矢神社大庙会 -Moriya Shrine Carnival-",
+  "desc": "守矢神社大庙会 -Moriya Shrine Carnival- 于 成都市 金羽天翼羽毛球馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%94%B6%E8%8E%B7%E7%A5%AD_Touhou_Harverst_Festival#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2bba703f5bbcb886eeb87442967a38dc3e8e6f3ece4f40c43fe1b0e7adbc4843",
+  "location": {
+    "type": "google",
+    "text": "成都市 金羽天翼羽毛球馆",
+    "entity": [
+      {
+        "id": "ChIJf9NRzQfF7zYReq8x1ngBChY",
+        "addressLine1": "天翼羽毛球馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 武侯区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

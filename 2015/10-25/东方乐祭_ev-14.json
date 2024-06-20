@@ -1,0 +1,30 @@
+{
+  "id": "东方乐祭_ev-14",
+  "start": 1445731200,
+  "end": 1445731200,
+  "title": "東方樂祭 in 東方駿河祭",
+  "desc": "东方乐祭 in 东方骏河祭 于 沼津市 Plaza Verde KiraMesse沼津 东Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-14",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e13d8a03729e13615411a068059b8d62e6b60d21f4ab50b662ada59a7f6d4184",
+  "location": {
+    "type": "google",
+    "text": "沼津市 Plaza Verde KiraMesse沼津 东Hall",
+    "entity": [
+      {
+        "id": "ChIJ____JlyFGWARWbp63NX2yt0",
+        "addressLine1": "キラメッセぬまづ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "YACA_ev-4",
+  "start": 1223769600,
+  "end": 1223769600,
+  "title": "YACA26",
+  "desc": "YACA26 于 广州市 省文联展厅 举办",
+  "url": "https://thwiki.cc/YACA#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1618dfe72aa67202181be63b252b9553b205cbff610b591f9560ffb40238aad4",
+  "location": {
+    "type": "google",
+    "text": "广州市 省文联展厅",
+    "entity": [
+      {
+        "id": "ChIJzQmvMVj-AjQRBAPbtdLDQcA",
+        "addressLine1": "省文联停车场",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区 天河公园 Longkou West Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

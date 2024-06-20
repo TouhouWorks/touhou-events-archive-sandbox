@@ -1,0 +1,91 @@
+{
+  "id": "Etcetera_ev-76",
+  "start": 1530316800,
+  "end": 1530316800,
+  "title": "えとせとら Vol.75",
+  "desc": "Etcetera Vol.75 于 东京都 COLONY茅场町 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-76",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a474fdf4f5ae3b904dd5dc53a261ff85de03348bce35d72b8c40bede2e6a887e",
+  "location": {
+    "type": "google",
+    "text": "东京都 COLONY茅场町",
+    "entity": [
+      {
+        "id": "ChIJRRuXtluJGGARKOpidJtF3bg",
+        "addressLine1": "日本橋茅場町",
+        "addressLine2": "日本、東京都中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ1eDtVluJGGARnsU9KupWx_Y",
+        "addressLine1": "茅场町珍珠酒店",
+        "addressLine2": "日本、東京都中央区新川１丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJM1pRCluJGGARiLLHYmCmr5k",
+        "addressLine1": "スターバックスコーヒー 茅場町店",
+        "addressLine2": "日本、東京都中央区日本橋茅場町１丁目１２−２",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJV6oUD1uJGGARRcNceY_M6xY",
+        "addressLine1": "茅场町ito妇科诊所",
+        "addressLine2": "日本、東京都中央区日本橋茅場町１丁目１３−１５",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJjSpsrluJGGARks3CsFssM3w",
+        "addressLine1": "茅场町",
+        "addressLine2": "日本、東京都中央区日本橋茅場町１丁目１１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

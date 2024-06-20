@@ -1,0 +1,19 @@
+{
+  "id": "Comic Typhoon_ev-16",
+  "start": 1544918400,
+  "end": 1544918400,
+  "title": "Comic Typhoon 61",
+  "desc": "Comic Typhoon 61 于 金泽劳动者广场1层 多目的室+101研修室 举办",
+  "url": "https://thwiki.cc/Comic_Typhoon#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71627be7a61a3c1b7bf30f5d9eb0603f55b3c06ecb3add238403263bbd00d202",
+  "location": {
+    "type": "google",
+    "text": "金泽劳动者广场1层 多目的室+101研修室",
+    "entity": []
+  },
+  "platform": 1
+}

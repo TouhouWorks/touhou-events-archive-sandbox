@@ -1,0 +1,30 @@
+{
+  "id": "Chibi Japan Expo_ev-2",
+  "start": 1288310400,
+  "end": 1288310400,
+  "title": "Chibi Japan Expo 2010",
+  "desc": "Chibi Japan Expo 2010 于 法国蒙特勒伊 Paris-Est Montreuil 举办",
+  "url": "https://thwiki.cc/Chibi_Japan_Expo#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fe25b51e2cce87fc2d640518a8092e073d3dcb1b84cad1f4e812236e11fe4df1",
+  "location": {
+    "type": "google",
+    "text": "法国蒙特勒伊 Paris-Est Montreuil",
+    "entity": [
+      {
+        "id": "ChIJd6gg_Zdt5kcRmPRxZ-Z6OrA",
+        "addressLine1": "Paris Montreuil Expo",
+        "addressLine2": "Rue de Paris, モントルイユ フランス",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

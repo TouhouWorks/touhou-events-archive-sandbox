@@ -1,0 +1,68 @@
+{
+  "id": "东方京宴乐_ev-1",
+  "start": 1265500800,
+  "end": 1265500800,
+  "title": "東方京宴楽 第一話",
+  "desc": "东方京宴乐 第一话 于 京都市 bowl 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%AC%E5%AE%B4%E4%B9%90#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cf01329190aa76e07300e86c702876fb6f06fcebefec06c765dd0f9f861355b1",
+  "location": {
+    "type": "google",
+    "text": "京都市 bowl",
+    "entity": [
+      {
+        "id": "ChIJRYrizQYJAWARgY1_Yz687vo",
+        "addressLine1": "SALAD BOWL Kyoto",
+        "addressLine2": "日本、京都府京都市左京区鹿ケ谷法然院町７",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      },
+      {
+        "id": "ChIJ7QGJf5MIAWARvYFqYvRcfDs",
+        "addressLine1": "Round One Kyoto Kawaramachi",
+        "addressLine2": "250番地 山崎町 中京区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "bowling_alley",
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest",
+          "BOWLING_ALLEY"
+        ]
+      },
+      {
+        "id": "ChIJiR5hPXkFAWAREZBQksmhsIk",
+        "addressLine1": "Round One Stadium Kyoto Fushimi shop",
+        "addressLine2": "１３１ 下鳥羽平塚町 伏見区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "bowling_alley",
+          "establishment",
+          "point_of_interest",
+          "BOWLING_ALLEY"
+        ]
+      },
+      {
+        "id": "ChIJ9UEZXQ4PAWARcBIuo8FwxVE",
+        "addressLine1": "Kyoto Bowling Association",
+        "addressLine2": "スポーツセンター内 ７０ 東九条下殿田町 南区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

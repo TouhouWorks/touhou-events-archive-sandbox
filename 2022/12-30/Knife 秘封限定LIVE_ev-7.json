@@ -1,0 +1,34 @@
+{
+  "id": "Knife 秘封限定LIVE_ev-7",
+  "start": 1672358400,
+  "end": 1672358400,
+  "title": "ナイフ 2DAYS ONEMAN＋GUEST LIVE 30日",
+  "desc": "Knife 2DAYS ONEMAN＋GUEST LIVE 30日 于 东京都 日本桥PACMAN 举办",
+  "url": "https://thwiki.cc/Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE#ev-7",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ab5e6af9089f8bb283f03f1810c656f1e1d3627dbf0e2275637034ac5f103439",
+  "location": {
+    "type": "google",
+    "text": "东京都 日本桥PACMAN",
+    "entity": [
+      {
+        "id": "ChIJJ5WrWCCNGGARaHRE6Ufc4o0",
+        "addressLine1": "日本橋PACMAN（ニホンバシパックマン）",
+        "addressLine2": "日本、東京都中央区日本橋本石町４丁目５−５",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "ENTERTAINMENT",
+          "school",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

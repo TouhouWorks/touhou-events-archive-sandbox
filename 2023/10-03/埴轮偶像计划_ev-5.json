@@ -1,0 +1,64 @@
+{
+  "id": "埴轮偶像计划_ev-5",
+  "start": 1696291200,
+  "end": 1696291200,
+  "title": "山西THP-东方天猿纪",
+  "desc": "山西THP-东方天猿纪 于 山西省太原市 御花园金悦酒店 举办",
+  "url": "https://thwiki.cc/%E5%9F%B4%E8%BD%AE%E5%81%B6%E5%83%8F%E8%AE%A1%E5%88%92#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1936f5ff707fdadc6bbd17772ef11e1802417c3ea8195f9d97b99d8d90729b63",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市 御花园金悦酒店",
+    "entity": [
+      {
+        "id": "ChIJDxwT9f6oCjYREr4aagAttPQ",
+        "addressLine1": "御花园金悦酒店",
+        "addressLine2": "中華人民共和国 山西省太原市 杏花嶺区 东肖墙",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJE9aY8_6oCjYRDaUHe19Q_WM",
+        "addressLine1": "御花园金悦酒店",
+        "addressLine2": "中華人民共和国 山西省太原市 杏花嶺区 柳巷商业区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJJdGf7P6oCjYRicqIK7RISLU",
+        "addressLine1": "御花园金悦酒店场停车场",
+        "addressLine2": "中華人民共和国 山西省太原市 杏花嶺区 Shangxiaoqiang",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJz-2N6_6oCjYRJjixfO-sKIw",
+        "addressLine1": "御花园金悦酒店停车场",
+        "addressLine2": "中華人民共和国 山西省太原市 杏花嶺区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

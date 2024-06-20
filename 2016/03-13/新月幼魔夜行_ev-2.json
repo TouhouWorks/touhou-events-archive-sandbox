@@ -1,0 +1,30 @@
+{
+  "id": "新月幼魔夜行_ev-2",
+  "start": 1457827200,
+  "end": 1457827200,
+  "title": "新月幼魔夜行 2喰目",
+  "desc": "新月幼魔夜行 2喰目 于 名古屋市国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%9C%88%E5%B9%BC%E9%AD%94%E5%A4%9C%E8%A1%8C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e35aa13b20767a4e83a4eecee5957cbdbd8e7107f69494f4501a818b1f30f961",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

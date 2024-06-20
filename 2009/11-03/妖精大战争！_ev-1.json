@@ -1,0 +1,40 @@
+{
+  "id": "妖精大战争！_ev-1",
+  "start": 1257206400,
+  "end": 1257206400,
+  "title": "妖精大戦争！1",
+  "desc": "妖精大战争！1 于 横滨产贸HALL MARINERIA 举办",
+  "url": "https://thwiki.cc/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%81#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "07c08b8e5daf31a946b105d5f4d9cbc52bbc0afeceba026fae606d27313b9f96",
+  "location": {
+    "type": "google",
+    "text": "横滨产贸HALL MARINERIA",
+    "entity": [
+      {
+        "id": "ChIJ2zCbh_xcGGAREbn36vfbdo0",
+        "addressLine1": "横浜産貿ホール マリネリア",
+        "addressLine2": "日本、神奈川県横浜市中区山下町２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__-_h_xcGGARPbtbJ8vyNwg",
+        "addressLine1": "産業貿易センタービル",
+        "addressLine2": "日本、神奈川県横浜市中区山下町２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,42 @@
+{
+  "id": "东方对战会_ev-1",
+  "start": 1220745600,
+  "end": 1220745600,
+  "title": "第一回東方対戦会",
+  "desc": "第一回东方对战会 于 爱知县名古屋市 千成社区中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%AF%B9%E6%88%98%E4%BC%9A#ev-1",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f7763a1258620d54d337055e32fb863333ab65d49021d10afdeeda70bd62f91",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 千成社区中心",
+    "entity": [
+      {
+        "id": "ChIJoUPom1V3A2ARmAPuO2d-VTs",
+        "addressLine1": "名古屋市千成消防団",
+        "addressLine2": "日本、愛知県名古屋市中村区押木田町１丁目５−１７",
+        "provider": "google_places",
+        "categories": [
+          "FIRE_STATION",
+          "establishment",
+          "point_of_interest",
+          "fire_station"
+        ]
+      },
+      {
+        "id": "ChIJk4Lhis9wA2AR1o6VqwpH8wQ",
+        "addressLine1": "社区中心rise",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目１８−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

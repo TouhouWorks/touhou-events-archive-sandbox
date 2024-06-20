@@ -1,0 +1,44 @@
+{
+  "id": "Tri Pianista_ev-1",
+  "start": 1575763200,
+  "end": 1575763200,
+  "title": "Tri Pianista1",
+  "desc": "Tri Pianista1 于 东京 祖师谷大藏 Cafe Eclaircie 举办",
+  "url": "https://thwiki.cc/Tri_Pianista#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "130931180c8f49d48ca6b4e0623cf63eae65c7bb0f827197d5fe14764c398246",
+  "location": {
+    "type": "google",
+    "text": "东京 祖师谷大藏 Cafe Eclaircie",
+    "entity": [
+      {
+        "id": "ChIJncpWbWDxGGARFwwtU8sp-TI",
+        "addressLine1": "ライブカフェ・エクレルシ",
+        "addressLine2": "日本、東京都世田谷区砧８丁目８−２６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJrwLiKGDxGGARB4r9k_hzfBE",
+        "addressLine1": "祖师谷大藏",
+        "addressLine2": "日本、東京都東京祖師谷１丁目７",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

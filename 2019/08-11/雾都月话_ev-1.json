@@ -1,0 +1,32 @@
+{
+  "id": "雾都月话_ev-1",
+  "start": 1565481600,
+  "end": 1565481600,
+  "title": "雾都月话1",
+  "desc": "雾都月话1 于 重庆 锦怡豪生酒店 行政公寓二楼 举办",
+  "url": "https://thwiki.cc/%E9%9B%BE%E9%83%BD%E6%9C%88%E8%AF%9D#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1948e4f4f54241f486522cceb6b31ad7a6782c99680f24688f3cdbaddc70337f",
+  "location": {
+    "type": "google",
+    "text": "重庆 锦怡豪生酒店 行政公寓二楼",
+    "entity": [
+      {
+        "id": "ChIJHS8nTJXK7DYR0u2tXPW1gkU",
+        "addressLine1": "重庆锦怡豪生酒店",
+        "addressLine2": "中華人民共和国 重慶市 九竜坡区 杨家坪",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

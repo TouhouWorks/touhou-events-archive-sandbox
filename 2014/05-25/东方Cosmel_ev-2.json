@@ -1,0 +1,19 @@
+{
+  "id": "东方Cosmel_ev-2",
+  "start": 1400976000,
+  "end": 1400976000,
+  "title": "東方コスメル in 京都",
+  "desc": "东方Cosmel in 京都 于 京都市国际交流会馆 和风会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Cosmel#ev-2",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "93d2f6c007f66adb529ed9fbf32d1e620a05606be381a696f2101b62823707ed",
+  "location": {
+    "type": "google",
+    "text": "京都市国际交流会馆 和风会馆",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,74 @@
+{
+  "id": "东方梦华胥_ev-4",
+  "start": 1535155200,
+  "end": 1535155200,
+  "title": "第四届武漢THONLY-東方月見語",
+  "desc": "第四届武汉THONLY-东方月见语 于 武汉 国际会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E5%8D%8E%E8%83%A5#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a709ee520c59b487d131f60351e6f3e5a7ada57567e2abcb982ca4fa2714947e",
+  "location": {
+    "type": "google",
+    "text": "武汉 国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJHVhjY_CuLjQRHb-Yeb2KNxo",
+        "addressLine1": "武汉国际会展中心",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 江漢区 Jiefang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4b6nY_CuLjQRKjeq5p2U7Gc",
+        "addressLine1": "武汉国际会展中心",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 江漢区 永清",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJHVhjY_CuLjQR42bHDP8AeY0",
+        "addressLine1": "武汉国际会展中心停车场",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 江漢区 万松园 Wuzhan East Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJUYv3VvCuLjQRQPZn9Qm-znM",
+        "addressLine1": "武汉国际会展中心－停车场西门",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 江漢区 696",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJfR4yh16r8TUR9Ga3mKKQbsM",
+        "addressLine1": "武汉国际会展中心驻北京办事处",
+        "addressLine2": "中華人民共和国 北京市 朝陽区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

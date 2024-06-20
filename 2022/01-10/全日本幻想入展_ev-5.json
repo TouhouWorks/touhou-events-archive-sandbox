@@ -1,0 +1,30 @@
+{
+  "id": "全日本幻想入展_ev-5",
+  "start": 1641772800,
+  "end": 1641772800,
+  "title": "第5回 全日本幻想入り展",
+  "desc": "第5回 全日本幻想入展 于 京都市 京都府综合见本市会馆（パルスプラザ） 举办",
+  "url": "https://thwiki.cc/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%B9%BB%E6%83%B3%E5%85%A5%E5%B1%95#ev-5",
+  "type": [
+    "创作"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a7cb607102e2e7fc72a13b89f3012e644e8cbae3be7a7b77901a7272e50ba3b",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都府综合见本市会馆（パルスプラザ）",
+    "entity": [
+      {
+        "id": "ChIJe13WqIcFAWARZedcDJps-sA",
+        "addressLine1": "京都府総合見本市会館 京都パルスプラザ",
+        "addressLine2": "日本、京都府京都市伏見区竹田鳥羽殿町５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

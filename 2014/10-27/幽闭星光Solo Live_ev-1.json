@@ -1,0 +1,58 @@
+{
+  "id": "幽闭星光Solo Live_ev-1",
+  "start": 1414368000,
+  "end": 1414368000,
+  "title": "幽閉サテライト ソロライブ2014",
+  "desc": "幽闭星光Solo Live 2014 于 东京都 新宿BLAZE 举办",
+  "url": "https://thwiki.cc/%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89Solo_Live#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d3a68f0197455694c41149f944d0fdb7bfeee1e13dcf8fc7a6f9948d8ee64592",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿BLAZE",
+    "entity": [
+      {
+        "id": "ChIJeccloguNGGARcIxNIjmyFY8",
+        "addressLine1": "新宿BLAZE",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmYqtWMaNGGARh6rFu8mcGgI",
+        "addressLine1": "ブレイズマンバーバーショップ 新宿",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目１４−１１",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJARdpMt-NGGARHVyryigRK9U",
+        "addressLine1": "レンタルジム BLAZE LILLY(ﾌﾞﾚｲｽﾞ ﾘﾘｰ)曙橋",
+        "addressLine2": "日本、東京都新宿区市谷台町１６−２",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

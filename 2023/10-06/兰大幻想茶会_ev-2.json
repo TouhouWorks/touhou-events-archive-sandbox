@@ -1,0 +1,32 @@
+{
+  "id": "兰大幻想茶会_ev-2",
+  "start": 1696550400,
+  "end": 1696550400,
+  "title": "兰大幻想茶会2",
+  "desc": "兰大幻想茶会2 于 兰州大学榆中校区秦岭堂a213教室 举办",
+  "url": "https://thwiki.cc/%E5%85%B0%E5%A4%A7%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9A#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3afe8932e8372d94c5c660d00aaa68822a6cd4c769bc4ec7348466beb81159f8",
+  "location": {
+    "type": "google",
+    "text": "兰州大学榆中校区秦岭堂a213教室",
+    "entity": [
+      {
+        "id": "ChIJv7aqG8zkWjYRJ43xoFQvrZQ",
+        "addressLine1": "兰州大学榆中校区",
+        "addressLine2": "中華人民共和国 蘭州市 楡中県",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

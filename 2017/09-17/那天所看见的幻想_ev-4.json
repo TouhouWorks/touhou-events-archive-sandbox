@@ -1,0 +1,30 @@
+{
+  "id": "那天所看见的幻想_ev-4",
+  "start": 1505606400,
+  "end": 1505606400,
+  "title": "あの日視た幻想 chapter.4",
+  "desc": "那天所看见的幻想 chapter.4 于 京都市 京都FANJ 举办",
+  "url": "https://thwiki.cc/%E9%82%A3%E5%A4%A9%E6%89%80%E7%9C%8B%E8%A7%81%E7%9A%84%E5%B9%BB%E6%83%B3#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57c6791a713c3537031093e6347c5781a22f2fd35f3e86df232b6461dc1738cd",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都FANJ",
+    "entity": [
+      {
+        "id": "ChIJ7U5C9tQJAWARTVPn9nxYY7g",
+        "addressLine1": "京都FANJ",
+        "addressLine2": "日本、京都府京都市左京区上高野車地町１０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

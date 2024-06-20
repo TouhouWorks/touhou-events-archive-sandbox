@@ -1,0 +1,32 @@
+{
+  "id": "POP FANTASY_ev-1",
+  "start": 1474675200,
+  "end": 1474675200,
+  "title": "POP FANTASY 2016",
+  "desc": "POP FANTASY 2016 于 东京都 高圆寺High 举办",
+  "url": "https://thwiki.cc/POP_FANTASY#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "db254f59e7fd42a079026f74ba4c66d92331f0fc2f757afe010466ec07f2889a",
+  "location": {
+    "type": "google",
+    "text": "东京都 高圆寺High",
+    "entity": [
+      {
+        "id": "ChIJiVdXC4byGGARsHf92j86I90",
+        "addressLine1": "Kōenji Junior High School",
+        "addressLine2": "１丁目-４-１１ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

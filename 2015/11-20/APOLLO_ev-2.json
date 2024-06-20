@@ -1,0 +1,19 @@
+{
+  "id": "APOLLO_ev-2",
+  "start": 1447977600,
+  "end": 1447977600,
+  "title": "APOLLO 第2回",
+  "desc": "APOLLO 第2回 于 https://booth.pm/apollo/a02 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c6e833473d55373dbc89b00cf3e8583df7c150aee168b976766611cfcdc68752",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/apollo/a02",
+    "entity": []
+  },
+  "platform": 1
+}

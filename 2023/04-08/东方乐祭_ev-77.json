@@ -1,0 +1,30 @@
+{
+  "id": "东方乐祭_ev-77",
+  "start": 1680912000,
+  "end": 1680912000,
+  "title": "東方樂祭 2023 ～桜花爛漫の宴～ in GOTANDA G2",
+  "desc": "东方乐祭 2023 ~樱花烂漫之宴~ in GOTANDA G2 于 东京都五反田 GOTANDA G2 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-77",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "efd9e105bf55e93e88a111d41d3dbd3908795607695a27f9ff63b775559e8a8e",
+  "location": {
+    "type": "google",
+    "text": "东京都五反田 GOTANDA G2",
+    "entity": [
+      {
+        "id": "ChIJrT1vVx6LGGARn0Ripqhla6I",
+        "addressLine1": "GOTANDA G2 G+",
+        "addressLine2": "日本、東京都品川区西五反田２丁目５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

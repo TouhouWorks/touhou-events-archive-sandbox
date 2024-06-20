@@ -1,0 +1,74 @@
+{
+  "id": "A Certain Magical Event_ev-2",
+  "start": 1282953600,
+  "end": 1282953600,
+  "title": "A Certain Magical Event II",
+  "desc": "A Certain Magical Event II 于 新加坡 Sculpture Square 举办",
+  "url": "https://thwiki.cc/A_Certain_Magical_Event#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "df22966f5ac7625b00193fb77f9cabfc5367a58a83d5a00bc157792c068ec90f",
+  "location": {
+    "type": "google",
+    "text": "新加坡 Sculpture Square",
+    "entity": [
+      {
+        "id": "ChIJoavrZ-cZ2jEROHbTzqYlVM4",
+        "addressLine1": "Square 2",
+        "addressLine2": "Sinaran Drive, 新加坡",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJ-fCZpjET2jERASLWT81rp4k",
+        "addressLine1": "Woods Square Tower 1",
+        "addressLine2": "ウッドランズ・スクエア, 新加坡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ2ZpREl4T2jERPQk4bj0qVHM",
+        "addressLine1": "Woods Square Mall",
+        "addressLine2": "ウッドランズ・スクエア, 新加坡",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJPfww7hEZ2jERE6CxH83TCqI",
+        "addressLine1": "Asia Square Tower 1",
+        "addressLine2": "Marina View, シンガポール新加坡",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJE1UVihEZ2jER_A6qtF_v_Io",
+        "addressLine1": "Asia Square Tower 2",
+        "addressLine2": "Marina View, 新加坡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

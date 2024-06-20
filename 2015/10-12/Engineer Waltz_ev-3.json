@@ -1,0 +1,32 @@
+{
+  "id": "Engineer Waltz_ev-3",
+  "start": 1444608000,
+  "end": 1444608000,
+  "title": "エンジニアワルツ（第3回）",
+  "desc": "Engineer Waltz（第3回） 于 京都市劝业馆 3层 第3展厅 举办",
+  "url": "https://thwiki.cc/Engineer_Waltz#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0007c4633ca5f5e05366e9ef9ab96f91d5817b6bf6a33f1eda99666e90472704",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 3层 第3展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勸業館 Miyako Messe",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

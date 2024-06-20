@@ -1,0 +1,32 @@
+{
+  "id": "金泽东方祭_ev-8",
+  "start": 1531612800,
+  "end": 1531612800,
+  "title": "金沢東方祭7",
+  "desc": "金泽东方祭7 于 金泽劳动者广场 举办",
+  "url": "https://thwiki.cc/%E9%87%91%E6%B3%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3df26a3b15b6a9172a327b11f5a821dc6327f075eeed55c8ecbe48e7c51b8980",
+  "location": {
+    "type": "google",
+    "text": "金泽劳动者广场",
+    "entity": [
+      {
+        "id": "ChIJvU0a16iNAzQRNrW2YS2kAhc",
+        "addressLine1": "劳动者广场停车场",
+        "addressLine2": "中華人民共和国 広東省 深セン 宝安区 Huafan Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

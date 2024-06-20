@@ -1,0 +1,74 @@
+{
+  "id": "北理沙包大会_ev-6",
+  "start": 1698019200,
+  "end": 1698019200,
+  "title": "第十三届北理沙包大会",
+  "desc": "第十三届北理沙包大会 于 北京理工大学良乡校区 举办",
+  "url": "https://thwiki.cc/%E5%8C%97%E7%90%86%E6%B2%99%E5%8C%85%E5%A4%A7%E4%BC%9A#ev-6",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b59b7712a6b4d6f5a5f98bf86d57ef01f750890fa3d3331dc7ad8c34af82a4bc",
+  "location": {
+    "type": "google",
+    "text": "北京理工大学良乡校区",
+    "entity": [
+      {
+        "id": "ChIJr9MUbjU88DURpywu4EzuPvE",
+        "addressLine1": "北京理工大学良乡校区",
+        "addressLine2": "中華人民共和国 北京市 房山区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJBQvASm058DURDobbmIfL9YM",
+        "addressLine1": "北京理工大学良乡北校区",
+        "addressLine2": "中華人民共和国 北京市 房山区 阳光北大街",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJv-7aCHM58DURq7wdXGZdPNk",
+        "addressLine1": "北京理工大学良乡校区－文化体育中心",
+        "addressLine2": "中華人民共和国 北京市 房山区 北京理工大学良乡校区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZ67pG3I58DURQgWPnsjRcaY",
+        "addressLine1": "北京理工大学良乡校区电动汽车充电站",
+        "addressLine2": "中華人民共和国 北京市 房山区 良乡校区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ-dS6FG058DURJSH7rJN16XY",
+        "addressLine1": "理工大学良乡校区北门停车场",
+        "addressLine2": "中華人民共和国 北京 房山区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

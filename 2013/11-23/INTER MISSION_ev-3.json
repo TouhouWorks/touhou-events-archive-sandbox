@@ -1,0 +1,84 @@
+{
+  "id": "INTER MISSION_ev-3",
+  "start": 1385164800,
+  "end": 1385164800,
+  "title": "いんたーみっしょん 3回目",
+  "desc": "INTER MISSION 3回目 于 高崎市 高崎SUNSET 举办",
+  "url": "https://thwiki.cc/INTER_MISSION#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c835cf3f81dc8f6ad7bc1ee5c489ba090253586789ccbaf164e07faf97bfd81b",
+  "location": {
+    "type": "google",
+    "text": "高崎市 高崎SUNSET",
+    "entity": [
+      {
+        "id": "ChIJAQDA7X-NHmARCC5pGvoLQM4",
+        "addressLine1": "immigration 高崎",
+        "addressLine2": "２６-５ 高松町 高崎市 群馬県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJh3ZzfZuSHmARSljV8hrRWhE",
+        "addressLine1": "高崎",
+        "addressLine2": "日本、群馬県高崎市八島町",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJmf9ifJeSHmARHXA-x3oAJ_A",
+        "addressLine1": "ハローワーク高崎",
+        "addressLine2": "日本、群馬県高崎市北双葉町５−１７",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJ3c-W6Z2NHmARshm-XYmHjK8",
+        "addressLine1": "高崎警察署",
+        "addressLine2": "日本、群馬県高崎市台町４−３",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzw5ReViMHmARqfy4pp88MJ4",
+        "addressLine1": "GGCキッチン",
+        "addressLine2": "日本、群馬県高崎市中泉町６３１−７",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

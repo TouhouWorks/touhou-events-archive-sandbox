@@ -1,0 +1,30 @@
+{
+  "id": "东方乐祭_ev-57",
+  "start": 1565481600,
+  "end": 1565481600,
+  "title": "東方樂祭 2019 ～幻想の縁日～ in 神田明神納涼祭り",
+  "desc": "东方乐祭 2019 ~幻想之缘日~ in 神田明神纳凉祭 于 东京都 神田明神 地下Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-57",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8ea5b95a91fa8af79eeb748cd033d8e0f5e94d60b03ae17216488d066324176c",
+  "location": {
+    "type": "google",
+    "text": "东京都 神田明神 地下Hall",
+    "entity": [
+      {
+        "id": "ChIJM88ENLeNGGARq8KMGWmsp_A",
+        "addressLine1": "EDOCCO STUDIO（神田明神文化交流館 地下1階イベントホール）",
+        "addressLine2": "日本、東京都千代田区外神田２丁目１６−２ 文化交流館",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

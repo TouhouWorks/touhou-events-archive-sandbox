@@ -1,0 +1,32 @@
+{
+  "id": "东方踊楼舞_ev-1",
+  "start": 1287187200,
+  "end": 1287187200,
+  "title": "東方踊楼舞-1st-",
+  "desc": "东方踊楼舞-1st- 于 爱知县名古屋市 CLUB SARU 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%B8%8A%E6%A5%BC%E8%88%9E#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e4e8094b855ac6f263b30dafcdd928f00c3450bd05462d3c38d3daf12e0ef0bc",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 CLUB SARU",
+    "entity": [
+      {
+        "id": "ChIJFx6L161wA2ARBAme060TUa0",
+        "addressLine1": "ＣＬＵＢ−ＳＡＲＵ",
+        "addressLine2": "日本、愛知県名古屋市中区金山３丁目５−２３",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Tongren World_ev-22",
+  "start": 1563408000,
+  "end": 1563408000,
+  "title": "Tongren World21",
+  "desc": "Tongren World21 于 广州市 海珠区 保利世贸博览馆 2/3层 4/5/6号馆 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-22",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "066b5ecd3f8c960129c4ee967dc666c3a838b48feb31a9ecbcf145f727c57fff",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 保利世贸博览馆 2/3层 4/5/6号馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

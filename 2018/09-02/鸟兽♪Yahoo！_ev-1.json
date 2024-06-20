@@ -1,0 +1,30 @@
+{
+  "id": "鸟兽♪Yahoo！_ev-1",
+  "start": 1535846400,
+  "end": 1535846400,
+  "title": "鳥獣♪やっほー！1",
+  "desc": "鸟兽♪Yahoo！1 于 东京 绵商会馆 4层 举办",
+  "url": "https://thwiki.cc/%E9%B8%9F%E5%85%BD%E2%99%AAYahoo%EF%BC%81#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "42fa3814b0dff65720ed2e7ca54064bf2e65ebf674823f62b67c2e5b0a3b0722",
+  "location": {
+    "type": "google",
+    "text": "东京 绵商会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,35 @@
+{
+  "id": "森罗万象之宴_ev-18",
+  "start": 1397865600,
+  "end": 1397865600,
+  "title": "第16回 森羅万象ノ宴 in 関西サイクルスポーツセンター",
+  "desc": "第16回 森罗万象之宴 in 关西自行车体育中心 于 关西自行车体育中心 举办",
+  "url": "https://thwiki.cc/%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-18",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "644794ad14104171c878be5b918bc1a5568d113ec17d5813990a1bff09841bf9",
+  "location": {
+    "type": "google",
+    "text": "关西自行车体育中心",
+    "entity": [
+      {
+        "id": "ChIJowad4H3UAGARwwpdwjd8Cko",
+        "addressLine1": "关西自行车运动中心",
+        "addressLine2": "日本、大阪府河内長野市天野町１３０４",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

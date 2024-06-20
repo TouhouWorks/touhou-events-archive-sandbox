@@ -1,0 +1,74 @@
+{
+  "id": "东方乐祭_ev-76",
+  "start": 1679184000,
+  "end": 1679184000,
+  "title": "東方樂祭 2023 in 東方上州祭・第5幕",
+  "desc": "东方乐祭 2023 in 东方上州祭·第5幕 于 群马县前桥市岩神町 Green Dome前桥 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-76",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5691f1cee1399538026892cdc49eb837a4fd16dd0d2e754e654ad6210e26c552",
+  "location": {
+    "type": "google",
+    "text": "群马县前桥市岩神町 Green Dome前桥",
+    "entity": [
+      {
+        "id": "ChIJPRHN4D7zHmARMlfxxq7CwG4",
+        "addressLine1": "ヤマダグリーンドーム前橋",
+        "addressLine2": "日本、群馬県前橋市岩神町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ0ySEp3TzHmARW0p4u11NYLk",
+        "addressLine1": "エニタイムフィットネス 前橋岩神店",
+        "addressLine2": "日本、群馬県前橋市岩神町２丁目２３−５８９−６",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJw5zFX13zHmAR_etdCY2nWKs",
+        "addressLine1": "Green Dome Maebashi Bike Bicycle",
+        "addressLine2": "１丁目-４ 岩神町 前橋市 群馬県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLVf8plvzHmAR0V95bR3lvP4",
+        "addressLine1": "（財）日本森林林業振興会前橋支部",
+        "addressLine2": "日本、群馬県前橋市岩神町４丁目１７−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLVf8plvzHmAREnsBVD7j-tE",
+        "addressLine1": "前橋国有林森林整備協会",
+        "addressLine2": "日本、群馬県前橋市岩神町４丁目１７−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

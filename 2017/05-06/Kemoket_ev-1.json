@@ -1,0 +1,80 @@
+{
+  "id": "Kemoket_ev-1",
+  "start": 1494028800,
+  "end": 1494028800,
+  "title": "けもケット6",
+  "desc": "Kemoket6 于 东京都 东京流通中心 举办",
+  "url": "https://thwiki.cc/Kemoket#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "962828cf4aef8a4f02603d61b2ef2b5c58f012d6bdb644ae0463516e7f91f0c3",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京流通中心",
+    "entity": [
+      {
+        "id": "ChIJITG0R7xhGGARCCOKn_nfktc",
+        "addressLine1": "流通中心",
+        "addressLine2": "日本、東京都東京平和島６丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJ7fQOqv2LGGAROfB0RtQVKPU",
+        "addressLine1": "㈱水産流通",
+        "addressLine2": "日本、東京都中央区豊海町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYxaiKrxhGGARFv2awOcbbbQ",
+        "addressLine1": "流通中心前",
+        "addressLine2": "日本、東京都東京平和島３丁目６",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJbfOq18-TGGARA_1AQEdZKFM",
+        "addressLine1": "流通中心入口",
+        "addressLine2": "日本、東京都東京入谷６丁目２",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJOZyJ18-TGGAR6vxiNbBe41I",
+        "addressLine1": "流通中心入口",
+        "addressLine2": "日本、東京都東京入谷５丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

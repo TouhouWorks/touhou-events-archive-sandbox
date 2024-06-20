@@ -1,0 +1,46 @@
+{
+  "id": "东方Practice_ev-78",
+  "start": 1394841600,
+  "end": 1394841600,
+  "title": "東方Practice SP 5th",
+  "desc": "东方Practice SP 5th 于 名古屋市 荣EDITS 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-78",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f940242e6e9f28af7d7891a44e449a6f499da99914f0cae5dd7ce2db60fa2add",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 荣EDITS",
+    "entity": [
+      {
+        "id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
+        "addressLine1": "名古屋市",
+        "addressLine2": "日本、愛知県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJO9BXow96A2ARfYheCZ3ya1c",
+        "addressLine1": "名古屋市体育館",
+        "addressLine2": "日本、愛知県名古屋市熱田区六野２丁目５−３",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

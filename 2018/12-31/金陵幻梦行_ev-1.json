@@ -1,0 +1,78 @@
+{
+  "id": "金陵幻梦行_ev-1",
+  "start": 1546214400,
+  "end": 1546214400,
+  "title": "南京THO-東方槳灯影",
+  "desc": "南京THO-东方桨灯影 于 南京市 白鹭宾馆 举办",
+  "url": "https://thwiki.cc/%E9%87%91%E9%99%B5%E5%B9%BB%E6%A2%A6%E8%A1%8C#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bcc449313cbb1f71de75058816e81db76a060bca4f10eb5bc1cada1532f82e01",
+  "location": {
+    "type": "google",
+    "text": "南京市 白鹭宾馆",
+    "entity": [
+      {
+        "id": "ChIJv_VaKV2MtTUR_rv8w9y46x4",
+        "addressLine1": "白鹭宾馆洗涤中心",
+        "addressLine2": "中華人民共和国 江蘇省 南京市 秦淮区 夫子庙地区 Dashiba Street",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "laundry",
+          "establishment",
+          "point_of_interest",
+          "LAUNDRY",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJR_u61EKMtTURTNOXfifPtRQ",
+        "addressLine1": "白鹭宾馆",
+        "addressLine2": "中華人民共和国 南京市 秦淮区 夫子庙地区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJvdfE00KMtTUR7SU-z--YTiI",
+        "addressLine1": "白鹭宾馆停车场",
+        "addressLine2": "中華人民共和国 江蘇省 南京市 秦淮区 夫子庙 Pipa Street",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJw1JjzUKMtTURGt9yuXvCOgI",
+        "addressLine1": "白鹭宾馆粤香阁",
+        "addressLine2": "中華人民共和国 南京市 秦淮区 夫子庙地区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJdz6nvkKMtTURp53Y6PI88K8",
+        "addressLine1": "白鹭宾馆保龄球馆",
+        "addressLine2": "中華人民共和国 江蘇省 南京市 秦淮区 夫子庙 Dashiba Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方信州祭_ev-12",
+  "start": 1638057600,
+  "end": 1638057600,
+  "title": "東方信州祭第12幕",
+  "desc": "东方信州祭第12幕 于 松本站前会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BF%A1%E5%B7%9E%E7%A5%AD#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5894407f127ea70c5a1b632261d1b2c8470214acaf8dfa6fae17d89827c5c5be",
+  "location": {
+    "type": "google",
+    "text": "松本站前会馆 4层",
+    "entity": []
+  },
+  "platform": 1
+}

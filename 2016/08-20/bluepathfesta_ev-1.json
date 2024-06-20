@@ -1,0 +1,30 @@
+{
+  "id": "bluepathfesta_ev-1",
+  "start": 1471651200,
+  "end": 1471651200,
+  "title": "bluepathfesta 1",
+  "desc": "bluepathfesta 1 于 东京都 高円寺Club ROOTS! 举办",
+  "url": "https://thwiki.cc/bluepathfesta#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0a30e70e587c8a9a44897b42b7ec7d0a9fc7fd1f25247ba1aa51500143c5010",
+  "location": {
+    "type": "google",
+    "text": "东京都 高円寺Club ROOTS!",
+    "entity": [
+      {
+        "id": "ChIJbQXdoX3yGGARwviBA_I6jTA",
+        "addressLine1": "高円寺 CLUB ROOTS",
+        "addressLine2": "３丁目-２２-３ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "东方摄州祭_ev-2",
+  "start": 1397865600,
+  "end": 1397865600,
+  "title": "東方摂州祭2",
+  "desc": "东方摄州祭2 于 关西自行车体育中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%91%84%E5%B7%9E%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9df6d379be7f70ac6f9731cc49266a42aed446a7d3a77cdc6168cafb51d66218",
+  "location": {
+    "type": "google",
+    "text": "关西自行车体育中心",
+    "entity": [
+      {
+        "id": "ChIJowad4H3UAGARwwpdwjd8Cko",
+        "addressLine1": "关西自行车运动中心",
+        "addressLine2": "日本、大阪府河内長野市天野町１３０４",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

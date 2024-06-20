@@ -1,0 +1,30 @@
+{
+  "id": "locked girl consideration_ev-2",
+  "start": 1321660800,
+  "end": 1321660800,
+  "title": "locked girl consideration 2",
+  "desc": "locked girl consideration 2 于 东京都町田市 町田SDR 举办",
+  "url": "https://thwiki.cc/locked_girl_consideration#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "94269d0654070f4cfaf71f6692a54f523a481c57fc84e8b6ba0d019d8a9f62b0",
+  "location": {
+    "type": "google",
+    "text": "东京都町田市 町田SDR",
+    "entity": [
+      {
+        "id": "ChIJwdT4Eqn-GGARWoEdREtm_BY",
+        "addressLine1": "町田SDR",
+        "addressLine2": "日本、東京都町田市森野２丁目２５−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

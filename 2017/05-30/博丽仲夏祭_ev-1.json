@@ -1,0 +1,19 @@
+{
+  "id": "博丽仲夏祭_ev-1",
+  "start": 1496102400,
+  "end": 1496102400,
+  "title": "博丽仲夏祭",
+  "desc": "博丽仲夏祭 于 成都市 东郊记忆 漫卡街 记忆长廊 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E4%BB%B2%E5%A4%8F%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0ae3bf193d2fd799b35fa45671f0e040316a234de2470def347c3c752de83116",
+  "location": {
+    "type": "google",
+    "text": "成都市 东郊记忆 漫卡街 记忆长廊",
+    "entity": []
+  },
+  "platform": 1
+}

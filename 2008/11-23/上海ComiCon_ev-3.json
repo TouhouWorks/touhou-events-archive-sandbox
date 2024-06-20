@@ -1,0 +1,62 @@
+{
+  "id": "上海ComiCon_ev-3",
+  "start": 1227398400,
+  "end": 1227398400,
+  "title": "上海ComiCon3",
+  "desc": "上海ComiCon3 于 上海市 长宁区工人文化宫 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "05eb48073085c07df169429228293eed550555df021368f4af1bfb1bf695caf2",
+  "location": {
+    "type": "google",
+    "text": "上海市 长宁区工人文化宫",
+    "entity": [
+      {
+        "id": "ChIJm8pOgV5lsjURp6GMdbDKjLE",
+        "addressLine1": "长宁区工人文化宫",
+        "addressLine2": "中華人民共和国 上海市 長寧区 Anxi Road",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJm_rfLFxlsjURML62MKpXdYw",
+        "addressLine1": "长宁区工人文化宫乒乓球馆",
+        "addressLine2": "中華人民共和国 上海市 長寧区 Yuyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJdaDaK1xlsjURdSzWoOcz_UQ",
+        "addressLine1": "长宁区工人文化宫培训中心",
+        "addressLine2": "中華人民共和国 上海市 長寧区 Yuyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJdaDaK1xlsjURBLZBe0VKoxE",
+        "addressLine1": "长宁区工人文化宫桌球房",
+        "addressLine2": "中華人民共和国 上海市 長寧区 Yuyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,40 @@
+{
+  "id": "东方绚文禄_ev-42",
+  "start": 1683417600,
+  "end": 1683417600,
+  "title": "東方絢文禄 尾張の卷 第四十一弾",
+  "desc": "东方绚文禄 尾张之卷 第四十一弹 于 名古屋市国际展示场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-42",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "59fc41faeda2933c30556e25d13f46cb21c11ac6877e1b41fb2dd371fd50904e",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "国際会議場",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

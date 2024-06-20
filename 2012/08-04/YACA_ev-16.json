@@ -1,0 +1,30 @@
+{
+  "id": "YACA_ev-16",
+  "start": 1344038400,
+  "end": 1344038400,
+  "title": "YACA37",
+  "desc": "YACA37 于 广州市 锦汉展览中心 举办",
+  "url": "https://thwiki.cc/YACA#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8195345c740f4a307775367ef406a1c8b1d16de417b40f0b6bfc0be0b5242e03",
+  "location": {
+    "type": "google",
+    "text": "广州市 锦汉展览中心",
+    "entity": [
+      {
+        "id": "ChIJBb01WOD4AjQRxP30aKHuOtI",
+        "addressLine1": "广州锦汉展览中心东门",
+        "addressLine2": "中華人民共和国 広東省 广州市 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

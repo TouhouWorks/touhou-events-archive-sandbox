@@ -1,0 +1,76 @@
+{
+  "id": "Touhou Gaming Events_ev-5",
+  "start": 1464393600,
+  "end": 1464393600,
+  "title": "Touhou Gaming Events 5",
+  "desc": "Touhou Gaming Events 5 于 乌克兰哈尔科夫 Anticafe “7/9” 举办",
+  "url": "https://thwiki.cc/Touhou_Gaming_Events#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "30b1191f1f0fcb6530587e45301b7328b416552d0b08067b932fc2c239557126",
+  "location": {
+    "type": "google",
+    "text": "乌克兰哈尔科夫 Anticafe “7/9”",
+    "entity": [
+      {
+        "id": "ChIJTVuUhnLoJ0ERjqfNGaEoU94",
+        "addressLine1": "Apteka 9-1-1 - Bohodukhivsʹka",
+        "addressLine2": "Kooperatyvna Street, Bohodukhiv ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "PHARMACY",
+          "SHOPS_AND_SERVICES",
+          "pharmacy",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJEwOU8qmmJ0ERZwwjqA2Mh8E",
+        "addressLine1": "ОБЩЕЖИТИЕ №9 НТУ 'ХПИ'",
+        "addressLine2": "Tsilynohrads'ka Street, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAzSTNxekJ0ER7TnvlCUHfKY",
+        "addressLine1": "Hostel №9 Kharkiv National University VN Karazin",
+        "addressLine2": "Lyudviha Svobody Avenue, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1c8dLrahJ0ERWY-opMo5xtA",
+        "addressLine1": "9-Й ГАРНИЗОННЫЙ ДОМ ОФИЦЕРОВ",
+        "addressLine2": "Poltavskyi Shliakh Street, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJEfVhxm6hJ0ERXudfknUXib8",
+        "addressLine1": "9/17A",
+        "addressLine2": "Berkosa Street, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "南昌东方project高校茶会_ev-1",
+  "start": 1681516800,
+  "end": 1681516800,
+  "title": "第一届南昌东方project高校茶会",
+  "desc": "第一届南昌东方project高校茶会 于 江西省南昌市 聚壹哈轰趴馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%97%E6%98%8C%E4%B8%9C%E6%96%B9project%E9%AB%98%E6%A0%A1%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57a2d253ef6b87abc6b2b4569455ea2a65a03f5d55de729f45de6ed6fcb6a46f",
+  "location": {
+    "type": "google",
+    "text": "江西省南昌市 聚壹哈轰趴馆",
+    "entity": [
+      {
+        "id": "ChIJP6Lj-Ve4OjQRB7h9cQeb7bg",
+        "addressLine1": "轰趴馆",
+        "addressLine2": "中華人民共和国 江西省南昌市 西湖区 28, Majia Lane",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

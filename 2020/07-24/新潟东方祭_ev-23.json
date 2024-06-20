@@ -1,0 +1,32 @@
+{
+  "id": "新潟东方祭_ev-23",
+  "start": 1595548800,
+  "end": 1595548800,
+  "title": "新潟東方祭21",
+  "desc": "新潟东方祭21 于 新潟市 朱鹭展览馆 3层 中会议室 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%BD%9F%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-23",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5ba03cb25821e123013369963ee61c5e7ff8b57bfff5eff1bab3efe1ca88ea36",
+  "location": {
+    "type": "google",
+    "text": "新潟市 朱鹭展览馆 3层 中会议室",
+    "entity": [
+      {
+        "id": "ChIJSxyXcB7K9F8RkFjx7GwWcZM",
+        "addressLine1": "朱鹭展览馆",
+        "addressLine2": "日本、新潟県新潟市中央区万代島６−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

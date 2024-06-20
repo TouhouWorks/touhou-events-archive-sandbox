@@ -1,0 +1,19 @@
+{
+  "id": "东方伊予四国祭_ev-2",
+  "start": 1440288000,
+  "end": 1440288000,
+  "title": "東方いよしこく祭2",
+  "desc": "东方伊予四国祭2 于 松山市综合社区中心 企划展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BC%8A%E4%BA%88%E5%9B%9B%E5%9B%BD%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1bc136c992f0c20e9f6c2ea940086a0828721dc1cc19d8e3af3761a2f5f56331",
+  "location": {
+    "type": "google",
+    "text": "松山市综合社区中心 企划展示厅",
+    "entity": []
+  },
+  "platform": 1
+}

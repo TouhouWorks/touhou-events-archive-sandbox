@@ -1,0 +1,19 @@
+{
+  "id": "Comic Horizon_ev-3",
+  "start": 1493424000,
+  "end": 1493424000,
+  "title": "Comic Horizon 2",
+  "desc": "Comic Horizon 2 于 台北市 卡市达创业加油站圆山基地 举办",
+  "url": "https://thwiki.cc/Comic_Horizon#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "685b29b8f8b8ad9e57effb6120aa355bf69071936273f4727a9ad75d16527b08",
+  "location": {
+    "type": "google",
+    "text": "台北市 卡市达创业加油站圆山基地",
+    "entity": []
+  },
+  "platform": 1
+}

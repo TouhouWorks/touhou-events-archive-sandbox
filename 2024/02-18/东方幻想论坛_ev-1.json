@@ -1,0 +1,19 @@
+{
+  "id": "东方幻想论坛_ev-1",
+  "start": 1708214400,
+  "end": 1708214400,
+  "title": "東方幻想論壇1",
+  "desc": "东方幻想论坛1 于 韩国水原市 水原MESSE会议室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E8%AE%BA%E5%9D%9B#ev-1",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "798aa4ec93a59ceaa685936dd650777d137f7bf9819974b8c5a54090fae7a9b7",
+  "location": {
+    "type": "google",
+    "text": "韩国水原市 水原MESSE会议室",
+    "entity": []
+  },
+  "platform": 1
+}

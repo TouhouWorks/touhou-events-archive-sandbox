@@ -1,0 +1,32 @@
+{
+  "id": "T.M.R with 东方哇！_ev-1",
+  "start": 1405123200,
+  "end": 1405123200,
+  "title": "T.M.R with 東方わぁい！in Osaka",
+  "desc": "T.M.R with 东方哇！in Osaka 于 大阪市 日本桥BAR Guild 举办",
+  "url": "https://thwiki.cc/T.M.R_with_%E4%B8%9C%E6%96%B9%E5%93%87%EF%BC%81#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f573b9cda532d362d0d722a153fb9fb455c6b7abfcb777ae989ef56dc89c391f",
+  "location": {
+    "type": "google",
+    "text": "大阪市 日本桥BAR Guild",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

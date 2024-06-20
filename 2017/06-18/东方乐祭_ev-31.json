@@ -1,0 +1,36 @@
+{
+  "id": "东方乐祭_ev-31",
+  "start": 1497744000,
+  "end": 1497744000,
+  "title": "東方樂祭 with 東方椰麟祭 第八幕 in 広島アニメイトビル５F",
+  "desc": "东方乐祭 with 东方椰麟祭 第八幕 in 广岛animate Building 5F 于 广岛市 广岛animate Building 5层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-31",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a4f9844d58efeaf814eb0d4de1d19963c6e80bf64eb4362f2384bbd8e2fb97cb",
+  "location": {
+    "type": "google",
+    "text": "广岛市 广岛animate Building 5层",
+    "entity": [
+      {
+        "id": "ChIJEeZK9gyiWjURJw3ACz2181I",
+        "addressLine1": "安利美特 廣島店",
+        "addressLine2": "日本、広島県広島市中区大手町２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

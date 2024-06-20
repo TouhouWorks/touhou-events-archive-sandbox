@@ -1,0 +1,30 @@
+{
+  "id": "東方てきぱ☆_ev-3",
+  "start": 1577836800,
+  "end": 1577836800,
+  "title": "東方てきぱ☆～お神酒はテキーラで",
+  "desc": "東方てきぱ☆～御神酒是龙舌兰 于 大阪市 MILULARI 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E6%96%B9%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "324f0d8032f7e4aaec8b0ce96ca7666aa74563ba94457fd727c21b5e0c18b9ab",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

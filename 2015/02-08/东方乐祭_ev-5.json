@@ -1,0 +1,36 @@
+{
+  "id": "东方乐祭_ev-5",
+  "start": 1423353600,
+  "end": 1423353600,
+  "title": "東方樂祭 in 札幌まんだらけ",
+  "desc": "东方乐祭 in 札幌MANDARAKE 于 札幌市 MANDARAKE札幌店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "400aeaf38b9b90295e2587c8f1d5150998ef3f43961c74b9c2ca9ccaa6490a83",
+  "location": {
+    "type": "google",
+    "text": "札幌市 MANDARAKE札幌店",
+    "entity": [
+      {
+        "id": "ChIJo7vfsYUpC18RRXbj5JKgDxI",
+        "addressLine1": "Mandarake 札幌店",
+        "addressLine2": "日本、北海道札幌市中央区南３条西５丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "establishment",
+          "home_goods_store",
+          "point_of_interest",
+          "store",
+          "HOME_AND_GARDEN"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

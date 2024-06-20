@@ -1,0 +1,79 @@
+{
+  "id": "东方游剧天_ev-12",
+  "start": 1711238400,
+  "end": 1711238400,
+  "title": "東方遊劇天12",
+  "desc": "东方游剧天12 于 广州市 设计殿堂 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#ev-12",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eb259f4c3b3a0920828d8d45fdd906023b08560d85f77c11f73edea5af91c0f9",
+  "location": {
+    "type": "google",
+    "text": "广州市 设计殿堂",
+    "entity": [
+      {
+        "id": "ChIJP5xbHt4IAzQRjwRRa7el6O8",
+        "addressLine1": "殿堂鞋殿",
+        "addressLine2": "中華人民共和国 広東省 广州市 増城区 解放北路",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJr9lltYkBAzQR3OcgLdPVc-Y",
+        "addressLine1": "美发设计",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJN2LY3jb_AjQRW_ZLQ058xoA",
+        "addressLine1": "殿堂形象馆",
+        "addressLine2": "中華人民共和国 広東省 广州市 越秀区 Dongshankou, Miaoqian Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJD54Q_VT-AjQR1xNcZfRGSbE",
+        "addressLine1": "美容美发设计",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmw-RcMz4AjQRERP5B5BnLXg",
+        "addressLine1": "广州设计",
+        "addressLine2": "中華人民共和国 広東省 广州市 越秀区 中华广场 Jiaochang West Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

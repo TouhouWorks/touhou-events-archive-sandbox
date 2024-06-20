@@ -1,0 +1,19 @@
+{
+  "id": "东方VAPE Night_ev-2",
+  "start": 1538784000,
+  "end": 1538784000,
+  "title": "東方VAPEナイト 2",
+  "desc": "东方VAPE Night 2 于 久留米市 Kitchin and Bar \"B00\" 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9VAPE_Night#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c02899a4e407d6e368bdf304847cd63669c04bcaa44201253544b17604fb74e5",
+  "location": {
+    "type": "google",
+    "text": "久留米市 Kitchin and Bar \"B00\"",
+    "entity": []
+  },
+  "platform": 1
+}

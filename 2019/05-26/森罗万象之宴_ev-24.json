@@ -1,0 +1,33 @@
+{
+  "id": "森罗万象之宴_ev-24",
+  "start": 1558828800,
+  "end": 1558828800,
+  "title": "第21回 森羅万象ノ宴",
+  "desc": "第21回 森罗万象之宴 于 足利市中桥绿地北多目的广场 举办",
+  "url": "https://thwiki.cc/%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-24",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57deea9df8b7e4132f6138bad32e8ab9d4c8733cac0d55f82cb5849f2bb55e87",
+  "location": {
+    "type": "google",
+    "text": "足利市中桥绿地北多目的广场",
+    "entity": [
+      {
+        "id": "ChIJieqqHykiH2ARuHgK1QUbbYI",
+        "addressLine1": "中橋緑地北多目的広場",
+        "addressLine2": "日本、栃木県足利市通２丁目９−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

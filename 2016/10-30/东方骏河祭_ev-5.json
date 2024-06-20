@@ -1,0 +1,30 @@
+{
+  "id": "东方骏河祭_ev-5",
+  "start": 1477785600,
+  "end": 1477785600,
+  "title": "東方駿河祭・2016后编（第5幕）",
+  "desc": "东方骏河祭・2016后编（第5幕） 于 沼津市 Plaza Verde KiraMesse沼津 西1Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AA%8F%E6%B2%B3%E7%A5%AD#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0db3be9bff8b90320315e63f12b32eb12a171a2e60c08082866b74515d018c57",
+  "location": {
+    "type": "google",
+    "text": "沼津市 Plaza Verde KiraMesse沼津 西1Hall",
+    "entity": [
+      {
+        "id": "ChIJ____JlyFGWARWbp63NX2yt0",
+        "addressLine1": "キラメッセぬまづ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

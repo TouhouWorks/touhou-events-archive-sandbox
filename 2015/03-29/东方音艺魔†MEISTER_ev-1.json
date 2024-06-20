@@ -1,0 +1,30 @@
+{
+  "id": "东方音艺魔†MEISTER_ev-1",
+  "start": 1427587200,
+  "end": 1427587200,
+  "title": "東方音芸魔†MEISTER 1",
+  "desc": "东方音艺魔†MEISTER 1 于 高知市 DAHLIA 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E8%89%BA%E9%AD%94%E2%80%A0MEISTER#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "422ec6cd12266a7693be2ddb97b2ad55f2637806cbe21021a4e608f07911ff95",
+  "location": {
+    "type": "google",
+    "text": "高知市 DAHLIA",
+    "entity": [
+      {
+        "id": "ChIJ____b0kZTjUR4rlwnC_ZTUQ",
+        "addressLine1": "Dahlia",
+        "addressLine2": "日本、高知県高知市はりまや町２丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

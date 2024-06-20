@@ -1,0 +1,30 @@
+{
+  "id": "ADSL本土动漫创作作品展_ev-19",
+  "start": 1417219200,
+  "end": 1417219200,
+  "title": "A.D.S.L本土动漫创作作品展16",
+  "desc": "A.D.S.L本土动漫创作作品展16 于 广州市 荔湾区 1850创意园 #46展馆 举办",
+  "url": "https://thwiki.cc/ADSL%E6%9C%AC%E5%9C%9F%E5%8A%A8%E6%BC%AB%E5%88%9B%E4%BD%9C%E4%BD%9C%E5%93%81%E5%B1%95#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0737a1af2f0b994015b7e42f2193f24eda451ca0c136bcbd640960bdfb10b5cc",
+  "location": {
+    "type": "google",
+    "text": "广州市 荔湾区 1850创意园 #46展馆",
+    "entity": [
+      {
+        "id": "ChIJiQox7ixWAjQRrOetKFugRqU",
+        "addressLine1": "１８５０创意园",
+        "addressLine2": "中華人民共和国 广州市荔湾区东200",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

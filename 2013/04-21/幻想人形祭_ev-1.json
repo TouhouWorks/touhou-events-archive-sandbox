@@ -1,0 +1,30 @@
+{
+  "id": "幻想人形祭_ev-1",
+  "start": 1366502400,
+  "end": 1366502400,
+  "title": "幻想人形祭·卯",
+  "desc": "幻想人形祭·卯 于 川崎市产业振兴会馆 4层 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%BA%BA%E5%BD%A2%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a0121b936808bfc40aeb33cffeb32dab2afe80c9b69ccee1d85cdd54ceb51260",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

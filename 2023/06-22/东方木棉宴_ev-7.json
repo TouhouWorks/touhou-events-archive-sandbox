@@ -1,0 +1,32 @@
+{
+  "id": "东方木棉宴_ev-7",
+  "start": 1687392000,
+  "end": 1687392000,
+  "title": "东方木棉宴幻梦集乐荟SP",
+  "desc": "东方木棉宴幻梦集乐荟SP 于 广州 琶洲 国茶荟 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%A8%E6%A3%89%E5%AE%B4#ev-7",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6c6dbf833177346fa971fefbea7aadb356e1c25f10cea7777dc6a49dda6c93fc",
+  "location": {
+    "type": "google",
+    "text": "广州 琶洲 国茶荟",
+    "entity": [
+      {
+        "id": "ChIJ4encVoP_AjQRINDX1tUPrwE",
+        "addressLine1": "海珠区 琶洲",
+        "addressLine2": "中華人民共和国 広東省 广州",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

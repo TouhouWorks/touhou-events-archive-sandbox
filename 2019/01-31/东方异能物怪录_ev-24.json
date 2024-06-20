@@ -1,0 +1,32 @@
+{
+  "id": "东方异能物怪录_ev-24",
+  "start": 1548892800,
+  "end": 1548892800,
+  "title": "東方異能物怪録卷之弐拾肆EX",
+  "desc": "东方异能物怪录卷之弐拾肆EX 于 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E8%83%BD%E7%89%A9%E6%80%AA%E5%BD%95#ev-24",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c23e62f0f094e0ed54d9b74c0b7adf5886cebd18934d269bc4c2b4b5ab39db99",
+  "location": {
+    "type": "google",
+    "text": "nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

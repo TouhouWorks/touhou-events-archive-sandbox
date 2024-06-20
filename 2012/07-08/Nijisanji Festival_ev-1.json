@@ -1,0 +1,19 @@
+{
+  "id": "Nijisanji Festival_ev-1",
+  "start": 1341705600,
+  "end": 1341705600,
+  "title": "Nijisanji Festival 苫小牧",
+  "desc": "Nijisanji Festival 苫小牧 于 苫小牧市 苫小牧市劳动福祉中心 举办",
+  "url": "https://thwiki.cc/Nijisanji_Festival#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "98ce40856dc50174661e59095f474f1bbd3be74330bfe9411a4d26fb0c1f530f",
+  "location": {
+    "type": "google",
+    "text": "苫小牧市 苫小牧市劳动福祉中心",
+    "entity": []
+  },
+  "platform": 1
+}

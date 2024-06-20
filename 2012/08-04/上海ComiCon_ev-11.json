@@ -1,0 +1,40 @@
+{
+  "id": "上海ComiCon_ev-11",
+  "start": 1344038400,
+  "end": 1344038400,
+  "title": "上海ComiCon11",
+  "desc": "上海ComiCon11 于 上海市 光大会展中心2楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fd02d0f5598f2c64f80f99424d17bd7defb7f10d3378b9797d0e5c5e32dd44ad",
+  "location": {
+    "type": "google",
+    "text": "上海市 光大会展中心2楼",
+    "entity": [
+      {
+        "id": "ChIJM9AuBcRksjUR9P2wRgAcE5I",
+        "addressLine1": "光大会展中心",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJYIcV8FksjURy8w_jC-kLGU",
+        "addressLine1": "光大会展中心停车场",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 田林 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

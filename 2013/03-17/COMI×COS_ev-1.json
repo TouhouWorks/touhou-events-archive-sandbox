@@ -1,0 +1,62 @@
+{
+  "id": "COMI×COS_ev-1",
+  "start": 1363478400,
+  "end": 1363478400,
+  "title": "第一回 コミ×コス",
+  "desc": "第一回 COMI×COS 于 大阪市 MERCURY 大阪日本桥店 举办",
+  "url": "https://thwiki.cc/COMI%C3%97COS#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6bca782c04f305aa435cda177e0469328d56b6bde33266d57337d9b8b1917749",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MERCURY 大阪日本桥店",
+    "entity": [
+      {
+        "id": "ChIJgc5182fnAGARBOdwBHdm1Is",
+        "addressLine1": "日本橋",
+        "addressLine2": "日本、大阪府大阪市浪速区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJawTe3mnnAGARvBAII1NxMgI",
+        "addressLine1": "東京チカラめし 大阪日本橋店",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋３丁目５−２９",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ9faLPGjnAGARMKfHslQGH2g",
+        "addressLine1": "アニメイト 大阪日本橋店",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋西１丁目１−３",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

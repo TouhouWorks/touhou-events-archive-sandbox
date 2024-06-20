@@ -1,0 +1,30 @@
+{
+  "id": "小春小径_ev-5",
+  "start": 1553904000,
+  "end": 1553904000,
+  "title": "小春小径・拾",
+  "desc": "小春小径・拾 于 东京都大田区产业广场Pio 1层 小展示厅 举办",
+  "url": "https://thwiki.cc/%E5%B0%8F%E6%98%A5%E5%B0%8F%E5%BE%84#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "716463b50bd36f87e872af3c018194cde361e36640c9505f0eb70316d973568a",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 小展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

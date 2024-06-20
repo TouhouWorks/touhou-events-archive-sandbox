@@ -1,0 +1,40 @@
+{
+  "id": "Comic Typhoon_ev-15",
+  "start": 1280016000,
+  "end": 1280016000,
+  "title": "Comic Typhoon 60",
+  "desc": "Comic Typhoon 60 于 金泽市北陆放送会馆 举办",
+  "url": "https://thwiki.cc/Comic_Typhoon#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3c0a70663b50456629f0243ae9434d98f6fd6c7c9629f2b31a2333e9ea105294",
+  "location": {
+    "type": "google",
+    "text": "金泽市北陆放送会馆",
+    "entity": [
+      {
+        "id": "ChIJ-Ux7fHg0-F8RyirLoZtkOSk",
+        "addressLine1": "北陸放送会館",
+        "addressLine2": "日本、石川県金沢市本多町３丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJw7Q5eXg0-F8Rtkwk9iCnIEg",
+        "addressLine1": "北陸放送（株）",
+        "addressLine2": "日本、石川県金沢市本多町３丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

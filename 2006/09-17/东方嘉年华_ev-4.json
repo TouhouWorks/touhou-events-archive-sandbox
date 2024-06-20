@@ -1,0 +1,70 @@
+{
+  "id": "东方嘉年华_ev-4",
+  "start": 1158451200,
+  "end": 1158451200,
+  "title": "東方カーニバル4",
+  "desc": "东方嘉年华4 于 新宿 club complex CODE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%98%89%E5%B9%B4%E5%8D%8E#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7e057307ea713f209fd0c74859816c1b2a6ba36b81c0f70dff5818ecc4c8b11e",
+  "location": {
+    "type": "google",
+    "text": "新宿 club complex CODE",
+    "entity": [
+      {
+        "id": "ChIJa85td1SNGGAR-SXKktOxRgw",
+        "addressLine1": "CoderDojo Japan",
+        "addressLine2": "日本、東京都新宿区高田馬場１丁目２８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsTuA9R2NGGAR91CUGHKZtOI",
+        "addressLine1": "CodeCampKIDS目白校",
+        "addressLine2": "日本、東京都新宿区下落合３丁目２−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJiR0iAgCNGGARqk4SPjPZQ7w",
+        "addressLine1": "CODE Eir 株式会社",
+        "addressLine2": "日本、東京都新宿区四谷４丁目２６−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJy7oZh-SMGGARno6JN6TfJ7o",
+        "addressLine1": "株式会社 CodeU",
+        "addressLine2": "日本、東京都新宿区若松町９−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVVVl1NqMGGARvYUvMqoecOA",
+        "addressLine1": "CODE Inc.",
+        "addressLine2": "４丁目-３-１５ 新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

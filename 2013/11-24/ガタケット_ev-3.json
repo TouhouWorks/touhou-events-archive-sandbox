@@ -1,0 +1,30 @@
+{
+  "id": "ガタケット_ev-3",
+  "start": 1385251200,
+  "end": 1385251200,
+  "title": "ガタケット130",
+  "desc": "ガタケット130 于 新潟市 新潟产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E3%82%AC%E3%82%BF%E3%82%B1%E3%83%83%E3%83%88#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b73fbce36abd759e61fc5816e0660f7935f3e1d2a19668eb12b9effefc4722a5",
+  "location": {
+    "type": "google",
+    "text": "新潟市 新潟产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJO0lAe8LI9F8RkO-8bqXzivk",
+        "addressLine1": "新潟市産業振興センター",
+        "addressLine2": "日本、新潟県新潟市中央区鐘木１８５−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

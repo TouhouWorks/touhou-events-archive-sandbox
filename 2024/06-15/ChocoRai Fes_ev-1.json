@@ -1,0 +1,52 @@
+{
+  "id": "ChocoRai Fes_ev-1",
+  "start": 1718409600,
+  "end": 1718409600,
+  "title": "ちょこライフェス1",
+  "desc": "ChocoRai Fes 1 于 东京都 上野Untitled 举办",
+  "url": "https://thwiki.cc/ChocoRai_Fes#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "73d1de4df594b2a697255b6603a3d6d688e6ada739a36304168b318aac3a98a3",
+  "location": {
+    "type": "google",
+    "text": "东京都 上野Untitled",
+    "entity": [
+      {
+        "id": "ChIJ-5-wICqMGGARcrkCFfP65cs",
+        "addressLine1": "ライブハウス上野 Untitled",
+        "addressLine2": "日本、東京都台東区上野桜木１丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "BAR",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJw8pr-p-OGGARdNJZP_gZ370",
+        "addressLine1": "アンタイトル 松坂屋上野店",
+        "addressLine2": "日本、東京都台東区上野３丁目２９−５",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

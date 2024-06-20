@@ -1,0 +1,30 @@
+{
+  "id": "富士东方乐园_ev-1",
+  "start": 1368921600,
+  "end": 1368921600,
+  "title": "富士・東方ランド",
+  "desc": "富士·东方乐园 于 富士市产业交流展示场 举办",
+  "url": "https://thwiki.cc/%E5%AF%8C%E5%A3%AB%E4%B8%9C%E6%96%B9%E4%B9%90%E5%9B%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "571c492ba66156c693bb158ac91e8e0e469d8e69b53851953593dfcba3d48a8d",
+  "location": {
+    "type": "google",
+    "text": "富士市产业交流展示场",
+    "entity": [
+      {
+        "id": "ChIJkcu8tRcrGmARFrBDRsDgiTw",
+        "addressLine1": "ふじさんめっせ",
+        "addressLine2": "日本、静岡県富士市柳島１８９−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

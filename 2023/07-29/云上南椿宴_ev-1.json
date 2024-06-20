@@ -1,0 +1,32 @@
+{
+  "id": "云上南椿宴_ev-1",
+  "start": 1690588800,
+  "end": 1690588800,
+  "title": "云南THP-云上南椿宴",
+  "desc": "云南THP-云上南椿宴 于 昆明 爱琴海购物公园B1 举办",
+  "url": "https://thwiki.cc/%E4%BA%91%E4%B8%8A%E5%8D%97%E6%A4%BF%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a9345b7a3cd1e6e424c0590ab142406b833ec66c7a98ea348000fe195a2a913b",
+  "location": {
+    "type": "google",
+    "text": "昆明 爱琴海购物公园B1",
+    "entity": [
+      {
+        "id": "ChIJpRxn5UOE0DYRpS8thiKvXl4",
+        "addressLine1": "昆明爱琴海购物公园",
+        "addressLine2": "中華人民共和国 雲南省 昆明市 西山区 Guangfu Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

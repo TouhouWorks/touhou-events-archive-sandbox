@@ -1,0 +1,32 @@
+{
+  "id": "东方甲州祭_ev-26",
+  "start": 1665360000,
+  "end": 1665360000,
+  "title": "東方甲州祭・第24幕",
+  "desc": "东方甲州祭・第24幕 于 甲府市 山梨县立图书馆 (かいぶらり) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%94%B2%E5%B7%9E%E7%A5%AD#ev-26",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43c682bd0c6dec2fdea76ac9423e5300965e57105d8ac0945a0f01bdf8122001",
+  "location": {
+    "type": "google",
+    "text": "甲府市 山梨县立图书馆 (かいぶらり)",
+    "entity": [
+      {
+        "id": "ChIJky0LDNH5G2ARwjwJVK_-qt0",
+        "addressLine1": "山梨県立図書館",
+        "addressLine2": "日本、山梨県甲府市北口２丁目８−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方Peace_ev-3",
+  "start": 1529193600,
+  "end": 1529193600,
+  "title": "東方ピース in 札幌",
+  "desc": "东方Peace in 札幌 于 札幌 BessieHole 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Peace#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fe2b77b694c7d28bf214374942ffdf61c9c49590f20d0e4cd859750d5eb82036",
+  "location": {
+    "type": "google",
+    "text": "札幌 BessieHole",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "东方人人人_ev-1",
+  "start": 1543622400,
+  "end": 1543622400,
+  "title": "东方人人人·第一届",
+  "desc": "东方人人人·第一届 于 北京市 中国人民大学公共教学四楼4201 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%BA%E4%BA%BA%E4%BA%BA#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "716e6e2a16c20bc6c37ffa39720bd3753d3021282f59cebc774e50699d2ec1e2",
+  "location": {
+    "type": "google",
+    "text": "北京市 中国人民大学公共教学四楼4201",
+    "entity": [
+      {
+        "id": "ChIJ5e7v2FxR8DURXxYTdVz5P2g",
+        "addressLine1": "中国人民大学",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Zhongguancun Street",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

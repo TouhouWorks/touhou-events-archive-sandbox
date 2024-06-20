@@ -1,0 +1,78 @@
+{
+  "id": "Knife 秘封限定LIVE_ev-2",
+  "start": 1556928000,
+  "end": 1556928000,
+  "title": "ナイフ 2nd ONEMAN 『ヒロシゲループ〜白昼夢の平行世界〜』 -秘封限定LIVE-",
+  "desc": "Knife 2nd ONEMAN 『广重回路~白昼梦的平行世界~』 -秘封限定LIVE- 于 东京都 LiveHouse 四谷LOTUS 举办",
+  "url": "https://thwiki.cc/Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d5b9470a98155a849c6623c7d167d8cb18810ccc2cff14f6e40695ffeaa91eea",
+  "location": {
+    "type": "google",
+    "text": "东京都 LiveHouse 四谷LOTUS",
+    "entity": [
+      {
+        "id": "ChIJL_zMYe2MGGAR6rQQU91YIUQ",
+        "addressLine1": "四谷LOTUS",
+        "addressLine2": "日本、東京都新宿区四谷３丁目４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJaR--Ro2MGGAR28YYmL4dKC0",
+        "addressLine1": "四谷",
+        "addressLine2": "日本、東京都新宿区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJcS1bRn_jGGARAxK5dVIyxEs",
+        "addressLine1": "四谷",
+        "addressLine2": "日本、東京都府中市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJbzJtA9keGWARsIZ9Z8-_KVU",
+        "addressLine1": "四谷町",
+        "addressLine2": "日本、東京都八王子市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJM7DLBVL1GGARTnCJECD_li8",
+        "addressLine1": "四谷大塚 自由が丘校舎",
+        "addressLine2": "日本、東京都世田谷区奥沢５丁目２８−１",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

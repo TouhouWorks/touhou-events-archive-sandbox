@@ -1,0 +1,42 @@
+{
+  "id": "魔法之夜混沌祭_ev-7",
+  "start": 1511568000,
+  "end": 1511568000,
+  "title": "魔法の夜の混沌祭EX1",
+  "desc": "魔法之夜混沌祭EX1 于 涩谷DESEO 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E6%B3%95%E4%B9%8B%E5%A4%9C%E6%B7%B7%E6%B2%8C%E7%A5%AD#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "01b8cc6bbdcf37656986382d0db564e2507e804a02b327418e5e95b1de5ce8ae",
+  "location": {
+    "type": "google",
+    "text": "涩谷DESEO",
+    "entity": [
+      {
+        "id": "ChIJVVVVVVqLGGARiTxK-j2NGI0",
+        "addressLine1": "DESEO mini with VILLAGE VANGUARD",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目１３−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJq6qqqlmLGGARdCCfgRtcdKQ",
+        "addressLine1": "Shibuya Deseo",
+        "addressLine2": "２丁目-１３-５ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

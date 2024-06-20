@@ -1,0 +1,52 @@
+{
+  "id": "Chocolate Fantacy Festival_ev-3",
+  "start": 1710547200,
+  "end": 1710547200,
+  "title": "ちょこふぁんフェス vol.2",
+  "desc": "Chocolate Fantacy Festival vol.2 于 东京都 上野Untitled 举办",
+  "url": "https://thwiki.cc/Chocolate_Fantacy_Festival#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "08c90fb750ce3c6eece8db287559b5e4f49cbee0df7ab7c6fa4c7b3b73a9ad39",
+  "location": {
+    "type": "google",
+    "text": "东京都 上野Untitled",
+    "entity": [
+      {
+        "id": "ChIJ-5-wICqMGGARcrkCFfP65cs",
+        "addressLine1": "ライブハウス上野 Untitled",
+        "addressLine2": "日本、東京都台東区上野桜木１丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "BAR",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJw8pr-p-OGGARdNJZP_gZ370",
+        "addressLine1": "アンタイトル 松坂屋上野店",
+        "addressLine2": "日本、東京都台東区上野３丁目２９−５",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

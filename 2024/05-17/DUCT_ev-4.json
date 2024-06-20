@@ -1,0 +1,47 @@
+{
+  "id": "DUCT_ev-4",
+  "start": 1715904000,
+  "end": 1715904000,
+  "title": "DUCT 4",
+  "desc": "DUCT 4 于 札幌市 札幌ANiMA 举办",
+  "url": "https://thwiki.cc/DUCT#ev-4",
+  "type": [
+    "夜店舞会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "289938df4fd127126acf64c07bc214918dd335882008b89185d428cf0cd5e628",
+  "location": {
+    "type": "google",
+    "text": "札幌市 札幌ANiMA",
+    "entity": [
+      {
+        "id": "ChIJSyBo4oIpC18RLfwQ_-HnIOk",
+        "addressLine1": "アニメイト 札幌店",
+        "addressLine2": "日本、北海道札幌市中央区南２条西１丁目５",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDVGV3mQpC18RgEUQimgH8Nk",
+        "addressLine1": "CLUB ANiMA",
+        "addressLine2": "日本、北海道札幌市中央区南５条西２丁目8−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

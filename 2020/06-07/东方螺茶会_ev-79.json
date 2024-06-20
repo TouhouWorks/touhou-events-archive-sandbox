@@ -1,0 +1,40 @@
+{
+  "id": "东方螺茶会_ev-79",
+  "start": 1591488000,
+  "end": 1591488000,
+  "title": "東方螺茶会 筑前の宴 第九季",
+  "desc": "东方螺茶会 筑前之宴 第九季 于 福冈国际会议场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-79",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7c9bb0bf0f5d308d070eaeda0364e3a1578877437ad84523e37091b9cfd4ed93",
+  "location": {
+    "type": "google",
+    "text": "福冈国际会议场",
+    "entity": [
+      {
+        "id": "ChIJZ59_0fORQTURkEIhmmckvE0",
+        "addressLine1": "博多国際展示場＆カンファレンスセンター（Hakata International Exhibition Hall & Conference Center）",
+        "addressLine2": "日本、福岡県福岡市博多区東光２丁目２２−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡国際会議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

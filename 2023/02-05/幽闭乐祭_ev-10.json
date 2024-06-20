@@ -1,0 +1,56 @@
+{
+  "id": "幽闭乐祭_ev-10",
+  "start": 1675555200,
+  "end": 1675555200,
+  "title": "幽閉樂祭in台灣",
+  "desc": "幽闭乐祭in台湾 于 中国台湾地区台北市 CORNER HOUSE 举办",
+  "url": "https://thwiki.cc/%E5%B9%BD%E9%97%AD%E4%B9%90%E7%A5%AD#ev-10",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b03a902e8107ca76f9a80be73349974e1e911f203ba8515b868f2f791b653a95",
+  "location": {
+    "type": "google",
+    "text": "台湾台北市 CORNER HOUSE",
+    "entity": [
+      {
+        "id": "ChIJFzB1inWrQjQRC15r6_RypMQ",
+        "addressLine1": "Corner House角落文創展演空間",
+        "addressLine2": "台湾 台北市 南港区 Section 6, Zhongxiao E Rd",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJz9KhoX-pQjQRXsQvMiGtbAo",
+        "addressLine1": "The Corner House 安居‧台北",
+        "addressLine2": "台湾 台北市 大安区 新生南路一段157巷",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJjzBpLWCpQjQRuYOWY5VT3GY",
+        "addressLine1": "Music Corner",
+        "addressLine2": "八徳路三段 松山区 台北市 台湾",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

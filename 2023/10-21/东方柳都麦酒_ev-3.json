@@ -1,0 +1,32 @@
+{
+  "id": "东方柳都麦酒_ev-3",
+  "start": 1697846400,
+  "end": 1697846400,
+  "title": "東方柳都麦酒 三杯目",
+  "desc": "东方柳都麦酒 三杯目 于 新潟市 club SEVEN 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9F%B3%E9%83%BD%E9%BA%A6%E9%85%92#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "69d7306026a6b3d3de388823dffa037d62b034baf7edec2ca6364fdd7afa6f6e",
+  "location": {
+    "type": "google",
+    "text": "新潟市 club SEVEN",
+    "entity": [
+      {
+        "id": "ChIJ___7UPDJ9F8R-Pnf7eYM-bM",
+        "addressLine1": "club SEVEN",
+        "addressLine2": "日本、新潟県新潟市中央区東堀前通８番町１３７１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

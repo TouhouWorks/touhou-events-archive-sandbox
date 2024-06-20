@@ -1,0 +1,30 @@
+{
+  "id": "幻想乡番外地_ev-5",
+  "start": 1511049600,
+  "end": 1511049600,
+  "title": "幻想郷番外地5",
+  "desc": "幻想乡番外地5 于 广岛县立广岛产业会馆 东展示场 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%95%AA%E5%A4%96%E5%9C%B0#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cae33767dff2899c01de10dd072f97bc772b95395300e1225dc5fa2b112592b2",
+  "location": {
+    "type": "google",
+    "text": "广岛县立广岛产业会馆 东展示场",
+    "entity": [
+      {
+        "id": "ChIJTc7ljh6iWjUR_2CvV1ILPXc",
+        "addressLine1": "広島県立広島産業会館",
+        "addressLine2": "日本、広島県広島市南区比治山本町１２−１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

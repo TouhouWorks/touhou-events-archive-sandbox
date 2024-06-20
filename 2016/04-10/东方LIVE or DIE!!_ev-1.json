@@ -1,0 +1,30 @@
+{
+  "id": "东方LIVE or DIE!!_ev-1",
+  "start": 1460246400,
+  "end": 1460246400,
+  "title": "東方LIVE or DIE!! 1",
+  "desc": "东方LIVE or DIE!! 1 于 北海道札幌市 ことにパトス 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LIVE_or_DIE!!#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "52fc2dafa21d50bef3e3c0c1228a81fe56fad248be0ab698d69ee018cc6cc417",
+  "location": {
+    "type": "google",
+    "text": "北海道札幌市 ことにパトス",
+    "entity": [
+      {
+        "id": "ChIJE7oW6UsoC18RPUdH7FMElao",
+        "addressLine1": "ターミナルプラザことにパトス",
+        "addressLine2": "日本、北海道札幌市西区琴似１条５丁目４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

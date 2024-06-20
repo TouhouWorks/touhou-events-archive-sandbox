@@ -1,0 +1,80 @@
+{
+  "id": "东方星云录_ev-3",
+  "start": 1605312000,
+  "end": 1605312000,
+  "title": "東方星雲錄3",
+  "desc": "东方星云录3 于 西安市 西北工业大学 长安校区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E4%BA%91%E5%BD%95#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8b903642664575297a311ca3c640ac3287a293e7b43bb4bd0a6b606fab5b2d98",
+  "location": {
+    "type": "google",
+    "text": "西安市 西北工业大学 长安校区",
+    "entity": [
+      {
+        "id": "ChIJO6VqH-GgYzYRByXS5F52yBQ",
+        "addressLine1": "西北工业大学长安校区（北门）",
+        "addressLine2": "中華人民共和国 陝西省 西安市 長安区 长安大道",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7RRvdN2gYzYRy0cL_Y9fMjU",
+        "addressLine1": "西北工业大学长安校区计算机学院",
+        "addressLine2": "中華人民共和国 陝西省 西安市 長安区 Dongda Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJQzlMKNygYzYRdWeW4ncE8y0",
+        "addressLine1": "西北工业大学长安校区－图书馆",
+        "addressLine2": "中華人民共和国 西安市 長安区 Dongdazhen, 西北工业大学长安校区",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ26qd-d-gYzYRG1a5gPjn2Ag",
+        "addressLine1": "西北工业大学长安校区工程实践训练中心",
+        "addressLine2": "中華人民共和国 陝西省 西安市 Huyi District, Yinhe Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJoSKs4d2gYzYRX3L116sNyhA",
+        "addressLine1": "西北工业大学长安校区教学东楼A座",
+        "addressLine2": "中華人民共和国 陝西省 西安市 長安区 Taishan Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

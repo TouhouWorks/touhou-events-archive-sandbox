@@ -1,0 +1,19 @@
+{
+  "id": "东方LiveParty_ev-61",
+  "start": 1683072000,
+  "end": 1683072000,
+  "title": "东方LivePartyCP29 Special",
+  "desc": "东方LivePartyCP29 Special 于 上海市 长宁区 新歌空间 工人文化宫3楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-61",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "999969501ee7de71d57582aea54f296fc9b54af665d43f09625717e23eb5d55a",
+  "location": {
+    "type": "google",
+    "text": "上海市 长宁区 新歌空间 工人文化宫3楼",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方幻想泊乡_ev-1",
+  "start": 1523750400,
+  "end": 1523750400,
+  "title": "東方幻想泊郷1",
+  "desc": "东方幻想泊乡1 于 松山市 Shima no Table Gogoshima 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%B3%8A%E4%B9%A1#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9721a450b61a287f427d5e28cb3fd688f4027a79ebf1670ad4151d12a11630b5",
+  "location": {
+    "type": "google",
+    "text": "松山市 Shima no Table Gogoshima",
+    "entity": [
+      {
+        "id": "ChIJH7DgNvv6TzURxWtg3fJpLzM",
+        "addressLine1": "Gogo Island",
+        "addressLine2": "松山市 愛媛県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "natural_feature"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

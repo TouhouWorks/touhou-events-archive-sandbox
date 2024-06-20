@@ -1,0 +1,30 @@
+{
+  "id": "Fancy Frontier_ev-28",
+  "start": 1503705600,
+  "end": 1503705600,
+  "title": "Fancy Frontier 30.5開拓復活祭",
+  "desc": "Fancy Frontier 30.5开拓复活祭 于 台北市 台开动漫无限基地 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-28",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f811c8de395bf3a2eefc56e3c150164ca97422db79d3a55856296011998eb162",
+  "location": {
+    "type": "google",
+    "text": "台北市 台开动漫无限基地",
+    "entity": [
+      {
+        "id": "ChIJ-favPUmpQjQRlknPCkiUPBk",
+        "addressLine1": "台开动漫无限基地",
+        "addressLine2": "台湾 台北市 大同区 承徳路三段",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

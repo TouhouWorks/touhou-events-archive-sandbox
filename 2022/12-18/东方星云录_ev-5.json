@@ -1,0 +1,19 @@
+{
+  "id": "东方星云录_ev-5",
+  "start": 1671321600,
+  "end": 1671321600,
+  "title": "東方星雲錄5",
+  "desc": "东方星云录5 于 西安市 小寨银泰城8楼Bro空中花园轰趴馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E4%BA%91%E5%BD%95#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f388de0aa45c20f86e675c2d54ef651020719c4d94d929c8b5adc8e7798c6e32",
+  "location": {
+    "type": "google",
+    "text": "西安市 小寨银泰城8楼Bro空中花园轰趴馆",
+    "entity": []
+  },
+  "platform": 1
+}

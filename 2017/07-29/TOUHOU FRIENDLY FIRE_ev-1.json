@@ -1,0 +1,90 @@
+{
+  "id": "TOUHOU FRIENDLY FIRE_ev-1",
+  "start": 1501286400,
+  "end": 1501286400,
+  "title": "TOUHOU FRIENDLY FIRE 1",
+  "desc": "TOUHOU FRIENDLY FIRE 1 于 京都市下京区四条大宫町 Studio246 KYOTO 举办",
+  "url": "https://thwiki.cc/TOUHOU_FRIENDLY_FIRE#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8ba4f9e38975033a79e29f2c08fddf20c15d3ab64d6fe3e7c5b8944e8bf76d51",
+  "location": {
+    "type": "google",
+    "text": "京都市下京区四条大宫町 Studio246 KYOTO",
+    "entity": [
+      {
+        "id": "ChIJk9aIligGAWAR7OoDDLYhqXg",
+        "addressLine1": "Studio 246 Kyoto",
+        "addressLine2": "マルヨシ １９ 四条大宮町 下京区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAWwhhZkIAWARGoQ6KA2jdCo",
+        "addressLine1": "松屋 四條大宮站前店",
+        "addressLine2": "日本、京都府Kyoto, 下京区立中町４９２",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJeUj2obUHAWARfkDtcudEwg8",
+        "addressLine1": "FITBASE24 四条大宮",
+        "addressLine2": "日本、京都府Kyoto, 下京区立中町480番地",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJt0La9CgGAWARTJRcHbVI29Y",
+        "addressLine1": "四条大宫",
+        "addressLine2": "日本、Kyoto, 京都市下京区立中町",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJdf4x9CgGAWARxAW3QgyT-k0",
+        "addressLine1": "大創 四條大宮店",
+        "addressLine2": "日本、京都府Kyoto, 下京区立中町",
+        "provider": "google_places",
+        "categories": [
+          "furniture_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

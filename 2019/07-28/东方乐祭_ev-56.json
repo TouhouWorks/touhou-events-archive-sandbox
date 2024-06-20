@@ -1,0 +1,74 @@
+{
+  "id": "东方乐祭_ev-56",
+  "start": 1564272000,
+  "end": 1564272000,
+  "title": "東方樂祭 in Creative Paradise 06",
+  "desc": "东方乐祭 in Creative Paradise 06 于 香港会议展览中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-56",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8c9a5cb5fecfd681f3c3608cd29acc6d816af09c76b8587fe311b60fa4e87faa",
+  "location": {
+    "type": "google",
+    "text": "香港会议展览中心",
+    "entity": [
+      {
+        "id": "ChIJsYSkMiUBBDQRbNnxhSrCSsA",
+        "addressLine1": "香港会议展览中心",
+        "addressLine2": "香港 Wan Chai, 港湾道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9S4htMEBBDQRMiY8iF29hX0",
+        "addressLine1": "香港会议展览中心Hall 1",
+        "addressLine2": "香港 Wan Chai, 港湾道",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_SY0114ABDQRJKsc_s7qUa8",
+        "addressLine1": "香港会议展览中心新翼停车场",
+        "addressLine2": "香港 Wan Chai",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJB8svKF8ABDQRHoDXlTJ1iFc",
+        "addressLine1": "香港会议展览中心",
+        "addressLine2": "香港 Wan Chai, 博覧道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJhTtYvV4ABDQRtagYYMAhXBI",
+        "addressLine1": "香港会议展览中心演讲厅",
+        "addressLine2": "香港 Wan Chai",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "幻响诗篇_ev-1",
+  "start": 1518220800,
+  "end": 1518220800,
+  "title": "幻响诗篇",
+  "desc": "幻响诗篇 于 广州·幸荟·乔莉可可 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%93%8D%E8%AF%97%E7%AF%87#ev-1",
+  "type": [
+    "音乐会",
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fdad9672fcb9cb66eea1eacd92aa8f03eaa8a5def168a12a561448bc23085803",
+  "location": {
+    "type": "google",
+    "text": "广州·幸荟·乔莉可可",
+    "entity": []
+  },
+  "platform": 1
+}

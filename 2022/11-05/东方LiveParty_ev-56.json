@@ -1,0 +1,30 @@
+{
+  "id": "东方LiveParty_ev-56",
+  "start": 1667606400,
+  "end": 1667606400,
+  "title": "东方LiveParty×武汉THO·楚韵九歌",
+  "desc": "东方LiveParty×武汉THO·楚韵九歌 于 湖北省 武汉市 中山大道903号胜利街25号 404 Notfound CLUB 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-56",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0ce7e30e2757bad9d955de60bfab80e97a01aed97d86a1973f6602cbfa3bc222",
+  "location": {
+    "type": "google",
+    "text": "湖北省 武汉市 中山大道903号胜利街25号 404 Notfound CLUB",
+    "entity": [
+      {
+        "id": "ChIJ--HSYjyvLjQRvmt_mSJcAmQ",
+        "addressLine1": "中山大道903号",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 江岸区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

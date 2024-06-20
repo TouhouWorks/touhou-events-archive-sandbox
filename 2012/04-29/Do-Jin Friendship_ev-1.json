@@ -1,0 +1,81 @@
+{
+  "id": "Do-Jin Friendship_ev-1",
+  "start": 1335657600,
+  "end": 1335657600,
+  "title": "Do-Jin Friendship 2012",
+  "desc": "Do-Jin Friendship 2012 于 东京都 涩谷BOXX 举办",
+  "url": "https://thwiki.cc/Do-Jin_Friendship#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "baff529e0c27c725566c619715d22048acbcf0c39f03d3ce2eb4d5d40242d1ec",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷BOXX",
+    "entity": [
+      {
+        "id": "ChIJ0Qgx67KMGGARd2ZbObLZHPE",
+        "addressLine1": "涩谷区",
+        "addressLine2": "日本、東京都",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJGfSRvl6LGGAR5GDIDOVf4Bc",
+        "addressLine1": "涩谷",
+        "addressLine2": "日本、東京都渋谷区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJcyH-4qiMGGARGzk4lZCx2xo",
+        "addressLine1": "PARCO涩谷",
+        "addressLine2": "日本、東京都渋谷区宇田川町１５−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJm-Zz9KiMGGARAfAdvrO1cM4",
+        "addressLine1": "Apple 涩谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目２０−９",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJKTxuClmLGGARMIJ074ZRe8w",
+        "addressLine1": "涩谷公安局",
+        "addressLine2": "日本、東京都渋谷区渋谷３丁目８−１５",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "Cosplay&痛车Festival与森罗万象之宴_ev-11",
+  "start": 1456012800,
+  "end": 1456012800,
+  "title": "第十一回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第十一回 Cosplay&痛车Festival与森罗万象之宴 于 爱知县名古屋市 Sea Train Land 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-11",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1bb7eab5f414e57b14f3e2bb5100a482bb63019f616ad312b71b178aede8e977",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Sea Train Land",
+    "entity": [
+      {
+        "id": "ChIJ8y5ho6Z5A2ARPeNQkDU8afQ",
+        "addressLine1": "Nagoya Port Sea Train Land",
+        "addressLine2": "１-５１ 西倉町 港区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

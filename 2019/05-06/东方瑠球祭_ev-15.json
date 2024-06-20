@@ -1,0 +1,30 @@
+{
+  "id": "东方瑠球祭_ev-15",
+  "start": 1557100800,
+  "end": 1557100800,
+  "title": "東方瑠球祭 第十五弾",
+  "desc": "东方瑠球祭 第十五弹 于 宜野湾市 冲绳会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%91%A0%E7%90%83%E7%A5%AD#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7c0c2a26d8ff2cb6612de37cdc0f0b74b97bec1cf4414df1ba47368dad8970d0",
+  "location": {
+    "type": "google",
+    "text": "宜野湾市 冲绳会议中心",
+    "entity": [
+      {
+        "id": "ChIJq6qqA6Vs5TQRiCDe1oSbdus",
+        "addressLine1": "冲绳会议中心",
+        "addressLine2": "日本、沖縄県宜野湾市真志喜４丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "东方萃神祭_ev-1",
+  "start": 1302998400,
+  "end": 1302998400,
+  "title": "東方萃神祭1",
+  "desc": "东方萃神祭1 于 岛根县立产业交流会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E7%A5%9E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dee84d7b2ef2b1a65492619bef454da54dc454c6ea2f929e62c37dfdc5fea34e",
+  "location": {
+    "type": "google",
+    "text": "岛根县立产业交流会馆",
+    "entity": [
+      {
+        "id": "ChIJ51wixPkEVzURE_yw_Tcjpkk",
+        "addressLine1": "島根県立産業交流会館",
+        "addressLine2": "日本、島根県松江市学園南１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

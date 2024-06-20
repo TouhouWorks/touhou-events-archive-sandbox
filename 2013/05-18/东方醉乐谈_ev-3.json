@@ -1,0 +1,36 @@
+{
+  "id": "东方醉乐谈_ev-3",
+  "start": 1368835200,
+  "end": 1368835200,
+  "title": "東方酔樂談 -五杯目！-",
+  "desc": "东方醉乐谈 -五杯目！- 于 爱知县名古屋市 Sound Bar ATLANTIS 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%86%89%E4%B9%90%E8%B0%88#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eedf4011cc4cd1dcf151518825e65405e609382fc6066576477d5af17522617f",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Sound Bar ATLANTIS",
+    "entity": [
+      {
+        "id": "ChIJAQBQpkJ2A2ARczy3w8Onqeo",
+        "addressLine1": "SoundBAR Atlantis",
+        "addressLine2": "１丁目-４８ 鳥居西通 中村区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

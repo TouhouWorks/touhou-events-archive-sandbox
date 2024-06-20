@@ -1,0 +1,32 @@
+{
+  "id": "ComicBazaar_ev-1",
+  "start": 1522454400,
+  "end": 1522454400,
+  "title": "ComicBazaar01",
+  "desc": "ComicBazaar01 于 杭州市 杭州创意设计中心 C-BOX展馆 举办",
+  "url": "https://thwiki.cc/ComicBazaar#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "20de47752e842733a9b478e672bbd65472623db7abdacaa8854ef06f8f40fa27",
+  "location": {
+    "type": "google",
+    "text": "杭州市 杭州创意设计中心 C-BOX展馆",
+    "entity": [
+      {
+        "id": "ChIJxzPyukqcTDQR5ACjtgQMRoE",
+        "addressLine1": "杭州创意设计中心停车场",
+        "addressLine2": "中華人民共和国 浙江省 杭州市 江干区 102, Genshan West Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

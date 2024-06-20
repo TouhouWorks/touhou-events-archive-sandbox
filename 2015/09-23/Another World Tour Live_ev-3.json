@@ -1,0 +1,30 @@
+{
+  "id": "Another World Tour Live_ev-3",
+  "start": 1442966400,
+  "end": 1442966400,
+  "title": "Another World Tour Live 2015 名古屋公演",
+  "desc": "Another World Tour Live 2015 名古屋公演 于 名古屋市 名古屋CLUB UPSET 举办",
+  "url": "https://thwiki.cc/Another_World_Tour_Live#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2fa50ec6039449bd3167491508e0fae493b9466a778530c4b2faab776fe63a03",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 名古屋CLUB UPSET",
+    "entity": [
+      {
+        "id": "ChIJ__8je2FwA2ARnRjTXh20i1w",
+        "addressLine1": "名古屋 Club Upset",
+        "addressLine2": "１丁目-４-２３ 池下 千種区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

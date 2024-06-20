@@ -1,0 +1,32 @@
+{
+  "id": "东方音振箱_ev-2",
+  "start": 1583539200,
+  "end": 1583539200,
+  "title": "東方音振箱 第二章",
+  "desc": "东方音振箱 第二章 于 山形市 山形LOOP 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E6%8C%AF%E7%AE%B1#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ca3bfcce4ca75030842a4e82c1b18b4ddefbb8f794aea8976f902b9018dc50ee",
+  "location": {
+    "type": "google",
+    "text": "山形市 山形LOOP",
+    "entity": [
+      {
+        "id": "ChIJHdyaRwC3i18RQd6uYEGzWTQ",
+        "addressLine1": "LOOP YAMAGATA",
+        "addressLine2": "日本、山形県山形市香澄町１丁目８−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

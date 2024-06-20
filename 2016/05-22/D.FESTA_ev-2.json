@@ -1,0 +1,82 @@
+{
+  "id": "D.FESTA_ev-2",
+  "start": 1463875200,
+  "end": 1463875200,
+  "title": "D.FESTA 7",
+  "desc": "D.FESTA 7 于 韩国首尔 AT中心 举办",
+  "url": "https://thwiki.cc/D.FESTA#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "45be0017a74c09341ff2213d2364c17c75240a517962a573dfac3ba1dc368004",
+  "location": {
+    "type": "google",
+    "text": "韩国首尔 AT中心",
+    "entity": [
+      {
+        "id": "ChIJhd0i0btqmDYRynnVOgnL3fM",
+        "addressLine1": "韩国首尔站",
+        "addressLine2": "中華人民共和国 B830 鶴城区 Zhong Xin Shang Ye Bu Xing Jie",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJPViCZQ-wfDURK-XXCq_MZ-I",
+        "addressLine1": "首尔市中心索罗酒店",
+        "addressLine2": "大韓民国 ソウル 江東区 천호제2동",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJvY0Kw1mjfDUREdfPK0vGpZg",
+        "addressLine1": "購物中心",
+        "addressLine2": "大韓民国 ソウル 中区 Sindang 1(il)-dong",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJhWjUzI6hfDURZ80ZoqUF-SU",
+        "addressLine1": "中央观光酒店",
+        "addressLine2": "大韓民国 ソウル 鍾路区 Cheonggyecheon-ro",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJn3WYMC2hfDURoHIBPUedfpc",
+        "addressLine1": "AT中心.良才花市场",
+        "addressLine2": "ソウル",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

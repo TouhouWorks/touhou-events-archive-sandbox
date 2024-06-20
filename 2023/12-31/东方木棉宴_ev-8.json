@@ -1,0 +1,19 @@
+{
+  "id": "东方木棉宴_ev-8",
+  "start": 1703980800,
+  "end": 1703980800,
+  "title": "东方木棉宴幻梦集乐荟2",
+  "desc": "东方木棉宴幻梦集乐荟2 于 广州 美豪丽致酒店 丽致厅/聚福厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%A8%E6%A3%89%E5%AE%B4#ev-8",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9aff8843f395d4a6552a36aca1f423a839eafba03e9825e8d6df10606ac728f3",
+  "location": {
+    "type": "google",
+    "text": "广州 美豪丽致酒店 丽致厅/聚福厅",
+    "entity": []
+  },
+  "platform": 1
+}

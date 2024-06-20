@@ -1,0 +1,30 @@
+{
+  "id": "此花咲夜_ev-3",
+  "start": 1347148800,
+  "end": 1347148800,
+  "title": "このはな咲夜3",
+  "desc": "此花咲夜3 于 东京都立产业贸易中心 滨松町馆 4层 举办",
+  "url": "https://thwiki.cc/%E6%AD%A4%E8%8A%B1%E5%92%B2%E5%A4%9C#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9951d5467849c12391c3a00f02e80935f5f89233892236037cbe6e12c4d2c16f",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 4层",
+    "entity": [
+      {
+        "id": "ChIJgSnVwGCLGGARDPI40IEPsl0",
+        "addressLine1": "東京都立產業貿易中心 濱松町館",
+        "addressLine2": "日本、東京都港区海岸１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

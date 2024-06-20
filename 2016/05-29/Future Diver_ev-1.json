@@ -1,0 +1,30 @@
+{
+  "id": "Future Diver_ev-1",
+  "start": 1464480000,
+  "end": 1464480000,
+  "title": "Future Diver vol.1",
+  "desc": "Future Diver vol.1 于 名古屋市 CLUB ZION 举办",
+  "url": "https://thwiki.cc/Future_Diver#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c83e4a937352f7879b021295975327a9c07a275989487ee59b86d179e04c75c",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 CLUB ZION",
+    "entity": [
+      {
+        "id": "ChIJA2MBa8pwA2ARBEHXm9kOX40",
+        "addressLine1": "ＣＬＵＢ・Ｚｉｏｎ",
+        "addressLine2": "日本、愛知県名古屋市中区上前津２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

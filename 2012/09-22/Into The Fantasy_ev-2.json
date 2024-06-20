@@ -1,0 +1,30 @@
+{
+  "id": "Into The Fantasy_ev-2",
+  "start": 1348272000,
+  "end": 1348272000,
+  "title": "Into The Fantasy 第一章",
+  "desc": "Into The Fantasy 第一章 于 东京都 STELLA☆Asakusa 举办",
+  "url": "https://thwiki.cc/Into_The_Fantasy#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c48ab02862a4e8cc2e4d4428c3e2791488aa31aefd9c8eed6008644c447a1d8c",
+  "location": {
+    "type": "google",
+    "text": "东京都 STELLA☆Asakusa",
+    "entity": [
+      {
+        "id": "ChIJmSeJiV2PGGARNQrucaoLJ1Y",
+        "addressLine1": "浅草STELLA",
+        "addressLine2": "日本、東京都台東区西浅草２丁目１４−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

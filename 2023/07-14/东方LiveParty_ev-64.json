@@ -1,0 +1,36 @@
+{
+  "id": "东方LiveParty_ev-64",
+  "start": 1689292800,
+  "end": 1689292800,
+  "title": "东方LiveParty×江西THO-梦违赣鄱荟萃·贰",
+  "desc": "东方LiveParty×江西THO-梦违赣鄱荟萃·贰 于 江西省 南昌市 青山湖区 B19音乐现场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-64",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c1d8dd6b769b4475ec95b4bae89978eec15547a4a1b68f957b5435ecffa669a6",
+  "location": {
+    "type": "google",
+    "text": "江西省 南昌市 青山湖区 B19音乐现场",
+    "entity": [
+      {
+        "id": "ChIJk-1QbtK4OjQRTmikYUrcIP8",
+        "addressLine1": "ｂ１９音乐",
+        "addressLine2": "中華人民共和国 南昌市青山湖区",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

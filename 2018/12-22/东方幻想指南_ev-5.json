@@ -1,0 +1,30 @@
+{
+  "id": "东方幻想指南_ev-5",
+  "start": 1545436800,
+  "end": 1545436800,
+  "title": "东方幻想指南5 神秘的冬日黑幕",
+  "desc": "东方幻想指南5 神秘的冬日黑幕 于 北京大学 新太阳学生中心 B101室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%8C%87%E5%8D%97#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2cfeb05fee07eb7af3ab5fc45d58b00d542775f4ee0a3190da6b64994e601d10",
+  "location": {
+    "type": "google",
+    "text": "北京大学 新太阳学生中心 B101室",
+    "entity": [
+      {
+        "id": "ChIJNxYu0bJW8DURokvL68e5_2w",
+        "addressLine1": "新太阳学生中心",
+        "addressLine2": "中華人民共和国 北京 海淀区 Wusi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

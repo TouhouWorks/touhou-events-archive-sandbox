@@ -1,0 +1,30 @@
+{
+  "id": "东方名华祭_ev-15",
+  "start": 1626566400,
+  "end": 1626566400,
+  "title": "東方名華祭15",
+  "desc": "东方名华祭15 于 名古屋市国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "af9cba00c06496e8fa3fe269461865e002c9891719b5d6092b542b3b208e0d12",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

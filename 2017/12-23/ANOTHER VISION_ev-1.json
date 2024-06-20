@@ -1,0 +1,30 @@
+{
+  "id": "ANOTHER VISION_ev-1",
+  "start": 1513987200,
+  "end": 1513987200,
+  "title": "ANOTHER VISION 1",
+  "desc": "ANOTHER VISION 1 于 东京都武藏野市 吉祥寺SHUFFLE 举办",
+  "url": "https://thwiki.cc/ANOTHER_VISION#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b7df2e71aeb28af3b135935a732b23f4420d27cebf2ee6719fcec1cc83bdb53e",
+  "location": {
+    "type": "google",
+    "text": "东京都武藏野市 吉祥寺SHUFFLE",
+    "entity": [
+      {
+        "id": "ChIJ2WibWTjuGGARqpTWhZq5LXs",
+        "addressLine1": "吉祥寺SHUFFLE",
+        "addressLine2": "日本、東京都武蔵野市吉祥寺南町２丁目６−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

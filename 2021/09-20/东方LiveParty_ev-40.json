@@ -1,0 +1,40 @@
+{
+  "id": "东方LiveParty_ev-40",
+  "start": 1632096000,
+  "end": 1632096000,
+  "title": "东方LiveParty×深圳THO·东方鹏徙谣",
+  "desc": "东方LiveParty×深圳THO·东方鹏徙谣 于 深圳 红糖罐（DCC店） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-40",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fa9527882110e1d70ff28291096d8ca9e2f8e86ce78216608362f88de204edbb",
+  "location": {
+    "type": "google",
+    "text": "深圳 红糖罐（DCC店）",
+    "entity": [
+      {
+        "id": "ChIJWbsHJ4D1AzQRCchTpjJekj8",
+        "addressLine1": "红糖罐",
+        "addressLine2": "中華人民共和国 広東省 深圳 羅湖区 Huangbei Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJy0-H-d_zAzQRVUaLd3H-37Q",
+        "addressLine1": "红糖罐",
+        "addressLine2": "中華人民共和国 広東省 深圳 福田区 Terra 9th Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

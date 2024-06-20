@@ -1,0 +1,30 @@
+{
+  "id": "IOSYS忘年会_ev-8",
+  "start": 1483056000,
+  "end": 1483056000,
+  "title": "イオシス忘年会2016",
+  "desc": "IOSYS忘年会2016 于 东京都 新宿LOFT/PLUS ONE 举办",
+  "url": "https://thwiki.cc/IOSYS%E5%BF%98%E5%B9%B4%E4%BC%9A#ev-8",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0f1cb8198ec707fae4f1d1d7af82cf7023a698964c0f027a8278724127e6832b",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿LOFT/PLUS ONE",
+    "entity": [
+      {
+        "id": "ChIJjRRHJGSNGGARbKYlJwWyjlA",
+        "addressLine1": "ロフトプラスワン",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目１４−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

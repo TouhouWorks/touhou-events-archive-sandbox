@@ -1,0 +1,32 @@
+{
+  "id": "东方哇！_ev-25",
+  "start": 1579305600,
+  "end": 1579305600,
+  "title": "東方わぁい！其之廿伍",
+  "desc": "东方哇！其之廿伍 于 大阪市 Bar GUILD 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%93%87%EF%BC%81#ev-25",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5e3128f3100bcecfa1c7219a712e5d4785503da61d92aaf09561a40fb570ffdf",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Bar GUILD",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Treasure Party！_ev-4",
+  "start": 1688256000,
+  "end": 1688256000,
+  "title": "とれじゃーばんけっと!!～小ねずみたちの宴～",
+  "desc": "Treasure Banquet！！～小老鼠们的宴会～ 于 东京都 绵商会馆 举办",
+  "url": "https://thwiki.cc/Treasure_Party%EF%BC%81#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eef234c618c4486589ba2aae0631eb9328c7a61a3580e2ea68175caeccc2638d",
+  "location": {
+    "type": "google",
+    "text": "东京都 绵商会馆",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

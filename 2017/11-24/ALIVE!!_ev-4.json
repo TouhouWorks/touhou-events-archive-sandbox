@@ -1,0 +1,40 @@
+{
+  "id": "ALIVE!!_ev-4",
+  "start": 1511481600,
+  "end": 1511481600,
+  "title": "ALIVE!!2017 東京公演",
+  "desc": "ALIVE!!2017 东京公演 于 东京都 涩谷duo MUSIC EXCHANGE 举办",
+  "url": "https://thwiki.cc/ALIVE!!#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "06c67b7567290f24b0f0b03bcce3a3aa4ee117c62536fb2c1e9928ea6a83f63f",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷duo MUSIC EXCHANGE",
+    "entity": [
+      {
+        "id": "ChIJ5-ExF6qMGGARHlrJ26bhYm4",
+        "addressLine1": "duo MUSIC EXCHANGE",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目１４−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWxh5F6qMGGARZ2N7PRSCCXk",
+        "addressLine1": "Spotify O-EAST",
+        "addressLine2": "２丁目-１４-８ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

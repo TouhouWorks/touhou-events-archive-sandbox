@@ -1,0 +1,19 @@
+{
+  "id": "东方星屑祭_ev-18",
+  "start": 1451001600,
+  "end": 1451001600,
+  "title": "東方星屑祭SP~东方圣夜祭2015~",
+  "desc": "东方星屑祭SP~东方圣夜祭2015~ 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-18",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43a621d93db5d9f39e848d8d738d844c377047cf3b09a45102baeac526498dad",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方星月工坊_ev-1",
+  "start": 1558137600,
+  "end": 1558137600,
+  "title": "东方星月工坊1",
+  "desc": "东方星月工坊1 于 北京 北京工业大学 本部校区 第四教学楼312教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E6%9C%88%E5%B7%A5%E5%9D%8A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a5cf5bb13e7e9ed67fb0b2e1f1cf01a08fd90c80742c5d6e5e1637e72e028c5f",
+  "location": {
+    "type": "google",
+    "text": "北京 北京工业大学 本部校区 第四教学楼312教室",
+    "entity": []
+  },
+  "platform": 1
+}

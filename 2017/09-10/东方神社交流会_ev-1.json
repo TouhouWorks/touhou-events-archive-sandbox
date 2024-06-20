@@ -1,0 +1,32 @@
+{
+  "id": "东方神社交流会_ev-1",
+  "start": 1505001600,
+  "end": 1505001600,
+  "title": "第一回東方神社交流会",
+  "desc": "第一回东方神社交流会 于 岐阜县可儿市 东山神社 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%A4%BE%E4%BA%A4%E6%B5%81%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "792f86e7f370e1cdaf2fd4ac530d9456c9c431a5c78e0e05b9ed45174f9eac21",
+  "location": {
+    "type": "google",
+    "text": "岐阜县可儿市 东山神社",
+    "entity": [
+      {
+        "id": "ChIJHz1bLAwRA2ARfGRIOzs_pHg",
+        "addressLine1": "東山神社",
+        "addressLine2": "日本、岐阜県可児市土田１６２７−１４０",
+        "provider": "google_places",
+        "categories": [
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

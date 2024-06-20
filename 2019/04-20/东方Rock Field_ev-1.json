@@ -1,0 +1,32 @@
+{
+  "id": "东方Rock Field_ev-1",
+  "start": 1555718400,
+  "end": 1555718400,
+  "title": "東方ロックフィールド 1",
+  "desc": "东方Rock Field 1 于 京都府京都市东山区 京都Swallowtail 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Rock_Field#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f240ca729a4959aae0dd21105badfe4b318c38e2b26f90f906f5ef1f325a5965",
+  "location": {
+    "type": "google",
+    "text": "京都府京都市东山区 京都Swallowtail",
+    "entity": [
+      {
+        "id": "ChIJh6gl4swIAWARsZAP1d28V8c",
+        "addressLine1": "東山区",
+        "addressLine2": "日本、京都府京都市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "紫明秘封天象仪_ev-1",
+  "start": 1573862400,
+  "end": 1573862400,
+  "title": "紫明秘封プラネタリウム1",
+  "desc": "紫明秘封天象仪1 于 京都 紫明会馆 举办",
+  "url": "https://thwiki.cc/%E7%B4%AB%E6%98%8E%E7%A7%98%E5%B0%81%E5%A4%A9%E8%B1%A1%E4%BB%AA#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0366b26638b6a7063a1e634b2853e29556f4c97da730c43b8bd28bacacf799e9",
+  "location": {
+    "type": "google",
+    "text": "京都 紫明会馆",
+    "entity": [
+      {
+        "id": "ChIJIfp3YCkJAWAR-6-SsGl25TA",
+        "addressLine1": "紫明会館",
+        "addressLine2": "日本、京都府京都市北区小山南大野町",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

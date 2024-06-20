@@ -1,0 +1,30 @@
+{
+  "id": "东方LiveParty_ev-21",
+  "start": 1577750400,
+  "end": 1577750400,
+  "title": "东方LiveParty2019-2020 跨年MAX",
+  "desc": "东方LiveParty2019-2020 跨年MAX 于 南京 奥体中心稻香音乐空间 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-21",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "42a280d5720419725ae99f3d1e6ca2f2df4dbc4515e37950f119cd08a583fa0b",
+  "location": {
+    "type": "google",
+    "text": "南京 奥体中心稻香音乐空间",
+    "entity": [
+      {
+        "id": "ChIJS8azPdSLtTURv314UlQlVZ4",
+        "addressLine1": "稻香音乐空间",
+        "addressLine2": "中華人民共和国 江蘇省 南京 建ギョウ 222, Jiangdong Middle Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

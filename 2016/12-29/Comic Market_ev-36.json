@@ -1,0 +1,19 @@
+{
+  "id": "Comic Market_ev-36",
+  "start": 1482969600,
+  "end": 1482969600,
+  "title": "Comic Market 91",
+  "desc": "Comic Market 91 于 东京都 东京国际展示场 东1-7展厅、西1-4展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-36",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ef5993c0707c6335b9673814eabf6d85f70d36b32673ca4254e1abc833a45492",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-7展厅、西1-4展厅",
+    "entity": []
+  },
+  "platform": 1
+}

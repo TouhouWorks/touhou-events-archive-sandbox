@@ -1,0 +1,30 @@
+{
+  "id": "命莲寺！全员集合_ev-1",
+  "start": 1332633600,
+  "end": 1332633600,
+  "title": "命蓮寺だョ!全員集合1",
+  "desc": "命莲寺！全员集合1 于 东京文具共和会馆 2-3层 举办",
+  "url": "https://thwiki.cc/%E5%91%BD%E8%8E%B2%E5%AF%BA%EF%BC%81%E5%85%A8%E5%91%98%E9%9B%86%E5%90%88#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "23a93538122eb3c6bb88dee0aa99fb4c06572ca9393d34b5728deaf57558b69e",
+  "location": {
+    "type": "google",
+    "text": "东京文具共和会馆 2-3层",
+    "entity": [
+      {
+        "id": "ChIJn_zvFLOOGGARdkIjVUs9QMY",
+        "addressLine1": "東京文具共和会館",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

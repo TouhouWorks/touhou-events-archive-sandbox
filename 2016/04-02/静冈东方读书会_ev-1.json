@@ -1,0 +1,46 @@
+{
+  "id": "静冈东方读书会_ev-1",
+  "start": 1459555200,
+  "end": 1459555200,
+  "title": "第一回静岡東方読書会",
+  "desc": "第一回静冈东方读书会 于 静冈市 葵生涯学习中心 举办",
+  "url": "https://thwiki.cc/%E9%9D%99%E5%86%88%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bc653e238c5f1ec7e67bdbbddb283bdef08da796440a30566fbde477625adea2",
+  "location": {
+    "type": "google",
+    "text": "静冈市 葵生涯学习中心",
+    "entity": [
+      {
+        "id": "ChIJVZQJp_hLGmARJdpn9WBJOWY",
+        "addressLine1": "葵生涯学習センター",
+        "addressLine2": "日本、静岡県静岡市葵区東草深町３−１８ 葵生涯学習センタ",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc6hscBpKGmAR-MPkBD70jbA",
+        "addressLine1": "アイセル21 静岡市女性会館・葵生涯学習センター",
+        "addressLine2": "日本、静岡県静岡市葵区東草深町３−１８",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

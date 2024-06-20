@@ -1,0 +1,19 @@
+{
+  "id": "Touhou Gaming Events_ev-4",
+  "start": 1460851200,
+  "end": 1460851200,
+  "title": "Touhou Gaming Events 4",
+  "desc": "Touhou Gaming Events 4 于 乌克兰哈尔科夫 特斯拉酒馆 举办",
+  "url": "https://thwiki.cc/Touhou_Gaming_Events#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "52b699e748ace5827f3e7e4028eea770a48b7aa292dd219b21a7bb1692666038",
+  "location": {
+    "type": "google",
+    "text": "乌克兰哈尔科夫 特斯拉酒馆",
+    "entity": []
+  },
+  "platform": 1
+}

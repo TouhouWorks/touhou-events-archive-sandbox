@@ -1,0 +1,30 @@
+{
+  "id": "东方水音肆_ev-9",
+  "start": 1672185600,
+  "end": 1672185600,
+  "title": "東方水音肆9",
+  "desc": "东方水音肆9 于 大阪市 MILULARI 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B0%B4%E9%9F%B3%E8%82%86#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dc99e6aaddd633dd94c72283bd286fda1142f9f25c4baac205d4efd5dd500b92",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

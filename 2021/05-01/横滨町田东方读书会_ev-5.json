@@ -1,0 +1,30 @@
+{
+  "id": "横滨町田东方读书会_ev-5",
+  "start": 1619827200,
+  "end": 1619827200,
+  "title": "第四点五回横浜町田東方読書会",
+  "desc": "第四点五回横滨町田东方读书会 于 神奈川县川崎市 川崎市立劳动会馆 举办",
+  "url": "https://thwiki.cc/%E6%A8%AA%E6%BB%A8%E7%94%BA%E7%94%B0%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-5",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a8901606fe2227f1c5213675d1e5e42c6369cbb1eece8b0458516f97afea0372",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市 川崎市立劳动会馆",
+    "entity": [
+      {
+        "id": "ChIJfz-LH8JfGGARUf7VUf9ESM0",
+        "addressLine1": "川崎市立平間小学校",
+        "addressLine2": "日本、神奈川県川崎市中原区上平間１５５０−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

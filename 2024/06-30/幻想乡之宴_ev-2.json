@@ -1,0 +1,19 @@
+{
+  "id": "幻想乡之宴_ev-2",
+  "start": 1719705600,
+  "end": 1719705600,
+  "title": "幻想郷の宴 第弐幕",
+  "desc": "幻想乡之宴 第弐幕 于 京都府龟冈市 Galleria龟冈 创作室 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E4%B9%8B%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "81f866c69d814d1b3d724b82f75abd50e2c0f28ac0323c83bdbb9a403006ce1d",
+  "location": {
+    "type": "google",
+    "text": "京都府龟冈市 Galleria龟冈 创作室",
+    "entity": []
+  },
+  "platform": 1
+}

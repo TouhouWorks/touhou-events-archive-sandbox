@@ -1,0 +1,19 @@
+{
+  "id": "电丽祭_ev-2",
+  "start": 1644019200,
+  "end": 1644019200,
+  "title": "幻想郷 雪まつり",
+  "desc": "幻想乡 雪祭 于 pictSQUARE 举办",
+  "url": "https://thwiki.cc/%E7%94%B5%E4%B8%BD%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d84ada1ee8090b4ee2d2029816d435f2c4a1640bfd5298a6e8daf5027e8413f0",
+  "location": {
+    "type": "google",
+    "text": "pictSQUARE",
+    "entity": []
+  },
+  "platform": 1
+}

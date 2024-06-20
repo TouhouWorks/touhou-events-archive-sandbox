@@ -1,0 +1,19 @@
+{
+  "id": "八云野生动物园_ev-5",
+  "start": 1362268800,
+  "end": 1362268800,
+  "title": "八雲サファリパーク6",
+  "desc": "八云野生动物园6 于 Belle Salle新宿Grand 1层 Event Hall 举办",
+  "url": "https://thwiki.cc/%E5%85%AB%E4%BA%91%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "db85c9a1b57de0aef9cbb539ff339eb17563a01de57dd0914fbcdc4dad2d33b8",
+  "location": {
+    "type": "google",
+    "text": "Belle Salle新宿Grand 1层 Event Hall",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方北陆祭_ev-6",
+  "start": 1342915200,
+  "end": 1342915200,
+  "title": "東方北陸祭 第六弾",
+  "desc": "东方北陆祭 第六弹 于 金泽市IT商业广场武藏 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%99%86%E7%A5%AD#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e9d51d4b3bbf41ac2595ffd09685d8f11f6982a70a2e336ce15e3a37fffc4c26",
+  "location": {
+    "type": "google",
+    "text": "金泽市IT商业广场武藏",
+    "entity": []
+  },
+  "platform": 1
+}

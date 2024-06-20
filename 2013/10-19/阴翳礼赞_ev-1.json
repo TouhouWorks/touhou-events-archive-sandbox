@@ -1,0 +1,35 @@
+{
+  "id": "阴翳礼赞_ev-1",
+  "start": 1382140800,
+  "end": 1382140800,
+  "title": "陰翳礼讃1",
+  "desc": "阴翳礼赞1 于 东京都 池袋Likeit 举办",
+  "url": "https://thwiki.cc/%E9%98%B4%E7%BF%B3%E7%A4%BC%E8%B5%9E#ev-1",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "26b9ed92740c03486b005bd66b9f9cd340b6863e781846208419ec6c9a9ff11d",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋Likeit",
+    "entity": [
+      {
+        "id": "ChIJiZYXBKCSGGARndgnc-Mmv6k",
+        "addressLine1": "likeit",
+        "addressLine2": "日本、東京都豊島区池袋４丁目２５−９",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

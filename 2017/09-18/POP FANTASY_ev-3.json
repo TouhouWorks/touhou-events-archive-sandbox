@@ -1,0 +1,30 @@
+{
+  "id": "POP FANTASY_ev-3",
+  "start": 1505692800,
+  "end": 1505692800,
+  "title": "POP FANTASY ～East & West Tour 2017～ 東京",
+  "desc": "POP FANTASY ~East & West Tour 2017～ 东京 于 东京都 初台DOORS 举办",
+  "url": "https://thwiki.cc/POP_FANTASY#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bd838f6e281028c7c2648ca8d78e3b5c7a39bc077997a2f14e25c8f3acededff",
+  "location": {
+    "type": "google",
+    "text": "东京都 初台DOORS",
+    "entity": [
+      {
+        "id": "ChIJE-UjAi7zGGARSpiMoEOsmhU",
+        "addressLine1": "初台DOORS",
+        "addressLine2": "日本、東京都渋谷区本町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

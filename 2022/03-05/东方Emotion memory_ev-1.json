@@ -1,0 +1,32 @@
+{
+  "id": "东方Emotion memory_ev-1",
+  "start": 1646438400,
+  "end": 1646438400,
+  "title": "第一回 東方Emotion memory",
+  "desc": "第一回 东方Emotion memory 于 大阪市 难波日本桥 BAR Libera 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Emotion_memory#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ee4dde1817a8a747f716de980d346d05dbca484e97277164b0dbb08ee418b88e",
+  "location": {
+    "type": "google",
+    "text": "大阪市 难波日本桥 BAR Libera",
+    "entity": [
+      {
+        "id": "ChIJq6r2xBXnAGARKfemlh79fkY",
+        "addressLine1": "Sound Bar LIBERA［サウンドバーリーベラ］",
+        "addressLine2": "日本、大阪府大阪市中央区千日前１丁目７−７",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": "东方web即卖会_ev-1",
+  "start": 1590278400,
+  "end": 1590278400,
+  "title": "東方web即売会1",
+  "desc": "东方web即卖会1 于 pictSQUARE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9web%E5%8D%B3%E5%8D%96%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fab51fc4a162e2dde4d2e59e359b6a0e63762e14ed3fe00778e9dfc57efc5c42",
+  "location": {
+    "type": "google",
+    "text": "pictSQUARE",
+    "entity": []
+  },
+  "platform": 1
+}

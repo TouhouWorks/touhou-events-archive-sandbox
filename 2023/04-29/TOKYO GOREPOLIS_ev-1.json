@@ -1,0 +1,30 @@
+{
+  "id": "TOKYO GOREPOLIS_ev-1",
+  "start": 1682726400,
+  "end": 1682726400,
+  "title": "TOKYO GOREPOLIS Vol.1",
+  "desc": "TOKYO GOREPOLIS Vol.1 于 东京都 西荻窪FLAT 举办",
+  "url": "https://thwiki.cc/TOKYO_GOREPOLIS#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ff735389afd4cef73f8907174c29bffac83385a949e7778758143b58c56aa4f0",
+  "location": {
+    "type": "google",
+    "text": "东京都 西荻窪FLAT",
+    "entity": [
+      {
+        "id": "ChIJVVUpbA_uGGARXVvTCDyU8oE",
+        "addressLine1": "フラット",
+        "addressLine2": "日本、東京都杉並区西荻南３丁目１７−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

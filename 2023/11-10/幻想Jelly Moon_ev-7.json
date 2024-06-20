@@ -1,0 +1,32 @@
+{
+  "id": "幻想Jelly Moon_ev-7",
+  "start": 1699574400,
+  "end": 1699574400,
+  "title": "幻想Jelly Moon First Anniversary",
+  "desc": "幻想Jelly Moon First Anniversary 于 船桥市 B.B.Q rave kitchen Mediterraneo casa Tsudanuma 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Jelly_Moon#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0f4ecea642a1211375cf1200dc8d889d1a3203b2a045848f92ccdef4416609f6",
+  "location": {
+    "type": "google",
+    "text": "船桥市 B.B.Q rave kitchen Mediterraneo casa Tsudanuma",
+    "entity": [
+      {
+        "id": "ChIJx7xItop_GGARqjqBItnOEYY",
+        "addressLine1": "B.B.Q rave kitchen Mediterraneo casa Tsudanuma",
+        "addressLine2": "２丁目-１-５ 前原西 船橋市 千葉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

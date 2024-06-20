@@ -1,0 +1,32 @@
+{
+  "id": "汴梁明心渡_ev-1",
+  "start": 1720224000,
+  "end": 1720224000,
+  "title": "汴梁明心渡1",
+  "desc": "汴梁明心渡1 于 河南省开封市 龙亭区 集英街 兴宏大厦锦上酒店 举办",
+  "url": "https://thwiki.cc/%E6%B1%B4%E6%A2%81%E6%98%8E%E5%BF%83%E6%B8%A1#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "053a32c6f40ca89bee37865b8963ea7a97abd72dd3372e0c5a421104d49240e0",
+  "location": {
+    "type": "google",
+    "text": "河南省开封市 龙亭区 集英街 兴宏大厦锦上酒店",
+    "entity": [
+      {
+        "id": "ChIJye6wJqEH2jURDO9hCeUUpOs",
+        "addressLine1": "锦上酒店",
+        "addressLine2": "中華人民共和国 开封市龙亭区集英街交叉口西南角",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

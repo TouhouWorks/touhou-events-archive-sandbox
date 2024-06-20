@@ -1,0 +1,31 @@
+{
+  "id": "秋葉文化祭_ev-1",
+  "start": 1302998400,
+  "end": 1302998400,
+  "title": "秋葉文化祭〜第一章〜　Akiba Cultural Festival",
+  "desc": "秋叶文化祭~第一章~　Akiba Cultural Festival 于 Bellesalle秋叶原 举办",
+  "url": "https://thwiki.cc/%E7%A7%8B%E8%91%89%E6%96%87%E5%8C%96%E7%A5%AD#ev-1",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ecabbcb192a01df801fcde755e54f316f39ae1a29a6ea9913439cf360a366932",
+  "location": {
+    "type": "google",
+    "text": "Bellesalle秋叶原",
+    "entity": [
+      {
+        "id": "ChIJ2WQ9sB2MGGAREcJvYULMq24",
+        "addressLine1": "ベルサール秋葉原",
+        "addressLine2": "日本、東京都千代田区外神田３丁目１２−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

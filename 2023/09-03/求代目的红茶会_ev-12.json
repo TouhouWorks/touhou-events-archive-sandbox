@@ -1,0 +1,30 @@
+{
+  "id": "求代目的红茶会_ev-12",
+  "start": 1693699200,
+  "end": 1693699200,
+  "title": "求代目の紅茶会（第12回）",
+  "desc": "求代目的红茶会（第12回） 于 京都综合见本市会馆 举办",
+  "url": "https://thwiki.cc/%E6%B1%82%E4%BB%A3%E7%9B%AE%E7%9A%84%E7%BA%A2%E8%8C%B6%E4%BC%9A#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9e82491430c8cfae308b08701e5466dc997ad1e28e74f3f33959242ece06eb03",
+  "location": {
+    "type": "google",
+    "text": "京都综合见本市会馆",
+    "entity": [
+      {
+        "id": "ChIJe13WqIcFAWARZedcDJps-sA",
+        "addressLine1": "京都府総合見本市会館 京都パルスプラザ",
+        "addressLine2": "日本、京都府京都市伏見区竹田鳥羽殿町５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

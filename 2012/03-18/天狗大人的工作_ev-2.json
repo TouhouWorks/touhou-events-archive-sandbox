@@ -1,0 +1,30 @@
+{
+  "id": "天狗大人的工作_ev-2",
+  "start": 1332028800,
+  "end": 1332028800,
+  "title": "天狗様のお仕事・三",
+  "desc": "天狗大人的工作・三 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E5%A4%A9%E7%8B%97%E5%A4%A7%E4%BA%BA%E7%9A%84%E5%B7%A5%E4%BD%9C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a305d3fb6912b181c9266c41e04cec907a07e8800cabaa07109a7510e6125adf",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

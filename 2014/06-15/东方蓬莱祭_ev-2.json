@@ -1,0 +1,30 @@
+{
+  "id": "东方蓬莱祭_ev-2",
+  "start": 1402790400,
+  "end": 1402790400,
+  "title": "東方蓬莱祭2",
+  "desc": "东方蓬莱祭2 于 沼津市 Plaza Verde KiraMesse沼津 1层 第1Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%93%AC%E8%8E%B1%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ef717abc524c183bb29fc7d5687e756efae9afddb355d716f6f78cdfd7a0b74d",
+  "location": {
+    "type": "google",
+    "text": "沼津市 Plaza Verde KiraMesse沼津 1层 第1Hall",
+    "entity": [
+      {
+        "id": "ChIJ____JlyFGWARWbp63NX2yt0",
+        "addressLine1": "キラメッセぬまづ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

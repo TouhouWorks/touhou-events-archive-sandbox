@@ -1,0 +1,30 @@
+{
+  "id": "东方合同展会_ev-8",
+  "start": 1643500800,
+  "end": 1643500800,
+  "title": "東方合同イベント2022新年！",
+  "desc": "东方合同展会2022新年！ 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%88%E5%90%8C%E5%B1%95%E4%BC%9A#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f2862e5db52e9001750861459815d6c7e787bb7a93914e0d633d302c624f2b95",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

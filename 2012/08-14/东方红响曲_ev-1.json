@@ -1,0 +1,58 @@
+{
+  "id": "东方红响曲_ev-1",
+  "start": 1344902400,
+  "end": 1344902400,
+  "title": "東方紅響曲1",
+  "desc": "东方红响曲1 于 川崎市 多摩市民馆Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E5%93%8D%E6%9B%B2#ev-1",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aa86fbdcd1904496477e19b57fb054827293d845e340d4f3bb8985926e69d6ee",
+  "location": {
+    "type": "google",
+    "text": "川崎市 多摩市民馆Hall",
+    "entity": [
+      {
+        "id": "ChIJ56fHSNzwGGARHhyzn4OJsWs",
+        "addressLine1": "多摩市民館",
+        "addressLine2": "日本、神奈川県川崎市多摩区登戸１７７５−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1wgD_MPxGGARelRWIkTEs_s",
+        "addressLine1": "レストランたま 川崎市多摩区役所",
+        "addressLine2": "日本、神奈川県川崎市多摩区登戸１７７５−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJoYox9SbxGGAR46SZwuxBBVA",
+        "addressLine1": "川崎市立多摩病院",
+        "addressLine2": "日本、神奈川県川崎市多摩区宿河原１丁目３０−３７",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

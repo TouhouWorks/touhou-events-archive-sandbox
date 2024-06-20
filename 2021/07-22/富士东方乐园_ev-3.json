@@ -1,0 +1,30 @@
+{
+  "id": "富士东方乐园_ev-3",
+  "start": 1626912000,
+  "end": 1626912000,
+  "title": "第3回富士東方ランド（蓬莱編）",
+  "desc": "第3回富士东方乐园（蓬莱编） 于 富士市产业交流展示场 举办",
+  "url": "https://thwiki.cc/%E5%AF%8C%E5%A3%AB%E4%B8%9C%E6%96%B9%E4%B9%90%E5%9B%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1af8152155b767d3ffcc50ee0b397d9ef0b08f02ac29940457d8f11b87a187cd",
+  "location": {
+    "type": "google",
+    "text": "富士市产业交流展示场",
+    "entity": [
+      {
+        "id": "ChIJkcu8tRcrGmARFrBDRsDgiTw",
+        "addressLine1": "ふじさんめっせ",
+        "addressLine2": "日本、静岡県富士市柳島１８９−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

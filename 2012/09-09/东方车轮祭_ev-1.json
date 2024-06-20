@@ -1,0 +1,58 @@
+{
+  "id": "东方车轮祭_ev-1",
+  "start": 1347148800,
+  "end": 1347148800,
+  "title": "第一回 東方車輪祭",
+  "desc": "第一回 东方车轮祭 于 岐阜县可儿市 ふれあいパーク緑の丘 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%BD%A6%E8%BD%AE%E7%A5%AD#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "20901f4684be0518c045ca85cb43cda14c889c2e9170339c177bca6d4ba2a3d1",
+  "location": {
+    "type": "google",
+    "text": "岐阜县可儿市 ふれあいパーク緑の丘",
+    "entity": [
+      {
+        "id": "ChIJGbhH-0oUA2ARBWYmm9xyjLg",
+        "addressLine1": "ふれあいパーク・緑の丘（トイファクトリーの丘）",
+        "addressLine2": "日本、岐阜県可児市羽崎１２６９−３８",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJdQNH-0oUA2ARf_J7I2UU1k8",
+        "addressLine1": "ふれあいパーク・緑の丘 管理事務所",
+        "addressLine2": "日本、岐阜県可児市羽崎１２６９−３８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJlVH1Z0sUA2ARMenonjEczAQ",
+        "addressLine1": "ふれあいパーク緑の丘",
+        "addressLine2": "日本、岐阜県可児市久々利",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "bus_station",
+          "establishment",
+          "BUS_STATION",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

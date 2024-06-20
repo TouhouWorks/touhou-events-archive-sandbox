@@ -1,0 +1,81 @@
+{
+  "id": "Knife 秘封限定LIVE_ev-1",
+  "start": 1546128000,
+  "end": 1546128000,
+  "title": "ナイフ始動＆媚薬発表記念 初ワンマン 『ユリの薫りが混ざるサナトリウムで…』 -秘封限定LIVE-",
+  "desc": "Knife启动＆媚药发表纪念 1st ONEMEN 『在混杂着百合香气的疗养院里…』 -秘封限定LIVE- 于 东京都 LiveHouse 新宿Glamstein 举办",
+  "url": "https://thwiki.cc/Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6cab620292694185f55fc5d308db8b81d62873b900e20a2e1b188945425ce83f",
+  "location": {
+    "type": "google",
+    "text": "东京都 LiveHouse 新宿Glamstein",
+    "entity": [
+      {
+        "id": "ChIJS_23WSCNGGAR0u8y4o_GYew",
+        "addressLine1": "新宿区",
+        "addressLine2": "日本、東京都",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJm9g5HiGNGGARNIKOmNBxJ1E",
+        "addressLine1": "Glamstein",
+        "addressLine2": "２丁目-６-１０ 大久保 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLbQAHdyMGGARtbqNkkWqBis",
+        "addressLine1": "新宿",
+        "addressLine2": "日本、東京都新宿区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJC_yOqtuMGGAR9FuU41KJ-x0",
+        "addressLine1": "Apple 新宿",
+        "addressLine2": "日本、東京都新宿区新宿３丁目３０−１３",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJJZ39lduMGGARfWqY3-nupT0",
+        "addressLine1": "Theatre新宿",
+        "addressLine2": "日本、東京都新宿区新宿３丁目１４−２０",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

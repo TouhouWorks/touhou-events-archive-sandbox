@@ -1,0 +1,30 @@
+{
+  "id": "Furubokkoru Tour_ev-4",
+  "start": 1497744000,
+  "end": 1497744000,
+  "title": "フルボッコるツアー名古屋",
+  "desc": "Furubokkoru Tour 名古屋 于 名古屋市 名古屋荣TIGHT ROPE 举办",
+  "url": "https://thwiki.cc/Furubokkoru_Tour#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5f2ce6ff93bab97531bf84aa6bd1ec7f56ca16970b84bf3125607a7165ec537e",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 名古屋荣TIGHT ROPE",
+    "entity": [
+      {
+        "id": "ChIJSdJNa9BwA2ARnGPPbJWgiDY",
+        "addressLine1": "TIGHT ROPE",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目３−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

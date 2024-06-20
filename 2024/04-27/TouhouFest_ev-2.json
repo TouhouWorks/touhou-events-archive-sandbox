@@ -1,0 +1,19 @@
+{
+  "id": "TouhouFest_ev-2",
+  "start": 1714176000,
+  "end": 1714176000,
+  "title": "TouhouFest2024",
+  "desc": "TouhouFest2024 于 美国加利福尼亚州 托伦斯文化艺术中心 举办",
+  "url": "https://thwiki.cc/TouhouFest#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "36c9ef2265339582eeca60518df0f5cb3ae9ad079fd9132e08b545011a15037d",
+  "location": {
+    "type": "google",
+    "text": "美国加利福尼亚州 托伦斯文化艺术中心",
+    "entity": []
+  },
+  "platform": 1
+}

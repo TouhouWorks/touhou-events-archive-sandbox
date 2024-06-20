@@ -1,0 +1,31 @@
+{
+  "id": "苏州THSP_ev-4",
+  "start": 1690588800,
+  "end": 1690588800,
+  "title": "苏州THSP4",
+  "desc": "苏州THSP4 于 苏州市 桐泾公园茶室 举办",
+  "url": "https://thwiki.cc/%E8%8B%8F%E5%B7%9ETHSP#ev-4",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aec49a347644fde86a650b920d618de68266202fb28e9d62df76f9d64c851ae0",
+  "location": {
+    "type": "google",
+    "text": "苏州市 桐泾公园茶室",
+    "entity": [
+      {
+        "id": "ChIJye-chgoKszUR5qtq-yM12yI",
+        "addressLine1": "桐泾公园茶室",
+        "addressLine2": "中華人民共和国 江蘇省 苏州市 姑蘇区 Tongjing South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

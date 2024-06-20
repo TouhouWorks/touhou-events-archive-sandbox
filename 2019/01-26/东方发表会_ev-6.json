@@ -1,0 +1,34 @@
+{
+  "id": "东方发表会_ev-6",
+  "start": 1548460800,
+  "end": 1548460800,
+  "title": "第5回東方発表会",
+  "desc": "第5回东方发表会 于 东京都町田市 和光大学Potpourri Hall鹤川 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8F%91%E8%A1%A8%E4%BC%9A#ev-6",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c77b5069f444780b71e8238b04adc401eee433e4c67cd83ff2192eb4b95d706c",
+  "location": {
+    "type": "google",
+    "text": "东京都町田市 和光大学Potpourri Hall鹤川",
+    "entity": [
+      {
+        "id": "ChIJRQa38s77GGAR6qhKjQHH-Ck",
+        "addressLine1": "鹤川",
+        "addressLine2": "日本、東京都町田市能ヶ谷１丁目６",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

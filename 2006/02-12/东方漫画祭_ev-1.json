@@ -1,0 +1,19 @@
+{
+  "id": "东方漫画祭_ev-1",
+  "start": 1139702400,
+  "end": 1139702400,
+  "title": "東方まんがまつり",
+  "desc": "东方漫画祭 于 名古屋市综合体育馆 Sun笠寺 Sun Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%BC%AB%E7%94%BB%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "be30a46c43b0066da7ac6c6b00ac4f40bf056e1cb4b9dafb476fe34b6ef404df",
+  "location": {
+    "type": "google",
+    "text": "名古屋市综合体育馆 Sun笠寺 Sun Hall",
+    "entity": []
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "COMICUP_ev-1",
+  "start": 1225497600,
+  "end": 1225497600,
+  "title": "COMICUP03",
+  "desc": "COMICUP03 于 上海市 上海太平洋数码广场三期 光环地带动漫城 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "63b67549e087b605b571be972dc6b50801cbd5461419936f124ee5e74745ae03",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海太平洋数码广场三期 光环地带动漫城",
+    "entity": [
+      {
+        "id": "ChIJH2u2C2ZwsjURbVWGZ9CBV94",
+        "addressLine1": "光环地带动漫城",
+        "addressLine2": "中華人民共和国 上海市 黄浦区 Xizang Road (S)",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

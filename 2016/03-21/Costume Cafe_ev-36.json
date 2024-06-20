@@ -1,0 +1,40 @@
+{
+  "id": "Costume Cafe_ev-36",
+  "start": 1458518400,
+  "end": 1458518400,
+  "title": "コスチュームカフェ 34号店",
+  "desc": "Costume Cafe 34号店 于 东京文具共和会馆 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-36",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e39af82532a154d56741030055e684d6ec2f4db2de0090649bc7191e49e5c026",
+  "location": {
+    "type": "google",
+    "text": "东京文具共和会馆",
+    "entity": [
+      {
+        "id": "ChIJLUVUa7OOGGARaUkVezfio_E",
+        "addressLine1": "貸し会議室 東京文具共和会館 浅草橋",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn_zvFLOOGGARdkIjVUs9QMY",
+        "addressLine1": "東京文具共和会館",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

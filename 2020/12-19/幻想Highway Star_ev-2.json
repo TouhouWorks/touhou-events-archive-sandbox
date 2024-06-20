@@ -1,0 +1,43 @@
+{
+  "id": "幻想Highway Star_ev-2",
+  "start": 1608336000,
+  "end": 1608336000,
+  "title": "幻想ハイウェイスター Gear 2st ~Ballad Edition~",
+  "desc": "幻想Highway Star Gear 2st ~Ballad Edition~ 于 仙台市 Music&Bar Six69Nine 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Highway_Star#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2b9e6fef78145c5bcccb79e3f7fedfcdd309d009ae819af0740a04c8f37d8fe",
+  "location": {
+    "type": "google",
+    "text": "仙台市 Music&Bar Six69Nine",
+    "entity": [
+      {
+        "id": "ChIJ01XNMO4qil8R7rFGuOB5Jbo",
+        "addressLine1": "仙台市",
+        "addressLine2": "日本、宮城県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ0TNEfy0oil8RYFJhDBNeSeU",
+        "addressLine1": "仙台市交通局",
+        "addressLine2": "日本、宮城県仙台市青葉区木町通１丁目４−１５",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

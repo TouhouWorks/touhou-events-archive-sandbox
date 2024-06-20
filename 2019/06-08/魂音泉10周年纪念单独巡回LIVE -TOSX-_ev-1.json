@@ -1,0 +1,30 @@
+{
+  "id": "魂音泉10周年纪念单独巡回LIVE -TOSX-_ev-1",
+  "start": 1559952000,
+  "end": 1559952000,
+  "title": "魂音泉10周年記念ワンマンツアー -TOSX- 1",
+  "desc": "魂音泉10周年纪念单独巡回LIVE -TOSX- 1 于 大阪市 美国村 BEYOND 举办",
+  "url": "https://thwiki.cc/%E9%AD%82%E9%9F%B3%E6%B3%8910%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%8D%95%E7%8B%AC%E5%B7%A1%E5%9B%9ELIVE_-TOSX-#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7e65c85091c47c05786cb894dd34d3d479f4fe552d4fd715da54f368ed88f16b",
+  "location": {
+    "type": "google",
+    "text": "大阪市 美国村 BEYOND",
+    "entity": [
+      {
+        "id": "ChIJ7_ZM7hHnAGARvBkV-jqyz24",
+        "addressLine1": "美國村",
+        "addressLine2": "日本、大阪府大阪市中央区西心斎橋２丁目１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

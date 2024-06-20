@@ -1,0 +1,20 @@
+{
+  "id": "东方温馨茶会_ev-3",
+  "start": 1433030400,
+  "end": 1433030400,
+  "title": "東方ほのぼの鎮守府のお茶会即売会オフ3",
+  "desc": "东方温馨镇守府茶会即卖会Off 3 于 岐阜县关市 关市劳动会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%A9%E9%A6%A8%E8%8C%B6%E4%BC%9A#ev-3",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5cf03813a29cf587f3ccfdf60df48ef3ccbec0865c526b0106fc49b03a3f6d8e",
+  "location": {
+    "type": "google",
+    "text": "岐阜县关市 关市劳动会馆",
+    "entity": []
+  },
+  "platform": 1
+}

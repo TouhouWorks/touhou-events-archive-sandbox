@@ -1,0 +1,40 @@
+{
+  "id": "东方玉兔祭_ev-1",
+  "start": 1461888000,
+  "end": 1461888000,
+  "title": "東方玉兎祭1",
+  "desc": "东方玉兔祭1 于 福冈市 福冈国际会议场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%8E%89%E5%85%94%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c4ca25967b225da750292ccb0e0d9cc8b398c5b0d34bbad0048173167f418a43",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈国际会议场",
+    "entity": [
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡國際會議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZ59_0fORQTURkEIhmmckvE0",
+        "addressLine1": "博多国際展示場＆カンファレンスセンター（Hakata International Exhibition Hall & Conference Center）",
+        "addressLine2": "日本、福岡県福岡市博多区東光２丁目２２−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

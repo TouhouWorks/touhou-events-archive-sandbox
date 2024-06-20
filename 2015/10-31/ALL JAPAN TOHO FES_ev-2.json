@@ -1,0 +1,84 @@
+{
+  "id": "ALL JAPAN TOHO FES_ev-2",
+  "start": 1446249600,
+  "end": 1446249600,
+  "title": "ALL JAPAN TOHO FES2",
+  "desc": "ALL JAPAN TOHO FES2 于 大阪府大阪市 wktkTHEATRE 举办",
+  "url": "https://thwiki.cc/ALL_JAPAN_TOHO_FES#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "db0714ebd69f5edcc0b50f7569a0bff0681254c4474a0b0572e6e214015c9051",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 wktkTHEATRE",
+    "entity": [
+      {
+        "id": "ChIJFb3oqvDkAGARr-f0e1rket8",
+        "addressLine1": "大阪府庁",
+        "addressLine2": "日本、大阪府大阪市中央区大手前２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJU6aW22D7AGAR78nHantxhPU",
+        "addressLine1": "大阪大学",
+        "addressLine2": "日本、大阪府吹田市山田丘１−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJuXeH9W3wAGARzfSdTYcaQQc",
+        "addressLine1": "大阪国際空港 (伊丹空港) (ITM)",
+        "addressLine2": "日本、大阪府豊中市螢池西町３丁目５５５",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJPzRbpujmAGARmJuhHrZIES4",
+        "addressLine1": "大阪市政府",
+        "addressLine2": "日本、大阪府大阪市北区中之島１丁目３−２０",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJv4-K213mAGAR0nPop6LgxQA",
+        "addressLine1": "大阪病院",
+        "addressLine2": "日本、大阪府大阪市福島区福島４丁目２−７８",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

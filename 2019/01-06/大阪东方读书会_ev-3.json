@@ -1,0 +1,47 @@
+{
+  "id": "大阪东方读书会_ev-3",
+  "start": 1546732800,
+  "end": 1546732800,
+  "title": "新春大阪東方読書会1",
+  "desc": "新春大阪东方读书会1 于 大阪市立浪速区民中心 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E9%98%AA%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-3",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ad490f45adbe7941b34a8fe2ec8bd55ec30ebe69f2d91eb07ffbb0f3e741b4a1",
+  "location": {
+    "type": "google",
+    "text": "大阪市立浪速区民中心",
+    "entity": [
+      {
+        "id": "ChIJm2vmyAvnAGAR8wslfEMrw1I",
+        "addressLine1": "浪速区民センター",
+        "addressLine2": "日本、大阪府大阪市浪速区稲荷２丁目４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJB93xb47nAGARsXbk8qdUU7U",
+        "addressLine1": "珍珠中心",
+        "addressLine2": "日本、大阪府大阪市浪速区恵美須東２丁目４−１８",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "CAFE",
+          "cafe",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

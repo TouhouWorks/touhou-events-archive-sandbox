@@ -1,0 +1,48 @@
+{
+  "id": "东方华月宴·槐序绮想_ev-2",
+  "start": 1532736000,
+  "end": 1532736000,
+  "title": "東方華月宴·槐序綺想",
+  "desc": "东方华月宴·槐序绮想 于 郑州 新净雅烹小鲜 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "882b1ae74d1b23203fc98eacc468a539cc831a6631fb4ee1999eafc6c1fd8af6",
+  "location": {
+    "type": "google",
+    "text": "郑州 新净雅烹小鲜",
+    "entity": [
+      {
+        "id": "ChIJm8CcScFm1zURT0PUblGvuHs",
+        "addressLine1": "新净雅烹小鲜",
+        "addressLine2": "中華人民共和国 河南省 郑州 金水区 10, Xinyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ-5CFtlZm1zURNVm1j3jXCA0",
+        "addressLine1": "新净雅烹小鲜曼哈顿店",
+        "addressLine2": "中華人民共和国 河南省 郑州 金水区 288, Jin Shui Lu",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,85 @@
+{
+  "id": "现代妖怪操乐_ev-20",
+  "start": 1436918400,
+  "end": 1436918400,
+  "title": "今様妖怪操楽 Vol.20",
+  "desc": "现代妖怪操乐 Vol.20 于 东京都 涩谷ROYAL 举办",
+  "url": "https://thwiki.cc/%E7%8E%B0%E4%BB%A3%E5%A6%96%E6%80%AA%E6%93%8D%E4%B9%90#ev-20",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ca0a6e528df71514e5c9f044a91fdc3f14b5735cbfd0fb749017db8dea642ee1",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷ROYAL",
+    "entity": [
+      {
+        "id": "ChIJj2YpE6aMGGARpCfTFrHZXC8",
+        "addressLine1": "RoyalFlash 神宮前",
+        "addressLine2": "日本、東京都渋谷区神宮前６丁目１８−８",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJw_W1gk-LGGAR1JtzLav671A",
+        "addressLine1": "RoyalFlash 代官山",
+        "addressLine2": "日本、東京都渋谷区猿楽町２７−４",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJJea7xKmMGGAR7-XBCPwk00Y",
+        "addressLine1": "Royal Host Dogenzaka",
+        "addressLine2": "２丁目-２９-８ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJmVWqfQCNGGARLTBKr__EuLk",
+        "addressLine1": "Royal lounge",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目２７−２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJa9Wdo0-LGGARMyuy5PxkF6g",
+        "addressLine1": "Royal Danish Embassy",
+        "addressLine2": "２９-６ 猿楽町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

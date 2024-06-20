@@ -1,0 +1,72 @@
+{
+  "id": "东方红楼梦_ev-19",
+  "start": 1665273600,
+  "end": 1665273600,
+  "title": "東方紅楼夢18",
+  "desc": "东方红楼梦18 于 大阪国际展览中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4d28186bbca9ae181dd9119024acdd036119f4793ba09413070a1913edd0391d",
+  "location": {
+    "type": "google",
+    "text": "大阪国际展览中心",
+    "entity": [
+      {
+        "id": "ChIJAQAAy0_oAGAR8pBrXsjJnMA",
+        "addressLine1": "インテックス大阪",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJof67wfWBImAR_5ktE6l2Wc8",
+        "addressLine1": "幕張展覽館 國際展覽中心1-3",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmTGcsibnAGARgMVi2a5BNuQ",
+        "addressLine1": "（公財）大阪府国際交流財団",
+        "addressLine2": "日本、大阪府大阪市中央区本町橋２−５ マイドームおおさか",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJca-kox_nAGARtTJeeU3p3fI",
+        "addressLine1": "大阪国際ビルディング",
+        "addressLine2": "日本、大阪府大阪市中央区安土町２丁目３−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJh5nfHArBhkcRBA4HbOBV7uw",
+        "addressLine1": "米兰国际展览中心500米新公寓",
+        "addressLine2": "イタリア ミラノ Viale Renato Serra",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

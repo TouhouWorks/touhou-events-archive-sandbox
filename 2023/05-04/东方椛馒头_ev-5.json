@@ -1,0 +1,32 @@
+{
+  "id": "东方椛馒头_ev-5",
+  "start": 1683158400,
+  "end": 1683158400,
+  "title": "東方椛饅頭5",
+  "desc": "东方椛馒头5 于 SPYDER Live&Bar 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A4%9B%E9%A6%92%E5%A4%B4#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ee3c0d7d7143f8e51e1ba7fafbdde358cadd017894630fc8c4c4ad3614e52d23",
+  "location": {
+    "type": "google",
+    "text": "SPYDER Live&Bar",
+    "entity": [
+      {
+        "id": "ChIJVVXJFgSiWjUR2CN_x2pJeGY",
+        "addressLine1": "SPYDER LIVE&BAR スパイダー",
+        "addressLine2": "１３-１３ 銀山町 中区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

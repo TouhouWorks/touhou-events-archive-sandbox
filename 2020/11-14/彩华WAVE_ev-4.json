@@ -1,0 +1,58 @@
+{
+  "id": "彩华WAVE_ev-4",
+  "start": 1605312000,
+  "end": 1605312000,
+  "title": "彩華WAVE4",
+  "desc": "彩华WAVE4 于 大阪市 难波MILULARI 举办",
+  "url": "https://thwiki.cc/%E5%BD%A9%E5%8D%8EWAVE#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3ac3f3c81274dd037dcc60cec1be29d093ec881416a5d394357abefca5d3611e",
+  "location": {
+    "type": "google",
+    "text": "大阪市 难波MILULARI",
+    "entity": [
+      {
+        "id": "ChIJOXPJyWznAGARahb0KWFRjlM",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJFXXzNhPnAGARUifDEqMzXl4",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区難波１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJ9RFkRWnnAGARZh-hyWjBhtg",
+        "addressLine1": "难波公园",
+        "addressLine2": "日本、大阪府大阪市浪速区難波中２丁目１０−７０",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Knife 秘封限定LIVE_ev-3",
+  "start": 1616371200,
+  "end": 1616371200,
+  "title": "ナイフ 3rd ONEMAN 『偽りの優しさで飲み込めた錠剤』 -秘封限定LIVE-",
+  "desc": "Knife 3rd ONEMAN 『怀着虚假善意吞下药片』 -秘封限定LIVE- 于 东京都 TwinBox GARAGE 举办",
+  "url": "https://thwiki.cc/Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "270d9a689009bcc672b1c9a4b9665977eb5cd966e1907c766764472031c521fe",
+  "location": {
+    "type": "google",
+    "text": "东京都 TwinBox GARAGE",
+    "entity": [
+      {
+        "id": "ChIJGVBuNByMGGARYbcPws7NzDc",
+        "addressLine1": "TwinBox AKIHABARA/GARAGE",
+        "addressLine2": "日本、東京都千代田区外神田３丁目２−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

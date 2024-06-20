@@ -1,0 +1,30 @@
+{
+  "id": "东方幻想指南_ev-4",
+  "start": 1527292800,
+  "end": 1527292800,
+  "title": "东方幻想指南4 天邪鬼大逆袭",
+  "desc": "东方幻想指南4 天邪鬼大逆袭 于 北京大学 第二教学楼 205教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E6%8C%87%E5%8D%97#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "313f11c2f823c5f7c37658e16142c49b360bd3eb2eb94c236f5c4df4084e9eea",
+  "location": {
+    "type": "google",
+    "text": "北京大学 第二教学楼 205教室",
+    "entity": [
+      {
+        "id": "ChIJZwqHnbJW8DURJm6LBWbdR-c",
+        "addressLine1": "北京大学第二教学楼",
+        "addressLine2": "中華人民共和国 北京市 海淀区 颐和园路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

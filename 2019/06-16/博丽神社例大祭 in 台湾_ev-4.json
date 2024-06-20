@@ -1,0 +1,30 @@
+{
+  "id": "博丽神社例大祭 in 台湾_ev-4",
+  "start": 1560643200,
+  "end": 1560643200,
+  "title": "博麗神社例大祭 in 台灣3",
+  "desc": "博丽神社例大祭 in 台湾3 于 台北市信義區光復南路133號 松山文創園區 多功能展演廳 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_in_%E5%8F%B0%E6%B9%BE#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0afcf214a30bd17f6e49b2abbc07e23d5165abfe412092031034b0d495a722b4",
+  "location": {
+    "type": "google",
+    "text": "台北市信義區光復南路133號 松山文創園區 多功能展演廳",
+    "entity": [
+      {
+        "id": "ChIJPaYqVL-rQjQR6Hgr_oBURg8",
+        "addressLine1": "松山文創園區多功能展演廳",
+        "addressLine2": "台湾 台北市信義區光復南路133號",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

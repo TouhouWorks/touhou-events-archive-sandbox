@@ -1,0 +1,82 @@
+{
+  "id": "东方红白歌合战_ev-7",
+  "start": 1480809600,
+  "end": 1480809600,
+  "title": "第七回東方紅白歌合戦",
+  "desc": "第七回东方红白歌合战 于 爱知县名古屋市 JOYSOUND堀田 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%98#ev-7",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "58bb73858eae33400a7050a203cd633c40df2f0c98b93b3979fecf5fd2c92c33",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 JOYSOUND堀田",
+    "entity": [
+      {
+        "id": "ChIJhanU9BR6A2ARffzE2V0xCq4",
+        "addressLine1": "堀田通",
+        "addressLine2": "日本、愛知県名古屋市瑞穂区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJu_r53zh6A2ARTVzPsmDOqMs",
+        "addressLine1": "堀田駅",
+        "addressLine2": "日本、愛知県名古屋市瑞穂区新開町２８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJl-uJBfp6A2ARHmZ-TLgLeH8",
+        "addressLine1": "田辺通",
+        "addressLine2": "日本、愛知県名古屋市瑞穂区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJx5BFqElxA2AR2jpchhvXu40",
+        "addressLine1": "田幡",
+        "addressLine2": "日本、愛知県名古屋市北区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJCbEklp16A2AR0WjRDEiKp3w",
+        "addressLine1": "田面町",
+        "addressLine2": "日本、愛知県名古屋市昭和区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

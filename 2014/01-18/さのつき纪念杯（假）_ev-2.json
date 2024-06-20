@@ -1,0 +1,84 @@
+{
+  "id": "さのつき纪念杯（假）_ev-2",
+  "start": 1390003200,
+  "end": 1390003200,
+  "title": "さのつき記念杯(仮)vol.2",
+  "desc": "さのつき纪念杯（假）vol.2 于 东京都 早稻田ZONE-B 举办",
+  "url": "https://thwiki.cc/%E3%81%95%E3%81%AE%E3%81%A4%E3%81%8D%E7%BA%AA%E5%BF%B5%E6%9D%AF%EF%BC%88%E5%81%87%EF%BC%89#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a3f0fdbc65175c1827bc72b629f0476850e3482f06296a67ee42c8b82ea847d9",
+  "location": {
+    "type": "google",
+    "text": "东京都 早稻田ZONE-B",
+    "entity": [
+      {
+        "id": "ChIJ2y-oah2NGGARczAwwLgZsKY",
+        "addressLine1": "ZONE-B",
+        "addressLine2": "日本、東京都新宿区喜久井町２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ81gP8sGNGGARtrjbEZOzjPU",
+        "addressLine1": "Bread of Life Church",
+        "addressLine2": "６８-２１ 早稲田町 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SPIRITUAL_CENTER",
+          "CHURCH",
+          "place_of_worship",
+          "church",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJRfBUe_2MGGARhjdMPh1sSLY",
+        "addressLine1": "Bois de Vincennes",
+        "addressLine2": "日本、東京都新宿区早稲田町５",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "bakery",
+          "BAKERY",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ2Q3rXX3yGGARfeGFK9jpYus",
+        "addressLine1": "早稲田アカデミー 高円寺校",
+        "addressLine2": "日本、東京都杉並区高円寺南４丁目２７−１０",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJxbN2apnvGGARdrlxomtNZpk",
+        "addressLine1": "早稲田アカデミー 武蔵境校",
+        "addressLine2": "日本、東京都武蔵野市境南町２丁目３−１４",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

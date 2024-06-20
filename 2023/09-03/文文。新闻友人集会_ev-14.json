@@ -1,0 +1,30 @@
+{
+  "id": "文文。新闻友人集会_ev-14",
+  "start": 1693699200,
+  "end": 1693699200,
+  "title": "第百三十八季 文々。新聞友の会",
+  "desc": "第百三十八季 文文。新闻友人集会 于 京都综合见本市会馆 举办",
+  "url": "https://thwiki.cc/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d142ffb96c791076f847cebbfd82a5a6c4bb451c368d30178dd0d75043eef755",
+  "location": {
+    "type": "google",
+    "text": "京都综合见本市会馆",
+    "entity": [
+      {
+        "id": "ChIJe13WqIcFAWARZedcDJps-sA",
+        "addressLine1": "京都府総合見本市会館 京都パルスプラザ",
+        "addressLine2": "日本、京都府京都市伏見区竹田鳥羽殿町５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

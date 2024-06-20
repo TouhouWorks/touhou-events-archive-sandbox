@@ -1,0 +1,30 @@
+{
+  "id": "てきぱ☆HOLIC_ev-1",
+  "start": 1581811200,
+  "end": 1581811200,
+  "title": "てきぱ☆HOLIC 1",
+  "desc": "てきぱ☆HOLIC 1 于 大阪市 MILULARI 举办",
+  "url": "https://thwiki.cc/%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86HOLIC#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6cf062189ff487107c192c1227f244f8c44fbefcaee275c6f77dfedd3c988a62",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

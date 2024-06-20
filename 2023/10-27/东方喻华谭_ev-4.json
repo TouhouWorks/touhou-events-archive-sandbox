@@ -1,0 +1,30 @@
+{
+  "id": "东方喻华谭_ev-4",
+  "start": 1698364800,
+  "end": 1698364800,
+  "title": "东方喻华谭~ 暮秋的妖精舞踏会 ~",
+  "desc": "东方喻华谭~ 暮秋的妖精舞踏会 ~ 于 武汉 华中科技大学锁石咖啡屋 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%96%BB%E5%8D%8E%E8%B0%AD#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6998cf6ca46a64aee646cd05e302dc3c6ade6322037cd15928d7d5585bd226f9",
+  "location": {
+    "type": "google",
+    "text": "武汉 华中科技大学锁石咖啡屋",
+    "entity": [
+      {
+        "id": "ChIJt7uoz6-kLjQRL3GwbCOjDco",
+        "addressLine1": "锁石咖啡屋",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 洪山区 Luoyu Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

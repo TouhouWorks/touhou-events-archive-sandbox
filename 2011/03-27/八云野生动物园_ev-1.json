@@ -1,0 +1,30 @@
+{
+  "id": "八云野生动物园_ev-1",
+  "start": 1301184000,
+  "end": 1301184000,
+  "title": "八雲サファリパーク2",
+  "desc": "八云野生动物园2 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E5%85%AB%E4%BA%91%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "13dbf07f4398b8479c0a696e0800d0af10bffba215692a4a9e229c2e6f66dc74",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

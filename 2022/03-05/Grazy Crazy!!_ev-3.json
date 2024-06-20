@@ -1,0 +1,30 @@
+{
+  "id": "Grazy Crazy!!_ev-3",
+  "start": 1646438400,
+  "end": 1646438400,
+  "title": "Grazy Crazy!! 3 -Special 2Days-",
+  "desc": "Grazy Crazy!! 3 -Special 2Days- 于 东京都 青山RizM 举办",
+  "url": "https://thwiki.cc/Grazy_Crazy!!#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e67337f232fc11083afb7bd9d09e8f17c794be78ac5b4ac3b6af5204aefde243",
+  "location": {
+    "type": "google",
+    "text": "东京都 青山RizM",
+    "entity": [
+      {
+        "id": "ChIJ1b08rZyMGGARz3MIJof37AA",
+        "addressLine1": "青山RizM",
+        "addressLine2": "日本、東京都港区北青山１丁目４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}

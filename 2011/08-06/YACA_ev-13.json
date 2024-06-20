@@ -1,0 +1,30 @@
+{
+  "id": "YACA_ev-13",
+  "start": 1312588800,
+  "end": 1312588800,
+  "title": "YACA34",
+  "desc": "YACA34 于 广州市 海珠区保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/YACA#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c88512c7ec0f11100a1bc53f8930cc3e120d3b79c48157cef667cd1202f18ba0",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1
+}
