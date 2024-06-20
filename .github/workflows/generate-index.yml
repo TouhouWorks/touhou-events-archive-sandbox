@@ -14,7 +14,8 @@ jobs:
 
       - name: Run Generate Index
       #print current directory
-        run: python -c "import os; print(os.getcwd())"
+        run: python -c "import os; print(os.getcwd()); print(os.listdir())"
+
         env:
           WORKSPACE: ${{ github.workspace }}
 
