@@ -17,35 +17,12 @@ jobs:
         run: python mnt/generate-index.py
         env:
           WORKSPACE: ${{ github.workspace }}
-      
-      - name: Delete old Release
-        uses: dev-drprasad/delete-older-releases@v0.3.4
-        with:
-          repo: ${{ github.repository }}
-          keep_latest: 1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: latest-${{ github.run_number }}
-          release_name: Release ${{ github.run_number }}
-          draft: false
-          prerelease: false
           
-
-      - name: Upload Release Asset
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+            tag_name: release
+            files: 'mnt/indexes.json'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: mnt/indexes.json
-          asset_name: indexes.json
-          asset_content_type: application/json
           
