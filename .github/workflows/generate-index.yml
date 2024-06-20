@@ -1,0 +1,33 @@
+name: generate-index
+run-name: Generate touhou.events archive index
+on:
+  push:
+    paths:
+      - '*.json'
+    branches:
+      - main
+permissions: write-all
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Run Generate Index
+        run: python mnt/generate-index.py
+        env:
+          WORKSPACE: ${{ github.workspace }}
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+            tag_name: latest
+            files: 'mnt/indexes.json'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
