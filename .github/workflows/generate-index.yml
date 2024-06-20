@@ -13,7 +13,8 @@ jobs:
           python-version: 3.8
 
       - name: Run Generate Index
-        run: python ${{ github.workspace }}/mnt/generate_index.py
+      #print current directory
+        run: python -c "import os; print(os.getcwd())"
         env:
           WORKSPACE: ${{ github.workspace }}
 
