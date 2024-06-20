@@ -17,7 +17,13 @@ jobs:
         run: python mnt/generate-index.py
         env:
           WORKSPACE: ${{ github.workspace }}
-      # release the generated indexes.json
+      
+      - name: Delete old release
+        run: |
+          curl -X DELETE
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
+          https://api.github.com/repos/${{github.repository}}/releases/latest
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
