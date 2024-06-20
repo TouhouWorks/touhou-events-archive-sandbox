@@ -1,6 +1,7 @@
 name: generate-index
 run-name: Generating touhou.events archive index
 on: [push]
+permissions: write-all
 jobs:
   generate-index:
     runs-on: ubuntu-latest
