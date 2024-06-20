@@ -3,7 +3,7 @@ run-name: Generate touhou.events archive index
 on:
   push:
     paths:
-      - '*.json'
+      - '**.json'
     branches:
       - main
 permissions: write-all
