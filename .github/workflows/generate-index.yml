@@ -18,9 +18,12 @@ jobs:
         env:
           WORKSPACE: ${{ github.workspace }}
       
-      - name: Delete old release
-        run: |
-          curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/${{github.repository}}/releases/latest
+      - name: Delete old Release
+        uses: dev-drprasad/delete-older-releases@v0.3.4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          repo: ${{ github.repository }}
+          keep_latest: 1
 
       - name: Create Release
         id: create_release
