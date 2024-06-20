@@ -1,5 +1,5 @@
 name: generate-index
-run-name: Generating touhou.events archive index
+run-name: Generate touhou.events archive index
 on: [push]
 permissions: write-all
 jobs:
