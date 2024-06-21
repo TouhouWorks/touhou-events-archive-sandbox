@@ -1,0 +1,76 @@
+{
+  "start": 1579910400,
+  "end": 1579910400,
+  "title": "第7回東方発表会",
+  "desc": "第7回东方发表会 于 东京都町田市 町田市民大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8F%91%E8%A1%A8%E4%BC%9A#ev-8",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "94d5f38f0fd391ecd7abb01c9a114cbb83633184ab396c9ebcc4fa7329e3ba02",
+  "location": {
+    "type": "google",
+    "text": "东京都町田市 町田市民大厅",
+    "entity": [
+      {
+        "id": "ChIJk0jWCAP8GGARX5bVj4R04EU",
+        "addressLine1": "町田市民病院",
+        "addressLine2": "日本、東京都町田市旭町２丁目１５−４１",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJi2cQSK7-GGAR2xiK1VN1teQ",
+        "addressLine1": "町田市民ホール",
+        "addressLine2": "日本、東京都町田市森野２丁目２−３６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJz_K0tKr-GGARhaftKqED2vA",
+        "addressLine1": "町田市民球場",
+        "addressLine2": "日本、東京都町田市旭町３丁目２０−６０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJqzQDJkr5GGARjGHd-e538YU",
+        "addressLine1": "町田市民文学館 ことばらんど",
+        "addressLine2": "日本、東京都町田市原町田４丁目１６−１７",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJ__-_AgP5GGARh_mNAQIgzTQ",
+        "addressLine1": "町田市立総合体育館",
+        "addressLine2": "日本、東京都町田市南成瀬５丁目１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方发表会-8"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1437350400,
+  "end": 1437350400,
+  "title": "東方久遠境 JOE",
+  "desc": "东方久远境 JOE 于 大野城市 大野城Madokapia 多功能Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2a1dbc72953be316c221c3bc9627912bb2405653d3f46cb18759e07747937ff3",
+  "location": {
+    "type": "google",
+    "text": "大野城市 大野城Madokapia 多功能Hall",
+    "entity": [
+      {
+        "id": "ChIJ15CXqnGaQTURgQsOOhE-eV0",
+        "addressLine1": "大野城 Madokapia 圖書館",
+        "addressLine2": "日本、福岡県大野城市曙町２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方久远境-7"
+}

@@ -1,0 +1,76 @@
+{
+  "start": 1561248000,
+  "end": 1561248000,
+  "title": "Lunatic East 2019 6",
+  "desc": "Lunatic East 2019 6 于 长野市 长野LIVE HOUSE J 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c9d297dabf5fc50b2bac227511382e34057ebfa0a98afd3a445452d51cde6cd6",
+  "location": {
+    "type": "google",
+    "text": "长野市 长野LIVE HOUSE J",
+    "entity": [
+      {
+        "id": "ChIJ2z8QM-2GHWAR2lShSGqp_04",
+        "addressLine1": "Live House J",
+        "addressLine2": "826 南千歳町 長野市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJrQuy-1ePHWARx7G8egYrPj0",
+        "addressLine1": "長野市オリンピック記念アリーナ（エムウェーブ）",
+        "addressLine2": "日本、長野県長野市北長池１９５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJh0bai5KGHWARO9I7pK11KTU",
+        "addressLine1": "长野",
+        "addressLine2": "日本、長野県長野市栗田",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJAQDA14GGHWARCn3xyy-q1Zk",
+        "addressLine1": "長野市若里市民文化ホール",
+        "addressLine2": "日本、長野県長野市若里３丁目２２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9_SK14GGHWARniudQwLkK88",
+        "addressLine1": "長野市若里多目的スポーツアリーナ ビッグハット",
+        "addressLine2": "日本、長野県長野市若里３丁目２２−２",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "lunatic-east-2019-6"
+}

@@ -1,0 +1,50 @@
+{
+  "start": 1573862400,
+  "end": 1573862400,
+  "title": "京都合同前日読書会1",
+  "desc": "京都合同前日读书会1 于 京都社会福祉会馆 举办",
+  "url": "https://thwiki.cc/%E4%BA%AC%E9%83%BD%E5%90%88%E5%90%8C%E5%89%8D%E6%97%A5%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "84dfc5df24376d3f93d5de420816d74e6515047a3a077c43da0273f34a622151",
+  "location": {
+    "type": "google",
+    "text": "京都社会福祉会馆",
+    "entity": [
+      {
+        "id": "ChIJi94TY30IAWAR85gejQ9t4MA",
+        "addressLine1": "京都府立総合社会福祉会館 ハートピア京都",
+        "addressLine2": "日本、京都府京都市中京区竹屋町通烏丸東入る清水町３７５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJUTkNegAHAWARIQZcx0k0oPA",
+        "addressLine1": "京都社会福祉会館",
+        "addressLine2": "日本、京都府京都市中京区壬生坊城町",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJvbF5pg0GAWAR9CWmNPQxSXg",
+        "addressLine1": "京都市公設民営社会福祉施設洛南身体障害者福祉会館",
+        "addressLine2": "日本、京都府京都市南区吉祥院西定成町３５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "京都合同前日读书会-1"
+}

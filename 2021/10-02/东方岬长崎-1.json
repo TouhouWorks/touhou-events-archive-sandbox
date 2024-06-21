@@ -1,0 +1,90 @@
+{
+  "start": 1633132800,
+  "end": 1633132800,
+  "title": "東方岬長崎1",
+  "desc": "东方岬长崎1 于 东京 Studio Yomoda A2 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B2%AC%E9%95%BF%E5%B4%8E#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f0e4d1f8c1848e453f61e6b9c1729282f68dd594f8fa1f43f97fc47c7d0bf44a",
+  "location": {
+    "type": "google",
+    "text": "东京 Studio Yomoda A2",
+    "entity": [
+      {
+        "id": "ChIJBWVVzYaOGGARUePbqU6upsk",
+        "addressLine1": "Studio Yomoda",
+        "addressLine2": "２丁目-１２ 根岸 台東区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "store",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJe-6RqKmNGGARlMdyRE1Iils",
+        "addressLine1": "TATTOO STUDIO YAMADA",
+        "addressLine2": "日本、東京都渋谷区神宮前６丁目１５−１０",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJ3XaVp870GGARfK4lDjbjczY",
+        "addressLine1": "Shimotsuke",
+        "addressLine2": "３丁目-９-６ 鷹番 目黒区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJcTG7bs30GGARmzjm3hY47as",
+        "addressLine1": "Komugi",
+        "addressLine2": "２丁目-５-２ 鷹番 目黒区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJveR8OYHzGGARB-U7Hguwre0",
+        "addressLine1": "Yamada Wine",
+        "addressLine2": "１丁目-２１-１６ 西原 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方岬长崎-1"
+}

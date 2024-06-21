@@ -1,0 +1,47 @@
+{
+  "start": 1294963200,
+  "end": 1294963200,
+  "title": "東方Practice 1",
+  "desc": "东方Practice 1 于 名古屋市 ATLANTIS 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-1",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "69e22dfda4df4fbe4ecbc6403d1a1dbcad92a8b8ae94d06f90883db0b828ab86",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 ATLANTIS",
+    "entity": [
+      {
+        "id": "ChIJAQBQpkJ2A2ARczy3w8Onqeo",
+        "addressLine1": "ATLANTIS(アトランティス) －“完全予約制”BBQ&レンタルスペース－",
+        "addressLine2": "日本、愛知県名古屋市中村区鳥居西通１丁目４８",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJebZtbuxwA2ARNAGbwChZNk8",
+        "addressLine1": "ATLANTIS・INNOVATION Co.,Ltd.",
+        "addressLine2": "日本、愛知県名古屋市中区新栄３丁目６−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方practice-1"
+}

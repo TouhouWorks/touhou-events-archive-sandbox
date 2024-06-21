@@ -1,0 +1,30 @@
+{
+  "start": 1667001600,
+  "end": 1667001600,
+  "title": "浙江THO-東方红夜子时",
+  "desc": "浙江THO-东方红夜子时 于 杭州 上城区九环路7号桔子酒店 举办",
+  "url": "https://thwiki.cc/%E6%B5%99%E6%B1%9FTHO#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bdc1fbbe5911633d2e46720e1e9d628d8ce1500ae32c4f64d0910ac516cce1f0",
+  "location": {
+    "type": "google",
+    "text": "杭州 上城区九环路7号桔子酒店",
+    "entity": [
+      {
+        "id": "EkI5dGggUmluZyBSb2FkLCDmsZ_lubLljLog5p2t5bee5biCIOa1meaxn-ecgSDkuK3oj6_kurrmsJHlhbHlkozlm70iLiosChQKEgkp2FqtOplMNBH3ihNAdI--UxIUChIJLVNuBqmZTDQRbp9t-v2mx2o",
+        "addressLine1": "9th Ring Road",
+        "addressLine2": "江干区 杭州市 浙江省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "浙江tho-3"
+}

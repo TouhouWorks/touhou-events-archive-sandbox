@@ -1,0 +1,58 @@
+{
+  "start": 1566000000,
+  "end": 1566000000,
+  "title": "Lunatic East 2019 14",
+  "desc": "Lunatic East 2019 14 于 仙台市 仙台HooK 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-14",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "090c10a7a67e84c5239c6df01332e6b72edf3c2ce789763b15421fb2878a7adb",
+  "location": {
+    "type": "google",
+    "text": "仙台市 仙台HooK",
+    "entity": [
+      {
+        "id": "ChIJ_avArB4oil8RWploZCOEuFw",
+        "addressLine1": "ハローワーク仙台",
+        "addressLine2": "日本、宮城県仙台市宮城野区榴岡４丁目２−３",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJj-dWyUAmil8R-3gPDAVAoC8",
+        "addressLine1": "仙台体育馆",
+        "addressLine2": "日本、宮城県仙台市太白区富沢１丁目４−１",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJ6zzTPSIoil8RKIJWfuuyGZU",
+        "addressLine1": "仙台PARCO",
+        "addressLine2": "日本、宮城県仙台市青葉区中央１丁目２−３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "lunatic-east-2019-14"
+}

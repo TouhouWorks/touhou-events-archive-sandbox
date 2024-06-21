@@ -1,0 +1,80 @@
+{
+  "start": 1627516800,
+  "end": 1627516800,
+  "title": "佛山东方例会 第一届",
+  "desc": "佛山东方例会 第一届 于 佛山市 举办",
+  "url": "https://thwiki.cc/%E4%BD%9B%E5%B1%B1%E4%B8%9C%E6%96%B9%E4%BE%8B%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3c9912ea7d45a1036d27923eab6e2e0ff3b2452d1b732b4af449994d1f7e69e4",
+  "location": {
+    "type": "google",
+    "text": "佛山市",
+    "entity": [
+      {
+        "id": "ChIJt6V5UFhZAjQRGe397NrIYUA",
+        "addressLine1": "佛山市",
+        "addressLine2": "中華人民共和国 広東省",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJe5zz7s-JAjQREbpvtxV_4_0",
+        "addressLine1": "佛山市三水希爾頓歡朋酒店",
+        "addressLine2": "中華人民共和国 仏山市 三水区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJh3N2Gc5OAjQRx1VuOrJ7nU4",
+        "addressLine1": "佛山市順德區大良文化站",
+        "addressLine2": "中華人民共和国 広東省 仏山市 順徳区 Fengshan Middle Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHeVw4eNbAjQRoYcrHBIK7zE",
+        "addressLine1": "佛山市祖廟博物館",
+        "addressLine2": "中華人民共和国 仏山市 禅城区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJ50uV5b5bAjQRlwp5DZZDjk8",
+        "addressLine1": "佛山市第一人民醫院",
+        "addressLine2": "中華人民共和国 仏山市 禅城区",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "佛山东方例会-1"
+}

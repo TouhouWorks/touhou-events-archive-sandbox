@@ -1,0 +1,20 @@
+{
+  "start": 1684540800,
+  "end": 1684540800,
+  "title": "東方遊劇天miniTHO",
+  "desc": "东方游剧天miniTHO 于 广州市 星之光·潮领地 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#ev-10",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e8b2d7bfd254c0b1448ca4482148958c035e37ee96adf74f29935f38fb72c2db",
+  "location": {
+    "type": "google",
+    "text": "广州市 星之光·潮领地",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方游剧天-10"
+}

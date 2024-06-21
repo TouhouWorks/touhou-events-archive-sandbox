@@ -1,0 +1,46 @@
+{
+  "start": 1397865600,
+  "end": 1397865600,
+  "title": "星虹砕／祭【永】",
+  "desc": "星虹碎／祭【永】 于 东京都 惠比寿LIQUIDROOM 举办",
+  "url": "https://thwiki.cc/%E6%98%9F%E8%99%B9%E7%A2%8E%EF%BC%8F%E7%A5%AD#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "845bdea3142a529f52f8e4b943f3ccac96bc6827bd038bfd0903444674b8f9be",
+  "location": {
+    "type": "google",
+    "text": "东京都 惠比寿LIQUIDROOM",
+    "entity": [
+      {
+        "id": "ChIJWRK3eBSLGGARCdO8OgKkE5w",
+        "addressLine1": "惠比寿",
+        "addressLine2": "日本、東京都渋谷区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJAWwhhZkIAWARlNmEvYx48oM",
+        "addressLine1": "京都ゑびす神社",
+        "addressLine2": "日本、京都府京都市東山区小松町１２５",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "星虹碎／祭-3"
+}

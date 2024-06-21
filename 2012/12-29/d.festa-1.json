@@ -1,0 +1,19 @@
+{
+  "start": 1356739200,
+  "end": 1356739200,
+  "title": "D.FESTA 4",
+  "desc": "D.FESTA 4 于 韩国首尔 首尔会议中心（Hall B） 举办",
+  "url": "https://thwiki.cc/D.FESTA#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b980cfa7413bc3cc12bf7f55dcb7bb3fe184a08b3aeb6ea746c9824908a11bf8",
+  "location": {
+    "type": "google",
+    "text": "韩国首尔 首尔会议中心（Hall B）",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "d.festa-1"
+}

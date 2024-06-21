@@ -1,0 +1,84 @@
+{
+  "start": 1376784000,
+  "end": 1376784000,
+  "title": "RISE UP EAST!! VOL.1",
+  "desc": "RISE UP EAST!! VOL.1 于 埼玉县川越市 川越CHIKO 举办",
+  "url": "https://thwiki.cc/RISE_UP_EAST!!#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "48d6029c6a6f6258a945fe0677ab943be3d55dc8aac74cebf79d32272e0dc0c1",
+  "location": {
+    "type": "google",
+    "text": "埼玉县川越市 川越CHIKO",
+    "entity": [
+      {
+        "id": "ChIJR4LVwFzaGGARYtOAfxQXQ5A",
+        "addressLine1": "川越スタジオチコ",
+        "addressLine2": "日本、埼玉県川越市六軒町１丁目3−５",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJk6sOrpXaGGARAa7ln1u26uc",
+        "addressLine1": "川越",
+        "addressLine2": "日本、埼玉県川越市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJc0tiZ4vaGGAR1hq0g2ws95c",
+        "addressLine1": "川越城",
+        "addressLine2": "日本、埼玉県川越市郭町２丁目１３−番地",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJtS08ylzaGGARk4fRJ4YeQbk",
+        "addressLine1": "川越市",
+        "addressLine2": "日本、埼玉県川越市六軒町１丁目４",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJSU3PuVbaGGARtSTDOCjt0ek",
+        "addressLine1": "川越",
+        "addressLine2": "日本、埼玉県川越市脇田本町",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "rise-up-east!!-1"
+}

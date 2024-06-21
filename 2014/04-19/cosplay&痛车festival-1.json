@@ -1,0 +1,34 @@
+{
+  "start": 1397865600,
+  "end": 1397865600,
+  "title": "第七回 コスプレ＆痛車フェスティバル",
+  "desc": "第七回 Cosplay&痛车Festival 于 大阪府河内长野市 关西Cycle Sports Center 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4f122073722c6a000c154ff78740e6296fcdf391469182c660627e75077427ab",
+  "location": {
+    "type": "google",
+    "text": "大阪府河内长野市 关西Cycle Sports Center",
+    "entity": [
+      {
+        "id": "ChIJowad4H3UAGARwwpdwjd8Cko",
+        "addressLine1": "关西自行车运动中心",
+        "addressLine2": "日本、大阪府河内長野市天野町１３０４",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "cosplay&痛车festival-1"
+}

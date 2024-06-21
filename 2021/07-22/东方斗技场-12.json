@@ -1,0 +1,30 @@
+{
+  "start": 1626912000,
+  "end": 1626912000,
+  "title": "東方コロシアム12",
+  "desc": "东方斗技场12 于 东京 都立产业贸易中心台东馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%96%97%E6%8A%80%E5%9C%BA#ev-12",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "269c0eb9d7463b7ebcb92397d75f7aed634445998c7fd7c1c5e57e20b4d218b4",
+  "location": {
+    "type": "google",
+    "text": "东京 都立产业贸易中心台东馆",
+    "entity": [
+      {
+        "id": "ChIJ9dCB2cOOGGARxq6ZRp_ssoI",
+        "addressLine1": "東京都立產業貿易中心 台東館",
+        "addressLine2": "日本、東京都台東区花川戸２丁目６−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方斗技场-12"
+}

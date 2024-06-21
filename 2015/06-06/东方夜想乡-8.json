@@ -1,0 +1,19 @@
+{
+  "start": 1433548800,
+  "end": 1433548800,
+  "title": "東方夜想郷8",
+  "desc": "东方夜想乡8 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%9C%E6%83%B3%E4%B9%A1#ev-8",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "781f942ae19ccfb01f9be039483ff0d01484f661d0c04de0dbb7439f68de3b7d",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方夜想乡-8"
+}

@@ -1,0 +1,56 @@
+{
+  "start": 1685750400,
+  "end": 1685750400,
+  "title": "東方弾薬火蔵1",
+  "desc": "东方弹药火藏1 于 大阪市中央区 难波MILULARI Legacy 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%B9%E8%8D%AF%E7%81%AB%E8%97%8F#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b20207edb75dc4f033747a0a94493292837af185840854fcdd17c9ad07412002",
+  "location": {
+    "type": "google",
+    "text": "大阪市中央区 难波MILULARI Legacy",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJOXPJyWznAGARahb0KWFRjlM",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJFXXzNhPnAGARUifDEqMzXl4",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区難波１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方弹药火藏-1"
+}

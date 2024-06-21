@@ -1,0 +1,30 @@
+{
+  "start": 1543622400,
+  "end": 1543622400,
+  "title": "ぴょこっと合同祭！1",
+  "desc": "探头合同祭！1 于 札幌市 札幌L・PLAZA 举办",
+  "url": "https://thwiki.cc/%E6%8E%A2%E5%A4%B4%E5%90%88%E5%90%8C%E7%A5%AD%EF%BC%81#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d21ada57e53837a8c190795e6467ded39d9a45a6deddb9dca5e91bc763041095",
+  "location": {
+    "type": "google",
+    "text": "札幌市 札幌L・PLAZA",
+    "entity": [
+      {
+        "id": "ChIJuSxddgspC18R54DKw7Ux-5I",
+        "addressLine1": "札幌エルプラザ",
+        "addressLine2": "日本、北海道札幌市北区北８条西３丁目２８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "探头合同祭！-1"
+}

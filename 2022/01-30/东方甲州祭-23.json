@@ -1,0 +1,32 @@
+{
+  "start": 1643500800,
+  "end": 1643500800,
+  "title": "東方甲州祭番外地1",
+  "desc": "东方甲州祭番外地1 于 道之驿 富士川 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%94%B2%E5%B7%9E%E7%A5%AD#ev-23",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0bb226c09c4d58109ea8391dc6e9e0a34cae0be5d2f75d8c1ff43b79f9d9fec1",
+  "location": {
+    "type": "google",
+    "text": "道之驿 富士川",
+    "entity": [
+      {
+        "id": "ChIJabhG8z_TG2AR2nu6YGg0fKM",
+        "addressLine1": "道路休息站 富士川樂座",
+        "addressLine2": "日本、静岡県富士市岩淵１４８８−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方甲州祭-23"
+}

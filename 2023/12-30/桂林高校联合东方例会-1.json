@@ -1,0 +1,30 @@
+{
+  "start": 1703894400,
+  "end": 1703894400,
+  "title": "桂林高校联合东方例会1",
+  "desc": "桂林高校联合东方例会1 于 广西壮族自治区桂林市秀峰区东西巷c座301室三楼小酒馆 举办",
+  "url": "https://thwiki.cc/%E6%A1%82%E6%9E%97%E9%AB%98%E6%A0%A1%E8%81%94%E5%90%88%E4%B8%9C%E6%96%B9%E4%BE%8B%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ff3b385d2164b727761b9d7cac5b517c52a67b67e7ef25099699d95000fb335a",
+  "location": {
+    "type": "google",
+    "text": "广西壮族自治区桂林市秀峰区东西巷c座301室三楼小酒馆",
+    "entity": [
+      {
+        "id": "ChIJw7Kug7j1pDYRBrE8cZYhez4",
+        "addressLine1": "桂林逍遥楼·东西巷景区",
+        "addressLine2": "中華人民共和国 广西壮族自治区桂林市秀峰区 24, Jiefang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "桂林高校联合东方例会-1"
+}

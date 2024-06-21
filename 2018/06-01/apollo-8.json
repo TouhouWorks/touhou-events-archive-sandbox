@@ -1,0 +1,19 @@
+{
+  "start": 1527811200,
+  "end": 1527811200,
+  "title": "BOOTH Festival APOLLO 第8回",
+  "desc": "BOOTH Festival APOLLO 第8回 于 https://booth.pm/ja/exhibitions/bf-apollo08 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e44cc23ed0634e7900916427ca454887e86d86ac4453ef08c0729546b7765d64",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/ja/exhibitions/bf-apollo08",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "apollo-8"
+}

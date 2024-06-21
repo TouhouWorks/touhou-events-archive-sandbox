@@ -1,0 +1,32 @@
+{
+  "start": 1406419200,
+  "end": 1406419200,
+  "title": "東方北陸祭 第十二弾",
+  "desc": "东方北陆祭 第十二弹 于 金泽劳动者广场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%99%86%E7%A5%AD#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5c97bb5650861a7753019cb8580d8176eb4d641cbbbfe0574a7e3d12a8d2017e",
+  "location": {
+    "type": "google",
+    "text": "金泽劳动者广场",
+    "entity": [
+      {
+        "id": "ChIJvU0a16iNAzQRNrW2YS2kAhc",
+        "addressLine1": "劳动者广场停车场",
+        "addressLine2": "中華人民共和国 広東省 深セン 宝安区 Huafan Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方北陆祭-12"
+}

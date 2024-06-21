@@ -1,0 +1,70 @@
+{
+  "start": 1468627200,
+  "end": 1468627200,
+  "title": "魔都百合Only 1",
+  "desc": "魔都百合Only 1 于 上海国际工业设计中心 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E9%83%BD%E7%99%BE%E5%90%88Only#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c9376eb2977e2b53826e5ecdf613af49e34a57d95df88ac44de4b196f84bafd7",
+  "location": {
+    "type": "google",
+    "text": "上海国际工业设计中心",
+    "entity": [
+      {
+        "id": "ChIJVXV5pxxzsjURtLiWTP_jF8A",
+        "addressLine1": "上海国际工业设计中心",
+        "addressLine2": "中華人民共和国 上海市 Baoshan",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJ-4eWEJlsjURBxi_9EAFBCk",
+        "addressLine1": "上海国际工业设计中心（长宁中心）",
+        "addressLine2": "中華人民共和国 上海市 長寧区 351, Zhaohua Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc7BNpxxzsjURdb4wy5btFEs",
+        "addressLine1": "上海国际工业设计中心１号楼",
+        "addressLine2": "中華人民共和国 上海市 Baoshan, 中原地区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJf5nSohxzsjURfqN1c7OORf0",
+        "addressLine1": "上海国际工业设计中心６号楼",
+        "addressLine2": "中華人民共和国 上海市 Baoshan, 西泗塘",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJq6c9oBxzsjUR205Sci2Adc8",
+        "addressLine1": "上海国际工业设计中心２号楼",
+        "addressLine2": "中華人民共和国 上海市 Baoshan, Wujiaochang",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魔都百合only-1"
+}

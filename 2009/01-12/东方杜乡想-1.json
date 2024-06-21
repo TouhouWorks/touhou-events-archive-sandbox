@@ -1,0 +1,30 @@
+{
+  "start": 1231718400,
+  "end": 1231718400,
+  "title": "東方杜郷想1",
+  "desc": "东方杜乡想1 于 仙台市青年文化中心 2层 交流Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9D%9C%E4%B9%A1%E6%83%B3#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "015a9c00ef62fc18c187e3aef7af15e71e020976d7b5556acc250c7df6058b03",
+  "location": {
+    "type": "google",
+    "text": "仙台市青年文化中心 2层 交流Hall",
+    "entity": [
+      {
+        "id": "ChIJ6wxVnxeHiV8Rn3MRYH2ER_0",
+        "addressLine1": "日立システムズホール仙台（仙台市青年文化センター）",
+        "addressLine2": "日本、宮城県仙台市青葉区旭ケ丘３丁目２７−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方杜乡想-1"
+}

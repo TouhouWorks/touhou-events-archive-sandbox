@@ -1,0 +1,32 @@
+{
+  "start": 1522886400,
+  "end": 1522886400,
+  "title": "东方天南宴3",
+  "desc": "东方天南宴3 于 天津南开大学啄璞咖啡馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1b8d1875d0b7e84d390d081d12267ad42ba25310a30fba8f21422a6ebefe796c",
+  "location": {
+    "type": "google",
+    "text": "天津南开大学啄璞咖啡馆",
+    "entity": [
+      {
+        "id": "ChIJmW7I1pQH7jURNnt6i5VFO2Y",
+        "addressLine1": "南開区",
+        "addressLine2": "中華人民共和国 天津市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方天南宴-3"
+}

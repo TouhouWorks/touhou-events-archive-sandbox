@@ -1,0 +1,30 @@
+{
+  "start": 1489276800,
+  "end": 1489276800,
+  "title": "CRUSH!50",
+  "desc": "CRUSH!50 于 奥州市 奥州市文化会馆・Z Hall 举办",
+  "url": "https://thwiki.cc/CRUSH!#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "997cb6ef825f7de9b0f134795c63a94ee4830ab5ce5aa67d61ad45b59a9350e2",
+  "location": {
+    "type": "google",
+    "text": "奥州市 奥州市文化会馆・Z Hall",
+    "entity": [
+      {
+        "id": "ChIJCTQhbEBKj18RFxCy6E8HuyQ",
+        "addressLine1": "奥州市文化会館Ｚホール",
+        "addressLine2": "日本、岩手県奥州市水沢佐倉河石橋４１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "crush!-2"
+}

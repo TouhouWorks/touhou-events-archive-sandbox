@@ -1,0 +1,76 @@
+{
+  "start": 1363996800,
+  "end": 1363996800,
+  "title": "第一次百鬼戦争",
+  "desc": "第一次百鬼战争 于 大阪市 LIVE HOUSE D 举办",
+  "url": "https://thwiki.cc/%E7%99%BE%E9%AC%BC%E6%88%98%E4%BA%89#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "56164b7378564713c7839e1fcc76ddaeb782e8c8d42f21cb701b7db6ad9dfb70",
+  "location": {
+    "type": "google",
+    "text": "大阪市 LIVE HOUSE D",
+    "entity": [
+      {
+        "id": "ChIJUVVl5unmAGAR4vMVFfdvgS8",
+        "addressLine1": "LIVE HOUSE D",
+        "addressLine2": "日本、大阪府大阪市北区西天満６丁目２−１４",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJbRJWw5rlAGAR3k7xOx4PJl8",
+        "addressLine1": "LIVE HOUSE ＆ BAR DEALT",
+        "addressLine2": "日本、大阪府大阪市東淀川区西淡路５丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "SHOPS_AND_SERVICES",
+          "BAR",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJ5d7dWGjnAGAR-nu--9hZb_w",
+        "addressLine1": "Live house Nippombashi UPs",
+        "addressLine2": "１丁目-４-１６ 日本橋西 浪速区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__8PkRXnAGARVhq92wPH_UQ",
+        "addressLine1": "Live House Juza",
+        "addressLine2": "２丁目-１-１３ 東心斎橋 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJUfTikBXnAGARFunIlcu3c7w",
+        "addressLine1": "The iive house Soma",
+        "addressLine2": "２丁目-１-１３ 東心斎橋 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "百鬼战争-1"
+}

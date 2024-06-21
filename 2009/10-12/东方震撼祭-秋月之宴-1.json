@@ -1,0 +1,19 @@
+{
+  "start": 1255305600,
+  "end": 1255305600,
+  "title": "東方震撼祭 -秋月の宴-1",
+  "desc": "东方震撼祭 -秋月之宴-1 于 东京都 田町Studio Cube 326 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9C%87%E6%92%BC%E7%A5%AD_-%E7%A7%8B%E6%9C%88%E4%B9%8B%E5%AE%B4-#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b57944786d71d935e996e3f5a04355300be7c85b12ded29f3152c986f4ee78eb",
+  "location": {
+    "type": "google",
+    "text": "东京都 田町Studio Cube 326",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方震撼祭-秋月之宴-1"
+}

@@ -1,0 +1,80 @@
+{
+  "start": 1668902400,
+  "end": 1668902400,
+  "title": "東方混舞26",
+  "desc": "东方混舞26 于 大阪市 Community Plaza平野 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B7%B7%E8%88%9E#ev-26",
+  "type": [
+    "夜店舞会",
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7cd32507ca3826264c34ab89faa889ed16f69d154f0d18bc165dcd1f29897856",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Community Plaza平野",
+    "entity": [
+      {
+        "id": "ChIJX3yP6CffAGARY1AqgvRelMM",
+        "addressLine1": "平野区",
+        "addressLine2": "日本、大阪府大阪市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJtUGXAOHmAGARZglVVdVtdUo",
+        "addressLine1": "平野町",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ861RXOneAGARoZgRhI3HY90",
+        "addressLine1": "平野駅",
+        "addressLine2": "日本、大阪府大阪市平野区平野西５丁目２−先",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ4dn7tOjeAGARqJCp_ZuH78g",
+        "addressLine1": "平野本町",
+        "addressLine2": "日本、大阪府大阪市平野区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZy3SEfreAGAR6oGOlQ3Nl2E",
+        "addressLine1": "平野北",
+        "addressLine2": "日本、大阪府大阪市平野区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方混舞-26"
+}

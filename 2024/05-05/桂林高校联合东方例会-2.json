@@ -1,0 +1,30 @@
+{
+  "start": 1714867200,
+  "end": 1714867200,
+  "title": "桂林高校联合东方例会2",
+  "desc": "桂林高校联合东方例会2 于 桂林市七星区朝阳山庄别墅区A12-1号告白花园 举办",
+  "url": "https://thwiki.cc/%E6%A1%82%E6%9E%97%E9%AB%98%E6%A0%A1%E8%81%94%E5%90%88%E4%B8%9C%E6%96%B9%E4%BE%8B%E4%BC%9A#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "29545b97c10af8cba198b9755d093b8f84636ce990e9e5875b6029b9f984bc38",
+  "location": {
+    "type": "google",
+    "text": "桂林市七星区朝阳山庄别墅区A12-1号告白花园",
+    "entity": [
+      {
+        "id": "ChIJl9CY_v_1pDYRxctXzqhxy9Y",
+        "addressLine1": "朝阳山庄别墅区",
+        "addressLine2": "中華人民共和国 広西チワン族自治区 桂林市七星区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "桂林高校联合东方例会-2"
+}

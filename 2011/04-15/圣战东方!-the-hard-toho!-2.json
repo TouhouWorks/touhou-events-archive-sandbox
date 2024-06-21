@@ -1,0 +1,88 @@
+{
+  "start": 1302825600,
+  "end": 1302825600,
+  "title": "聖戦東方! -The HARD TOHO!-2nd Attack!!",
+  "desc": "圣战东方! -The HARD TOHO!-2nd Attack!! 于 东京都 新宿JAM 举办",
+  "url": "https://thwiki.cc/%E5%9C%A3%E6%88%98%E4%B8%9C%E6%96%B9!_-The_HARD_TOHO!-#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3103609fd253e325c23c184be24dada84a7fd89a54f04971e698cd82446d291d",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿JAM",
+    "entity": [
+      {
+        "id": "ChIJVQzraO2NGGARBgWAM5IIReY",
+        "addressLine1": "JAM17 DINING（JAM17・ダイニング）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ7-_rLwONGGARfaM7zQswskQ",
+        "addressLine1": "JAM17 BAR（JAM17・バー）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc3tqeFuNGGARy0j0v2LmyDc",
+        "addressLine1": "JAM17 GELATERIA（JAM17・ジェラテリア）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJpS_IVTeNGGARBW7cy0zIxD4",
+        "addressLine1": "cafe&bar Jam Lounge 高田馬場",
+        "addressLine2": "日本、東京都新宿区高田馬場３丁目１−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7c8PRp-NGGARgj2wQuulswk",
+        "addressLine1": "肉バル MEATBAR JAM（ミートバル ジャム）西早稲田",
+        "addressLine2": "日本、東京都新宿区西早稲田３丁目２０−４",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "圣战东方!-the-hard-toho!-2"
+}

@@ -1,0 +1,43 @@
+{
+  "start": 1529280000,
+  "end": 1529280000,
+  "title": "東方遊劇天1",
+  "desc": "东方游剧天1 于 广州市 大华酒店 12层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#ev-1",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71f7d801050a96fc28ea623e174ac51f4980b8946aedc854c402304601fb3e85",
+  "location": {
+    "type": "google",
+    "text": "广州市 大华酒店 12层",
+    "entity": [
+      {
+        "id": "ChIJA8xeeVT-AjQRSsAa6oWAyPg",
+        "addressLine1": "大华酒店",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区 Shipai Village",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ2wzQm1X-AjQRB92gDV6BFyw",
+        "addressLine1": "大华酒店",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区 天河路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方游剧天-1"
+}

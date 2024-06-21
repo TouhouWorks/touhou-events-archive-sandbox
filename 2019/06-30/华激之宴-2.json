@@ -1,0 +1,30 @@
+{
+  "start": 1561852800,
+  "end": 1561852800,
+  "title": "華激ノ宴2",
+  "desc": "华激之宴2 于 东京都 Rental Hall绵商会馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%8E%E6%BF%80%E4%B9%8B%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0ed4f722bc427c7596324b6651054d02a0310b79daba97bf0d22a266e1ea4527",
+  "location": {
+    "type": "google",
+    "text": "东京都 Rental Hall绵商会馆",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "华激之宴-2"
+}

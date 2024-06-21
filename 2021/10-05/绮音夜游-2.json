@@ -1,0 +1,33 @@
+{
+  "start": 1633392000,
+  "end": 1633392000,
+  "title": "绮音夜游 东方爵士研讨会",
+  "desc": "绮音夜游 东方爵士研讨会 于 北京 共享际(国贸店) 举办",
+  "url": "https://thwiki.cc/%E7%BB%AE%E9%9F%B3%E5%A4%9C%E6%B8%B8#ev-2",
+  "type": [
+    "音乐会",
+    "会议"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6847de0605264c209c7f159fd8da477af51eababf21ef506c23077d59ee922d3",
+  "location": {
+    "type": "google",
+    "text": "北京 共享际(国贸店)",
+    "entity": [
+      {
+        "id": "ChIJ__8v2wKt8TURHo4_SARnLN8",
+        "addressLine1": "共享际@国贸",
+        "addressLine2": "中華人民共和国 北京 朝陽区 Jianguomen Outside Residential District, Jianwai Street",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "绮音夜游-2"
+}

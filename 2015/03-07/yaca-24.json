@@ -1,0 +1,32 @@
+{
+  "start": 1425686400,
+  "end": 1425686400,
+  "title": "YACA44",
+  "desc": "YACA44 于 广州市 琶洲·中州中心 举办",
+  "url": "https://thwiki.cc/YACA#ev-24",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9d436a18359b8c533ce50bf390fb9cd788e2b17f885638ae0a059884dfc723d6",
+  "location": {
+    "type": "google",
+    "text": "广州市 琶洲·中州中心",
+    "entity": [
+      {
+        "id": "ChIJ4encVoP_AjQRINDX1tUPrwE",
+        "addressLine1": "海珠区 琶洲",
+        "addressLine2": "中華人民共和国 広東省 广州市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "yaca-24"
+}

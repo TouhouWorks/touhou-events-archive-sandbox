@@ -1,0 +1,45 @@
+{
+  "start": 1452038400,
+  "end": 1452038400,
+  "title": "神籬 ‘16 ~ Dream on Little Dreamers.",
+  "desc": "神篱 ‘16 ~ Dream on Little Dreamers. 于 东京都 cafe&bar LX 举办",
+  "url": "https://thwiki.cc/%E7%A5%9E%E7%AF%B1#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3caf75be7fedf4316a29b7caf35feea06ee77deb457d400a051933713ebf44e3",
+  "location": {
+    "type": "google",
+    "text": "东京都 cafe&bar LX",
+    "entity": [
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJe5gElQGpAWARvTkIO-v6H8I",
+        "addressLine1": "ROKU KYOTO, LXR Hotels & Resorts",
+        "addressLine2": "４４−１ 衣笠鏡石町 北区 京都市 京都府 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "spa",
+          "SPA",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "神篱-2"
+}

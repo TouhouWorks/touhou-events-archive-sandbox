@@ -1,0 +1,40 @@
+{
+  "start": 1272758400,
+  "end": 1272758400,
+  "title": "成都Rainbow Market同人祭1",
+  "desc": "成都Rainbow Market同人祭1 于 成都市 运动时空羽毛球馆 举办",
+  "url": "https://thwiki.cc/%E6%88%90%E9%83%BDRainbow_Market%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b16b67b6a2541c1e3c18dbb250dbe762d2822f089ed8088d7aa6b1b7c5876c03",
+  "location": {
+    "type": "google",
+    "text": "成都市 运动时空羽毛球馆",
+    "entity": [
+      {
+        "id": "ChIJFcuMdATQ7zYROJ6ygb-xIPQ",
+        "addressLine1": "运动时空羽毛球馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 成華区 2nd Ring Road East Section 1",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJMYW3XfXE7zYRwoX5ce_v1Xo",
+        "addressLine1": "运动时空羽毛球馆红牌楼店",
+        "addressLine2": "中華人民共和国 四川省 成都市 武侯区 红牌楼红牌楼商业广场",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "成都rainbow-market同人祭-1"
+}

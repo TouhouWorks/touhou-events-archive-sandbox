@@ -1,0 +1,30 @@
+{
+  "start": 1478908800,
+  "end": 1478908800,
+  "title": "幺樂団カァニバル！6",
+  "desc": "幺乐团嘉年华！6 于 川崎市产业振兴会馆 4层 举办",
+  "url": "https://thwiki.cc/%E5%B9%BA%E4%B9%90%E5%9B%A2%E5%98%89%E5%B9%B4%E5%8D%8E%EF%BC%81#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "63e5eadaa475c9fc89bcb2ead5e0bf91757418ba6b82b7346784d3107f428d9d",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幺乐团嘉年华！-6"
+}

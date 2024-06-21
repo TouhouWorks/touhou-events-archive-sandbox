@@ -1,0 +1,77 @@
+{
+  "start": 1643241600,
+  "end": 1643241600,
+  "title": "岳阳THP-东方醉梦楼",
+  "desc": "岳阳THP-东方醉梦楼 于 湖南省岳阳市 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E6%A2%A6%E6%A5%BC%E5%BF%86%E9%A3%8E#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "503f4fe68798453e6570a7f8551c3150b58b3a8f88646a21d490dd0fac4d3a4a",
+  "location": {
+    "type": "google",
+    "text": "湖南省岳阳市",
+    "entity": [
+      {
+        "id": "ChIJL8PpA8q3JzQRCpNdwE-lcvU",
+        "addressLine1": "岳阳市",
+        "addressLine2": "中華人民共和国 湖南省",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ6V6ME57cJzQRji_TRT3IBB0",
+        "addressLine1": "湖南省岳阳市第一中学",
+        "addressLine2": "中華人民共和国 湖南省 岳陽県 岳陽楼区 Dongting North Road",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJtSZgQTN-KDQR0K0HeZHbdjs",
+        "addressLine1": "湖南省岳阳市云溪区地方税务局第二税务分局",
+        "addressLine2": "中華人民共和国 湖南省 岳陽県 雲渓区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWaXnqMrEJzQRZR9_CwX9zeY",
+        "addressLine1": "湖南省岳阳市质量技术监督局",
+        "addressLine2": "中華人民共和国 湖南省 岳陽県 岳陽楼区 Qiusuo East Road",
+        "provider": "google_places",
+        "categories": [
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJbewU0qfcJzQR3MGBQ-TkH9I",
+        "addressLine1": "湖南省岳阳市第三中学",
+        "addressLine2": "中華人民共和国 湖南省 岳陽県 岳陽楼区 Qianmingsi",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想梦楼忆风-1"
+}

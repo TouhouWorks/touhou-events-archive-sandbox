@@ -1,0 +1,62 @@
+{
+  "start": 1707004800,
+  "end": 1707004800,
+  "title": "柳州THP-东方江柳曲1",
+  "desc": "柳州THP-东方江柳曲1 于 广西壮族自治区柳州市 柳南区 南疆宾馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B1%9F%E6%9F%B3%E6%9B%B2#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7eb72bf004e29b6ad36367040fa89a46766d76a57f6da7903cb74be009f92dd6",
+  "location": {
+    "type": "google",
+    "text": "广西壮族自治区柳州市 柳南区 南疆宾馆",
+    "entity": [
+      {
+        "id": "ChIJ5yCySRcGsDYR-gX0e3qHYdk",
+        "addressLine1": "南疆宾馆",
+        "addressLine2": "中華人民共和国 广西壮族自治区柳州市柳南区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ3UFwTxcGsDYRHwxjr5d8sM4",
+        "addressLine1": "南疆宾馆",
+        "addressLine2": "中華人民共和国 广西壮族自治区柳州市柳南区飞鹅路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ2QEeTxcGsDYR-7gJd9yMIsg",
+        "addressLine1": "柳州南疆宾馆西楼",
+        "addressLine2": "中華人民共和国 广西壮族自治区柳州市柳南区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJo8psMRcGsDYRPFaP-9kTJlE",
+        "addressLine1": "南疆宾馆停车场",
+        "addressLine2": "中華人民共和国 广西壮族自治区柳州市柳南区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方江柳曲-1"
+}

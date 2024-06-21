@@ -1,0 +1,72 @@
+{
+  "start": 1302998400,
+  "end": 1302998400,
+  "title": "囧囧有神同人祭5",
+  "desc": "囧囧有神同人祭5 于 北京市 国家会议中心 举办",
+  "url": "https://thwiki.cc/%E5%9B%A7%E5%9B%A7%E6%9C%89%E7%A5%9E%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8ca7f03a993c1f143e843a8982992d8dc15b7afd95101c5e86ae2ed431e2812c",
+  "location": {
+    "type": "google",
+    "text": "北京市 国家会议中心",
+    "entity": [
+      {
+        "id": "ChIJU4rZfuZU8DURBBsb5tW4n0Q",
+        "addressLine1": "国家会议中心",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 塔院",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ7VsgT-RU8DURNUKwO0CDOw0",
+        "addressLine1": "国家会议中心大酒店",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 北辰西路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ7VsgT-RU8DURXwJSUl60DWQ",
+        "addressLine1": "国家会议中心",
+        "addressLine2": "中華人民共和国 北京市 朝陽区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1bYERORU8DURHyCCnhn95mU",
+        "addressLine1": "国家会议中心大酒店",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 太阳宫",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJk1vXH-RU8DURnyAiEgeoDw4",
+        "addressLine1": "国家会议中心写字楼北区",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 安贞 Tianchen East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "囧囧有神同人祭-5"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1241136000,
+  "end": 1241136000,
+  "title": "YACA27",
+  "desc": "YACA27 于 广州市 越秀综合运动中心 举办",
+  "url": "https://thwiki.cc/YACA#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6f11417e09e5580a7150da26b32543dac3792185812ae03a3125c6b9cabee14",
+  "location": {
+    "type": "google",
+    "text": "广州市 越秀综合运动中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "yaca-6"
+}

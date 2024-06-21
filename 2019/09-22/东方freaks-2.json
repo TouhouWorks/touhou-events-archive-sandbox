@@ -1,0 +1,42 @@
+{
+  "start": 1569110400,
+  "end": 1569110400,
+  "title": "東方フリークスVol.2",
+  "desc": "东方FREAKSVol.2 于 东京市 涩谷TAKE OFF 7 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Freaks#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b524fd74ee73fd4a257b16815e004cfef9c6f913d3ac78060d127e310a276e8a",
+  "location": {
+    "type": "google",
+    "text": "东京市 涩谷TAKE OFF 7",
+    "entity": [
+      {
+        "id": "ChIJB0p0c6mMGGARghtYK0lGJJ4",
+        "addressLine1": "ライブハウス SHIBUYA TAKE OFF 7",
+        "addressLine2": "日本、東京都渋谷区宇田川町３２−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc_u3i6mMGGARi6noe0O6ToM",
+        "addressLine1": "Take Off",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目２０",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方freaks-2"
+}

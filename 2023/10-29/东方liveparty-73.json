@@ -1,0 +1,54 @@
+{
+  "start": 1698537600,
+  "end": 1698537600,
+  "title": "东方LiveParty袋装鸡翅合同Live",
+  "desc": "东方LiveParty袋装鸡翅合同Live 于 浙江省 杭州市 上城区 尚城1157·利星 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-73",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a95ed1a794b7253f84cb99cf2884e3e958f06d7404ab4a6cff86d2f798884333",
+  "location": {
+    "type": "google",
+    "text": "浙江省 杭州市 上城区 尚城1157·利星",
+    "entity": [
+      {
+        "id": "ChIJ-dY2VlKdTDQRl9J8gcs3EoQ",
+        "addressLine1": "尚城１１５７利星广场电动汽车充电站",
+        "addressLine2": "中華人民共和国 杭州市上城区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJb0jZ81KdTDQR4f9ZMm8q1lU",
+        "addressLine1": "尚城１１５７·利星旅游综合体社会公共临时停车场",
+        "addressLine2": "中華人民共和国 浙江省杭州市上城区 77",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ40-C2VKdTDQRM-fZSuKmQCg",
+        "addressLine1": "尚城１１５７·利星社会公共停车场",
+        "addressLine2": "中華人民共和国 浙江省杭州市上城区 77",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-73"
+}

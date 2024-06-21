@@ -1,0 +1,64 @@
+{
+  "start": 1458432000,
+  "end": 1458432000,
+  "title": "第十一回西方の東方読書会",
+  "desc": "第十一回西方的东方读书会 于 佐贺县鸟栖市 サンメッセ鳥栖 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E6%96%B9%E7%9A%84%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-12",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ceb1c35bde4a0903b0be5d7149e7749a5bfdc22bcd50c320932c3fd2dcf16568",
+  "location": {
+    "type": "google",
+    "text": "佐贺县鸟栖市 サンメッセ鳥栖",
+    "entity": [
+      {
+        "id": "ChIJ-7mjPK6jQTUROQR1zqu1J8M",
+        "addressLine1": "サンメッセ鳥栖",
+        "addressLine2": "日本、佐賀県鳥栖市本鳥栖町１８１９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJpbNOJzWjQTURgNn6CjHm_vE",
+        "addressLine1": "サンメッセ鳥栖 駐車場",
+        "addressLine2": "日本、佐賀県鳥栖市本鳥栖町",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJcaWbZUKjQTURgKz2PGJgr40",
+        "addressLine1": "サンメッセ鳥栖都市広場",
+        "addressLine2": "日本、佐賀県鳥栖市本鳥栖町",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJnw0OzUijQTUR97Mcwdb1FoA",
+        "addressLine1": "サンメッセ鳥栖都市広場 公衆トイレ",
+        "addressLine2": "日本、佐賀県鳥栖市本鳥栖町",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "西方的东方读书会-12"
+}

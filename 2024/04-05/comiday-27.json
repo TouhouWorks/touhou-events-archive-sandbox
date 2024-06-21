@@ -1,0 +1,19 @@
+{
+  "start": 1712275200,
+  "end": 1712275200,
+  "title": "COMIDAY27",
+  "desc": "COMIDAY27 于 成都市 中国西部国际博览城 14-16号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-27",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b683db1fb29853ebd5901a2f2c06682f91f1287d0829c1a652056a6f1bd8425b",
+  "location": {
+    "type": "google",
+    "text": "成都市 中国西部国际博览城 14-16号馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comiday-27"
+}

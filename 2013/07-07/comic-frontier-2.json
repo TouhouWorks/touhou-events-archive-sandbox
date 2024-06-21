@@ -1,0 +1,50 @@
+{
+  "start": 1373155200,
+  "end": 1373155200,
+  "title": "Comic Frontier 2",
+  "desc": "Comic Frontier 2 于 印度尼西亚 雅加达 印度尼西亚大学 举办",
+  "url": "https://thwiki.cc/Comic_Frontier#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1e03e8a24163c5a1740e3937ae1489a70d54b7547abcd9cd3757d5351e81fe54",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 雅加达 印度尼西亚大学",
+    "entity": [
+      {
+        "id": "ChIJhYtOgBrsaS4RB-p8l-GAv9c",
+        "addressLine1": "インドネシア大学",
+        "addressLine2": "インドネシア 西ジャワ Depok City, Beji, Pondok Cina",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJB9Y8liH0aS4RemVuMOm5PFA",
+        "addressLine1": "印尼雅加达凯宾斯基酒店",
+        "addressLine2": "インドネシア ジャカルタ Central Jakarta City, メンテン",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "spa",
+          "SPA",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-frontier-2"
+}

@@ -1,0 +1,60 @@
+{
+  "start": 1576281600,
+  "end": 1576281600,
+  "title": "東方愛魔宴1",
+  "desc": "东方爱魔宴1 于 广岛市 广岛UP-WARD 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%88%B1%E9%AD%94%E5%AE%B4#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1292964652dd7bb77c21ff63ea85fdc9d192d82692a57d62a9a636a5f91c9800",
+  "location": {
+    "type": "google",
+    "text": "广岛市 广岛UP-WARD",
+    "entity": [
+      {
+        "id": "ChIJq6rTBwWiWjURSazBDnnzllg",
+        "addressLine1": "広島UP-WARD",
+        "addressLine2": "日本、広島県広島市中区薬研堀７−９−6 階",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJr44VjxWjWjURmBLsiDB8wVo",
+        "addressLine1": "广岛西飞行场",
+        "addressLine2": "日本、広島県広島市西区観音新町４丁目１０−２",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJO1MgvFOfWjUR6-cLRTI_QSg",
+        "addressLine1": "广岛",
+        "addressLine2": "日本、広島県広島市南区松原町１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方爱魔宴-1"
+}

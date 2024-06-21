@@ -1,0 +1,30 @@
+{
+  "start": 1287878400,
+  "end": 1287878400,
+  "title": "東方筑音輝 1",
+  "desc": "东方筑音辉 1 于 北九州市 西日本综合展示场 新馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%AD%91%E9%9F%B3%E8%BE%89#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8ab5e47b4556362f9e1e9d5c0be5d4b2bcbfdd1b2dcacbaaf9e9136a113f6c8f",
+  "location": {
+    "type": "google",
+    "text": "北九州市 西日本综合展示场 新馆",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方筑音辉-1"
+}

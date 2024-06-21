@@ -1,0 +1,66 @@
+{
+  "start": 1705190400,
+  "end": 1705190400,
+  "title": "こみっく★トレジャー 43",
+  "desc": "ComicTreasure 43 于 INTEX大阪 举办",
+  "url": "https://thwiki.cc/ComicTreasure#ev-44",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7ad9e3acd091c02fac54a4724398840215e092a3eaef8567d25a2a19247cc5b7",
+  "location": {
+    "type": "google",
+    "text": "INTEX大阪",
+    "entity": [
+      {
+        "id": "ChIJAQAAy0_oAGAR8pBrXsjJnMA",
+        "addressLine1": "INTEX大阪",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6fHBIE7oAGARy0PQTk2uBtA",
+        "addressLine1": "インテックス大阪 6号館",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJnTXFMB3pAGARAsKF27uFAck",
+        "addressLine1": "インテックス大阪 駐車場",
+        "addressLine2": "日本、大阪府大阪市住之江区南港中５丁目２−４８",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJvTJJ2BbpAGAR7Ao8FMpbZKk",
+        "addressLine1": "Intex Cafe",
+        "addressLine2": "１丁目-５-１０２ 南港北 住之江区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comictreasure-44"
+}

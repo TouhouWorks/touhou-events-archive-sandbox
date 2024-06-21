@@ -1,0 +1,74 @@
+{
+  "start": 1440201600,
+  "end": 1440201600,
+  "title": "幻想カフェテラス 1",
+  "desc": "幻想Cafe Terrace 1 于 名古屋市 SPICA 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Cafe_Terrace#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e2fc25637059d69f9556654b9d0f9e807be5f3bba5c1801d1d185990df5dda44",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 SPICA",
+    "entity": [
+      {
+        "id": "ChIJQ5ibRn5xA2ARW_MgGVvOsjE",
+        "addressLine1": "Spica hair design",
+        "addressLine2": "日本、愛知県名古屋市北区大曽根２丁目１２−４",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVypIeQB7A2ARY3EnoXR5M6Y",
+        "addressLine1": "SPICA",
+        "addressLine2": "日本、愛知県名古屋市南区鳴浜町３丁目４５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWb5OzCp3A2ARBzVtDDEAdc8",
+        "addressLine1": "spica",
+        "addressLine2": "日本、愛知県名古屋市中区錦３丁目１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ2eZBZaR2A2AR4bWWTqaNDn4",
+        "addressLine1": "Spica",
+        "addressLine2": "１丁目-１４-７ 児玉 西区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJRVeuvcJ6A2ARQPbqXgixsoc",
+        "addressLine1": "美容室 SPICA八事店",
+        "addressLine2": "日本、愛知県名古屋市天白区八事天道２０６",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想cafe-terrace-1"
+}

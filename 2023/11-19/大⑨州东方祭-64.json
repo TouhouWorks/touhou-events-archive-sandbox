@@ -1,0 +1,30 @@
+{
+  "start": 1700352000,
+  "end": 1700352000,
+  "title": "大⑨州東方祭62",
+  "desc": "大⑨州东方祭62 于 福冈市 Papillon 24 Gas Hall 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-64",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "da01814a458baed142f052d8e583332d6b3a70cf64592ddc5aecec139c585d35",
+  "location": {
+    "type": "google",
+    "text": "福冈市 Papillon 24 Gas Hall",
+    "entity": [
+      {
+        "id": "ChIJVVVVktyRQTURYVI0sdQfdAM",
+        "addressLine1": "Papillon 24 Gas Hall",
+        "addressLine2": "１丁目-１７-１ 千代 博多区 福岡市 福岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大⑨州东方祭-64"
+}

@@ -1,0 +1,82 @@
+{
+  "start": 1560038400,
+  "end": 1560038400,
+  "title": "Lunatic East 2019 4",
+  "desc": "Lunatic East 2019 4 于 郡山市 郡山club #9 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dc171ac552e811d1188aa3301c617e5c1fe41d6df0aee4a34ecabf05fb485470",
+  "location": {
+    "type": "google",
+    "text": "郡山市 郡山club #9",
+    "entity": [
+      {
+        "id": "ChIJA2jE-YZsIGARL8rySTtxdR4",
+        "addressLine1": "ＣＬＵＢ♯９",
+        "addressLine2": "日本、福島県郡山市駅前２丁目７−１５",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJG_J3_X9sIGARkkCmEsv57mw",
+        "addressLine1": "ハローワーク郡山",
+        "addressLine2": "日本、〒963-8811 福島県郡山市方八町２丁目１−２６",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJVb3kpIZsIGARnluRncDI0qg",
+        "addressLine1": "わさび 郡山",
+        "addressLine2": "日本、〒963-8004 福島県郡山市中町１２−９",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJO4BuE6drIGARdZCNWM-gb_w",
+        "addressLine1": "郡山自動車学校",
+        "addressLine2": "日本、〒963-0725 福島県郡山市田村町金屋マセ口５３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJR0Ip7cVsIGARMwVOu_NLRnk",
+        "addressLine1": "郡山市保健所",
+        "addressLine2": "日本、〒963-8024 福島県郡山市朝日２丁目１５−１",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "local_government_office",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "GOVERNMENT",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "lunatic-east-2019-4"
+}

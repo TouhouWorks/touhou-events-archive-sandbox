@@ -1,0 +1,44 @@
+{
+  "start": 1660435200,
+  "end": 1660435200,
+  "title": "宜昌THO-巴楚闲吟",
+  "desc": "宜昌THO-巴楚闲吟 于 湖北省宜昌市 西陵区 馨岛国际酒店 举办",
+  "url": "https://thwiki.cc/%E6%9A%AE%E9%9B%A8%E6%98%8E%E9%98%81#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57a1e25be0d59bdf34a540665da1df513877464a92e2ac709e29beb733b671f6",
+  "location": {
+    "type": "google",
+    "text": "湖北省宜昌市 西陵区 馨岛国际酒店",
+    "entity": [
+      {
+        "id": "ChIJY0JzNreagzYRpJvqguoDMJ0",
+        "addressLine1": "馨岛国际酒店",
+        "addressLine2": "中華人民共和国 湖北省宜昌市西陵区东山大道",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ64p-SLeagzYR8OoWKpF-Bro",
+        "addressLine1": "馨岛国际酒店地下停车场",
+        "addressLine2": "中華人民共和国 湖北省宜昌市西陵区 51, Dongshan Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "暮雨明阁-2"
+}

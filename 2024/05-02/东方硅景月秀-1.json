@@ -1,0 +1,34 @@
+{
+  "start": 1714608000,
+  "end": 1714608000,
+  "title": "东方硅景月秀1",
+  "desc": "东方硅景月秀1 于 广东省深圳市龙岗区 文博宫-1号馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A1%85%E6%99%AF%E6%9C%88%E7%A7%80#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ecddd562558b0fe0ad19249119006d41d19cdfc7b3fdfdb7177bccd8c034c024",
+  "location": {
+    "type": "google",
+    "text": "广东省深圳市龙岗区 文博宫-1号馆",
+    "entity": [
+      {
+        "id": "ChIJ5XEpNSz1AzQRN8j14qewewg",
+        "addressLine1": "文博宫",
+        "addressLine2": "中華人民共和国 广东省深圳市龙岗区布吉镇 West Ring Road",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "point_of_interest",
+          "store",
+          "HOME_AND_GARDEN"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方硅景月秀-1"
+}

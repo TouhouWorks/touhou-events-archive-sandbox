@@ -1,0 +1,19 @@
+{
+  "start": 1325203200,
+  "end": 1325203200,
+  "title": "Comic Market 81",
+  "desc": "Comic Market 81 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-26",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "194ee8ab66f2d3402b4c3e51329d50796b5b86a84c1434f786d2d0b348ab4b08",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-26"
+}

@@ -1,0 +1,76 @@
+{
+  "start": 1676678400,
+  "end": 1676678400,
+  "title": "蓬萊祭2",
+  "desc": "蓬莱祭2 于 JBK会议厅 举办",
+  "url": "https://thwiki.cc/%E8%93%AC%E8%8E%B1%E7%A5%AD%EF%BC%88%E9%9F%A9%E5%9B%BD%EF%BC%89#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b97d247318005763e68edc83d9ba84812807184e29eaa9c0032eb255b250cbec",
+  "location": {
+    "type": "google",
+    "text": "JBK会议厅",
+    "entity": [
+      {
+        "id": "ChIJPzuh0xqsQjQR_5GaMlKU6cg",
+        "addressLine1": "国际会议厅",
+        "addressLine2": "台湾 台北市 中山区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7UTWGg8faDQRR6V_CYHJLiA",
+        "addressLine1": "桃园市综合会议厅",
+        "addressLine2": "台湾 桃園 Xianfu Road",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJ-yRlfmYWbjQRi6FkRWJDqOo",
+        "addressLine1": "九如会议厅",
+        "addressLine2": "台湾 屏東 九如郷 東寧路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAUzWYKI9aTQRF-3NOCnV6UQ",
+        "addressLine1": "日內瓦會議廳 /場地租借/教室出租/多功能訓練場地",
+        "addressLine2": "台湾 台中 西区 Zhongming South Road",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJPVyJ77qrQjQRp4DqIuoBmuI",
+        "addressLine1": "国泰金融会议厅",
+        "addressLine2": "台湾 台北市 Xinyi District, Songren Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "蓬莱祭（韩国）-2"
+}

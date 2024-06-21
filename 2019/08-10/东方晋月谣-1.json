@@ -1,0 +1,52 @@
+{
+  "start": 1565395200,
+  "end": 1565395200,
+  "title": "山西THO-东方晋月谣",
+  "desc": "山西THO-东方晋月谣 于 太原 埃柯拉商务大酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%99%8B%E6%9C%88%E8%B0%A3#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5d9d118286e9e87b29ac8e5a0db9bfcbb1f93a2bf9f48593c9c49a4ea57192bd",
+  "location": {
+    "type": "google",
+    "text": "太原 埃柯拉商务大酒店",
+    "entity": [
+      {
+        "id": "ChIJcTnxeXqpCjYRmuC0uWD_gUk",
+        "addressLine1": "埃柯拉商务大酒店",
+        "addressLine2": "中華人民共和国 山西省 太原 迎沢区 府东府西商业街",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJh_KdeXqpCjYR4NdyrK-Kdn4",
+        "addressLine1": "埃柯拉商务大酒店停车场",
+        "addressLine2": "中華人民共和国 山西省 太原 迎沢区 Tiyu West Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJtd4ud3qpCjYRXuVEmnBfeIU",
+        "addressLine1": "埃柯拉商务大酒店",
+        "addressLine2": "中華人民共和国 山西省 太原 迎沢区 体育西路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方晋月谣-1"
+}

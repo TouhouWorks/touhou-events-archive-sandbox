@@ -1,0 +1,30 @@
+{
+  "start": 1561766400,
+  "end": 1561766400,
+  "title": "潮騒の凪ぐ時1",
+  "desc": "潮声休止之时1 于 福冈市 Live house & Club PEACE 举办",
+  "url": "https://thwiki.cc/%E6%BD%AE%E5%A3%B0%E4%BC%91%E6%AD%A2%E4%B9%8B%E6%97%B6#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6aa3aeb479ac924f5c021ce9a902833080dc143ccc7908998699468a1403ce58",
+  "location": {
+    "type": "google",
+    "text": "福冈市 Live house & Club PEACE",
+    "entity": [
+      {
+        "id": "ChIJM-CUuDGSQTURz9NjR0fOuYs",
+        "addressLine1": "ライブハウス&クラブ ピース",
+        "addressLine2": "日本、福岡県福岡市中央区荒戸１丁目９−２２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "潮声休止之时-1"
+}

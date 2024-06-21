@@ -1,0 +1,30 @@
+{
+  "start": 1393718400,
+  "end": 1393718400,
+  "title": "命蓮寺星まつり1",
+  "desc": "命莲寺星祭1 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E5%91%BD%E8%8E%B2%E5%AF%BA%E6%98%9F%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dcf9f1ba893d402b71fb66a2b9d7f0c2421c2fa5cd3dfdcceb47b2c84c89ab8f",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "命莲寺星祭-1"
+}

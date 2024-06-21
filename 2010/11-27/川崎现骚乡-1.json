@@ -1,0 +1,32 @@
+{
+  "start": 1290816000,
+  "end": 1290816000,
+  "title": "川崎現騒郷1",
+  "desc": "川崎现骚乡1 于 神奈川县川崎市 club月あかり夢てらす 举办",
+  "url": "https://thwiki.cc/%E5%B7%9D%E5%B4%8E%E7%8E%B0%E9%AA%9A%E4%B9%A1#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "72cf7bb79b12ec227a9ba8c668312be220dd32f2da876787da120d236aa44b97",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市 club月あかり夢てらす",
+    "entity": [
+      {
+        "id": "ChIJC8oC6aJgGGARe2hrrYGdMHw",
+        "addressLine1": "月あかり 夢てらす",
+        "addressLine2": "日本、神奈川県川崎市川崎区砂子２丁目6−４",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "川崎现骚乡-1"
+}

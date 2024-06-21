@@ -1,0 +1,30 @@
+{
+  "start": 1698969600,
+  "end": 1698969600,
+  "title": "岸田教団～東方アレンジオンリーツアー2023秋～3",
+  "desc": "岸田教团~东方Arrangement Only Tour2023秋~3 于 大阪府大阪市 梅田Shangri-La 举办",
+  "url": "https://thwiki.cc/%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2~%E4%B8%9C%E6%96%B9Arrangement_Only_Tour2023%E7%A7%8B~#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fb00139478d7555aaa7f84d0bddad8ce96e2a78b60a87ce84b46838786d05f1d",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 梅田Shangri-La",
+    "entity": [
+      {
+        "id": "ChIJOc6XGInmAGAR-m1VbC_F918",
+        "addressLine1": "シャングリラ",
+        "addressLine2": "日本、大阪府大阪市北区大淀南１丁目１−１４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "岸田教团~东方arrangement-only-tour2023秋~-3"
+}

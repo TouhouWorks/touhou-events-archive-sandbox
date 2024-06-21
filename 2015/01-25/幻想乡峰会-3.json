@@ -1,0 +1,30 @@
+{
+  "start": 1422144000,
+  "end": 1422144000,
+  "title": "幻想郷サミット3",
+  "desc": "幻想乡峰会3 于 名古屋国际会议场 1号馆 活动馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%B3%B0%E4%BC%9A#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cb66618cb375349af268fae12b14e825ce90ddfd8cace265e3a891caf01bb231",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际会议场 1号馆 活动馆",
+    "entity": [
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "名古屋国际会议场",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡峰会-3"
+}

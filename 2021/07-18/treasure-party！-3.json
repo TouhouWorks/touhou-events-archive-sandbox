@@ -1,0 +1,77 @@
+{
+  "start": 1626566400,
+  "end": 1626566400,
+  "title": "とれじゃーぱーてぃー！３～小ネズミたちのウエディング～",
+  "desc": "Treasure Party！３～小老鼠们的婚礼～ 于 名古屋国际展厅 举办",
+  "url": "https://thwiki.cc/Treasure_Party%EF%BC%81#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2b8f17a189ac33d0a884ae2283e9b8840aaf920b8c68fb6dca6ead129ba3b583",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际展厅",
+    "entity": [
+      {
+        "id": "ChIJq6q2JkqdBGAR4KHHgshXG7M",
+        "addressLine1": "名古屋国際観光バス",
+        "addressLine2": "日本、愛知県大府市横根町酉新田６９−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzynM7ZN9BGARJQAsbih9mEI",
+        "addressLine1": "中部国际机场 (NGO)",
+        "addressLine2": "日本、愛知県常滑市セントレア１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJEwoOeH56A2ARsVtH3dNji7s",
+        "addressLine1": "名古屋国際中・高等学校",
+        "addressLine2": "日本、愛知県名古屋市昭和区広路本町１丁目１６",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "secondary_school",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "名古屋国际会议场",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJm8MoHj53A2ARdfGjWYSBK8Y",
+        "addressLine1": "名古屋国際法律事務所",
+        "addressLine2": "日本、愛知県名古屋市中区丸の内２丁目６−２１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "PROFESSIONAL_PLACE",
+          "point_of_interest",
+          "lawyer"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "treasure-party！-3"
+}

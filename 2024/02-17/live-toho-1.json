@@ -1,0 +1,32 @@
+{
+  "start": 1708128000,
+  "end": 1708128000,
+  "title": "LIVE TOHO 2024",
+  "desc": "LIVE TOHO 2024 于 韩国水原市 水原会展中心 举办",
+  "url": "https://thwiki.cc/LIVE_TOHO#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9d7b4cbbeb47d932fb813e21bfc9a91e133e4ddc913baaee2d043e49dd6b95b5",
+  "location": {
+    "type": "google",
+    "text": "韩国水原市 水原会展中心",
+    "entity": [
+      {
+        "id": "ChIJww5oQ0FbezURIJeudZoYgg0",
+        "addressLine1": "水原会展中心.光教Galleria百货商店.中兴S-级",
+        "addressLine2": "水原市",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "live-toho-1"
+}

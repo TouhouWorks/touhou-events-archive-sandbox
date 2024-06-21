@@ -1,0 +1,32 @@
+{
+  "start": 1654300800,
+  "end": 1654300800,
+  "title": "大・東方Project展2022·名古屋",
+  "desc": "大·东方Project展2022·名古屋 于 名古屋PARCO 西馆6F PARCO GALLERY 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%C2%B7%E4%B8%9C%E6%96%B9Project%E5%B1%95#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3defc095224655821b90e9aafb9bc1d04a403c0d8ac9ce0ac7285f6e3031d726",
+  "location": {
+    "type": "google",
+    "text": "名古屋PARCO 西馆6F PARCO GALLERY",
+    "entity": [
+      {
+        "id": "ChIJB9Ju2c1wA2ARuveIO0PNFhE",
+        "addressLine1": "パルコギャラリー",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大·东方project展-2"
+}

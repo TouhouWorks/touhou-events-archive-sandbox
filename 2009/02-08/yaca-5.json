@@ -1,0 +1,19 @@
+{
+  "start": 1234051200,
+  "end": 1234051200,
+  "title": "YACA2009春季漫展",
+  "desc": "YACA2009春季漫展 于 广州市 越秀综合运动中心 举办",
+  "url": "https://thwiki.cc/YACA#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "46445eba8f442b67d474a6ddb808dd7ffbbc21bcf972162f30b726c27cb495f3",
+  "location": {
+    "type": "google",
+    "text": "广州市 越秀综合运动中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "yaca-5"
+}

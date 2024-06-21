@@ -1,0 +1,32 @@
+{
+  "start": 1690070400,
+  "end": 1690070400,
+  "title": "东方橙澄城1",
+  "desc": "东方橙澄城1 于 江苏省无锡市江阴市 仨和鲜音乐餐厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A9%99%E6%BE%84%E5%9F%8E#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "24b5dd8c9f9d620d16d58aa91052772ad3c64f6009990f2c084d015e9367b416",
+  "location": {
+    "type": "google",
+    "text": "江苏省无锡市江阴市 仨和鲜音乐餐厅",
+    "entity": [
+      {
+        "id": "ChIJ8UTSUonwszUR4fhogK31AKY",
+        "addressLine1": "江阴市",
+        "addressLine2": "中華人民共和国 江苏省无锡市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方橙澄城-1"
+}

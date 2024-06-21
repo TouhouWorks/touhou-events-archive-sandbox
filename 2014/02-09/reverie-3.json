@@ -1,0 +1,32 @@
+{
+  "start": 1391904000,
+  "end": 1391904000,
+  "title": "Reverie -2nd STAGE-",
+  "desc": "Reverie -2nd STAGE- 于 冈山市 YEBISU YA PRO 举办",
+  "url": "https://thwiki.cc/Reverie#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "530d0ca39cc507ad56ffc8a5cb16064a8eb41be8291c39d46a601336162d55d4",
+  "location": {
+    "type": "google",
+    "text": "冈山市 YEBISU YA PRO",
+    "entity": [
+      {
+        "id": "ChIJR4xYITQGVDURCnfnqNABuuI",
+        "addressLine1": "YEBISU YA PRO",
+        "addressLine2": "日本、岡山県岡山市北区中山下１丁目１０−３０",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "reverie-3"
+}

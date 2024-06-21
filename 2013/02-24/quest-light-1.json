@@ -1,0 +1,85 @@
+{
+  "start": 1361664000,
+  "end": 1361664000,
+  "title": "Quest Light 9",
+  "desc": "Quest Light 9 于 长野市 ARCS Hall 举办",
+  "url": "https://thwiki.cc/Quest_Light#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "afb4d9bec0adef313bc8a203a117f78e948be80b42f6563f08fffd2d0f631fa8",
+  "location": {
+    "type": "google",
+    "text": "长野市 ARCS Hall",
+    "entity": [
+      {
+        "id": "ChIJmUQ05l2AHWARyJIoB3SpKPE",
+        "addressLine1": "长野市",
+        "addressLine2": "日本、長野県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJmck0Ay2EHWAR_VPD51Rpg0s",
+        "addressLine1": "Daito Foods - ARCS Store",
+        "addressLine2": "５-６ アークス 長野市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJSx7WUiyEHWARpWFvKgsHAMc",
+        "addressLine1": "Nagano ARCS",
+        "addressLine2": "１-３２ アークス 長野市 長野県 日本",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "PARKING",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJSTE-lcTyGGARZJ4mxEem7fA",
+        "addressLine1": "株式会社Seven Arcs",
+        "addressLine2": "日本、東京都武蔵野市中町１丁目１９−１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJG-aoZEjuGGARDr4v62ZwbXo",
+        "addressLine1": "COFFEE HALL くぐつ草",
+        "addressLine2": "日本、東京都武蔵野市吉祥寺本町１丁目７−７",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "quest-light-1"
+}

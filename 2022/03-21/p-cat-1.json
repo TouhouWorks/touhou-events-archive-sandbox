@@ -1,0 +1,40 @@
+{
+  "start": 1647820800,
+  "end": 1647820800,
+  "title": "P-Cat04",
+  "desc": "P-Cat04 于 鹿沼市 鹿沼商工会议所 举办",
+  "url": "https://thwiki.cc/P-Cat#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce0981eadd034fc19196f420314f71f6f062f8ecb84daff2f0b1956249d25b90",
+  "location": {
+    "type": "google",
+    "text": "鹿沼市 鹿沼商工会议所",
+    "entity": [
+      {
+        "id": "ChIJIyAAJ9htH2ARgIk4TaWt-rU",
+        "addressLine1": "鹿沼商工会議所 青年部（鹿沼YEG）",
+        "addressLine2": "日本、栃木県鹿沼市睦町２８７−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ5XK-NRNsH2ARyB2T8F5b5ok",
+        "addressLine1": "鹿沼商工会議所",
+        "addressLine2": "日本、栃木県鹿沼市睦町２８７−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "p-cat-1"
+}

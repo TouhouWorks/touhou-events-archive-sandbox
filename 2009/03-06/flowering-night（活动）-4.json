@@ -1,0 +1,30 @@
+{
+  "start": 1236297600,
+  "end": 1236297600,
+  "title": "Flowering Night 2009 -全人類ノ天樂祭-",
+  "desc": "Flowering Night 2009 -全人类的天乐祭- 于 千叶市 幕张展览馆 幕张活动展厅 举办",
+  "url": "https://thwiki.cc/Flowering_Night%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4bc47d0a11c1996629f57ce2bde3f82f11b5c8866726357579212156221ba784",
+  "location": {
+    "type": "google",
+    "text": "千叶市 幕张展览馆 幕张活动展厅",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕张展览馆",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "flowering-night（活动）-4"
+}

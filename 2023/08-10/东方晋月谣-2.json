@@ -1,0 +1,46 @@
+{
+  "start": 1691625600,
+  "end": 1691625600,
+  "title": "山西THO-晋樱梦想",
+  "desc": "山西THO-晋樱梦想 于 山西省太原市 正大美家 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%99%8B%E6%9C%88%E8%B0%A3#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9da9981882cd65ce25c5a8cbe388d6eb314d202dd5c9f27c8d46ab0a4b0bc038",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市 正大美家",
+    "entity": [
+      {
+        "id": "ChIJ-e5etL6pCjYR4K4N3f6xa6c",
+        "addressLine1": "正大美家家纺购物中心",
+        "addressLine2": "中華人民共和国 山西省太原市 迎沢区 Shuangta North Road",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN"
+        ]
+      },
+      {
+        "id": "ChIJ8xjEtL6pCjYRgpxjlfr4oE8",
+        "addressLine1": "正大美家停车场",
+        "addressLine2": "中華人民共和国 山西省太原市 迎沢区 服装城商圈 Shuangta North Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方晋月谣-2"
+}

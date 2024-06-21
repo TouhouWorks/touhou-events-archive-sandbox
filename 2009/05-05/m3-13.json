@@ -1,0 +1,30 @@
+{
+  "start": 1241481600,
+  "end": 1241481600,
+  "title": "M3-2009春",
+  "desc": "M3-2009春 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/M3#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0b2d9fe5c452cb8c3f5b40127ea56565e024df385b37b7a68b8a456216ce702f",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "m3-13"
+}

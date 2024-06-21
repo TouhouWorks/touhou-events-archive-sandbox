@@ -1,0 +1,81 @@
+{
+  "start": 1569974400,
+  "end": 1569974400,
+  "title": "山西THP-埴轮偶像计划",
+  "desc": "山西THP-埴轮偶像计划 于 山西省太原市 柳巷 举办",
+  "url": "https://thwiki.cc/%E5%9F%B4%E8%BD%AE%E5%81%B6%E5%83%8F%E8%AE%A1%E5%88%92#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b13d94845adfe85c9d441f5efcf6820f78ffc492098b31e54461d43f8bf93f59",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市 柳巷",
+    "entity": [
+      {
+        "id": "ChIJnZUW5AOpCjYRvKjG_pkq3Mk",
+        "addressLine1": "迎沢区 柳巷",
+        "addressLine2": "中華人民共和国 山西省太原市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJw_aU6wWpCjYRE7_Q4a6ZYEA",
+        "addressLine1": "柳巷商业区",
+        "addressLine2": "中華人民共和国 山西省太原市 迎沢区",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJs77wBQapCjYRE75nCAdcqmQ",
+        "addressLine1": "柳巷万通购物广场",
+        "addressLine2": "中華人民共和国 山西省太原市 迎沢区 柳巷商圈 Liuxiang South Road",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJM9dDmgGpCjYRcBDoe8VY6b8",
+        "addressLine1": "柳巷饭店小吃部",
+        "addressLine2": "中華人民共和国 山西省太原市 迎沢区",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJKd-k1QWpCjYRVrXttQpsL5s",
+        "addressLine1": "太原市柳巷派出所",
+        "addressLine2": "中華人民共和国 山西省 太原市 迎沢区 South Xiaoweiying",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "埴轮偶像计划-1"
+}

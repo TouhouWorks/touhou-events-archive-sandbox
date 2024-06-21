@@ -1,0 +1,30 @@
+{
+  "start": 1565913600,
+  "end": 1565913600,
+  "title": "BilibiliWorld 2019广州",
+  "desc": "BilibiliWorld 2019广州 于 广州市 保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/BilibiliWorld#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "079acdd4d1aace1c3418879c7d839ec7884d03667fd61f639f0ab63b023dd2ce",
+  "location": {
+    "type": "google",
+    "text": "广州市 保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "bilibiliworld-3"
+}

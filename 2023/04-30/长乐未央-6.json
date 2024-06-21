@@ -1,0 +1,44 @@
+{
+  "start": 1682812800,
+  "end": 1682812800,
+  "title": "长安THONLY-星祈景风",
+  "desc": "长安THONLY-星祈景风 于 西安市 富森城市酒店 举办",
+  "url": "https://thwiki.cc/%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AE#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0568a2be7b36d575a1dec7b4cbca045405700c5977f27179c0d00c5a616d5b64",
+  "location": {
+    "type": "google",
+    "text": "西安市 富森城市酒店",
+    "entity": [
+      {
+        "id": "ChIJzzu6FIx6YzYRXbJnuCJCeJE",
+        "addressLine1": "富森城市酒店",
+        "addressLine2": "中華人民共和国 陝西省 西安市 碑林区 菊花园",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJp9GlbIx6YzYRmb8nFc-BNwE",
+        "addressLine1": "富森城市酒店停车场",
+        "addressLine2": "中華人民共和国 陝西省 西安市 碑林区 钟楼商圈 Juhuayuan",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "长乐未央-6"
+}

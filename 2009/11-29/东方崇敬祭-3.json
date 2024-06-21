@@ -1,0 +1,30 @@
+{
+  "start": 1259452800,
+  "end": 1259452800,
+  "title": "第三回東方崇敬祭",
+  "desc": "第三回东方崇敬祭 于 东京都立产业贸易中心 台东馆 6层+7层南 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B4%87%E6%95%AC%E7%A5%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f739c274421509c06d895cd1f8b0d486a98e2e16b1ea7dca5774ef54fabbc1b",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 台东馆 6层+7层南",
+    "entity": [
+      {
+        "id": "ChIJ9dCB2cOOGGARxq6ZRp_ssoI",
+        "addressLine1": "東京都立產業貿易中心 台東館",
+        "addressLine2": "日本、東京都台東区花川戸２丁目６−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方崇敬祭-3"
+}

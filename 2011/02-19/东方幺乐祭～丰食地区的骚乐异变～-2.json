@@ -1,0 +1,80 @@
+{
+  "start": 1298073600,
+  "end": 1298073600,
+  "title": "東方幺樂祭～豊食地方で騒楽異変～Vol.2",
+  "desc": "东方幺乐祭～丰食地区的骚乐异变～Vol.2 于 冈山市 IMAGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BA%E4%B9%90%E7%A5%AD%EF%BD%9E%E4%B8%B0%E9%A3%9F%E5%9C%B0%E5%8C%BA%E7%9A%84%E9%AA%9A%E4%B9%90%E5%BC%82%E5%8F%98%EF%BD%9E#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e7bbe8ad01ab8fee626c1837a0c011ae8529320657874fd6ab3f901f1cf2b34d",
+  "location": {
+    "type": "google",
+    "text": "冈山市 IMAGE",
+    "entity": [
+      {
+        "id": "ChIJeUPZTzEGVDURD6EownIs0bA",
+        "addressLine1": "ＩＭＡＧＥ",
+        "addressLine2": "日本、岡山県岡山市北区表町１丁目８−４８",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJDYAYIE8GVDURjQtKhvpY9b8",
+        "addressLine1": "Image Creation Studio GAIA",
+        "addressLine2": "日本、岡山県岡山市北区奉還町１丁目１２−１５",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJo9egTzEGVDURPFjnmKTPthc",
+        "addressLine1": "LIVEHOUSE image（イマージュ）",
+        "addressLine2": "日本、岡山県岡山市北区表町１丁目８−４８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJy66UTT8HVDUR7oGg2tjJjO4",
+        "addressLine1": "イマージュ（スタジオ・音楽教室）",
+        "addressLine2": "日本、岡山県岡山市北区表町１丁目８−４８",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVVU5a3AHVDURTkVvX3rnYAE",
+        "addressLine1": "Livre d' images",
+        "addressLine2": "５丁目-１-２５ 今 北区 岡山市 岡山県 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "bakery",
+          "BAKERY",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幺乐祭～丰食地区的骚乐异变～-2"
+}

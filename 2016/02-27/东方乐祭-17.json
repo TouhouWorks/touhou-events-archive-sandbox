@@ -1,0 +1,36 @@
+{
+  "start": 1456531200,
+  "end": 1456531200,
+  "title": "東方樂祭 in まんだらけ札幌 with 極・神居祭",
+  "desc": "东方乐祭 in MANDARAKE札幌 with 极·神居祭 于 札幌市 MANDARAKE札幌店 活动场所 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-17",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8f6508194e107c8adbe49ce54fa69288a73131d74e4034faa70378c6f76f2ca2",
+  "location": {
+    "type": "google",
+    "text": "札幌市 MANDARAKE札幌店 活动场所",
+    "entity": [
+      {
+        "id": "ChIJo7vfsYUpC18RRXbj5JKgDxI",
+        "addressLine1": "Mandarake 札幌店",
+        "addressLine2": "日本、北海道札幌市中央区南３条西５丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-17"
+}

@@ -1,0 +1,34 @@
+{
+  "start": 1695945600,
+  "end": 1695945600,
+  "title": "宁波THO-鄞上月圆宴",
+  "desc": "宁波THO-鄞上月圆宴 于 浙江省宁波市 海曙区环城西路南段256号天港漫非酒店 举办",
+  "url": "https://thwiki.cc/%E5%AE%81%E6%B3%A2THO#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2fc69be41b62ca7a0399c313336155511b9b5980472862e8fac8e28bc6148c97",
+  "location": {
+    "type": "google",
+    "text": "浙江省宁波市 海曙区环城西路南段256号天港漫非酒店",
+    "entity": [
+      {
+        "id": "ChIJHTM7YEx7TTQRkqhYXgBuzPE",
+        "addressLine1": "Tiangang Seafood Hotel",
+        "addressLine2": "Lan Tian Lu, 188, 海曙区 寧波市 浙江省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "宁波tho-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1503187200,
+  "end": 1503187200,
+  "title": "幻奏盛宴·幻想交响音乐会 ～ 七色的上海幻夜",
+  "desc": "幻奏盛宴·幻想交响音乐会 ～ 七色的上海幻夜 于 上海 东方艺术中心 东方音乐厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-1",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f59981a9d9c52a99bef6df2e9102958ad1bd8d08ed175524760ef7d76e83277d",
+  "location": {
+    "type": "google",
+    "text": "上海 东方艺术中心 东方音乐厅",
+    "entity": [
+      {
+        "id": "ChIJr41gFTJ3sjUR86lay28bqeo",
+        "addressLine1": "上海东方艺术中心东方音乐厅",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 丁香路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻奏盛宴·幻想交响音乐会-1"
+}

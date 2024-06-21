@@ -1,0 +1,30 @@
+{
+  "start": 1699660800,
+  "end": 1699660800,
+  "title": "山西大学东方高校例会-咖喱坞东纪行",
+  "desc": "山西大学东方高校例会-咖喱坞东纪行 于 山西省太原市茂业天地电气羊 举办",
+  "url": "https://thwiki.cc/%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%AD%A6%E9%AB%98%E6%A0%A1%E4%BE%8B%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "115c3b0104d8c072a6461dcd7899c45d68453e0d6ffa8f417e22a64c774d666a",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市茂业天地电气羊",
+    "entity": [
+      {
+        "id": "ChIJG1hiCtSrCjYRWpfOvtXe8S0",
+        "addressLine1": "太原茂业天地",
+        "addressLine2": "中華人民共和国 太原市 小店区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "山西大学高校例会-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1559347200,
+  "end": 1559347200,
+  "title": "すいかといっしょ 陸",
+  "desc": "跟萃香一起 陸 于 东京都大田区产业广场Pio 2层 小展示厅 举办",
+  "url": "https://thwiki.cc/%E8%B7%9F%E8%90%83%E9%A6%99%E4%B8%80%E8%B5%B7#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e5249cc5cc53d99c374f38a6bde426457608c0f40a9db36af455853fa96076e0",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 2层 小展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "跟萃香一起-6"
+}

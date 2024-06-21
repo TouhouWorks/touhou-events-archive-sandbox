@@ -1,0 +1,48 @@
+{
+  "start": 1514678400,
+  "end": 1514678400,
+  "title": "青岛THONLY幻想半日談",
+  "desc": "青岛THONLY幻想半日谈 于 山东省青岛市 东晖国际大酒店 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E5%8D%8A%E6%97%A5%E8%B0%88#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "90bb5abdd4a63937200c0a4fe52500fe9d4f85ed725e77d6a80e80d6330e9c16",
+  "location": {
+    "type": "google",
+    "text": "山东省青岛市 东晖国际大酒店",
+    "entity": [
+      {
+        "id": "ChIJXx5Hz7MRljURQjB9zkGMI9M",
+        "addressLine1": "东晖国际大酒店餐厅",
+        "addressLine2": "中華人民共和国 山东省青岛市 市南区 山东路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJXx5Hz7MRljURALbKQqoTwdQ",
+        "addressLine1": "东晖国际大酒店停车场",
+        "addressLine2": "中華人民共和国 山东省青岛市 市南区 Shandong Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想半日谈-1"
+}

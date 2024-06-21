@@ -1,0 +1,32 @@
+{
+  "start": 1547856000,
+  "end": 1547856000,
+  "title": "魔法の夜の混沌祭EX3",
+  "desc": "魔法之夜混沌祭EX3 于 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E6%B3%95%E4%B9%8B%E5%A4%9C%E6%B7%B7%E6%B2%8C%E7%A5%AD#ev-14",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "49f1afb7d885696db93a3a7f4afc68dc4b626dd5ade920a4575e614a7ed5703c",
+  "location": {
+    "type": "google",
+    "text": "nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魔法之夜混沌祭-14"
+}

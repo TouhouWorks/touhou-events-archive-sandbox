@@ -1,0 +1,19 @@
+{
+  "start": 1411862400,
+  "end": 1411862400,
+  "title": "りょなけっと2",
+  "desc": "Ryonaket 2 于 东京都 东京批发贸易中心 举办",
+  "url": "https://thwiki.cc/Ryonaket#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "349b2d4b793245dc25757ea69f27257160a379e9027ecfe0d6f04b2594ff309e",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京批发贸易中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "ryonaket-2"
+}

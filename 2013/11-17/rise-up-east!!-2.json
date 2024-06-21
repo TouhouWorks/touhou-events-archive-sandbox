@@ -1,0 +1,84 @@
+{
+  "start": 1384646400,
+  "end": 1384646400,
+  "title": "RISE UP EAST!! VOL.2",
+  "desc": "RISE UP EAST!! VOL.2 于 东京都 早稻田ZONE-B 举办",
+  "url": "https://thwiki.cc/RISE_UP_EAST!!#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e92109528335951e73998a3b6918d3a5415e782d6d49a6d7a0f9fb9d8050ba84",
+  "location": {
+    "type": "google",
+    "text": "东京都 早稻田ZONE-B",
+    "entity": [
+      {
+        "id": "ChIJ2y-oah2NGGARczAwwLgZsKY",
+        "addressLine1": "ZONE-B",
+        "addressLine2": "日本、東京都新宿区喜久井町２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ81gP8sGNGGARtrjbEZOzjPU",
+        "addressLine1": "Bread of Life Church",
+        "addressLine2": "６８-２１ 早稲田町 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SPIRITUAL_CENTER",
+          "CHURCH",
+          "place_of_worship",
+          "church",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJRfBUe_2MGGARhjdMPh1sSLY",
+        "addressLine1": "Bois de Vincennes",
+        "addressLine2": "日本、東京都新宿区早稲田町５",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "bakery",
+          "BAKERY",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ2Q3rXX3yGGARfeGFK9jpYus",
+        "addressLine1": "早稲田アカデミー 高円寺校",
+        "addressLine2": "日本、東京都杉並区高円寺南４丁目２７−１０",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJxbN2apnvGGARdrlxomtNZpk",
+        "addressLine1": "早稲田アカデミー 武蔵境校",
+        "addressLine2": "日本、東京都武蔵野市境南町２丁目３−１４",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "rise-up-east!!-2"
+}

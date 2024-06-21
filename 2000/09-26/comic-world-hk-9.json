@@ -1,0 +1,66 @@
+{
+  "start": 969926400,
+  "end": 969926400,
+  "title": "Comic World HK 9",
+  "desc": "Comic World HK 9 于 香港 九龙湾国际展贸中心 举办",
+  "url": "https://thwiki.cc/Comic_World_HK#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eebb7f893e72cce5fb1e1e3da041b1ad118bc1b0cfd88d610ddae64d58c08735",
+  "location": {
+    "type": "google",
+    "text": "香港 九龙湾国际展贸中心",
+    "entity": [
+      {
+        "id": "ChIJP6kcijIBBDQR1mw0YdxCnbI",
+        "addressLine1": "九龙湾国际展贸中心停车场",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK0V8mzIBBDQRf2jE61Co97k",
+        "addressLine1": "九龍灣國際展貿中心",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4ymshDIBBDQRH5lqMo9MdB8",
+        "addressLine1": "星巴克 (九龍灣國際展貿中心)",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJEzognzIBBDQRJJ8szs6MDbA",
+        "addressLine1": "九龍灣國際展貿中心 - WearHouse WiFi熱點",
+        "addressLine2": "香港 九龍湾 Trademart Drive, WearHouse",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-world-hk-9"
+}

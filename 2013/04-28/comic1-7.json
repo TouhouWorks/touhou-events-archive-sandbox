@@ -1,0 +1,19 @@
+{
+  "start": 1367107200,
+  "end": 1367107200,
+  "title": "COMIC1☆7",
+  "desc": "COMIC1☆7 于 东京都 东京国际展示场 东4-6展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7959c97ac167da0383cea81191db58e2f6c8923b797633770574fb4c6cccb029",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东4-6展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic1-7"
+}

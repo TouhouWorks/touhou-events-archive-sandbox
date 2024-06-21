@@ -1,0 +1,30 @@
+{
+  "start": 1422144000,
+  "end": 1422144000,
+  "title": "東方星屑祭11",
+  "desc": "东方星屑祭11 于 东京都 BIG SHIP 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-13",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6e750aaa5082d505bf3d1952c51b34b87ac8c04faa897dc11124a1cacd81b497",
+  "location": {
+    "type": "google",
+    "text": "东京都 BIG SHIP",
+    "entity": [
+      {
+        "id": "ChIJX5bcBcyOGGAR9sWFPPNye4g",
+        "addressLine1": "本所地域プラザ BIG SHIP",
+        "addressLine2": "日本、東京都墨田区本所１丁目１３−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方星屑祭-13"
+}

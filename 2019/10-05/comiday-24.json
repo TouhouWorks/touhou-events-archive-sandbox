@@ -1,0 +1,19 @@
+{
+  "start": 1570233600,
+  "end": 1570233600,
+  "title": "COMIDAY24",
+  "desc": "COMIDAY24 于 成都市 世纪城新国际会展中心 7号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-24",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2293c16e97798d57055453556fcde3f5029d02c025ac0e8d008be4085f4e8b59",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 7号馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comiday-24"
+}

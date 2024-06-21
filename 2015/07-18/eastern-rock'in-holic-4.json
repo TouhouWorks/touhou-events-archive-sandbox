@@ -1,0 +1,82 @@
+{
+  "start": 1437177600,
+  "end": 1437177600,
+  "title": "eastern rock'in holic 4",
+  "desc": "eastern rock&#39;in holic 4 于 名古屋市 名古屋SONSET STRIP 举办",
+  "url": "https://thwiki.cc/eastern_rock%27in_holic#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f234499867105329993397c06f3c3d485b39a4ded358280a6ab5b156a92530e7",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 名古屋SONSET STRIP",
+    "entity": [
+      {
+        "id": "ChIJe7YO2c1wA2ARcRKYiy-HcIY",
+        "addressLine1": "名古屋PARCO",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJccAEHdB8A2ARMYfZqUl0dGc",
+        "addressLine1": "有松",
+        "addressLine2": "日本、愛知県名古屋市緑区有松",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJXSQQI797A2ARTB2rtM6MJ_I",
+        "addressLine1": "名古屋市総合体育館",
+        "addressLine2": "日本、愛知県名古屋市南区東又兵ヱ町５丁目１−１６",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJO9BXow96A2ARfYheCZ3ya1c",
+        "addressLine1": "名古屋市体育館",
+        "addressLine2": "日本、愛知県名古屋市熱田区六野２丁目５−３",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJq6pqy154A2ARBVWNsNoRIWE",
+        "addressLine1": "稲永スポーツセンター",
+        "addressLine2": "日本、愛知県名古屋市港区野跡５丁目１−番10号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "eastern-rock'in-holic-4"
+}

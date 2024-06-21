@@ -1,0 +1,30 @@
+{
+  "start": 1662854400,
+  "end": 1662854400,
+  "title": "科学世紀のカフェテラス（第11回）",
+  "desc": "科学世纪的露天咖啡座（第11回） 于 京都综合见本市会馆 举办",
+  "url": "https://thwiki.cc/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f14a1f9d6a5a716d40faba8427e341ae1cde928cd98c557e2b46a9297c906e95",
+  "location": {
+    "type": "google",
+    "text": "京都综合见本市会馆",
+    "entity": [
+      {
+        "id": "ChIJe13WqIcFAWARZedcDJps-sA",
+        "addressLine1": "京都府総合見本市会館 京都パルスプラザ",
+        "addressLine2": "日本、京都府京都市伏見区竹田鳥羽殿町５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "科学世纪的露天咖啡座-11"
+}

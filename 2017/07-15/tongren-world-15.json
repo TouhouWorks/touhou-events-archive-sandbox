@@ -1,0 +1,52 @@
+{
+  "start": 1500076800,
+  "end": 1500076800,
+  "title": "Tongren World15",
+  "desc": "Tongren World15 于 广州市 海珠区 国际采购中心 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1ee916a9a7d47aa243ddcc8bc644b9eef62e09c4f7e1ca72d68a9ec63d9ebaef",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 国际采购中心",
+    "entity": [
+      {
+        "id": "ChIJO8EgG-b_AjQRa7iFL0lTWXk",
+        "addressLine1": "琶洲国际采购中心",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJR6iYUO__AjQRqypADenq1-M",
+        "addressLine1": "国际采购中心停车场",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ5RKM3-X_AjQRThpvVDg__m8",
+        "addressLine1": "广州国际采购中心租售中心",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "tongren-world-15"
+}

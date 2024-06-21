@@ -1,0 +1,19 @@
+{
+  "start": 1218844800,
+  "end": 1218844800,
+  "title": "Comic Market 74",
+  "desc": "Comic Market 74 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "896f9d81634a5d28b67beb775a44dc0e6cb7b7b3da9b6a5cf66f6e27c5aed280",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-19"
+}

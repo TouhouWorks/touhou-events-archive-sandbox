@@ -1,0 +1,33 @@
+{
+  "start": 1617494400,
+  "end": 1617494400,
+  "title": "鈴奈幻想絵巻 ～三章～",
+  "desc": "铃奈幻想绘卷 ～三章～ 于 松阪市产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E9%93%83%E5%A5%88%E5%B9%BB%E6%83%B3%E7%BB%98%E5%8D%B7#ev-4",
+  "type": [
+    "展会",
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "be8217ef718ecff8ac26495d3beee4a84db415aea752a980c1be680f1e7ae91e",
+  "location": {
+    "type": "google",
+    "text": "松阪市产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJVVWl3CZrBGARtUdxIF445xM",
+        "addressLine1": "松阪市産業振興センター",
+        "addressLine2": "日本、三重県松阪市本町２１７６",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "铃奈幻想绘卷-4"
+}

@@ -1,0 +1,33 @@
+{
+  "start": 1262304000,
+  "end": 1262304000,
+  "title": "囧囧有神同人祭2",
+  "desc": "囧囧有神同人祭2 于 北京市 曙光里小学羽毛球馆 举办",
+  "url": "https://thwiki.cc/%E5%9B%A7%E5%9B%A7%E6%9C%89%E7%A5%9E%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "12ff48c6d1e5c306b6e485c4e95ab2c746ef130d6d1f807a1768d984441f2edc",
+  "location": {
+    "type": "google",
+    "text": "北京市 曙光里小学羽毛球馆",
+    "entity": [
+      {
+        "id": "ChIJ_2l7U26r8TUR2-GSh0R4bIU",
+        "addressLine1": "朝阳区曙光里小学",
+        "addressLine2": "中華人民共和国 北京市 朝陽区 Shuguang West Road",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "primary_school",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "囧囧有神同人祭-2"
+}

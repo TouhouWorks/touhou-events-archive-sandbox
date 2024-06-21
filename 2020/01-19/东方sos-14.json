@@ -1,0 +1,32 @@
+{
+  "start": 1579392000,
+  "end": 1579392000,
+  "title": "東方SOS 14",
+  "desc": "东方SOS 14 于 江苏省苏州市 苏州华侨饭店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9SOS#ev-14",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "76b8a61634f7304ca0ae51e51d8889a3ef8a86ec3af823b075b973bde46fd029",
+  "location": {
+    "type": "google",
+    "text": "江苏省苏州市 苏州华侨饭店",
+    "entity": [
+      {
+        "id": "ChIJyTAQoMCgszURXLtha_7md4o",
+        "addressLine1": "华侨饭店",
+        "addressLine2": "中華人民共和国 江蘇省 蘇州市 姑蘇区 Sanxiang Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方sos-14"
+}

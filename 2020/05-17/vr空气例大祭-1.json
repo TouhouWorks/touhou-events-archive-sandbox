@@ -1,0 +1,80 @@
+{
+  "start": 1589673600,
+  "end": 1589673600,
+  "title": "VRエア例大祭1",
+  "desc": "VR空气例大祭1 于 VR-Chat 举办",
+  "url": "https://thwiki.cc/VR%E7%A9%BA%E6%B0%94%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "47af7d98ad32169e66b02473b8b11eae9d1a3dcb6c64be8ba43130646a5cbc7a",
+  "location": {
+    "type": "google",
+    "text": "VR-Chat",
+    "entity": [
+      {
+        "id": "ChIJ14puXvu25zsR0KbvjLlcLcc",
+        "addressLine1": "V R Chatns",
+        "addressLine2": "Underai Road, マラド Navy Colony, Mamledarwadi, W ムンバイ マハーラーシュトラ インド",
+        "provider": "google_places",
+        "categories": [
+          "jewelry_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "JEWELRY"
+        ]
+      },
+      {
+        "id": "ChIJyyj5ZgOpEmsRuuvNaqoRIxQ",
+        "addressLine1": "VR Kingdom",
+        "addressLine2": "Albert Avenue, チャツウッド ニューサウスウェールズ オーストラリア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_yMTKhhu5kcRAR2noLPBLtc",
+        "addressLine1": "VirtualTime Réalité Virtuelle Paris Châtelet-Montorgueil",
+        "addressLine2": "Rue d'Aboukir, パリ フランス",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJKReFUKgegkcR0xVWjT0CfaI",
+        "addressLine1": "Château Scaliger de Malcesine",
+        "addressLine2": "Via Castello, マルチェジネ VR, イタリア",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJiUB2C7dlYIgRL2mXtXw-oi4",
+        "addressLine1": "NoogaSystems VR Programming",
+        "addressLine2": "East Brainerd Road, Chattanooga, テネシー州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "vr空气例大祭-1"
+}

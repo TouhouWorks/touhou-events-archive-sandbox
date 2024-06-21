@@ -1,0 +1,30 @@
+{
+  "start": 1269129600,
+  "end": 1269129600,
+  "title": "Flower Party Festival Vol.2",
+  "desc": "Flower Party Festival Vol.2 于 东京都 新大久保 CLUB Voice 举办",
+  "url": "https://thwiki.cc/Flower_Party_Festival#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "65b3323bd5ac848f3d1b439e7e7133493910fa870cadeb166200e7ecdb71f200",
+  "location": {
+    "type": "google",
+    "text": "东京都 新大久保 CLUB Voice",
+    "entity": [
+      {
+        "id": "ChIJqUylySiNGGARySjTjWSuNZc",
+        "addressLine1": "新大久保CLUB Voice",
+        "addressLine2": "１丁目-１０-７ 百人町 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "flower-party-festival-2"
+}

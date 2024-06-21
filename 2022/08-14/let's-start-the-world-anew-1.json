@@ -1,0 +1,55 @@
+{
+  "start": 1660435200,
+  "end": 1660435200,
+  "title": "Let's Start The World Anew 1",
+  "desc": "Let&#39;s Start The World Anew 1 于 东京都 Akiba音乐馆 举办",
+  "url": "https://thwiki.cc/Let%27s_Start_The_World_Anew#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "968e0fcd68666ba6aec2a354861fc0756ee143d0fbcdd3bea95ce6d787109a44",
+  "location": {
+    "type": "google",
+    "text": "东京都 Akiba音乐馆",
+    "entity": [
+      {
+        "id": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+        "addressLine1": "秋葉原電気街",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      },
+      {
+        "id": "ChIJQYq3wnaNGGARjxnVr-cL308",
+        "addressLine1": "スタジオ音楽館 大塚駅前",
+        "addressLine2": "日本、東京都豊島区北大塚２丁目２−２",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJP312BQqNGGAR1DCcosnlF8M",
+        "addressLine1": "东邦音乐短期大学",
+        "addressLine2": "日本、東京都文京区大塚４丁目４６−９",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "let's-start-the-world-anew-1"
+}

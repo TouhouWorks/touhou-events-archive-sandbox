@@ -1,0 +1,72 @@
+{
+  "start": 1598140800,
+  "end": 1598140800,
+  "title": "魅知幻想歌谣会 5G版2020 广州场",
+  "desc": "魅知幻想歌谣会 5G版2020 广州场 于 广州 东方文德广场 举办",
+  "url": "https://thwiki.cc/%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E6%AD%8C%E8%B0%A3%E4%BC%9A#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "387c1b1e423a1614e66fa3dbe5a681ab637df685caaeb4c1aca4f738204ff258",
+  "location": {
+    "type": "google",
+    "text": "广州 东方文德广场",
+    "entity": [
+      {
+        "id": "ChIJf1u8Bcf4AjQRwoiK7Ilehts",
+        "addressLine1": "东方文德广场",
+        "addressLine2": "中華人民共和国 广州 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJ8t-qsf4AjQRHKuL-SHyurg",
+        "addressLine1": "东方文德广场Ｂ２栋",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区 六榕",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ84Gi_8b4AjQRinwRDJdDJYw",
+        "addressLine1": "东方文德广场Ｃ１栋",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区 白鹅潭",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ8VV0-Mb4AjQR-Vam2DzlXY8",
+        "addressLine1": "东方文德广场Ｃ２栋",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区 北京路商业区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJK0jJVcb4AjQRSb870Wm0bhA",
+        "addressLine1": "东方文德广场停车场",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区 Wende Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魅知幻想歌谣会-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1505692800,
+  "end": 1505692800,
+  "title": "エンジニアワルツ（第5回）",
+  "desc": "Engineer Waltz（第5回） 于 京都府综合见本市会馆 1层 大展厅 举办",
+  "url": "https://thwiki.cc/Engineer_Waltz#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3aa461647a80f79cb4547cdd14729bfe04cf984af2f6d236d900b7afa0a83b7d",
+  "location": {
+    "type": "google",
+    "text": "京都府综合见本市会馆 1层 大展厅",
+    "entity": [
+      {
+        "id": "ChIJe13WqIcFAWARZedcDJps-sA",
+        "addressLine1": "京都府総合見本市会館 京都パルスプラザ",
+        "addressLine2": "日本、京都府京都市伏見区竹田鳥羽殿町５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "engineer-waltz-5"
+}

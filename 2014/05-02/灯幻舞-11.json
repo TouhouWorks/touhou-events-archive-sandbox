@@ -1,0 +1,31 @@
+{
+  "start": 1398988800,
+  "end": 1398988800,
+  "title": "灯幻舞 ～十一灯夜",
+  "desc": "灯幻舞 ～十一灯夜 于 东京都 秋葉原オトトリズム 举办",
+  "url": "https://thwiki.cc/%E7%81%AF%E5%B9%BB%E8%88%9E#ev-11",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "490059660370bbbd7d338282038f4db059da8249942da7e0a8f5c5b6495f007d",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋葉原オトトリズム",
+    "entity": [
+      {
+        "id": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+        "addressLine1": "秋葉原電気街",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "灯幻舞-11"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1504915200,
+  "end": 1504915200,
+  "title": "東方樂祭 in チルノのあ大祭",
+  "desc": "东方乐祭 in 琪露诺的A大祭 于 富士市 富士市产业交流展示场 (ふじさんめっせ) 东Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-35",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5c2dc0ba767c7da4bead46d7aa4626de9ad08ab02535142ab08e1c35f70ed5f5",
+  "location": {
+    "type": "google",
+    "text": "富士市 富士市产业交流展示场 (ふじさんめっせ) 东Hall",
+    "entity": [
+      {
+        "id": "ChIJrbq3tRcrGmARSw1mCWk3i0U",
+        "addressLine1": "富士市産業交流展示場（ふじさんめっせ）",
+        "addressLine2": "日本、静岡県富士市柳島２６２−５",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-35"
+}

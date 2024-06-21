@@ -1,0 +1,30 @@
+{
+  "start": 1434240000,
+  "end": 1434240000,
+  "title": "桜島ヴォルケイノ1",
+  "desc": "樱岛Volcano1 于 鹿儿岛市 鹿儿岛县民交流中心 举办",
+  "url": "https://thwiki.cc/%E6%A8%B1%E5%B2%9BVolcano#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dd711439358994ffbd2e96650196fddf90ad0a977172d8543fc719bcc472e2de",
+  "location": {
+    "type": "google",
+    "text": "鹿儿岛市 鹿儿岛县民交流中心",
+    "entity": [
+      {
+        "id": "ChIJ63StpwhePjURSdLPrD8XfWg",
+        "addressLine1": "鹿兒島縣民交流中心",
+        "addressLine2": "日本、鹿児島県鹿児島市山下町１４−５０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "樱岛volcano-1"
+}

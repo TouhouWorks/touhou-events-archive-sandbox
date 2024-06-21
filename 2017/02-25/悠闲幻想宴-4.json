@@ -1,0 +1,40 @@
+{
+  "start": 1487980800,
+  "end": 1487980800,
+  "title": "まったり幻想宴4",
+  "desc": "悠闲幻想宴4 于 东京文具共和会馆 举办",
+  "url": "https://thwiki.cc/%E6%82%A0%E9%97%B2%E5%B9%BB%E6%83%B3%E5%AE%B4#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "298af6e43b46058a54f7af70bb5c8445dcdefaa609836ab1c36879218ec57140",
+  "location": {
+    "type": "google",
+    "text": "东京文具共和会馆",
+    "entity": [
+      {
+        "id": "ChIJLUVUa7OOGGARaUkVezfio_E",
+        "addressLine1": "貸し会議室 東京文具共和会館 浅草橋",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJn_zvFLOOGGARdkIjVUs9QMY",
+        "addressLine1": "東京文具共和会館",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "悠闲幻想宴-4"
+}

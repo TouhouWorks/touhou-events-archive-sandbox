@@ -1,0 +1,36 @@
+{
+  "start": 1466294400,
+  "end": 1466294400,
+  "title": "東方樂祭 with 東方椰麟祭 in 広島アニメイトビル5",
+  "desc": "东方乐祭 with 东方椰麟祭 in 广岛animate Building 5F 于 广岛市 广岛animate Building 5层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-22",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f96e024295c10bbae29cf139cae7e45e59e496625c329a2cee63af0209247d4c",
+  "location": {
+    "type": "google",
+    "text": "广岛市 广岛animate Building 5层",
+    "entity": [
+      {
+        "id": "ChIJEeZK9gyiWjURJw3ACz2181I",
+        "addressLine1": "安利美特 廣島店",
+        "addressLine2": "日本、広島県広島市中区大手町２丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-22"
+}

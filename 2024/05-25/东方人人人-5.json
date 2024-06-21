@@ -1,0 +1,30 @@
+{
+  "start": 1716595200,
+  "end": 1716595200,
+  "title": "东方人人人·未满开的彼岸之灵们～sprouting spirits",
+  "desc": "东方人人人·未满开的彼岸之灵们～sprouting spirits 于 北京市 中国人民大学教学一楼1606 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%BA%E4%BA%BA%E4%BA%BA#ev-5",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0bd1277d001027579aa846a718163a44bdec57d38f2ce8fa8fb7846307f8834",
+  "location": {
+    "type": "google",
+    "text": "北京市 中国人民大学教学一楼1606",
+    "entity": [
+      {
+        "id": "ChIJAZ37m11R8DURbaysOVvU-Oo",
+        "addressLine1": "中国人民大学－教学一楼",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Financial Street",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方人人人-5"
+}

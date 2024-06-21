@@ -1,0 +1,30 @@
+{
+  "start": 1332633600,
+  "end": 1332633600,
+  "title": "東方不敗小町ぷちこまち2",
+  "desc": "东方不败小町微型小町2 于 东京文具共和会馆 2-3层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5%E5%B0%8F%E7%94%BA#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e7edebf7724223b4acc5e09ac7f3eb6cdeaeef6bef72eed34bb650b35d085170",
+  "location": {
+    "type": "google",
+    "text": "东京文具共和会馆 2-3层",
+    "entity": [
+      {
+        "id": "ChIJn_zvFLOOGGARdkIjVUs9QMY",
+        "addressLine1": "東京文具共和会館",
+        "addressLine2": "日本、東京都台東区柳橋１丁目２−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方不败小町-9"
+}

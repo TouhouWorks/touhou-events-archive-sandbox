@@ -1,0 +1,30 @@
+{
+  "start": 1552176000,
+  "end": 1552176000,
+  "title": "御阿礼祭 -鈴奈- 第三回",
+  "desc": "御阿礼祭 -鈴奈- 第三回 于 东京都 Rental Hall绵商会馆 举办",
+  "url": "https://thwiki.cc/%E5%BE%A1%E9%98%BF%E7%A4%BC%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4b762c2617211d9fa5b90437f5e9635b2af4c02707325db7f6e7d39ea35cebb6",
+  "location": {
+    "type": "google",
+    "text": "东京都 Rental Hall绵商会馆",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "御阿礼祭-2"
+}

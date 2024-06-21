@@ -1,0 +1,34 @@
+{
+  "start": 1382745600,
+  "end": 1382745600,
+  "title": "Petit Fancy19",
+  "desc": "Petit Fancy19 于 台北市台湾大学综合体育馆一楼 举办",
+  "url": "https://thwiki.cc/Petit_Fancy#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8abc1d12e1c4705ed4346a65ca7773893482171e8e82030cf4ee0dcdd664360b",
+  "location": {
+    "type": "google",
+    "text": "台北市台湾大学综合体育馆一楼",
+    "entity": [
+      {
+        "id": "ChIJHYeewoupQjQRo1LvtfKwHYY",
+        "addressLine1": "台灣大學綜合體育館",
+        "addressLine2": "台湾 台北市 大安区 Section 4, Roosevelt Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "petit-fancy-12"
+}

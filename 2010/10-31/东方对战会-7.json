@@ -1,0 +1,60 @@
+{
+  "start": 1288483200,
+  "end": 1288483200,
+  "title": "第七回東方対戦会",
+  "desc": "第七回东方对战会 于 爱知县名古屋市 平和学区集会所 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%AF%B9%E6%88%98%E4%BC%9A#ev-7",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57270804e8a3711f2f08a2784e06077acfcd5450e03750b700247bd27d5cf9b6",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 平和学区集会所",
+    "entity": [
+      {
+        "id": "ChIJG8W7jNtvA2AR2Vk883c8SpE",
+        "addressLine1": "下志段味学区集会所",
+        "addressLine2": "日本、愛知県名古屋市守山区下志段味１丁目２３０６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__BZREt3A2ARKitDF2mHiv8",
+        "addressLine1": "正木学区集会所",
+        "addressLine2": "日本、愛知県名古屋市中区正木１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJXYiiIEV3A2AR-IyXGZiDGZw",
+        "addressLine1": "八熊学区集会所 憩",
+        "addressLine2": "日本、愛知県名古屋市中川区八熊２丁目２１−３３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVVVB8CF2A2ARkZdY9fkm7_8",
+        "addressLine1": "万場学区集会所",
+        "addressLine2": "日本、愛知県名古屋市中川区万場５丁目１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方对战会-7"
+}

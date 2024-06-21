@@ -1,0 +1,46 @@
+{
+  "start": 1721433600,
+  "end": 1721433600,
+  "title": "云南THO-星迴萃梦诗",
+  "desc": "云南THO-星迴萃梦诗 于 云南省 昆明市 白云路瑞鼎城爱琴海购物中心 举办",
+  "url": "https://thwiki.cc/%E4%BA%91%E4%B8%8A%E5%8D%97%E6%A4%BF%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e3f3dbfd7b78b8657290447dc10333413fa1142e83bfa1988fe1c126bc6626dd",
+  "location": {
+    "type": "google",
+    "text": "云南省 昆明市 白云路瑞鼎城爱琴海购物中心",
+    "entity": [
+      {
+        "id": "ChIJg_dHWwyB0DYROYF36ezQL6k",
+        "addressLine1": "瑞鼎城爱琴海购物公园",
+        "addressLine2": "中華人民共和国 昆明市 Panlong District",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJ2_WvWAyB0DYR50GUw5FeT3w",
+        "addressLine1": "瑞鼎城爱琴海购物公园－停车场",
+        "addressLine2": "中華人民共和国 昆明市与白云路交汇处",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "云上南椿宴-2"
+}

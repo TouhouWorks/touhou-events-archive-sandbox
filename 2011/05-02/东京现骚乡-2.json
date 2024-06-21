@@ -1,0 +1,54 @@
+{
+  "start": 1304294400,
+  "end": 1304294400,
+  "title": "東京現騒郷1.5",
+  "desc": "东京现骚乡1.5 于 东京都 下北泽REG 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%AC%E7%8E%B0%E9%AA%9A%E4%B9%A1#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c57e52cfc66fe4ecc02ac03ad8d4b8fb9b338357d45361548ef701dd24ee74de",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽REG",
+    "entity": [
+      {
+        "id": "ChIJQbfC_mrzGGARhMNloioNlFM",
+        "addressLine1": "RAGTAG 下北沢店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目３４−１２",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJrfw27eXzGGAR89tYHaRHOo8",
+        "addressLine1": "Regolith",
+        "addressLine2": "２丁目-６-８ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAQAAwGrzGGARWnJvCW7FpfE",
+        "addressLine1": "regalo farm",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目３０−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东京现骚乡-2"
+}

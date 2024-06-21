@@ -1,0 +1,32 @@
+{
+  "start": 1680307200,
+  "end": 1680307200,
+  "title": "三重東方読書会 in松阪2",
+  "desc": "三重东方读书会 in松阪2 于 三重县松阪市 松阪市产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%89%E9%87%8D%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A_in%E6%9D%BE%E9%98%AA#ev-2",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a35659ddde49cd0c7ecc4978e28ca12dd0ab26899aec5c2c17ab283037583ccc",
+  "location": {
+    "type": "google",
+    "text": "三重县松阪市 松阪市产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJVVWl3CZrBGARtUdxIF445xM",
+        "addressLine1": "松阪市産業振興センター",
+        "addressLine2": "日本、三重県松阪市本町２１７６",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "三重东方读书会-in松阪-2"
+}

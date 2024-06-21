@@ -1,0 +1,34 @@
+{
+  "start": 1511654400,
+  "end": 1511654400,
+  "title": "東方樂祭 in 東方信州祭 第4幕",
+  "desc": "东方乐祭 in 东方信州祭 第4幕 于 松本市 松本站前会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-38",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d15520dadae81016d905bd49b6fb08e6c39f17710c1be9f0de2094b119211726",
+  "location": {
+    "type": "google",
+    "text": "松本市 松本站前会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJ69wo1YsOHWARD73yPYb8Kto",
+        "addressLine1": "松本站",
+        "addressLine2": "日本、長野県松本市深志１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-38"
+}

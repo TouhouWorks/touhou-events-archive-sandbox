@@ -1,0 +1,32 @@
+{
+  "start": 1569024000,
+  "end": 1569024000,
+  "title": "サブカリズム！vol.18",
+  "desc": "SUBCULITHM！vol.18 于 东京都 涩谷nagomix 举办",
+  "url": "https://thwiki.cc/SUBCULITHM%EF%BC%81#ev-18",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "24e6c546bae3ba512d1a829bac72dcea71d0626900e138de4d8e586b27a7b1f2",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷nagomix",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "subculithm！-18"
+}

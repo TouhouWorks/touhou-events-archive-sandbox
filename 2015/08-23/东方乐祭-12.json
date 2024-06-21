@@ -1,0 +1,19 @@
+{
+  "start": 1440288000,
+  "end": 1440288000,
+  "title": "東方樂祭 in 東方いよしこく祭2",
+  "desc": "东方乐祭 in 东方伊予四国祭2 于 松山市 松山市综合社区中心 企划展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-12",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7de1c0f7d899ccabb67fbc48805cd5b6f3b8ac554faf2e77e4b49b8517a5e508",
+  "location": {
+    "type": "google",
+    "text": "松山市 松山市综合社区中心 企划展示厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方乐祭-12"
+}

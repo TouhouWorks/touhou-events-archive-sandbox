@@ -1,0 +1,30 @@
+{
+  "start": 1517011200,
+  "end": 1517011200,
+  "title": "Like A Loud Vol.2",
+  "desc": "Like A Loud Vol.2 于 静冈县藤枝市 藤枝KOKOPELLI 举办",
+  "url": "https://thwiki.cc/Like_A_Loud#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "acbf2415c203b8e64ed7c80ade7fba90f4fe4a75e094e5a67ac9ee3f795e1ca5",
+  "location": {
+    "type": "google",
+    "text": "静冈县藤枝市 藤枝KOKOPELLI",
+    "entity": [
+      {
+        "id": "ChIJryWoX_BPGmARK6Ad4w3fo8c",
+        "addressLine1": "ライブハウス藤枝ココペリ",
+        "addressLine2": "日本、静岡県藤枝市駅前２丁目６−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "like-a-loud-2"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1518307200,
+  "end": 1518307200,
+  "title": "東方睡連歌1",
+  "desc": "东方睡连歌1 于 山口县防府市 防府BAR印度洋 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%9D%A1%E8%BF%9E%E6%AD%8C#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6c1812b5501069fca5f29fee15238f91be9bd2b0e48b447ff4b119e282581c00",
+  "location": {
+    "type": "google",
+    "text": "山口县防府市 防府BAR印度洋",
+    "entity": [
+      {
+        "id": "ChIJbaxIfo2SRDURTe_n2La0RnI",
+        "addressLine1": "BAR印度洋",
+        "addressLine2": "日本、山口県防府市栄町１丁目３−３０",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方睡连歌-1"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1399075200,
+  "end": 1399075200,
+  "title": "TouhouTech 1 Monterrey",
+  "desc": "TouhouTech 1 蒙特雷 于 墨西哥 蒙特雷 Plaza de la Tecnología 举办",
+  "url": "https://thwiki.cc/TouhouTech#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "117a1413c6a031b7adf71217fbb7a858af486f56477de2ec7777866c87a0452a",
+  "location": {
+    "type": "google",
+    "text": "墨西哥 蒙特雷 Plaza de la Tecnología",
+    "entity": [
+      {
+        "id": "ChIJwQlWcLu_YoYRjKekxZ0ejTM",
+        "addressLine1": "Plaza de la Tecnología",
+        "addressLine2": "Av. Benito Juárez, セントロ モンテレイ ヌエボ・レオン メキシコ",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhoutech-1"
+}

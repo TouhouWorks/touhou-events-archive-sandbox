@@ -1,0 +1,19 @@
+{
+  "start": 1463875200,
+  "end": 1463875200,
+  "title": "東方せとうち音楽祭3",
+  "desc": "东方濑户内音乐祭3 于 松山市综合社区中心 企划展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%BF%91%E6%88%B7%E5%86%85%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "446bc47a17bb227e9f9bbb8d17dcf0879f4b5bd27cc4788496ca26e18d510a22",
+  "location": {
+    "type": "google",
+    "text": "松山市综合社区中心 企划展示厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方濑户内音乐祭-3"
+}

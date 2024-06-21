@@ -1,0 +1,19 @@
+{
+  "start": 1246147200,
+  "end": 1246147200,
+  "title": "えちご東方日和 弐",
+  "desc": "越后东方日和 贰 于 新潟市 朱鹭展览馆 4层 Marine Hall 举办",
+  "url": "https://thwiki.cc/%E8%B6%8A%E5%90%8E%E4%B8%9C%E6%96%B9%E6%97%A5%E5%92%8C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "61b7787577795a5fa63c899cf3f055d3a7a5e7812a39825901feb411bc407b47",
+  "location": {
+    "type": "google",
+    "text": "新潟市 朱鹭展览馆 4层 Marine Hall",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "越后东方日和-2"
+}

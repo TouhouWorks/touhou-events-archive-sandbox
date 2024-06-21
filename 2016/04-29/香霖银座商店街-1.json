@@ -1,0 +1,40 @@
+{
+  "start": 1461888000,
+  "end": 1461888000,
+  "title": "香霖銀座商店街1",
+  "desc": "香霖银座商店街1 于 福冈市 福冈国际会议场 举办",
+  "url": "https://thwiki.cc/%E9%A6%99%E9%9C%96%E9%93%B6%E5%BA%A7%E5%95%86%E5%BA%97%E8%A1%97#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a0baaac23131dcc4f733ebd48d29f6bd72997c1f9a916810a49dbed9eef44d59",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈国际会议场",
+    "entity": [
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡國際會議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZ59_0fORQTURkEIhmmckvE0",
+        "addressLine1": "博多国際展示場＆カンファレンスセンター（Hakata International Exhibition Hall & Conference Center）",
+        "addressLine2": "日本、福岡県福岡市博多区東光２丁目２２−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "香霖银座商店街-1"
+}

@@ -1,0 +1,79 @@
+{
+  "start": 1339286400,
+  "end": 1339286400,
+  "title": "第三回東方かんとり～まぁむ",
+  "desc": "第三回東方かんとり～まぁむ 于 东京都 涩谷O FLOOR 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E6%96%B9%E3%81%8B%E3%82%93%E3%81%A8%E3%82%8A%EF%BD%9E%E3%81%BE%E3%81%81%E3%82%80#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "413c4d2e430dd93531324400e241e9708d21e65e74aa3382172f8e8561c10e56",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷O FLOOR",
+    "entity": [
+      {
+        "id": "ChIJu0mxI0bzGGAR8lMSW7cjCI0",
+        "addressLine1": "フロア",
+        "addressLine2": "日本、東京都渋谷区上原３丁目９−２",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ0Qgx67KMGGARd2ZbObLZHPE",
+        "addressLine1": "涩谷区",
+        "addressLine2": "日本、東京都",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ0zrjrrOLGGARDjaHmtMJDRU",
+        "addressLine1": "O 代官山 本店",
+        "addressLine2": "日本、東京都渋谷区猿楽町２６−１３",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJGfSRvl6LGGAR5GDIDOVf4Bc",
+        "addressLine1": "涩谷",
+        "addressLine2": "日本、東京都渋谷区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ_XMoFKqMGGAR8r2rYch9WT8",
+        "addressLine1": "Shibuya 7th Floor",
+        "addressLine2": "２-３ 円山町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "東方かんとり～まぁむ-3"
+}

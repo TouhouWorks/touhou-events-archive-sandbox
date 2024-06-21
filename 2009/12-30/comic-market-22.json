@@ -1,0 +1,19 @@
+{
+  "start": 1262131200,
+  "end": 1262131200,
+  "title": "Comic Market 77",
+  "desc": "Comic Market 77 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-22",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ab92a6f56f2ac5af1dcb2cc82544b9321011f5070187957efc4caf65ab450a57",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-22"
+}

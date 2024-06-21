@@ -1,0 +1,80 @@
+{
+  "start": 1693008000,
+  "end": 1693008000,
+  "title": "湯巡り幻想郷 in山形藏王！",
+  "desc": "温泉旅游幻想乡 in山形藏王！ 于 山形县藏王温泉 举办",
+  "url": "https://thwiki.cc/%E6%B8%A9%E6%B3%89%E6%97%85%E6%B8%B8%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fc0be3b4cea49d5c39bd3fe581037ddcdf391851d7dae1a62606e502ee4a6da9",
+  "location": {
+    "type": "google",
+    "text": "山形县藏王温泉",
+    "entity": [
+      {
+        "id": "ChIJJaMrbQhLil8R45EXJqGxtAo",
+        "addressLine1": "藏王温泉",
+        "addressLine2": "日本、山形県山形市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJOykanXRLil8R4kNWSBfznV4",
+        "addressLine1": "藏王温泉 岩清水料理の宿 季の里",
+        "addressLine2": "日本、山形県山形市蔵王温泉１２７１−１",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJk8A-T9dIil8RddoUWjWO5aE",
+        "addressLine1": "藏王连峰",
+        "addressLine2": "日本、山形県山形市蔵王温泉",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "natural_feature"
+        ]
+      },
+      {
+        "id": "ChIJc-AHgQxLil8RcJozXduIM7U",
+        "addressLine1": "藏王温泉 ホテル喜らく",
+        "addressLine2": "日本、山形県山形市蔵王温泉川前９３５−２５",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJhYs4NwtLil8RyH0XdDex-OA",
+        "addressLine1": "藏王温泉スキー場",
+        "addressLine2": "日本、山形県山形市蔵王温泉",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "温泉旅游幻想乡-2"
+}

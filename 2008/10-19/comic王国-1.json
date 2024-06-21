@@ -1,0 +1,19 @@
+{
+  "start": 1224374400,
+  "end": 1224374400,
+  "title": "こみっく王国12",
+  "desc": "Comic王国12 于 名古屋市 爱知产业贸易场 举办",
+  "url": "https://thwiki.cc/Comic%E7%8E%8B%E5%9B%BD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "778e0310c553d4ca46187b30e6b3e01e378e7aa017cb93bec6bb56146947802b",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 爱知产业贸易场",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic王国-1"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1299974400,
+  "end": 1299974400,
+  "title": "Air第八回博麗神社例大祭",
+  "desc": "空气第八回博丽神社例大祭 于 https://twitter.com/hashtag/AirReitaisai 举办",
+  "url": "https://thwiki.cc/%E7%A9%BA%E6%B0%94%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2262dec6beeba82b8295b9980c834a6bcd1edeb6f3f91eac02463a4b8866c072",
+  "location": {
+    "type": "google",
+    "text": "https://twitter.com/hashtag/AirReitaisai",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "空气例大祭-1"
+}

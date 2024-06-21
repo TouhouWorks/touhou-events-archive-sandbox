@@ -1,0 +1,40 @@
+{
+  "start": 1700265600,
+  "end": 1700265600,
+  "title": "岸田教団～東方アレンジオンリーツアー2023秋～4",
+  "desc": "岸田教团~东方Arrangement Only Tour2023秋~4 于 东京都 Veats涩谷 举办",
+  "url": "https://thwiki.cc/%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2~%E4%B8%9C%E6%96%B9Arrangement_Only_Tour2023%E7%A7%8B~#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce4183371c896b609d91087ce673b8748c253cc0a76aae1def4a014ce5885f34",
+  "location": {
+    "type": "google",
+    "text": "东京都 Veats涩谷",
+    "entity": [
+      {
+        "id": "ChIJT7n0SGWNGGAR9sKpr-XSRTY",
+        "addressLine1": "Veats Shibuya",
+        "addressLine2": "３３-１ 宇田川町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJhZZQrOqNGGARrlbzob-uRo4",
+        "addressLine1": "BEATs",
+        "addressLine2": "１丁目-４２-２ 代々木 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "岸田教团~东方arrangement-only-tour2023秋~-4"
+}

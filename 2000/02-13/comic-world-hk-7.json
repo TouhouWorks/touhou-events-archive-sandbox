@@ -1,0 +1,30 @@
+{
+  "start": 950400000,
+  "end": 950400000,
+  "title": "Comic World HK 7",
+  "desc": "Comic World HK 7 于 香港 旺角麦花臣室内场馆 举办",
+  "url": "https://thwiki.cc/Comic_World_HK#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bac5a8739600ec23ac10763b995d65f8f3b8d48bf22d67ed9b68a3561cbf4820",
+  "location": {
+    "type": "google",
+    "text": "香港 旺角麦花臣室内场馆",
+    "entity": [
+      {
+        "id": "ChIJjVx4EcYABDQR9c0-8fvDLJw",
+        "addressLine1": "麥花臣場館",
+        "addressLine2": "香港 旺角 Nelson Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-world-hk-7"
+}

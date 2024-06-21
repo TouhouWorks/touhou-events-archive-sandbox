@@ -1,0 +1,30 @@
+{
+  "start": 1648339200,
+  "end": 1648339200,
+  "title": "東方幻仙郷 二十三",
+  "desc": "东方幻仙乡 二十三 于 宫城县产业交流中心 (夢メッセみやぎ) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E4%BB%99%E4%B9%A1#ev-23",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2ec72f62fd4ee948aee62798efb42aac6d61fd10509cafdd4491f9e2edb6477c",
+  "location": {
+    "type": "google",
+    "text": "宫城县产业交流中心 (夢メッセみやぎ)",
+    "entity": [
+      {
+        "id": "ChIJTWqSuLqIiV8RxxbCk5-PQdA",
+        "addressLine1": "夢メッセみやぎ",
+        "addressLine2": "日本、宮城県仙台市宮城野区港３丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幻仙乡-23"
+}

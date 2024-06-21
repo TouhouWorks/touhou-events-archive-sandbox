@@ -1,0 +1,55 @@
+{
+  "start": 1304553600,
+  "end": 1304553600,
+  "title": "東方Only Dance Party!!1",
+  "desc": "东方Only Dance Party!!1 于 冲绳县宜野湾市 G-shelter 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Only_Dance_Party!!#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7fc43ba2eb2e1a02e60dbaa16093052d442247183bfb6b7a020bea8935a02ec8",
+  "location": {
+    "type": "google",
+    "text": "冲绳县宜野湾市 G-shelter",
+    "entity": [
+      {
+        "id": "ChIJ-eL4TSlp5TQROIUuTwtlA0k",
+        "addressLine1": "G-shelter 大平スタジオ／Hermit Heritage",
+        "addressLine2": "日本、沖縄県浦添市大平２丁目２−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6Wj-sNps5TQR_KUNreTAoUs",
+        "addressLine1": "宜野湾市",
+        "addressLine2": "日本、沖縄県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJgbX3S7ls5TQRH3QC034WaSs",
+        "addressLine1": "shellter シェルター",
+        "addressLine2": "日本、沖縄県宜野湾市大山６丁目７−２",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方only-dance-party!!-1"
+}

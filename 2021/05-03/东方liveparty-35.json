@@ -1,0 +1,19 @@
+{
+  "start": 1620000000,
+  "end": 1620000000,
+  "title": "东方LiveParty大连·东方PartyNight",
+  "desc": "东方LiveParty大连·东方PartyNight 于 大连 GIFTSPACE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-35",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "35e38a8e8b7ae899b9985c297661d1efdd0b056604746b2135fccf1aa3c55014",
+  "location": {
+    "type": "google",
+    "text": "大连 GIFTSPACE",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方liveparty-35"
+}

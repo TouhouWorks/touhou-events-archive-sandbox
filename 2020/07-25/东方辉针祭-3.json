@@ -1,0 +1,30 @@
+{
+  "start": 1595635200,
+  "end": 1595635200,
+  "title": "東方輝針祭FINAL",
+  "desc": "东方辉针祭FINAL 于 广岛县福山市エフピコRiM　９F　スカイホール 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E7%A5%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0e78d70ac2737c468d6fb1ce2852519b2be5d12f91b572caeb34c2b8de947f35",
+  "location": {
+    "type": "google",
+    "text": "广岛县福山市エフピコRiM　９F　スカイホール",
+    "entity": [
+      {
+        "id": "ChIJ5YQVhfAQUTUR1fZulncQ_W8",
+        "addressLine1": "エフピコRim",
+        "addressLine2": "日本、広島県福山市西町１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方辉针祭-3"
+}

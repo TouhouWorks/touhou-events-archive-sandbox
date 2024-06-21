@@ -1,0 +1,30 @@
+{
+  "start": 1083369600,
+  "end": 1083369600,
+  "title": "Comic World Fancy 1",
+  "desc": "Comic World Fancy 1 于 台北市 台北世界贸易中心展览二馆 举办",
+  "url": "https://thwiki.cc/Comic_World_Fancy#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d9fec29194dbfbfda79a13323d9425297f088efc88d0aba5d84f80a51ce23b5d",
+  "location": {
+    "type": "google",
+    "text": "台北市 台北世界贸易中心展览二馆",
+    "entity": [
+      {
+        "id": "ChIJy-qHObarQjQRdukyRsgZ-Xw",
+        "addressLine1": "台北世界貿易中心 展覽大樓 (世貿一館)",
+        "addressLine2": "台湾 台北市 Xinyi District, Section 5th, Xinyi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-world-fancy-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1545609600,
+  "end": 1545609600,
+  "title": "灯幻舞 番外編",
+  "desc": "灯幻舞 番外编 于 东京都 パルシティ江東 举办",
+  "url": "https://thwiki.cc/%E7%81%AF%E5%B9%BB%E8%88%9E#ev-35",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5921fc4f46903113c9db5f516a7231f1a638d18d1a2e86f7ec917b31a9aada9e",
+  "location": {
+    "type": "google",
+    "text": "东京都 パルシティ江東",
+    "entity": [
+      {
+        "id": "ChIJQeQDGOSIGGARJvRkugmTlUI",
+        "addressLine1": "パルシティ江東",
+        "addressLine2": "日本、東京都江東区扇橋３丁目２２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "灯幻舞-35"
+}

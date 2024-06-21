@@ -1,0 +1,78 @@
+{
+  "start": 1563494400,
+  "end": 1563494400,
+  "title": "时夏格斗祭1",
+  "desc": "时夏格斗祭1 于 哈尔滨 国际会展体育中心 C厅 举办",
+  "url": "https://thwiki.cc/%E6%97%B6%E5%A4%8F%E6%A0%BC%E6%96%97%E7%A5%AD#ev-1",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4bb9aab3a66e4d87b7d9c4b4b442fd742e25620362ef4253e0547f5473ace44e",
+  "location": {
+    "type": "google",
+    "text": "哈尔滨 国际会展体育中心 C厅",
+    "entity": [
+      {
+        "id": "ChIJsT-RftN_RF4RZdwZbm_Yhnc",
+        "addressLine1": "哈尔滨国际会展体育中心体育馆",
+        "addressLine2": "中華人民共和国 黒竜江省 ハルビン 南崗区",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJp_GJT9N_RF4RKCOt7bNXj4s",
+        "addressLine1": "哈尔滨国际会展体育中心12号门",
+        "addressLine2": "中華人民共和国 黒竜江省 ハルビン 南崗区 会展红旗大街",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJN1AwHtJ_RF4R3RNDrTmKf8c",
+        "addressLine1": "哈尔滨国际会展体育中心有限公司",
+        "addressLine2": "中華人民共和国 黒竜江省 ハルビン 南崗区 黄河路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJfVVV8jR-RF4RvXrU6z_QW60",
+        "addressLine1": "哈尔滨国际会展体育中心A厅",
+        "addressLine2": "中華人民共和国 黒竜江省 ハルビン 南崗区",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJccQCUit-RF4RS3esFCSn1Y4",
+        "addressLine1": "国际会展体育中心派出所",
+        "addressLine2": "中華人民共和国 黒竜江省 哈尔滨 南崗区 会展 Huanghe Road",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "时夏格斗祭-1"
+}

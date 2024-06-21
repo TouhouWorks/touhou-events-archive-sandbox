@@ -1,0 +1,34 @@
+{
+  "start": 1505606400,
+  "end": 1505606400,
+  "title": "Toho Sound Heaven 1",
+  "desc": "Toho Sound Heaven 1 于 东京都 LIKE IT 举办",
+  "url": "https://thwiki.cc/Toho_Sound_Heaven#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8a8d33108debe5e221ad432cee18d77c7f2a3f0e0859bee45ef7adcf9e8d0ff7",
+  "location": {
+    "type": "google",
+    "text": "东京都 LIKE IT",
+    "entity": [
+      {
+        "id": "ChIJiZYXBKCSGGARndgnc-Mmv6k",
+        "addressLine1": "likeit",
+        "addressLine2": "日本、東京都豊島区池袋４丁目２５−９",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "toho-sound-heaven-1"
+}

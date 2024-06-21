@@ -1,0 +1,61 @@
+{
+  "start": 1538697600,
+  "end": 1538697600,
+  "title": "真·東方遊劇天",
+  "desc": "真·东方游剧天 于 广州市 岭南电子商务产业园 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#ev-2",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "821c20e0c70ec639e60f33f99206bcf39e6f77acfbf6f426e8af4561a6531480",
+  "location": {
+    "type": "google",
+    "text": "广州市 岭南电子商务产业园",
+    "entity": [
+      {
+        "id": "ChIJEeDY0tZVAjQR2UrP34A_oaI",
+        "addressLine1": "电子商务产业园",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 工业大道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJR9tnSSUCAzQRxz5JmWVhEfc",
+        "addressLine1": "广州电子商务产业园",
+        "addressLine2": "中華人民共和国 广州市 黄埔区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFTw8t2nmAjQRluyIt6ulyhc",
+        "addressLine1": "电子商务产业园碧秀园区",
+        "addressLine2": "中華人民共和国 広東省 广州市 花都区 Tiangui Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJMf8ZAmXmAjQRdACXEjH6xCk",
+        "addressLine1": "电子商务产业园宝田园区",
+        "addressLine2": "中華人民共和国 広東省 广州市 花都区 Tianmei Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方游剧天-2"
+}

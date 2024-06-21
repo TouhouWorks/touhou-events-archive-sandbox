@@ -1,0 +1,30 @@
+{
+  "start": 1614384000,
+  "end": 1614384000,
+  "title": "Fancy Frontier 37",
+  "desc": "Fancy Frontier 37 于 台北市 花博公园 争艳馆 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-35",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "489a33f8b4273063a57ffc28540dfed674e4c52f7f09147a644f5ae29b8c560d",
+  "location": {
+    "type": "google",
+    "text": "台北市 花博公园 争艳馆",
+    "entity": [
+      {
+        "id": "ChIJqY40N0-pQjQR--Pjh74pGro",
+        "addressLine1": "花博公園爭艷館",
+        "addressLine2": "台湾 台北市 中山区 Yumen Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "fancy-frontier-35"
+}

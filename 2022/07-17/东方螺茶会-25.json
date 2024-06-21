@@ -1,0 +1,81 @@
+{
+  "start": 1658016000,
+  "end": 1658016000,
+  "title": "東方螺茶会 札幌の宴 第二十季",
+  "desc": "东方螺茶会 札幌之宴 第二十季 于 札幌LINK★FES 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-25",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2437dd17040761daca668f6695f0f124f95c240cebbee1ac29b92e961e940d51",
+  "location": {
+    "type": "google",
+    "text": "札幌LINK★FES",
+    "entity": [
+      {
+        "id": "ChIJ2wvff6QvC18R8Z8LCj9a7jQ",
+        "addressLine1": "Link",
+        "addressLine2": "日本、北海道札幌市東区東苗穂３条１丁目１−８",
+        "provider": "google_places",
+        "categories": [
+          "GENERAL_CONTRACTOR",
+          "establishment",
+          "point_of_interest",
+          "general_contractor"
+        ]
+      },
+      {
+        "id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
+        "addressLine1": "札幌市",
+        "addressLine2": "日本、北海道",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ4d8K6lnfCl8RKWLjg-URUDc",
+        "addressLine1": "Hokkaido University of Science",
+        "addressLine2": "１５丁目-４-１ 前田７条 手稲区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYz8AdSMrC18RI72dO4uVixE",
+        "addressLine1": "札幌病院",
+        "addressLine2": "日本、北海道札幌市白石区本通９丁目南１−１",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJ-U93sI8qC18RqYNSUx4toO8",
+        "addressLine1": "札幌大学",
+        "addressLine2": "日本、北海道札幌市豊平区西岡３条７丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-25"
+}

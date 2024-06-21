@@ -1,0 +1,34 @@
+{
+  "start": 1430006400,
+  "end": 1430006400,
+  "title": "M3-2015春",
+  "desc": "M3-2015春 于 东京流通中心(TRC) 第1・第2展厅 举办",
+  "url": "https://thwiki.cc/M3#ev-25",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4f7ba075f770fd655ab90f342f9b787277728e26ef8a31495d61895e9f0f7006",
+  "location": {
+    "type": "google",
+    "text": "东京流通中心(TRC) 第1・第2展厅",
+    "entity": [
+      {
+        "id": "ChIJITG0R7xhGGARCCOKn_nfktc",
+        "addressLine1": "流通センター駅",
+        "addressLine2": "日本、東京都大田区平和島６丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "m3-25"
+}

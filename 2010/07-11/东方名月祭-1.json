@@ -1,0 +1,19 @@
+{
+  "start": 1278806400,
+  "end": 1278806400,
+  "title": "東方名月祭1",
+  "desc": "东方名月祭1 于 名古屋市 爱知县产业劳动中心 6、7 层展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%8D%E6%9C%88%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "28cd3d75da230bf2e337a7ec93bdd6d5e9320e1745db06e0c803b798d490e33d",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 爱知县产业劳动中心 6、7 层展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方名月祭-1"
+}

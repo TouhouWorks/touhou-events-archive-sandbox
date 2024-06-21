@@ -1,0 +1,30 @@
+{
+  "start": 1443312000,
+  "end": 1443312000,
+  "title": "大⑨州東方祭12",
+  "desc": "大⑨州东方祭12 于 北九州市 西日本综合展示场 新馆 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d1e460ece3be83267cd83c31123ec424cffb9b2056f33777f4c9740069507c62",
+  "location": {
+    "type": "google",
+    "text": "北九州市 西日本综合展示场 新馆",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大⑨州东方祭-13"
+}

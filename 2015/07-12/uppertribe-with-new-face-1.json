@@ -1,0 +1,30 @@
+{
+  "start": 1436659200,
+  "end": 1436659200,
+  "title": "uppertribe-With new face- vol.1",
+  "desc": "uppertribe-With new face- vol.1 于 东京都 中野heavysick ZERO 举办",
+  "url": "https://thwiki.cc/uppertribe-With_new_face-#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "55fe9754753d2c30976d02db3c656b1427d8b057269dc9daefc62d5db2d3335e",
+  "location": {
+    "type": "google",
+    "text": "东京都 中野heavysick ZERO",
+    "entity": [
+      {
+        "id": "ChIJz-WHdJfyGGAR1ctnMbzjeMU",
+        "addressLine1": "heavysick ZERO",
+        "addressLine2": "日本、東京都中野区中野５丁目４１−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "uppertribe-with-new-face-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1373673600,
+  "end": 1373673600,
+  "title": "上海ComiCon13",
+  "desc": "上海ComiCon13 于 上海市 上海世博展览馆2号馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "24ab7effbc187b4d033ededdfeec1b413de3cd6a7e2de13b6b69586c7bbac0d0",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海世博展览馆2号馆",
+    "entity": [
+      {
+        "id": "ChIJXRi66vV6sjURCOZFp8-m2DI",
+        "addressLine1": "上海世博展览馆",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Guozhan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "上海comicon-13"
+}

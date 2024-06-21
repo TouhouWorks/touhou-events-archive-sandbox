@@ -1,0 +1,94 @@
+{
+  "start": 1327104000,
+  "end": 1327104000,
+  "title": "博麗神社の縁側2",
+  "desc": "博丽神社的檐廊2 于 东京都 High Life Plaza板桥 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%9A%84%E6%AA%90%E5%BB%8A#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bd878d6a5fd9e08b3bd6911d20ef438ab8b7477df14f31394d355d6486939c5d",
+  "location": {
+    "type": "google",
+    "text": "东京都 High Life Plaza板桥",
+    "entity": [
+      {
+        "id": "ChIJOfIXFJuSGGARh62ShosncEc",
+        "addressLine1": "High Life Plaza Tokyo",
+        "addressLine2": "１丁目-５５ 板橋 板橋区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJM63o9LLtGGARL6SnObPvHLI",
+        "addressLine1": "カワサキ プラザ東京板橋",
+        "addressLine2": "日本、東京都板橋区東山町２−１３",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJP0F_x2HsGGARcGHO3kX-xA0",
+        "addressLine1": "LIFE Supermarket Akatsuka Store",
+        "addressLine2": "１丁目-１６-１２ 赤塚 板橋区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJaQtJydWSGGAReT7KsGXbt8Y",
+        "addressLine1": "LIFE",
+        "addressLine2": "１丁目-２０-１８ 前野町 板橋区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJUfPte8CSGGAR6nPJcR-DGg0",
+        "addressLine1": "LIFE Nakajuku store",
+        "addressLine2": "４７-１１ 仲宿 板橋区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "博丽神社的檐廊-3"
+}

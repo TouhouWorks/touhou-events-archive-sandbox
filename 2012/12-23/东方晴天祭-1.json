@@ -1,0 +1,86 @@
+{
+  "start": 1356220800,
+  "end": 1356220800,
+  "title": "東方晴天祭1",
+  "desc": "东方晴天祭1 于 冈山Dome 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%99%B4%E5%A4%A9%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "af6906870641b16d393126f70ecfed887762af65912050ac608832e19c04d656",
+  "location": {
+    "type": "google",
+    "text": "冈山Dome",
+    "entity": [
+      {
+        "id": "ChIJ43J9oMIOVDUR0KmIQQu4F6g",
+        "addressLine1": "Home Run Dome Okyamaya",
+        "addressLine2": "４６１ 下 中区 岡山市 岡山県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZZNqiDQOVDUR1b7arcIb69s",
+        "addressLine1": "Hair Dome",
+        "addressLine2": "８９ 牟佐 北区 岡山市 岡山県 日本",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJQZPUuloGVDURvMjBWczZ8b8",
+        "addressLine1": "Domeel イフク",
+        "addressLine2": "日本、岡山県岡山市北区伊福町２丁目２６",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJe3gTCGIHVDURiZeBVHCJ65w",
+        "addressLine1": "Eneos Yuyu Dome NOWSS",
+        "addressLine2": "８丁目-１４-３２ 今 北区 岡山市 岡山県 日本",
+        "provider": "google_places",
+        "categories": [
+          "GAS_STATION",
+          "establishment",
+          "point_of_interest",
+          "gas_station"
+        ]
+      },
+      {
+        "id": "ChIJjWxQw20HVDURq0wbyYFb1N8",
+        "addressLine1": "Lawson Okayama Dome",
+        "addressLine2": "１丁目-９-３０ 今 北区 岡山市 岡山県 日本",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "finance",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方晴天祭-1"
+}

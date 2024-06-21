@@ -1,0 +1,87 @@
+{
+  "start": 1416700800,
+  "end": 1416700800,
+  "title": "ぷち東方樂祭 ＆コス痛と宴 in 秋葉原",
+  "desc": "小型东方乐祭 & COS痛与宴 in 秋叶原 于 东京都 秋叶原UDX 举办",
+  "url": "https://thwiki.cc/%E5%B0%8F%E5%9E%8B%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "785dfb2bd53b0d1866b2ccefbe1d39d84f7cc46dc2c591ac3487dd3de2670a8e",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原UDX",
+    "entity": [
+      {
+        "id": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+        "addressLine1": "秋叶原UDX",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__9v5hyMGGAReXRnTyegrEI",
+        "addressLine1": "秋葉原UDXレストラン＆ショップ アキバ・イチ",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１ 秋葉原UDX",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "CAFE",
+          "restaurant",
+          "establishment",
+          "store",
+          "CONVENIENCE_STORE",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food",
+          "supermarket",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "RESTAURANT",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE"
+        ]
+      },
+      {
+        "id": "ChIJy4w6DwCPGGARlGmEpOxF6DM",
+        "addressLine1": "秋葉原UDX 2F JR側デッキ",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJp2I7cY6NGGARVKPt0uBX73g",
+        "addressLine1": "秋葉原UDX アキバ広場",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ0-OhfkWNGGARYbcQGZZelIk",
+        "addressLine1": "UDXギャラリー（秋葉原）",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "小型东方乐祭-6"
+}

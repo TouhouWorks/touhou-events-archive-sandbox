@@ -1,0 +1,32 @@
+{
+  "start": 1604793600,
+  "end": 1604793600,
+  "title": "第百三十五季 文々。新聞友の会",
+  "desc": "第百三十五季 文文。新闻友人集会 于 京都市劝业馆 举办",
+  "url": "https://thwiki.cc/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a36b9353f8f742e8dc7b4bc732cfe4c159dd7f7245f5ee4cc78da7393477b723",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勸業館 Miyako Messe",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "文文。新闻友人集会-11"
+}

@@ -1,0 +1,34 @@
+{
+  "start": 1658016000,
+  "end": 1658016000,
+  "title": "东方淮洪宴1",
+  "desc": "东方淮洪宴1 于 江苏省淮安市 清江浦区 美景天成花苑Family别墅趴 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B7%AE%E6%B4%AA%E5%AE%B4#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d60e7dc5fdad0f939a951a2c2559bd21a089897c8b4cdeeac290f6e692a31e38",
+  "location": {
+    "type": "google",
+    "text": "江苏省淮安市 清江浦区 美景天成花苑Family别墅趴",
+    "entity": [
+      {
+        "id": "ChIJgQfVYneOtzUR1gtHdomH4ns",
+        "addressLine1": "苑草一",
+        "addressLine2": "中華人民共和国 江蘇省 淮安市 淮安区 Mingqingshangye Street",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方淮洪宴-1"
+}

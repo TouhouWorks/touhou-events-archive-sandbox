@@ -1,0 +1,50 @@
+{
+  "start": 1584835200,
+  "end": 1584835200,
+  "title": "東方螺茶会 越中の宴 第二季",
+  "desc": "东方螺茶会 越中之宴 第二季 于 富山县市民会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-121",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "095fd61c6ead790dc8bf3351652f491e3d60eb043fd056bb6a4df6c1ca9c7f85",
+  "location": {
+    "type": "google",
+    "text": "富山县市民会馆",
+    "entity": [
+      {
+        "id": "ChIJP7HGNKGj918RjjczZiy5L5I",
+        "addressLine1": "滑川市民会館大ホール",
+        "addressLine2": "日本、富山県滑川市寺家町１７−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJXWvZMqi918RqxNpg80mZ6E",
+        "addressLine1": "滑川市 市民会館分館滑川西地区コミュニティホール",
+        "addressLine2": "日本、富山県滑川市加島町１９４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJD7lq9IWQ918RLSxap85wAks",
+        "addressLine1": "富山県民会館",
+        "addressLine2": "日本、富山県富山市新総曲輪４−１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-121"
+}

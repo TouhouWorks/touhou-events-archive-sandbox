@@ -1,0 +1,30 @@
+{
+  "start": 1501977600,
+  "end": 1501977600,
+  "title": "豫章幻想茶会",
+  "desc": "豫章幻想茶会 于 南昌市 景田大厦 慢时光影咖 举办",
+  "url": "https://thwiki.cc/%E8%B1%AB%E7%AB%A0%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "352a67ba70d28245e8a0f4e5aa740566d5828a1d6e6350ad574c8771ece95c0c",
+  "location": {
+    "type": "google",
+    "text": "南昌市 景田大厦 慢时光影咖",
+    "entity": [
+      {
+        "id": "ChIJMYhkC1q4OjQRkQeGB3UrTK0",
+        "addressLine1": "景田大厦",
+        "addressLine2": "中華人民共和国 江西省 南昌市 西湖区 Xiangshan South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "豫章幻想茶会-1"
+}

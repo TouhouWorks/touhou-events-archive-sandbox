@@ -1,0 +1,30 @@
+{
+  "start": 1536969600,
+  "end": 1536969600,
+  "title": "第三回エレクトリック盆踊り",
+  "desc": "第三回Electric盆舞 于 东京都 大塚hearts+ 举办",
+  "url": "https://thwiki.cc/Electric%E7%9B%86%E8%88%9E#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "375e033cf7956670a66e706034c9a763451cd82ff35a16869dd30ae29d4e8a83",
+  "location": {
+    "type": "google",
+    "text": "东京都 大塚hearts+",
+    "entity": [
+      {
+        "id": "ChIJCcbYG3eNGGARuPPPJoAJU0U",
+        "addressLine1": "大塚Hearts+",
+        "addressLine2": "日本、東京都豊島区北大塚２丁目１６−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "electric盆舞-3"
+}

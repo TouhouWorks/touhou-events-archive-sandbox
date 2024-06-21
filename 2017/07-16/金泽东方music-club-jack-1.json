@@ -1,0 +1,46 @@
+{
+  "start": 1500163200,
+  "end": 1500163200,
+  "title": "金沢東方MUSIC CLUB JACK Vol.1",
+  "desc": "金泽东方MUSIC CLUB JACK Vol.1 于 石川县金泽市 金泽Manier 举办",
+  "url": "https://thwiki.cc/%E9%87%91%E6%B3%BD%E4%B8%9C%E6%96%B9MUSIC_CLUB_JACK#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "05a2a0efa81236b1b20492a82e423527542148e6c307e1a1ff56b126eb20b13d",
+  "location": {
+    "type": "google",
+    "text": "石川县金泽市 金泽Manier",
+    "entity": [
+      {
+        "id": "ChIJBYa7A0Iz-F8R6qe7HgH2XV0",
+        "addressLine1": "金泽",
+        "addressLine2": "日本、石川県金沢市木ノ新保町1番1号",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJQyHKxFsx-F8RUJO-43Y4gAU",
+        "addressLine1": "金泽大学",
+        "addressLine2": "日本、石川県金沢市角間町",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "金泽东方music-club-jack-1"
+}

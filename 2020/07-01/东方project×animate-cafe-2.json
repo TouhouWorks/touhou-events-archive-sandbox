@@ -1,0 +1,50 @@
+{
+  "start": 1593561600,
+  "end": 1593561600,
+  "title": "東方Project×アニメイトカフェ 名古屋2号店",
+  "desc": "东方Project×animate cafe 名古屋2号店 于 名古屋 animate cafe 名古屋2号店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97animate_cafe#ev-2",
+  "type": [
+    "授权联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "06dc511d33dc393eaec09f1e5b6397d297696902f1bed9a865b628114aa98eeb",
+  "location": {
+    "type": "google",
+    "text": "名古屋 animate cafe 名古屋2号店",
+    "entity": [
+      {
+        "id": "ChIJoRkNSud2A2ARz-upbD0FJvU",
+        "addressLine1": "アニメイト名古屋",
+        "addressLine2": "日本、愛知県名古屋市中村区椿町１８−４",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJWQ1K7093A2ARTNjKYV_TyJU",
+        "addressLine1": "アニメイトカフェ 名古屋2号店",
+        "addressLine2": "日本、愛知県名古屋市中村区椿町２１−９",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方project×animate-cafe-2"
+}

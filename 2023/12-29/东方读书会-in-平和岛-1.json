@@ -1,0 +1,30 @@
+{
+  "start": 1703808000,
+  "end": 1703808000,
+  "title": "東方読書会 in 平和島1",
+  "desc": "东方读书会 in 平和岛1 于 东京都 TIME SHARING 平和岛 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A_in_%E5%B9%B3%E5%92%8C%E5%B2%9B#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "078cf265033c537cf5f1a27c7fdfdd34790dbfad81c0b94e8bce1d38ffd0efde",
+  "location": {
+    "type": "google",
+    "text": "东京都 TIME SHARING 平和岛",
+    "entity": [
+      {
+        "id": "ChIJDyN-zpBhGGARSfiK4nZfbvM",
+        "addressLine1": "TIME SHARING 平和島",
+        "addressLine2": "日本、東京都大田区大森北６丁目１２−１７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方读书会-in-平和岛-1"
+}

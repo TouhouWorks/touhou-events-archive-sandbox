@@ -1,0 +1,30 @@
+{
+  "start": 1347148800,
+  "end": 1347148800,
+  "title": "境界から視えた外界 -廻-",
+  "desc": "境界所见到的外界 -廻- 于 东京都立产业贸易中心 滨松町馆 5层 举办",
+  "url": "https://thwiki.cc/%E5%A2%83%E7%95%8C%E6%89%80%E8%A7%81%E5%88%B0%E7%9A%84%E5%A4%96%E7%95%8C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0a291397865406b74f9c5b992398418c9d99ab52f311424282dcceddf9260e15",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 5层",
+    "entity": [
+      {
+        "id": "ChIJgSnVwGCLGGARDPI40IEPsl0",
+        "addressLine1": "東京都立產業貿易中心 濱松町館",
+        "addressLine2": "日本、東京都港区海岸１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "境界所见到的外界-2"
+}

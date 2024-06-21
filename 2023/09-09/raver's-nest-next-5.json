@@ -1,0 +1,31 @@
+{
+  "start": 1694217600,
+  "end": 1694217600,
+  "title": "RAVER'S NEST NEXT Vol.5",
+  "desc": "RAVER&#39;S NEST NEXT Vol.5 于 东京都 五反田G+ 举办",
+  "url": "https://thwiki.cc/RAVER%27S_NEST_NEXT#ev-5",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9988ccf9529dc183e3390e3c658937533dfcb90093d77545242c85ec1eadbf00",
+  "location": {
+    "type": "google",
+    "text": "东京都 五反田G+",
+    "entity": [
+      {
+        "id": "ChIJrT1vVx6LGGARn0Ripqhla6I",
+        "addressLine1": "GOTANDA G2 G+",
+        "addressLine2": "日本、東京都品川区西五反田２丁目５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "raver's-nest-next-5"
+}

@@ -1,0 +1,74 @@
+{
+  "start": 1353196800,
+  "end": 1353196800,
+  "title": "第十五回文学フリマ",
+  "desc": "第十五回文学Flea Market 于 千叶市 幕张Messe 举办",
+  "url": "https://thwiki.cc/%E6%96%87%E5%AD%A6Flea_Market#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d854eb11e2339db660d039bb85170a9b5a03288ecba176ab4584eb6a98abc8ff",
+  "location": {
+    "type": "google",
+    "text": "千叶市 幕张Messe",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕张展览馆",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJof67wfWBImAR_5ktE6l2Wc8",
+        "addressLine1": "幕張展覽館 國際展覽中心1-3",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ-2TjZIqBImARH0B9HjPMUJQ",
+        "addressLine1": "メッセ·アミューズ·モール",
+        "addressLine2": "日本、千葉県千葉市美浜区ひび野１丁目８",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJV9pFA_WBImARmJWOpJqQESI",
+        "addressLine1": "メッセモール",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "EklNZXNzZS1vZG9yaSBBdmVudWUsIO-8kuS4geebriDkuK3ngKwg576O5rWc5Yy6IOWNg-iRieW4giDljYPokYnnnIwg5pel5pysIi4qLAoUChIJ2anUXTmCImARmYtc_U1YofYSFAoSCatUtrH1gSJgEY6L_fR1lWqX",
+        "addressLine1": "Messe-odori Avenue",
+        "addressLine2": "２丁目 中瀬 美浜区 千葉市 千葉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "文学flea-market-1"
+}

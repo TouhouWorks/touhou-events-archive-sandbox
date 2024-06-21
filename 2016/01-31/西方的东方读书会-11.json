@@ -1,0 +1,30 @@
+{
+  "start": 1454198400,
+  "end": 1454198400,
+  "title": "西方の東方読書会・小倉番外地1",
+  "desc": "西方的东方读书会·小仓番外地1 于 福冈县北九州市 西日本综合展示场 新馆 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E6%96%B9%E7%9A%84%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-11",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c8ca6a2fc54579699c1d16b53c803df2e0e376e4538d9af515be7c4c3f8bc57d",
+  "location": {
+    "type": "google",
+    "text": "福冈县北九州市 西日本综合展示场 新馆",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "西方的东方读书会-11"
+}

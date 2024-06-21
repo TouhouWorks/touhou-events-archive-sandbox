@@ -1,0 +1,30 @@
+{
+  "start": 1547337600,
+  "end": 1547337600,
+  "title": "東方ヒットパレェド5",
+  "desc": "东方Hit Parade5 于 福冈市博多Livehouse & Club PEACE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Hit_Parade#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "838346ff7cf4a5b7f655d11fe04d244b6022abf2fcbedf244bd2bc7664be1e4a",
+  "location": {
+    "type": "google",
+    "text": "福冈市博多Livehouse & Club PEACE",
+    "entity": [
+      {
+        "id": "ChIJM-CUuDGSQTURz9NjR0fOuYs",
+        "addressLine1": "ライブハウス&クラブ ピース",
+        "addressLine2": "日本、福岡県福岡市中央区荒戸１丁目９−２２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方hit-parade-6"
+}

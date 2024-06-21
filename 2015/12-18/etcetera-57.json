@@ -1,0 +1,84 @@
+{
+  "start": 1450396800,
+  "end": 1450396800,
+  "title": "えとせとら Vol.56",
+  "desc": "Etcetera Vol.56 于 东京都 池袋KINGSX TOKYO 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-57",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ba42d1ddd6aa9ee07f70584d5c77323e9b2eb0b7b20a390c0de821abc203414b",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋KINGSX TOKYO",
+    "entity": [
+      {
+        "id": "ChIJu9__QRmNGGARismSHy-qZQM",
+        "addressLine1": "MIMARU TOKYO IKEBUKURO",
+        "addressLine2": "２丁目-６１-１ 池袋 豊島区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJJ1xYpaCSGGARumLc8TmsILQ",
+        "addressLine1": "池袋",
+        "addressLine2": "日本、東京都豊島区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJUZRmuF6NGGARZyhdTvhI69k",
+        "addressLine1": "Tokyu Stay Ikebukuro",
+        "addressLine2": "２丁目-１２-２ 池袋 豊島区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ3eBDQF2NGGARTQMrXdJ1NyE",
+        "addressLine1": "池袋",
+        "addressLine2": "日本、東京都豊島区南池袋１丁目２８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJ6Q4bOF6NGGARpBWM6EApKVw",
+        "addressLine1": "TOYOKO INN Ikebukuro Kitaguchi 2",
+        "addressLine2": "２丁目-５１-２ 池袋 豊島区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-57"
+}

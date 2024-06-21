@@ -1,0 +1,31 @@
+{
+  "start": 1374019200,
+  "end": 1374019200,
+  "title": "東方縁起祭1",
+  "desc": "东方缘起祭1 于 东京都 moe farre 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BC%98%E8%B5%B7%E7%A5%AD#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4075b6efd7ea8b1c1f39c8dda4447323d04bf2f800ea0a9ed89fa368fdda0d37",
+  "location": {
+    "type": "google",
+    "text": "东京都 moe farre",
+    "entity": [
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方缘起祭-1"
+}

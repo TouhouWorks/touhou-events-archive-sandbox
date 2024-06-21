@@ -1,0 +1,32 @@
+{
+  "start": 1409961600,
+  "end": 1409961600,
+  "title": "Comic Frontier 4",
+  "desc": "Comic Frontier 4 于 印度尼西亚 雅加达 Gelanggang Remaja青少年活动中心 举办",
+  "url": "https://thwiki.cc/Comic_Frontier#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "db012fdcf9ccb9699f782072c77df50252caece0f9ca99b69d468725bc647701",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 雅加达 Gelanggang Remaja青少年活动中心",
+    "entity": [
+      {
+        "id": "ChIJnYu3IHXzaS4RDR4LJevC5AQ",
+        "addressLine1": "Gelanggang Remaja",
+        "addressLine2": "Jalan Otista Raya, RT.13/RW.8, Bidara Cina, East Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-frontier-4"
+}

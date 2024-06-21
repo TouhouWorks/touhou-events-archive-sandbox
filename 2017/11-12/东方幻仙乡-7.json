@@ -1,0 +1,30 @@
+{
+  "start": 1510444800,
+  "end": 1510444800,
+  "title": "東方幻仙郷 七",
+  "desc": "东方幻仙乡 七 于 宫城县产业交流中心 (夢メッセみやぎ) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E4%BB%99%E4%B9%A1#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "684714f4430d9f479ef1680d379e13df67aab21f864ed9da5a18e5fa0dc9ff19",
+  "location": {
+    "type": "google",
+    "text": "宫城县产业交流中心 (夢メッセみやぎ)",
+    "entity": [
+      {
+        "id": "ChIJTWqSuLqIiV8RxxbCk5-PQdA",
+        "addressLine1": "夢メッセみやぎ",
+        "addressLine2": "日本、宮城県仙台市宮城野区港３丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幻仙乡-7"
+}

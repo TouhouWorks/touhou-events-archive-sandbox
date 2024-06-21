@@ -1,0 +1,30 @@
+{
+  "start": 1617494400,
+  "end": 1617494400,
+  "title": "第六届武漢THONLY-浮燈華苑",
+  "desc": "第六届武汉THONLY-浮灯华苑 于 武汉 北辰光谷里 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E5%8D%8E%E8%83%A5#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fc217c99614071e4d3b215d102c2e58e5269363575ee1653cd212cea9676f5fb",
+  "location": {
+    "type": "google",
+    "text": "武汉 北辰光谷里",
+    "entity": [
+      {
+        "id": "ChIJm3tEkEK7LjQRNozGz5b-GJo",
+        "addressLine1": "北辰光谷里",
+        "addressLine2": "中華人民共和国 武汉 洪山区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方梦华胥-6"
+}

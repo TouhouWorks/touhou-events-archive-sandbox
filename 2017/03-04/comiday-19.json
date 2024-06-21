@@ -1,0 +1,78 @@
+{
+  "start": 1488585600,
+  "end": 1488585600,
+  "title": "COMIDAY19",
+  "desc": "COMIDAY19 于 成都市 国际非物质文化遗产博览园 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eb11063ebf8249f8069e3b76769b42191528271cbfb4e34f96dc2fd66f9f6b13",
+  "location": {
+    "type": "google",
+    "text": "成都市 国际非物质文化遗产博览园",
+    "entity": [
+      {
+        "id": "ChIJZQkYsqPC7zYRaMMsgktR07A",
+        "addressLine1": "国际非物质文化遗产博览园（西门）",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Feiyi Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJW7_Fbr3C7zYRVNiDdv81roQ",
+        "addressLine1": "国际非物质文化遗产博览园百家宴",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Feiyi Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJj8WGg73C7zYROzekadiUYrA",
+        "addressLine1": "国际非物质文化遗产博览园时空旅",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Feiyi Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJs5Fu7bzC7zYRb7lOPXKqFaQ",
+        "addressLine1": "国际非物质文化遗产博览园游客中心",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Guanghua Boulevard 2 Section",
+        "provider": "google_places",
+        "categories": [
+          "travel_agency",
+          "establishment",
+          "point_of_interest",
+          "TRAVEL_SERVICES"
+        ]
+      },
+      {
+        "id": "ChIJCaSSR73C7zYRhtCb0csCmFs",
+        "addressLine1": "国际非物质文化遗产博览园百家宴停车场",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Feiyi Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comiday-19"
+}

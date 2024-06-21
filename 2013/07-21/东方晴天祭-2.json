@@ -1,0 +1,30 @@
+{
+  "start": 1374364800,
+  "end": 1374364800,
+  "title": "東方晴天祭2",
+  "desc": "东方晴天祭2 于 冈山县卸中心 (オレンジホール) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%99%B4%E5%A4%A9%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b6c320a2efcf26f58841a9d6b9bb7e9b15329e212452e4da14d3637e26dd1e2a",
+  "location": {
+    "type": "google",
+    "text": "冈山县卸中心 (オレンジホール)",
+    "entity": [
+      {
+        "id": "ChIJO7T5KGEHVDURcdU_SMvuHe4",
+        "addressLine1": "オレンジホール",
+        "addressLine2": "日本、岡山県岡山市北区問屋町１５−１０１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方晴天祭-2"
+}

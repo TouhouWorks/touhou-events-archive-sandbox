@@ -1,0 +1,58 @@
+{
+  "start": 1708128000,
+  "end": 1708128000,
+  "title": "第四回東方騒霊祭",
+  "desc": "第四回东方骚灵祭 于 大阪市 难波MILULARI 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AA%9A%E7%81%B5%E7%A5%AD#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b25e624ca74098c8e205feca0af38db89a04f132e28604fcfec6173058456f5c",
+  "location": {
+    "type": "google",
+    "text": "大阪市 难波MILULARI",
+    "entity": [
+      {
+        "id": "ChIJOXPJyWznAGARahb0KWFRjlM",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJFXXzNhPnAGARUifDEqMzXl4",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区難波１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJ9RFkRWnnAGARZh-hyWjBhtg",
+        "addressLine1": "难波公园",
+        "addressLine2": "日本、大阪府大阪市浪速区難波中２丁目１０−７０",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方骚灵祭-5"
+}

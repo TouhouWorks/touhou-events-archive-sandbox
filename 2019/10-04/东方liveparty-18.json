@@ -1,0 +1,82 @@
+{
+  "start": 1570147200,
+  "end": 1570147200,
+  "title": "东方LiveParty×袋装鸡翅合同Live",
+  "desc": "东方LiveParty×袋装鸡翅合同Live 于 广州 191Space酒吧 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-18",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "444e656d200fe67b4dcb379ca2557b4dbd4709eab026889ec0c0a5009146f0ae",
+  "location": {
+    "type": "google",
+    "text": "广州 191Space酒吧",
+    "entity": [
+      {
+        "id": "ChIJc9jPmsH4AjQR_oafIfXo3Dk",
+        "addressLine1": "酒吧娱乐中心",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJH_BhzipWAjQRuanRP6A4y0o",
+        "addressLine1": "白鵝潭風情酒吧街",
+        "addressLine2": "中華人民共和国 広東省 广州 茘湾区 长堤路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDQIV-RH_AjQRGbprjvgyHDM",
+        "addressLine1": "广州柏悦酒店",
+        "addressLine2": "中華人民共和国 広東省 广州 天河区 华夏路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJYUBBtEP_AjQRh1EXWpstodw",
+        "addressLine1": "後街爵士酒吧",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区 二沙岛 Yanyu Road",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJwSGNjdT4AjQRZ4YZPFKqeXw",
+        "addressLine1": "PIZZA·酒吧",
+        "addressLine2": "中華人民共和国 広東省 广州 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-18"
+}

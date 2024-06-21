@@ -1,0 +1,56 @@
+{
+  "start": 1402704000,
+  "end": 1402704000,
+  "title": "東方嶺水祭4",
+  "desc": "东方岭水祭4 于 夕张市 HOTEL MOUNT RACEY 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B2%AD%E6%B0%B4%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f04ea6428eea3adfbd51312a92f1b253a8dd522bb72d4a6160405f30ef83264b",
+  "location": {
+    "type": "google",
+    "text": "夕张市 HOTEL MOUNT RACEY",
+    "entity": [
+      {
+        "id": "ChIJ19JCfIW3dF8Rpg7BYa-XqXM",
+        "addressLine1": "Mount Racey 滑雪場",
+        "addressLine2": "日本、北海道夕張市末広２丁目４",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJCZxo8Y-3dF8R1tpXySqGdJ0",
+        "addressLine1": "Racey Resort",
+        "addressLine2": "１丁目 末広 夕張市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJDys074-3dF8RZPMt_YF8scw",
+        "addressLine1": "Racey Resort mae",
+        "addressLine2": "１丁目 末広 夕張市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方岭水祭-4"
+}

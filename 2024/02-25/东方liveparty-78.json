@@ -1,0 +1,32 @@
+{
+  "start": 1708819200,
+  "end": 1708819200,
+  "title": "东方LiveParty×大连ComicRise08 & 大连东方Project06",
+  "desc": "东方LiveParty×大连ComicRise08 & 大连东方Project06 于 辽宁省 大连市 中山区 大连 GIFT SPACE礼物空间 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-78",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6abf4e537dcbd07b127bc32e30fd7eb25c5f569d5488596b1f835c919b839e46",
+  "location": {
+    "type": "google",
+    "text": "辽宁省 大连市 中山区 大连 GIFT SPACE礼物空间",
+    "entity": [
+      {
+        "id": "ChIJMdDtIa2MhTURJHNwupmjtIo",
+        "addressLine1": "中山区",
+        "addressLine2": "中華人民共和国 遼寧省 大連市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-78"
+}

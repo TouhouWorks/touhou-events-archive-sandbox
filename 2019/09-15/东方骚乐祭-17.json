@@ -1,0 +1,30 @@
+{
+  "start": 1568505600,
+  "end": 1568505600,
+  "title": "東方騒楽祭 Vol.17",
+  "desc": "东方骚乐祭 Vol.17 于 札幌市 ふぁーすて 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AA%9A%E4%B9%90%E7%A5%AD#ev-17",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cc936c9755afbce5795c0836409b5fb6bb7e31a02508be69d08165353e78b96a",
+  "location": {
+    "type": "google",
+    "text": "札幌市 ふぁーすて",
+    "entity": [
+      {
+        "id": "ChIJz6XjP78pC18RUv-MkKfIWW4",
+        "addressLine1": "ファースティール",
+        "addressLine2": "日本、北海道札幌市北区北３６条西２丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方骚乐祭-17"
+}

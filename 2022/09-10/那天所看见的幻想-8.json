@@ -1,0 +1,30 @@
+{
+  "start": 1662768000,
+  "end": 1662768000,
+  "title": "あの日視た幻想 chapter.7",
+  "desc": "那天所看见的幻想 chapter.7 于 京都市 京都FANJ 举办",
+  "url": "https://thwiki.cc/%E9%82%A3%E5%A4%A9%E6%89%80%E7%9C%8B%E8%A7%81%E7%9A%84%E5%B9%BB%E6%83%B3#ev-8",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0aaace78e39edbbc36ebdc920d04ff6a0bb725c84304d2c3a65a383baa5b6877",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都FANJ",
+    "entity": [
+      {
+        "id": "ChIJ7U5C9tQJAWARTVPn9nxYY7g",
+        "addressLine1": "京都FANJ",
+        "addressLine2": "日本、京都府京都市左京区上高野車地町１０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "那天所看见的幻想-8"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1714694400,
+  "end": 1714694400,
+  "title": "東方愛麗絲祭1",
+  "desc": "东方爱丽丝祭1 于 东京Big Sight 东展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%88%B1%E4%B8%BD%E4%B8%9D%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0de5adf5d4fc24acde79ff615d30a5d410b28cc818afa954bb04c22bc60b8ff7",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 东展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方爱丽丝祭-1"
+}

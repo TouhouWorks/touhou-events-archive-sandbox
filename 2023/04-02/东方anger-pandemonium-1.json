@@ -1,0 +1,32 @@
+{
+  "start": 1680393600,
+  "end": 1680393600,
+  "title": "東方ANGER PANDEMONIUM 1",
+  "desc": "东方ANGER PANDEMONIUM 1 于 名古屋市 Club LOVER:z 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9ANGER_PANDEMONIUM#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "70e95e4a52e9107b28886a9ece61374dd147bc7b49f939ec70207fd517f8969f",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 Club LOVER:z",
+    "entity": [
+      {
+        "id": "ChIJpWalSNtwA2AR9AgEZNDFY_Y",
+        "addressLine1": "Club LOVER:z (ラバーズ)",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２２−２２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方anger-pandemonium-1"
+}

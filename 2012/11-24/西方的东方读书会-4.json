@@ -1,0 +1,40 @@
+{
+  "start": 1353715200,
+  "end": 1353715200,
+  "title": "第四回西方の東方読書会",
+  "desc": "第四回西方的东方读书会 于 长崎县谏早市 谏早文化会馆 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E6%96%B9%E7%9A%84%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-4",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bcd2d8fe1b31b03e5a2a872b77ab77926ce6537c4be43a42bcbbb76e558c5a62",
+  "location": {
+    "type": "google",
+    "text": "长崎县谏早市 谏早文化会馆",
+    "entity": [
+      {
+        "id": "ChIJAQAASTEDQDURzeq6a92ng2M",
+        "addressLine1": "諫早文化会館",
+        "addressLine2": "日本、長崎県諫早市宇都町９−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDda4STEDQDURrGTbEviR1rA",
+        "addressLine1": "諫早文化会館 芸術鑑賞会",
+        "addressLine2": "日本、長崎県諫早市宇都町９−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "西方的东方读书会-4"
+}

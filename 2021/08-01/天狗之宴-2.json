@@ -1,0 +1,19 @@
+{
+  "start": 1627776000,
+  "end": 1627776000,
+  "title": "エア天狗の宴1",
+  "desc": "空气天狗之宴1 于 https://tengu.melonbooks.co.jp/ 举办",
+  "url": "https://thwiki.cc/%E5%A4%A9%E7%8B%97%E4%B9%8B%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fc4c514e939363e63a247a2ce5313c1120f367949f839a9fe59a1a033d30794e",
+  "location": {
+    "type": "google",
+    "text": "https://tengu.melonbooks.co.jp/",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "天狗之宴-2"
+}

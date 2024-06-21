@@ -1,0 +1,19 @@
+{
+  "start": 1352592000,
+  "end": 1352592000,
+  "title": "東方北陸祭 第七弾",
+  "desc": "东方北陆祭 第七弹 于 金泽市IT商业广场武藏 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%99%86%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ebea2018cc57575a73ecadf077b8ff4f55bf5c22ccdeda92651e971f69e9cad5",
+  "location": {
+    "type": "google",
+    "text": "金泽市IT商业广场武藏",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方北陆祭-7"
+}

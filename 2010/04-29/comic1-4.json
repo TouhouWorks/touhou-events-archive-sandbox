@@ -1,0 +1,19 @@
+{
+  "start": 1272499200,
+  "end": 1272499200,
+  "title": "COMIC1☆4",
+  "desc": "COMIC1☆4 于 东京都 东京国际展示场 东4-6展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a4578f7197ba180ae8aae5fc291a18bbc3e6a97d7e51b5cfdb4d6e934e983c7",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东4-6展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic1-4"
+}

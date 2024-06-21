@@ -1,0 +1,30 @@
+{
+  "start": 1593216000,
+  "end": 1593216000,
+  "title": "東方カンファレンス2020",
+  "desc": "东方Conference2020 于 京都府京都市 日升馆 尚心亭 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Conference#ev-1",
+  "type": [
+    "会议"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "57bc9023f923b8ab58fe38ed07665af5b5fe4432cf4c57f046ea6eb3f62b0662",
+  "location": {
+    "type": "google",
+    "text": "京都府京都市 日升馆 尚心亭",
+    "entity": [
+      {
+        "id": "ChIJK-_49OsIAWARKwZvc1Jl-0Y",
+        "addressLine1": "日昇館尚心亭",
+        "addressLine2": "日本、京都府京都市東山区三条大橋東入二町目５７",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方conference-1"
+}

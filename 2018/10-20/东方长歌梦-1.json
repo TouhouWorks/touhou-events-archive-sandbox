@@ -1,0 +1,80 @@
+{
+  "start": 1539993600,
+  "end": 1539993600,
+  "title": "西安THO-東方長歌夢1",
+  "desc": "西安THO-东方长歌梦1 于 西安 西安理工大学曲江校区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%95%BF%E6%AD%8C%E6%A2%A6#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fcfd8bb6fb9ed712eab72b98e89320f6b8e7d963b0509e861ad19cfb543f7202",
+  "location": {
+    "type": "google",
+    "text": "西安 西安理工大学曲江校区",
+    "entity": [
+      {
+        "id": "ChIJwen0aB1wYzYRmhmKxbo-IaU",
+        "addressLine1": "西安理工大学曲江校区",
+        "addressLine2": "中華人民共和国 陝西省 西安 雁塔区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJR7AaPR1wYzYRqda9vOisny0",
+        "addressLine1": "西安理工大学曲江校区教工餐厅",
+        "addressLine2": "中華人民共和国 陝西省 西安 雁塔区 Zhiyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJMVlCRRtwYzYRCMX1JRAlXkU",
+        "addressLine1": "西安理工大学曲江校区学生三餐厅",
+        "addressLine2": "中華人民共和国 陝西省 西安 雁塔区",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJO7xTSh1wYzYR35cqa4tyq44",
+        "addressLine1": "西安理工大学曲江校区学生活动中心",
+        "addressLine2": "中華人民共和国 陝西省 西安 雁塔区 Houde Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9_LAJx1wYzYRszIgVXeMV_c",
+        "addressLine1": "西安理工大学曲江校区东区乒乓球场",
+        "addressLine2": "中華人民共和国 陝西省 西安 雁塔区 Zhiyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方长歌梦-1"
+}

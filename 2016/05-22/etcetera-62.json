@@ -1,0 +1,30 @@
+{
+  "start": 1463875200,
+  "end": 1463875200,
+  "title": "えとせとら Vol.61",
+  "desc": "Etcetera Vol.61 于 东京都 涩谷WOMB LOUNGE 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-62",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "10c7e17213225cd0b56d7d7c78d068806bf88cec01cbe3d97ce16f8d1b951405",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷WOMB LOUNGE",
+    "entity": [
+      {
+        "id": "ChIJQVW_FKqMGGAR-9aRZ4NBhyo",
+        "addressLine1": "渋谷WOMBLOUNGE",
+        "addressLine2": "日本、東京都渋谷区円山町２−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-62"
+}

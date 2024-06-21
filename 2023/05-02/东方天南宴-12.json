@@ -1,0 +1,30 @@
+{
+  "start": 1682985600,
+  "end": 1682985600,
+  "title": "东方天南宴12",
+  "desc": "东方天南宴12 于 天津市津南区简墅高端轰趴俱乐部（津南区领世郡新悦庭137号） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-12",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ec01ec00f420c2865b6883f51e29d4a1e7f1f2cc3b0e004204da873dff212d45",
+  "location": {
+    "type": "google",
+    "text": "天津市津南区简墅高端轰趴俱乐部（津南区领世郡新悦庭137号）",
+    "entity": [
+      {
+        "id": "ChIJHTNN7YXk7TURiL1jeAbcgUo",
+        "addressLine1": "137 Xinyueting",
+        "addressLine2": "津南区 天津市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方天南宴-12"
+}

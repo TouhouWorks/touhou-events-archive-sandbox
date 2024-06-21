@@ -1,0 +1,54 @@
+{
+  "start": 1572048000,
+  "end": 1572048000,
+  "title": "东方Project×Gee!STORE 「博丽神社～秋之祭2019」",
+  "desc": "东方Project×Gee!STORE 「博丽神社～秋之祭2019」 于 爱知县名古屋市中区大须3-11-34 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-18",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a2f59d9f97c9f73c2b3278f9bc28e9f099dfd663de64ab470f8702d113312c2e",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市中区大须3-11-34",
+    "entity": [
+      {
+        "id": "ChIJJZQh7cxwA2ARX-36Ze3EPzs",
+        "addressLine1": "ジーストア名古屋",
+        "addressLine2": "日本、愛知県名古屋市中区大須３丁目１１−３４",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJFcfU8sxwA2ARhdEhprKJAbw",
+        "addressLine1": "大須３−１１",
+        "addressLine2": "日本、愛知県名古屋市中区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_4",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ6dWov8xwA2AROfNRcCUdtM8",
+        "addressLine1": "大須３",
+        "addressLine2": "日本、愛知県名古屋市中区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方project×百货商场活动-18"
+}

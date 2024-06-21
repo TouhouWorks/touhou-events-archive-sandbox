@@ -1,0 +1,82 @@
+{
+  "start": 1507939200,
+  "end": 1507939200,
+  "title": "Izanagi Distribution Ver.5.0",
+  "desc": "Izanagi Distribution Ver.5.0 于 东京都千代田区 秋叶原 举办",
+  "url": "https://thwiki.cc/Izanagi_Distribution#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4fccb0f374fbb75b8cf7e75017e6161831b752338f345fec912f38661fc11996",
+  "location": {
+    "type": "google",
+    "text": "东京都千代田区 秋叶原",
+    "entity": [
+      {
+        "id": "ChIJZzSYoB2MGGARfBcicn7sx28",
+        "addressLine1": "秋叶原电器街",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１２",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJBztW3x2MGGARadHYl5vTEK0",
+        "addressLine1": "秋叶原扭蛋会馆",
+        "addressLine2": "日本、東京都千代田区外神田３丁目１５−５",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJnxZoFqiOGGAReYJ1ck2lXiw",
+        "addressLine1": "秋叶原华盛顿酒店",
+        "addressLine2": "日本、東京都千代田区神田佐久間町１丁目８−３",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
+        "addressLine1": "秋葉原ラジオ会館",
+        "addressLine2": "日本、東京都千代田区外神田１丁目１５−１６",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "shopping_mall",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJ95ydwqiOGGARTKU2SXVge4Y",
+        "addressLine1": "秋叶原APA酒店",
+        "addressLine2": "日本、東京都千代田区神田佐久間町２丁目１３−２０",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "izanagi-distribution-5"
+}

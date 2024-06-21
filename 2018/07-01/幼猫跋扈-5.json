@@ -1,0 +1,30 @@
+{
+  "start": 1530403200,
+  "end": 1530403200,
+  "title": "幼猫跋扈5",
+  "desc": "幼猫跋扈5 于 东京都 绵商会馆 6层 举办",
+  "url": "https://thwiki.cc/%E5%B9%BC%E7%8C%AB%E8%B7%8B%E6%89%88#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8cc6d860c1f1fac3f280b6fbb9f27d32ae151ba826a3295dd29983d3cc43626e",
+  "location": {
+    "type": "google",
+    "text": "东京都 绵商会馆 6层",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幼猫跋扈-5"
+}

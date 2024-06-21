@@ -1,0 +1,30 @@
+{
+  "start": 1713139200,
+  "end": 1713139200,
+  "title": "TOHO LIVE PARTY vol.5",
+  "desc": "TOHO LIVE PARTY vol.5 于 东京都 五反田G+ 举办",
+  "url": "https://thwiki.cc/TOHO_LIVE_PARTY#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "108a2634354d9d3f276209358eb9b8daad08d28e1c66f862875ee3dde52898cc",
+  "location": {
+    "type": "google",
+    "text": "东京都 五反田G+",
+    "entity": [
+      {
+        "id": "ChIJrT1vVx6LGGARn0Ripqhla6I",
+        "addressLine1": "GOTANDA G2 G+",
+        "addressLine2": "日本、東京都品川区西五反田２丁目５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "toho-live-party-5"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1554508800,
+  "end": 1554508800,
+  "title": "第三回東方古文書会",
+  "desc": "第三回东方古文书会 于 东京都 大田区产业广场PiO 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8F%A4%E6%96%87%E4%B9%A6%E4%BC%9A#ev-3",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "59906e9c3681941406c4c231ef49852d1a1e4d3c96dec44b773f65209ad513ad",
+  "location": {
+    "type": "google",
+    "text": "东京都 大田区产业广场PiO",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方古文书会-3"
+}

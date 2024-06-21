@@ -1,0 +1,42 @@
+{
+  "start": 1490400000,
+  "end": 1490400000,
+  "title": "あの日視た幻想 chapter.3",
+  "desc": "那天所看见的幻想 chapter.3 于 东京都 高円寺HIGH 举办",
+  "url": "https://thwiki.cc/%E9%82%A3%E5%A4%A9%E6%89%80%E7%9C%8B%E8%A7%81%E7%9A%84%E5%B9%BB%E6%83%B3#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4d276fc2088d54058ae83e7b2d9a3176545f63d3abdad70ae100e57f60a18abf",
+  "location": {
+    "type": "google",
+    "text": "东京都 高円寺HIGH",
+    "entity": [
+      {
+        "id": "ChIJ9dpIDojyGGARtPtxxIWdB3Q",
+        "addressLine1": "高円寺HIGH",
+        "addressLine2": "日本、東京都杉並区高円寺南４丁目３０−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJiVdXC4byGGARsHf92j86I90",
+        "addressLine1": "Kōenji Junior High School",
+        "addressLine2": "１丁目-４-１１ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "那天所看见的幻想-3"
+}

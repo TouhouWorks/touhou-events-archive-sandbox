@@ -1,0 +1,40 @@
+{
+  "start": 1337040000,
+  "end": 1337040000,
+  "title": "Comic Fantasia 3",
+  "desc": "Comic Fantasia 3 于 上海市 上海光大展览中心西馆 举办",
+  "url": "https://thwiki.cc/Comic_Fantasia#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7b74b3ab543a99ac66c178b84fea9800e18b8f549177fe49c2ecbb606140b59",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海光大展览中心西馆",
+    "entity": [
+      {
+        "id": "ChIJFeZZGgRwsjURdzPlvNKMrGc",
+        "addressLine1": "上海展覧中心",
+        "addressLine2": "中華人民共和国 上海市 静安区 延安中路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJM9AuBcRksjUR9P2wRgAcE5I",
+        "addressLine1": "光大会展中心",
+        "addressLine2": "中華人民共和国 上海 徐匯区 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-fantasia-3"
+}

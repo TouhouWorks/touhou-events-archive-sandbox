@@ -1,0 +1,80 @@
+{
+  "start": 1300406400,
+  "end": 1300406400,
+  "title": "Pre Party!! 1",
+  "desc": "Pre Party!! 1 于 札幌市 札幌AZITO 举办",
+  "url": "https://thwiki.cc/Pre_Party!!#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7fb4559e71da19b7ed17aa3e6795b9d338003d0baa0ff9a18dce197e34fc9efe",
+  "location": {
+    "type": "google",
+    "text": "札幌市 札幌AZITO",
+    "entity": [
+      {
+        "id": "ChIJ268Oz7UpC18R6JaF9dssD2A",
+        "addressLine1": "アジト",
+        "addressLine2": "日本、北海道札幌市西区二十四軒２条７丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJyTQqSYMpC18RC-3nJ2LhC5k",
+        "addressLine1": "札幌PARCO",
+        "addressLine2": "日本、北海道札幌市中央区南１条西３丁目３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJ-U93sI8qC18RqYNSUx4toO8",
+        "addressLine1": "札幌大学",
+        "addressLine2": "日本、北海道札幌市豊平区西岡３条７丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzxOxRvQpC18RQSiQlTZGYDM",
+        "addressLine1": "ハローワーク札幌",
+        "addressLine2": "日本、北海道札幌市中央区南１０条西１４丁目２−２８",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJyQW7j50pC18RJLp2bwv6uYQ",
+        "addressLine1": "札幌市政府",
+        "addressLine2": "日本、北海道札幌市中央区北１条西２丁目",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "pre-party!!-1"
+}

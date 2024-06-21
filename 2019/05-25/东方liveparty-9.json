@@ -1,0 +1,30 @@
+{
+  "start": 1558742400,
+  "end": 1558742400,
+  "title": "东方LiveParty×京华万象展",
+  "desc": "东方LiveParty×京华万象展 于 北京 MAOLiveHouse 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-9",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7a0e0031f0cec5029f0e90f48596b66214295adc6433786b1ec709a9aeb587f",
+  "location": {
+    "type": "google",
+    "text": "北京 MAOLiveHouse",
+    "entity": [
+      {
+        "id": "ChIJCzl5vS8v8DURiCb4l_4ziFI",
+        "addressLine1": "Mao Livehouse",
+        "addressLine2": "大興区 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-9"
+}

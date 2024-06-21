@@ -1,0 +1,51 @@
+{
+  "start": 1509235200,
+  "end": 1509235200,
+  "title": "東方樂祭Global 2017 in China 广州站",
+  "desc": "东方乐祭Global 2017 in China 广州站 于 广州市 广州南丰国际会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-9",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6e24c01c94130a81ed5638f518427078dc31c295133b22dbc7c422f5fd499c98",
+  "location": {
+    "type": "google",
+    "text": "广州市 广州南丰国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJQVSXFu3_AjQRowQ-KAYQMRc",
+        "addressLine1": "南丰国际会展中心",
+        "addressLine2": "中華人民共和国 広東省 広州市 海珠区 Chebei",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ4bZWau3_AjQRcak4v_b7Tkw",
+        "addressLine1": "南丰国际会展中心",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 龙口",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJs116Fu3_AjQRJ8bGxhzI3hE",
+        "addressLine1": "南丰国际会展中心",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭global-9"
+}

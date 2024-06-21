@@ -1,0 +1,30 @@
+{
+  "start": 1468540800,
+  "end": 1468540800,
+  "title": "广州萤火虫动漫游戏嘉年华13",
+  "desc": "广州萤火虫动漫游戏嘉年华13 于 广州市 琶洲保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BF%E5%B7%9E%E8%90%A4%E7%81%AB%E8%99%AB%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E5%98%89%E5%B9%B4%E5%8D%8E#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "938b6c6fea8ffb12c7a2031826b32e4c084f3377a64705674cedd80be90b596e",
+  "location": {
+    "type": "google",
+    "text": "广州市 琶洲保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "广州萤火虫动漫游戏嘉年华-13"
+}

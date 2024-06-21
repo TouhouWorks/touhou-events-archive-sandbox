@@ -1,0 +1,30 @@
+{
+  "start": 1623456000,
+  "end": 1623456000,
+  "title": "COMICUP28",
+  "desc": "COMICUP28 于 上海市 上海国家会展中心 1.2 / 5.2 / 6.2 / 7.2 / 8.2馆 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-37",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "17d4a7b1676811205a79b6349ed97bc7907cead92b47250f58fb312e986cf2b8",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海国家会展中心 1.2 / 5.2 / 6.2 / 7.2 / 8.2馆",
+    "entity": [
+      {
+        "id": "ChIJo7X-2iBnsjURXtgsaWdzMx0",
+        "addressLine1": "国家会展中心",
+        "addressLine2": "中華人民共和国 上海市 青浦区 Laigang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicup-37"
+}

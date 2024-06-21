@@ -1,0 +1,19 @@
+{
+  "start": 1243728000,
+  "end": 1243728000,
+  "title": "杜の奇跡14",
+  "desc": "杜之奇迹14 于 AER 仙台市中小企业活性化中心 5层多功能大厅 举办",
+  "url": "https://thwiki.cc/%E6%9D%9C%E4%B9%8B%E5%A5%87%E8%BF%B9#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1d6b2887688e7319d886cc57a2040defcd8f25e9eba93e9835ca86aef0ce7c43",
+  "location": {
+    "type": "google",
+    "text": "AER 仙台市中小企业活性化中心 5层多功能大厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "杜之奇迹-8"
+}

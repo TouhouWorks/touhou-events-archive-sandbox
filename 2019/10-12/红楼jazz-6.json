@@ -1,0 +1,30 @@
+{
+  "start": 1570838400,
+  "end": 1570838400,
+  "title": "紅楼Jazz2019",
+  "desc": "红楼Jazz2019 于 大阪府大阪市 大阪ALWAYS梅田 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BCJazz#ev-6",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1d01907b67c655d316073f841c3699f42e89ef0d20d59986bfeffa5c3602a581",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪ALWAYS梅田",
+    "entity": [
+      {
+        "id": "ChIJ6ywhCOrmAGARZ_ZZu5h_2a0",
+        "addressLine1": "ALWAYS 梅田店",
+        "addressLine2": "日本、大阪府大阪市北区野崎町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "红楼jazz-6"
+}

@@ -1,0 +1,44 @@
+{
+  "start": 1240617600,
+  "end": 1240617600,
+  "title": "Group of Doujin Game Developers 第1回トークショー",
+  "desc": "Group of Doujin Game Developers 第1回脱口秀 于 东京都 TOKYO CULTURE CULTURE 举办",
+  "url": "https://thwiki.cc/Group_of_Doujin_Game_Developers#ev-1",
+  "type": [
+    "会议"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "46ac8387dd6913c3922c379e7b2f4cae43cf1476c8466649296534ad29850b82",
+  "location": {
+    "type": "google",
+    "text": "东京都 TOKYO CULTURE CULTURE",
+    "entity": [
+      {
+        "id": "ChIJ______qJGGARHpd1TBA9uZ8",
+        "addressLine1": "Tokyo Culture Culture",
+        "addressLine2": "１丁目-２３-１６ 渋谷 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJlxp9i8qMGGARQEGZLkm1yEk",
+        "addressLine1": "Culture Building",
+        "addressLine2": "Culture Building, ３-３ 代々木神園町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "group-of-doujin-game-developers-1"
+}

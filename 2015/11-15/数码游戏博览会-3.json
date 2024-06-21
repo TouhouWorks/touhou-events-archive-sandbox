@@ -1,0 +1,30 @@
+{
+  "start": 1447545600,
+  "end": 1447545600,
+  "title": "デジゲー博2015",
+  "desc": "数码游戏博览会2015 于 东京都千代田区秋叶原UDX 2层 活动会场 AKIBA SQUARE 举办",
+  "url": "https://thwiki.cc/%E6%95%B0%E7%A0%81%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "78e4194a5901ff4f85605b1afa33d684cab039475ce6b0a2e6d789cf4b59d364",
+  "location": {
+    "type": "google",
+    "text": "东京都千代田区秋叶原UDX 2层 活动会场 AKIBA SQUARE",
+    "entity": [
+      {
+        "id": "ChIJM3bDhR2MGGARlh8EvfwpMSo",
+        "addressLine1": "アキバ・スクエア",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "数码游戏博览会-3"
+}

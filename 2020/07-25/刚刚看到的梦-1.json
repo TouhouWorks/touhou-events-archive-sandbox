@@ -1,0 +1,30 @@
+{
+  "start": 1595635200,
+  "end": 1595635200,
+  "title": "さっきみたゆめ1",
+  "desc": "刚刚看到的梦1 于 东京都 浅草桥MANHOLE 举办",
+  "url": "https://thwiki.cc/%E5%88%9A%E5%88%9A%E7%9C%8B%E5%88%B0%E7%9A%84%E6%A2%A6#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "48fbf02fc31d0d53ce3e0bcc503b060269b120dd4ef041c92d8609859f82dec5",
+  "location": {
+    "type": "google",
+    "text": "东京都 浅草桥MANHOLE",
+    "entity": [
+      {
+        "id": "ChIJ_fZxALKOGGARL1dEb1QQ480",
+        "addressLine1": "MANHOLE",
+        "addressLine2": "日本、東京都台東区浅草橋１丁目１３−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "刚刚看到的梦-1"
+}

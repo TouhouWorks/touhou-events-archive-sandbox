@@ -1,0 +1,32 @@
+{
+  "start": 1537574400,
+  "end": 1537574400,
+  "title": "東方久遠境 Sugar Road 直方",
+  "desc": "东方久远境 Sugar Road 直方 于 直方市 Yumenity直方 小Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e127b94b9fd848cdcb405b8f7cd542ece5c5ae38d3159b2d558bd46ad41bbd4f",
+  "location": {
+    "type": "google",
+    "text": "直方市 Yumenity直方 小Hall",
+    "entity": [
+      {
+        "id": "ChIJuY8hHWXRQzURu1-doQlEqBI",
+        "addressLine1": "直方",
+        "addressLine2": "日本、福岡県直方市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方久远境-10"
+}

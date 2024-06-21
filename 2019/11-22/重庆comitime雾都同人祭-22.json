@@ -1,0 +1,30 @@
+{
+  "start": 1574380800,
+  "end": 1574380800,
+  "title": "ComiTimeSP2",
+  "desc": "ComiTimeSP2 于 重庆市 大学城熙街三期 举办",
+  "url": "https://thwiki.cc/%E9%87%8D%E5%BA%86ComiTime%E9%9B%BE%E9%83%BD%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-22",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "03f310081aad61803184c92edcabdb5259e5c40316bb1938fe98502bb56c4456",
+  "location": {
+    "type": "google",
+    "text": "重庆市 大学城熙街三期",
+    "entity": [
+      {
+        "id": "ChIJPQlK6tPF7DYRGT8Ir5TqeAo",
+        "addressLine1": "熙街三期",
+        "addressLine2": "中華人民共和国 重庆市 沙坪ハ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "重庆comitime雾都同人祭-22"
+}

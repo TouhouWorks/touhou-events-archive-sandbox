@@ -1,0 +1,19 @@
+{
+  "start": 1518912000,
+  "end": 1518912000,
+  "title": "東方・ボカロ喫茶2",
+  "desc": "东方·VOCALOID喫茶2 于 名古屋市 Book Cafe & Bar 请两人进来 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%C2%B7VOCALOID%E5%96%AB%E8%8C%B6#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "33094ddd9993ad13909a9ef953dfca22c96f0b0593df615756588471f742d978",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 Book Cafe & Bar 请两人进来",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方·vocaloid喫茶-2"
+}

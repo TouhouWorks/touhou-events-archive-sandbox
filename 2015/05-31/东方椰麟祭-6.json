@@ -1,0 +1,19 @@
+{
+  "start": 1433030400,
+  "end": 1433030400,
+  "title": "東方椰麟祭 第六幕",
+  "desc": "东方椰麟祭 第六幕 于 广岛县立广岛产业会馆 西展示场 1层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A4%B0%E9%BA%9F%E7%A5%AD#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4b1175d562a37f5a2b557dccdb4ceb1ef6940e0af1b8995a2f5ca91a9c8eb7f8",
+  "location": {
+    "type": "google",
+    "text": "广岛县立广岛产业会馆 西展示场 1层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方椰麟祭-6"
+}

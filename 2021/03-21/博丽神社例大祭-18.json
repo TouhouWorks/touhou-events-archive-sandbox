@@ -1,0 +1,19 @@
+{
+  "start": 1616284800,
+  "end": 1616284800,
+  "title": "第十八回 博麗神社例大祭",
+  "desc": "第十八回 博丽神社例大祭 于 静冈双子展览馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-18",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6d4a3cb0fe75fb15b0fdeb63825ac045139645f6a0ed3588ad9efca40e26ca63",
+  "location": {
+    "type": "google",
+    "text": "静冈双子展览馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "博丽神社例大祭-18"
+}

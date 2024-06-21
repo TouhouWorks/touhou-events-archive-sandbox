@@ -1,0 +1,40 @@
+{
+  "start": 1393718400,
+  "end": 1393718400,
+  "title": "東方久遠境 みんなの読書クラブ",
+  "desc": "东方久远境 大家的读书Club 于 福冈县福冈市南区 南市民中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83_%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6290b98cb3ca3e3719f73263200bdbc4b7c3b4462c0922391561c5b0035fcbd",
+  "location": {
+    "type": "google",
+    "text": "福冈县福冈市南区 南市民中心",
+    "entity": [
+      {
+        "id": "ChIJX7zVhgaRQTURmjXZsFwdSeA",
+        "addressLine1": "南市民センター",
+        "addressLine2": "日本、福岡県福岡市南区塩原２丁目８−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ0YJjOCCRQTURLjQP4WpnuA4",
+        "addressLine1": "福岡市立南市民プール",
+        "addressLine2": "日本、福岡県福岡市南区三宅３丁目３１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方久远境-大家的读书club-1"
+}

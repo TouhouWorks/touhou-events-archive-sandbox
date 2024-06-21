@@ -1,0 +1,72 @@
+{
+  "start": 1314403200,
+  "end": 1314403200,
+  "title": "A Certain Magical Event III",
+  "desc": "A Certain Magical Event III 于 新加坡 Suntec Convention Centre Rooms 举办",
+  "url": "https://thwiki.cc/A_Certain_Magical_Event#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "086158c1ccb0c2476c0fdb29de06e2c2c4c6dec71c57d8a0b03b2fbb793af689",
+  "location": {
+    "type": "google",
+    "text": "新加坡 Suntec Convention Centre Rooms",
+    "entity": [
+      {
+        "id": "ChIJ8yvdOK8Z2jERx1TP2rKMPtY",
+        "addressLine1": "Suntec Convention Centre",
+        "addressLine2": "Raffles Boulevard, シンガポール新加坡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ20X__K4Z2jERRE8GRs-d8HE",
+        "addressLine1": "Suntec City",
+        "addressLine2": "Temasek Boulevard, シンガポール新加坡",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJo9EKpmEa2jER9tYLMD5cHwQ",
+        "addressLine1": "Convention Centre",
+        "addressLine2": "Dover Road, シンガポール新加坡",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJt46hoWEa2jERnbe3bbyxu_k",
+        "addressLine1": "Convention Centre",
+        "addressLine2": "新加坡 シンガポール",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJZ76nUK8Z2jER3DdihDDbLeI",
+        "addressLine1": "Suntec City Tourist Hub",
+        "addressLine2": "Nicoll Highway, 新加坡 シンガポール",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "a-certain-magical-event-3"
+}

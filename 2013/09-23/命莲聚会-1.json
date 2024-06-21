@@ -1,0 +1,30 @@
+{
+  "start": 1379894400,
+  "end": 1379894400,
+  "title": "みょうれんパーティー1",
+  "desc": "命莲聚会1 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E5%91%BD%E8%8E%B2%E8%81%9A%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d1fd9b0c3e4787cc87ddda4b1d76bb0409781d525303efe4b10b89eb7f5791c2",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "命莲聚会-1"
+}

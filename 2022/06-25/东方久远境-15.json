@@ -1,0 +1,19 @@
+{
+  "start": 1656115200,
+  "end": 1656115200,
+  "title": "東方久遠境 EAST ASIA",
+  "desc": "东方久远境 EAST ASIA 于 久留米市 久留米City Plaza 5F 大会议室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2d17c98a38b50b817e82144df7e7c2003cfbf4a2c1406f042f6be6f0d2fb20d",
+  "location": {
+    "type": "google",
+    "text": "久留米市 久留米City Plaza 5F 大会议室",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方久远境-15"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1279411200,
+  "end": 1279411200,
+  "title": "恋のまほうは魔理沙におまかせ！2",
+  "desc": "恋爱的魔法就交给魔理沙吧！2 于 东京都立产业贸易中心 滨松町馆 5层 举办",
+  "url": "https://thwiki.cc/%E6%81%8B%E7%88%B1%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%B1%E4%BA%A4%E7%BB%99%E9%AD%94%E7%90%86%E6%B2%99%E5%90%A7%EF%BC%81#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c3add790f9892bd29f4c5010fe3bfed782d5fac1e068218753e52d96f4f3bbb2",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 5层",
+    "entity": [
+      {
+        "id": "ChIJgSnVwGCLGGARDPI40IEPsl0",
+        "addressLine1": "東京都立產業貿易中心 濱松町館",
+        "addressLine2": "日本、東京都港区海岸１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "恋爱的魔法就交给魔理沙吧！-2"
+}

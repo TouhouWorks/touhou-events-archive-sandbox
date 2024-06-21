@@ -1,0 +1,32 @@
+{
+  "start": 1264896000,
+  "end": 1264896000,
+  "title": "第一回西方の東方読書会",
+  "desc": "第一回西方的东方读书会 于 长崎县南岛原市 原城文化中心 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E6%96%B9%E7%9A%84%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "44ab9e94ee6ec954cb71ddcda18c94422e8939a5e5f27b367be90765eb8ef76f",
+  "location": {
+    "type": "google",
+    "text": "长崎县南岛原市 原城文化中心",
+    "entity": [
+      {
+        "id": "ChIJQYtoWF0KQDUREplpnZHXplM",
+        "addressLine1": "原城温泉 真砂",
+        "addressLine2": "日本、長崎県南島原市南有馬町丁１３３",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "西方的东方读书会-1"
+}

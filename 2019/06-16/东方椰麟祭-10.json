@@ -1,0 +1,19 @@
+{
+  "start": 1560643200,
+  "end": 1560643200,
+  "title": "東方椰麟祭 第十幕",
+  "desc": "东方椰麟祭 第十幕 于 广岛县立广岛产业会馆 西展示场 1层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A4%B0%E9%BA%9F%E7%A5%AD#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "52d6f97239de1059c8cd39cab7fbeb0d0736e64516154bef423cf1b042af0a4d",
+  "location": {
+    "type": "google",
+    "text": "广岛县立广岛产业会馆 西展示场 1层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方椰麟祭-10"
+}

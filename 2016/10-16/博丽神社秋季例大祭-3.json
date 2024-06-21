@@ -1,0 +1,30 @@
+{
+  "start": 1476576000,
+  "end": 1476576000,
+  "title": "第三回 博麗神社秋季例大祭",
+  "desc": "第三回 博丽神社秋季例大祭 于 东京Big Sight 东123展厅 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2a40de01c82894c4418e4c77e1c0dfcc60b650cc09a7ab630664d61de977f65d",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 东123展厅",
+    "entity": [
+      {
+        "id": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+        "addressLine1": "东京国际会展中心",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "博丽神社秋季例大祭-3"
+}

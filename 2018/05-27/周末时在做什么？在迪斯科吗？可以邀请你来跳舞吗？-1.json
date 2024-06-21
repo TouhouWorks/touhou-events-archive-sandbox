@@ -1,0 +1,42 @@
+{
+  "start": 1527379200,
+  "end": 1527379200,
+  "title": "週末何してますか？ディスコですか？踊ってもらっていいですか？1",
+  "desc": "周末时在做什么？在迪斯科吗？可以邀请你来跳舞吗？1 于 多治见市产业文化中心 举办",
+  "url": "https://thwiki.cc/%E5%91%A8%E6%9C%AB%E6%97%B6%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F%E5%9C%A8%E8%BF%AA%E6%96%AF%E7%A7%91%E5%90%97%EF%BC%9F%E5%8F%AF%E4%BB%A5%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3%E8%88%9E%E5%90%97%EF%BC%9F#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "857ccb83072da8b4109d6e809173bade1bfa393eb6b283a7f9b218fdb9e41a91",
+  "location": {
+    "type": "google",
+    "text": "多治见市产业文化中心",
+    "entity": [
+      {
+        "id": "ChIJG04kAolrA2ARKtbiaSAKujM",
+        "addressLine1": "産業文化センター 駐車場",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJT-SMhHBqA2AR28i5iDgLqK4",
+        "addressLine1": "産業文化センター",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "周末时在做什么？在迪斯科吗？可以邀请你来跳舞吗？-1"
+}

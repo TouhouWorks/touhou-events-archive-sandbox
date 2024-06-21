@@ -1,0 +1,30 @@
+{
+  "start": 1621641600,
+  "end": 1621641600,
+  "title": "Comic Horizon 9",
+  "desc": "Comic Horizon 9 于 台北市 花博公园争艳馆 举办",
+  "url": "https://thwiki.cc/Comic_Horizon#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43bef27007d64284b4a12dff7b87da4645d8b65113a4afdacb98c92f7a953689",
+  "location": {
+    "type": "google",
+    "text": "台北市 花博公园争艳馆",
+    "entity": [
+      {
+        "id": "ChIJqY40N0-pQjQR--Pjh74pGro",
+        "addressLine1": "花博公園爭艷館",
+        "addressLine2": "台湾 台北市 中山区 Yumen Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-horizon-10"
+}

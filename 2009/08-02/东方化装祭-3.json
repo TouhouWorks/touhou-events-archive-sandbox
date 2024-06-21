@@ -1,0 +1,54 @@
+{
+  "start": 1249171200,
+  "end": 1249171200,
+  "title": "東方仮装祭in move町屋3",
+  "desc": "东方化装祭in move町屋3 于 东京都 move町屋 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%96%E8%A3%85%E7%A5%AD#ev-3",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7f303333f7e748846e359cc1281b7e369929b335817b57230187f0e33adc5291",
+  "location": {
+    "type": "google",
+    "text": "东京都 move町屋 4层",
+    "entity": [
+      {
+        "id": "ChIJP_FRqRKOGGARK6Ebiulf2hs",
+        "addressLine1": "町屋",
+        "addressLine2": "日本、東京都荒川区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJx0U4KnKOGGARAF0rm-xGh5A",
+        "addressLine1": "ムーブ町屋",
+        "addressLine2": "日本、東京都荒川区荒川７丁目５０−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJI2ZgYguOGGARJZJ8GEyXuYc",
+        "addressLine1": "町屋４",
+        "addressLine2": "日本、東京都荒川区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方化装祭-3"
+}

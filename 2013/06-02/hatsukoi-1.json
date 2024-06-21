@@ -1,0 +1,30 @@
+{
+  "start": 1370131200,
+  "end": 1370131200,
+  "title": "HatsuKoi in 多治见3",
+  "desc": "HatsuKoi in 多治见3 于 多治见市 多治见市文化会馆 举办",
+  "url": "https://thwiki.cc/HatsuKoi#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8b2c8fe22f40005c280b42e6d4c68143993bfc7030ceb244225e327aeee9ddda",
+  "location": {
+    "type": "google",
+    "text": "多治见市 多治见市文化会馆",
+    "entity": [
+      {
+        "id": "ChIJz6-IgIlqA2AR8g5d0FxEh2Y",
+        "addressLine1": "多治見市文化会館",
+        "addressLine2": "日本、岐阜県多治見市十九田町２丁目８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "hatsukoi-1"
+}

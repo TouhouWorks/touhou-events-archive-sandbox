@@ -1,0 +1,30 @@
+{
+  "start": 1576972800,
+  "end": 1576972800,
+  "title": "東方絢文禄 駿河の卷 第七弾",
+  "desc": "东方绚文禄 骏河之卷 第七弹 于 清水マリンターミナル 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-58",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c12abedc5b0d52723fffe339bedc90962e600d7d62c6ab46889eb7bc3c7970f",
+  "location": {
+    "type": "google",
+    "text": "清水マリンターミナル",
+    "entity": [
+      {
+        "id": "ChIJ7zCmWkIxGmARfeWKc1dTUH8",
+        "addressLine1": "清水マリンターミナル",
+        "addressLine2": "日本、静岡県静岡市清水区日の出町１０−８０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方绚文禄-58"
+}

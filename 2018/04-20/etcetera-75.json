@@ -1,0 +1,32 @@
+{
+  "start": 1524182400,
+  "end": 1524182400,
+  "title": "えとせとら Vol.74",
+  "desc": "Etcetera Vol.74 于 东京都 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-75",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d53c9375e800031f2d255b880b97a38d40b370cf211e186279f771abc4d70151",
+  "location": {
+    "type": "google",
+    "text": "东京都 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-75"
+}

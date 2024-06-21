@@ -1,0 +1,33 @@
+{
+  "start": 1533427200,
+  "end": 1533427200,
+  "title": "豫章幻想茶会·预",
+  "desc": "豫章幻想茶会·预 于 南昌市 699文化创意园 MaidPro女仆咖啡厅 举办",
+  "url": "https://thwiki.cc/%E8%B1%AB%E7%AB%A0%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9A#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82f3fe4c0a25175183b0efc9b9a5f297d635410093f5960cad1beee75c1d9def",
+  "location": {
+    "type": "google",
+    "text": "南昌市 699文化创意园 MaidPro女仆咖啡厅",
+    "entity": [
+      {
+        "id": "ChIJ9arzBNK4OjQRWvjOfE6o5-I",
+        "addressLine1": "６９９文化创意园",
+        "addressLine2": "中華人民共和国 南昌市 青山湖区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "豫章幻想茶会-3"
+}

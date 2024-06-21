@@ -1,0 +1,19 @@
+{
+  "start": 1374969600,
+  "end": 1374969600,
+  "title": "東方星屑祭3",
+  "desc": "东方星屑祭3 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0d54eee75a237a17249c4572020e13c0b5e7ac93c9a3fae773ec38ca6e888a7",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方星屑祭-3"
+}

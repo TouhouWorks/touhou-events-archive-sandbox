@@ -1,0 +1,54 @@
+{
+  "start": 1447459200,
+  "end": 1447459200,
+  "title": "東方宴舞祭～Shall we dance?～ 1",
+  "desc": "东方宴舞祭～Shall we dance?～ 1 于 东京都 新宿azito 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%AE%B4%E8%88%9E%E7%A5%AD%EF%BD%9EShall_we_dance%3F%EF%BD%9E#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a1fb533566f1397197bea1155e442c9d5cde5f4053ff680fe80e135b47b6c2e",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿azito",
+    "entity": [
+      {
+        "id": "ChIJ8XlcyCmNGGARDKqvjSR6b7A",
+        "addressLine1": "新宿azito〜Party&Studio〜",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目５−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6ezmKd2MGGAR_PoVfRer-74",
+        "addressLine1": "agit",
+        "addressLine2": "２丁目-１５-９ 新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJi1RCB1aMGGARGywqlLT0rjA",
+        "addressLine1": "Ajito",
+        "addressLine2": "１３４ 矢来町 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方宴舞祭～shall-we-dance?～-1"
+}

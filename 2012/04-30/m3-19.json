@@ -1,0 +1,34 @@
+{
+  "start": 1335744000,
+  "end": 1335744000,
+  "title": "M3-2012春",
+  "desc": "M3-2012春 于 东京流通中心(TRC) 第1・第2展厅 举办",
+  "url": "https://thwiki.cc/M3#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a338977f887aaec56d6467532d09a4d53fa591cb02e3f81e005127eb23ea9094",
+  "location": {
+    "type": "google",
+    "text": "东京流通中心(TRC) 第1・第2展厅",
+    "entity": [
+      {
+        "id": "ChIJITG0R7xhGGARCCOKn_nfktc",
+        "addressLine1": "流通センター駅",
+        "addressLine2": "日本、東京都大田区平和島６丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "m3-19"
+}

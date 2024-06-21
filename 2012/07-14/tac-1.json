@@ -1,0 +1,30 @@
+{
+  "start": 1342224000,
+  "end": 1342224000,
+  "title": "TAC 01 夏日祭",
+  "desc": "TAC 01 夏日祭 于 上海市普陀区澳门路477号 中华1912创意产业园 举办",
+  "url": "https://thwiki.cc/TAC#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e1d07de7b0b00b9a385da6bf205b55a09cb7af31a7ea6afede11f016d106bd31",
+  "location": {
+    "type": "google",
+    "text": "上海市普陀区澳门路477号 中华1912创意产业园",
+    "entity": [
+      {
+        "id": "ChIJd1Jxpt5vsjURZk7ofgqP-e0",
+        "addressLine1": "澳门路477号",
+        "addressLine2": "中華人民共和国 上海市 普陀区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "tac-1"
+}

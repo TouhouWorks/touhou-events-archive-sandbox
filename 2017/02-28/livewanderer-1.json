@@ -1,0 +1,19 @@
+{
+  "start": 1488240000,
+  "end": 1488240000,
+  "title": "LiveWanderer Ver1.00 第1部(昼公演) 「昼下がりの不思議」",
+  "desc": "LiveWanderer Ver1.00 第1部(昼公演) 「昼下がりの不思議」 于 WATERRAS COMMON HALL -ワテラスコモンホール- (3Fホール) （東京都千代田区神田淡路町2丁目101番地） 举办",
+  "url": "https://thwiki.cc/LiveWanderer#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a99c4a52c997f40c38e62e6061d7a61dcf6d1ed1d4f1cd9c72eba899466ced66",
+  "location": {
+    "type": "google",
+    "text": "WATERRAS COMMON HALL -ワテラスコモンホール- (3Fホール) （東京都千代田区神田淡路町2丁目101番地）",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "livewanderer-1"
+}

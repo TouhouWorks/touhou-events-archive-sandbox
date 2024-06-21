@@ -1,0 +1,42 @@
+{
+  "start": 1255219200,
+  "end": 1255219200,
+  "title": "M3-2009秋",
+  "desc": "M3-2009秋 于 横滨大栈桥展厅 举办",
+  "url": "https://thwiki.cc/M3#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "41dd566519fe420c0faaf88ab69676ae268c0f9e214be84f8c3b60469c1a0a79",
+  "location": {
+    "type": "google",
+    "text": "横滨大栈桥展厅",
+    "entity": [
+      {
+        "id": "ChIJEeDZyf9cGGARuU5IQM3PZE0",
+        "addressLine1": "大桟橋ふ頭",
+        "addressLine2": "日本、神奈川県横浜市中区海岸通１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg6UBe_xcGGARhVH7OnHOiE4",
+        "addressLine1": "大栈桥入口",
+        "addressLine2": "日本、神奈川県横浜市中区山下町",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "m3-14"
+}

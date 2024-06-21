@@ -1,0 +1,40 @@
+{
+  "start": 1280016000,
+  "end": 1280016000,
+  "title": "Wonder Festival-2010夏",
+  "desc": "Wonder Festival-2010夏 于 千叶县千叶市 幕张展览馆（幕张Messe） 举办",
+  "url": "https://thwiki.cc/Wonder_Festival#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c9e2ed05e341a7c6573c70642533524febb1b5e3a6bf630fcc526f77c64aa384",
+  "location": {
+    "type": "google",
+    "text": "千叶县千叶市 幕张展览馆（幕张Messe）",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕張メッセ",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJof67wfWBImAR_5ktE6l2Wc8",
+        "addressLine1": "幕張展覽館 國際展覽中心1-3",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "wonder-festival-3"
+}

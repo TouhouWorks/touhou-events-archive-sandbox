@@ -1,0 +1,54 @@
+{
+  "start": 1688860800,
+  "end": 1688860800,
+  "title": "内蒙古THO·青原青城颂",
+  "desc": "内蒙古THO·青原青城颂 于 内蒙古自治区呼和浩特市 新城区 力信国际酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%92%E5%8E%9F%E6%AD%8C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1fef08f9644c90d73162561fa83e1278fe3fd8219ee8ca582f371f2555dede30",
+  "location": {
+    "type": "google",
+    "text": "内蒙古自治区呼和浩特市 新城区 力信国际酒店",
+    "entity": [
+      {
+        "id": "ChIJ38nVA4FIBjYRHTaK_x6OlOw",
+        "addressLine1": "力信国际酒店",
+        "addressLine2": "中華人民共和国 内蒙古自治区呼和浩特市新城区 Xilinguole North Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJfX88AYFIBjYRrrNge-K544s",
+        "addressLine1": "力信国际酒店停车场",
+        "addressLine2": "中華人民共和国 内蒙古自治区呼和浩特市新城区 Xilinguole North Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ55N9ef9FBjYRqygqfVvL88M",
+        "addressLine1": "内蒙古力信国际酒店",
+        "addressLine2": "中華人民共和国 内蒙古自治区呼和浩特市新城区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方青原歌-2"
+}

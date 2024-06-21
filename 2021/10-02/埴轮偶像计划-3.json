@@ -1,0 +1,30 @@
+{
+  "start": 1633132800,
+  "end": 1633132800,
+  "title": "山西THP-东方椿萃宴",
+  "desc": "山西THP-东方椿萃宴 于 山西省太原市 太原世贸中心A座4层 举办",
+  "url": "https://thwiki.cc/%E5%9F%B4%E8%BD%AE%E5%81%B6%E5%83%8F%E8%AE%A1%E5%88%92#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "30f57342a39025706a5e4cceee96aaa019af63485245f6f53d5c41d69b8dd7d7",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市 太原世贸中心A座4层",
+    "entity": [
+      {
+        "id": "ChIJb_UiaM-rCjYRtR7d8ZJ9ZEY",
+        "addressLine1": "世贸中心",
+        "addressLine2": "中華人民共和国 山西省 太原市 小店区 长风商圈 Changzhi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "埴轮偶像计划-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1666483200,
+  "end": 1666483200,
+  "title": "東方音歌宴1",
+  "desc": "东方音歌宴1 于 东京都 GOTANDA G+ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E6%AD%8C%E5%AE%B4#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b2e971ec0030f2b31443f3cd2440569b0634012866f5e51ef277a1faf1f03b99",
+  "location": {
+    "type": "google",
+    "text": "东京都 GOTANDA G+",
+    "entity": [
+      {
+        "id": "ChIJrT1vVx6LGGARn0Ripqhla6I",
+        "addressLine1": "GOTANDA G2 G+",
+        "addressLine2": "日本、東京都品川区西五反田２丁目５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方音歌宴-1"
+}

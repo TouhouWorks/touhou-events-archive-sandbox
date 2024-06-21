@@ -1,0 +1,19 @@
+{
+  "start": 1667001600,
+  "end": 1667001600,
+  "title": "第二回 新潟東方読書会",
+  "desc": "第二回 新潟东方读书会 于 新潟市 森之巢箱 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%BD%9F%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-2",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f958a2bad88e8ab7240af6f0b6866919e40324a69cf8fb4779da646b179fb50c",
+  "location": {
+    "type": "google",
+    "text": "新潟市 森之巢箱",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "新潟东方读书会-2"
+}

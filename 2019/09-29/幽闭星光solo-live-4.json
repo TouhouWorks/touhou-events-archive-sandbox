@@ -1,0 +1,40 @@
+{
+  "start": 1569715200,
+  "end": 1569715200,
+  "title": "幽閉サテライト ソロライブ2019",
+  "desc": "幽闭星光Solo Live 2019 于 东京都 duo Music Exchange 举办",
+  "url": "https://thwiki.cc/%E5%B9%BD%E9%97%AD%E6%98%9F%E5%85%89Solo_Live#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "48eff703552b49420d4bbaae5a2c6b9844722f3bd16c08eed57f1f980e9dd8b5",
+  "location": {
+    "type": "google",
+    "text": "东京都 duo Music Exchange",
+    "entity": [
+      {
+        "id": "ChIJ5-ExF6qMGGARHlrJ26bhYm4",
+        "addressLine1": "duo MUSIC EXCHANGE",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目１４−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWxh5F6qMGGARZ2N7PRSCCXk",
+        "addressLine1": "Spotify O-EAST",
+        "addressLine2": "２丁目-１４-８ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幽闭星光solo-live-4"
+}

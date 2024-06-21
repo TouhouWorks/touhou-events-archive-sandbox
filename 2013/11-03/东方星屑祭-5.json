@@ -1,0 +1,19 @@
+{
+  "start": 1383436800,
+  "end": 1383436800,
+  "title": "東方星屑祭5",
+  "desc": "东方星屑祭5 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bc082826e0025fa9a1d8b95267caad8c720961a76ba6e5f346c071e7456143c3",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方星屑祭-5"
+}

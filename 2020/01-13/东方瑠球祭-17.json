@@ -1,0 +1,30 @@
+{
+  "start": 1578873600,
+  "end": 1578873600,
+  "title": "東方瑠球祭 第十七弾",
+  "desc": "东方瑠球祭 第十七弹 于 宜野湾市 冲绳会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%91%A0%E7%90%83%E7%A5%AD#ev-17",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "498c87f2353291e89d220eb6258baa86a5649c45d113eea3f7932bd5d55cd560",
+  "location": {
+    "type": "google",
+    "text": "宜野湾市 冲绳会议中心",
+    "entity": [
+      {
+        "id": "ChIJq6qqA6Vs5TQRiCDe1oSbdus",
+        "addressLine1": "冲绳会议中心",
+        "addressLine2": "日本、沖縄県宜野湾市真志喜４丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方瑠球祭-17"
+}

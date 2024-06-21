@@ -1,0 +1,30 @@
+{
+  "start": 1453593600,
+  "end": 1453593600,
+  "title": "東方合同イベント2016新春！",
+  "desc": "东方合同展会2016新春！ 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%88%E5%90%8C%E5%B1%95%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a07826aef6217df2d12c337b64d61430cc04c562734fe79a45fbaca16e8408a",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方合同展会-1"
+}

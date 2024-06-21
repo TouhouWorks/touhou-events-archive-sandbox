@@ -1,0 +1,42 @@
+{
+  "start": 1706313600,
+  "end": 1706313600,
+  "title": "T.M.R vol.42",
+  "desc": "T.M.R vol.42 于 爱知县名古屋市 新荣DAYTRIM&DAYTRIVE 举办",
+  "url": "https://thwiki.cc/T.M.R#ev-42",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82352de073dcf3d997abf3c5c630b77d2f253d09cda03f2e817429728b4e354b",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 新荣DAYTRIM&DAYTRIVE",
+    "entity": [
+      {
+        "id": "ChIJz9Gu2cFwA2AR7xVN6jA-vfY",
+        "addressLine1": "新栄",
+        "addressLine2": "日本、愛知県名古屋市中区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZ_PLgBRjA2ARdcy0nZHU26M",
+        "addressLine1": "新榮（株）",
+        "addressLine2": "日本、愛知県名古屋市緑区徳重３丁目５１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "t.m.r-42"
+}

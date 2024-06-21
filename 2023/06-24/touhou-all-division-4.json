@@ -1,0 +1,32 @@
+{
+  "start": 1687564800,
+  "end": 1687564800,
+  "title": "TOUHOU ALL DIVISION4",
+  "desc": "TOUHOU ALL DIVISION4 于 爱知县名古屋市 CLUB SARU 举办",
+  "url": "https://thwiki.cc/TOUHOU_ALL_DIVISION#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7cda54d7b5b76d45a28007272e18ed1c13c5d106e8948ed952c6e4fecd02aaa2",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 CLUB SARU",
+    "entity": [
+      {
+        "id": "ChIJFx6L161wA2ARBAme060TUa0",
+        "addressLine1": "ＣＬＵＢ−ＳＡＲＵ",
+        "addressLine2": "日本、愛知県名古屋市中区金山３丁目５−２３",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhou-all-division-4"
+}

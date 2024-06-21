@@ -1,0 +1,30 @@
+{
+  "start": 1508544000,
+  "end": 1508544000,
+  "title": "紅楼Jazz2017",
+  "desc": "红楼Jazz2017 于 大阪府大阪市 大阪ALWAYS梅田 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BCJazz#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "301791d5fc0e6c4fe4049ec9a7881d211f51d465f629cd433e295406fc005f79",
+  "location": {
+    "type": "google",
+    "text": "大阪府大阪市 大阪ALWAYS梅田",
+    "entity": [
+      {
+        "id": "ChIJ6ywhCOrmAGARZ_ZZu5h_2a0",
+        "addressLine1": "ALWAYS 梅田店",
+        "addressLine2": "日本、大阪府大阪市北区野崎町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "红楼jazz-4"
+}

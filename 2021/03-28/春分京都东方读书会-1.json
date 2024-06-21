@@ -1,0 +1,32 @@
+{
+  "start": 1616889600,
+  "end": 1616889600,
+  "title": "春分京都東方読書会1",
+  "desc": "春分京都东方读书会1 于 京都市职员会馆 举办",
+  "url": "https://thwiki.cc/%E6%98%A5%E5%88%86%E4%BA%AC%E9%83%BD%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "30aead8ebac906913cd66c10475f567053725f7e4854a0bdf149ff3296ec2894",
+  "location": {
+    "type": "google",
+    "text": "京都市职员会馆",
+    "entity": [
+      {
+        "id": "ChIJDWMOyowIAWARoUGhdcEWtN0",
+        "addressLine1": "京都市職員厚生会 職員会館かもがわ",
+        "addressLine2": "日本、京都府京都市中京区土手町通竹屋町下る末丸町２８４−１",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "春分京都东方读书会-1"
+}

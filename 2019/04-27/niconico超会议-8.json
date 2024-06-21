@@ -1,0 +1,30 @@
+{
+  "start": 1556323200,
+  "end": 1556323200,
+  "title": "ニコニコ超会議2019",
+  "desc": "niconico超会议2019 于 千叶县千叶市 幕张展览馆（幕張メッセ） 举办",
+  "url": "https://thwiki.cc/niconico%E8%B6%85%E4%BC%9A%E8%AE%AE#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9f0e46294122e5986bb28d5f26d4d05d94ffb5bf0be21c50cdc04717a69a94ef",
+  "location": {
+    "type": "google",
+    "text": "千叶县千叶市 幕张展览馆（幕張メッセ）",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕張メッセ",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "niconico超会议-8"
+}

@@ -1,0 +1,70 @@
+{
+  "start": 1423353600,
+  "end": 1423353600,
+  "title": "東方土佐宴1",
+  "desc": "东方土佐宴1 于 高知商工会议所 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%9C%9F%E4%BD%90%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4ff53b217da7678fee118e3b8b0b8cf7ee09c129296a698859d5bb5d2bcc4eda",
+  "location": {
+    "type": "google",
+    "text": "高知商工会议所",
+    "entity": [
+      {
+        "id": "ChIJYau5TDgZTjURYiF2LLhSGlw",
+        "addressLine1": "高知商工会舘",
+        "addressLine2": "日本、高知県高知市本町１丁目６−２４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJa_fxTDgZTjURtIXl8pdsPao",
+        "addressLine1": "高知商工会議所 青年部（高知YEG）",
+        "addressLine2": "日本、高知県高知市本町１丁目６−２４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ58Tr1r8ZTjURQJ9MpRj-_z8",
+        "addressLine1": "高知商工会議所 女性会",
+        "addressLine2": "日本、高知県高知市本町１丁目６−２４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJh2PvTDgZTjURj6_El--b1do",
+        "addressLine1": "高知商工会議所",
+        "addressLine2": "日本、高知県高知市本町１丁目６−２４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJUfu_BD8cTjURqEXdnjE_SH8",
+        "addressLine1": "高知県商工会連合会",
+        "addressLine2": "日本、高知県高知市布師田３９９２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方土佐宴-1"
+}

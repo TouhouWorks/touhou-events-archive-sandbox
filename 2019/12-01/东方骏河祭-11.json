@@ -1,0 +1,30 @@
+{
+  "start": 1575158400,
+  "end": 1575158400,
+  "title": "東方駿河祭・第11幕",
+  "desc": "东方骏河祭・第11幕 于 沼津市 Plaza Verde KiraMesse沼津 东3Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AA%8F%E6%B2%B3%E7%A5%AD#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1fab0c466e45a02566e83ad5a6c0aa1fd9d0fdd1f5adc458af8dd056420c462f",
+  "location": {
+    "type": "google",
+    "text": "沼津市 Plaza Verde KiraMesse沼津 东3Hall",
+    "entity": [
+      {
+        "id": "ChIJ____JlyFGWARWbp63NX2yt0",
+        "addressLine1": "キラメッセぬまづ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方骏河祭-11"
+}

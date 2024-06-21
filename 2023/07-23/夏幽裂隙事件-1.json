@@ -1,0 +1,32 @@
+{
+  "start": 1690070400,
+  "end": 1690070400,
+  "title": "哈尔滨THP-夏幽裂隙事件",
+  "desc": "哈尔滨THP-夏幽裂隙事件 于 黑龙江省哈尔滨市 道里区建河街9号 惟景假日酒店7楼 举办",
+  "url": "https://thwiki.cc/%E5%A4%8F%E5%B9%BD%E8%A3%82%E9%9A%99%E4%BA%8B%E4%BB%B6#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "42a0333507b24ab794369ca2abd282c6a47d44f8a31f5697d904d0bfdfe0dae8",
+  "location": {
+    "type": "google",
+    "text": "黑龙江省哈尔滨市 道里区建河街9号 惟景假日酒店7楼",
+    "entity": [
+      {
+        "id": "ChIJYc3pdIeAQ14R9GlQtaxTseA",
+        "addressLine1": "維景仮日酒店停車場",
+        "addressLine2": "中華人民共和国 黒竜江省 ハルビン 道里区 Jianhe Street",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "夏幽裂隙事件-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1570060800,
+  "end": 1570060800,
+  "title": "幻奏盛宴·幻想交响音乐会 ～ 流连的九河潮音2019",
+  "desc": "幻奏盛宴·幻想交响音乐会 ～ 流连的九河潮音2019 于 天津 滨海演艺中心 歌剧厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-5",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bc2d89aa7f3e87614876236d4299f0a1b5f4b064b6452956ddf449bf304f84ce",
+  "location": {
+    "type": "google",
+    "text": "天津 滨海演艺中心 歌剧厅",
+    "entity": [
+      {
+        "id": "ChIJJzk_H9mO7TURk9usvpcqLlc",
+        "addressLine1": "滨海演艺中心",
+        "addressLine2": "中華人民共和国 天津 浜海新区 A",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻奏盛宴·幻想交响音乐会-5"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1474070400,
+  "end": 1474070400,
+  "title": "第一回エレクトリック盆踊り",
+  "desc": "第一回Electric盆舞 于 东京都 大塚MEETS 举办",
+  "url": "https://thwiki.cc/Electric%E7%9B%86%E8%88%9E#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ccbc65f726067def09eccbda7cc8ec8da0e42331d4413b98a530638c4c063022",
+  "location": {
+    "type": "google",
+    "text": "东京都 大塚MEETS",
+    "entity": [
+      {
+        "id": "ChIJI2hSH3SNGGARGFClcQN5GQw",
+        "addressLine1": "大塚MEETS",
+        "addressLine2": "日本、東京都豊島区南大塚３丁目５０−1B1",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "electric盆舞-1"
+}

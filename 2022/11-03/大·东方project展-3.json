@@ -1,0 +1,44 @@
+{
+  "start": 1667433600,
+  "end": 1667433600,
+  "title": "大・東方Project展2022·大阪",
+  "desc": "大·东方Project展2022·大阪 于 大阪市 大丸梅田店 13F特设会场 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%C2%B7%E4%B8%9C%E6%96%B9Project%E5%B1%95#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ff81d0e49675ff9bec30bbf52f605aa1595a42f89cbf4d68f1d918f2ac81767c",
+  "location": {
+    "type": "google",
+    "text": "大阪市 大丸梅田店 13F特设会场",
+    "entity": [
+      {
+        "id": "ChIJeZqAeY3mAGAR5AAfe7S-wAI",
+        "addressLine1": "大丸 梅田店",
+        "addressLine2": "日本、大阪府大阪市北区梅田３丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "department_store",
+          "SHOE_STORE",
+          "shoe_store",
+          "restaurant",
+          "establishment",
+          "store",
+          "GROCERY",
+          "grocery_or_supermarket",
+          "food",
+          "clothing_store",
+          "SHOPS_AND_SERVICES",
+          "DEPARTMENT_STORE",
+          "RESTAURANT",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大·东方project展-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1319846400,
+  "end": 1319846400,
+  "title": "東方萃楽宴4",
+  "desc": "东方萃乐宴4 于 福冈县福冈市 甘棠馆Show剧场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E4%B9%90%E5%AE%B4#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e57aa30b8de72202bfc13bd95b6fdbdc6e844cb3310b05f1019c36b5c7de710b",
+  "location": {
+    "type": "google",
+    "text": "福冈县福冈市 甘棠馆Show剧场",
+    "entity": [
+      {
+        "id": "ChIJHSJlUD-TQTURzqjFDCwDKz8",
+        "addressLine1": "甘棠館Show劇場",
+        "addressLine2": "日本、福岡県福岡市中央区唐人町１丁目１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方萃乐宴-4"
+}

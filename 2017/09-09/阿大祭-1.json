@@ -1,0 +1,30 @@
+{
+  "start": 1504915200,
+  "end": 1504915200,
+  "title": "あ大祭1",
+  "desc": "阿大祭1 于 富士市产业交流展示场 举办",
+  "url": "https://thwiki.cc/%E9%98%BF%E5%A4%A7%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ea67f57eb80b27dfbd4bed33ddde3ee59bebcd2fc33bb5eedd9ca7c64f7bf2b1",
+  "location": {
+    "type": "google",
+    "text": "富士市产业交流展示场",
+    "entity": [
+      {
+        "id": "ChIJkcu8tRcrGmARFrBDRsDgiTw",
+        "addressLine1": "ふじさんめっせ",
+        "addressLine2": "日本、静岡県富士市柳島１８９−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "阿大祭-1"
+}

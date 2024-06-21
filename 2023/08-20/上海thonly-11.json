@@ -1,0 +1,30 @@
+{
+  "start": 1692489600,
+  "end": 1692489600,
+  "title": "第十一届上海THONLY 東方露明境～あさつゆがさかいをあかす",
+  "desc": "第十一届上海THONLY 东方露明境～あさつゆがさかいをあかす 于 上海市 万代南梦宫上海文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7THONLY#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e749d0d13dca1cf2ec1248d12866838ad37efcc7f29969265dc7c9657441dd07",
+  "location": {
+    "type": "google",
+    "text": "上海市 万代南梦宫上海文化中心",
+    "entity": [
+      {
+        "id": "ChIJKWazf9lvsjURgn7ZwuyAQg8",
+        "addressLine1": "万代南梦宫上海文化中心",
+        "addressLine2": "中華人民共和国 上海市 普陀区 宜昌路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "上海thonly-11"
+}

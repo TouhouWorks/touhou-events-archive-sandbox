@@ -1,0 +1,32 @@
+{
+  "start": 1690675200,
+  "end": 1690675200,
+  "title": "东方梦笔谭2",
+  "desc": "东方梦笔谭2 于 江苏省镇江市 中山西路 星程酒店（镇江火车站店） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E7%AC%94%E8%B0%AD#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cc8dea62c8d7f932937e2d3ba7953dfc6d5fb277235faea80d50792296d0bde9",
+  "location": {
+    "type": "google",
+    "text": "江苏省镇江市 中山西路 星程酒店（镇江火车站店）",
+    "entity": [
+      {
+        "id": "ChIJGwQPVCYrtDURqNx7b0PxNEs",
+        "addressLine1": "镇江火车站卷烟零售店",
+        "addressLine2": "中華人民共和国 江苏省镇江市 潤州区 中山西路",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方梦笔谭-2"
+}

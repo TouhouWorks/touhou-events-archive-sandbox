@@ -1,0 +1,30 @@
+{
+  "start": 1359244800,
+  "end": 1359244800,
+  "title": "ようせいげんき!4",
+  "desc": "妖精元气！4 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E5%A6%96%E7%B2%BE%E5%85%83%E6%B0%94%EF%BC%81#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "37168b6e43c7f1e64dd4a9f38158ec26316215017d1d7dfaec2adf39781302ad",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "妖精元气！-4"
+}

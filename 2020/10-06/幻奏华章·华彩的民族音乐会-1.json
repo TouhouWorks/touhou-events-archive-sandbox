@@ -1,0 +1,30 @@
+{
+  "start": 1601942400,
+  "end": 1601942400,
+  "title": "幻奏华章·华彩的民族音乐会 2020 天津场",
+  "desc": "幻奏华章·华彩的民族音乐会 2020 天津场 于 天津 滨海演艺中心 歌剧厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E5%8D%8E%E7%AB%A0%C2%B7%E5%8D%8E%E5%BD%A9%E7%9A%84%E6%B0%91%E6%97%8F%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-1",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "14896997c1c9a697c61df9640d65916a411a678d980ff8cdf4f52fba11e2d7a2",
+  "location": {
+    "type": "google",
+    "text": "天津 滨海演艺中心 歌剧厅",
+    "entity": [
+      {
+        "id": "ChIJJzk_H9mO7TURk9usvpcqLlc",
+        "addressLine1": "滨海演艺中心",
+        "addressLine2": "中華人民共和国 天津 浜海新区 A",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻奏华章·华彩的民族音乐会-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1269216000,
+  "end": 1269216000,
+  "title": "東方不敗小町6",
+  "desc": "东方不败小町6 于 东京都 大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5%E5%B0%8F%E7%94%BA#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a879cce3b965237eb4fc7819695c31da7627b5a7a035109e186e096fdd5089e5",
+  "location": {
+    "type": "google",
+    "text": "东京都 大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方不败小町-7"
+}

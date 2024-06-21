@@ -1,0 +1,19 @@
+{
+  "start": 1379203200,
+  "end": 1379203200,
+  "title": "諏訪風神祭2",
+  "desc": "诹访风神祭2 于 冈谷市 RaraOkaya 2层Hall 举办",
+  "url": "https://thwiki.cc/%E8%AF%B9%E8%AE%BF%E9%A3%8E%E7%A5%9E%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e9810cb5232d77ba73068e1224e89657509c22f0c5096409f79d39983eb55690",
+  "location": {
+    "type": "google",
+    "text": "冈谷市 RaraOkaya 2层Hall",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "诹访风神祭-2"
+}

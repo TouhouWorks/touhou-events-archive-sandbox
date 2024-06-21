@@ -1,0 +1,32 @@
+{
+  "start": 1596240000,
+  "end": 1596240000,
+  "title": "サークルウルトラサマーフェスタ1",
+  "desc": "Circle Ultra Summer Festa 1 于 秋叶原1号店+大阪日本桥+名古屋 举办",
+  "url": "https://thwiki.cc/Circle_Ultra_Summer_Festa#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8a404ff8986b4d67702b50a5d6a34b988e5dec0c500381931751a71e62cfe82c",
+  "location": {
+    "type": "google",
+    "text": "秋叶原1号店+大阪日本桥+名古屋",
+    "entity": [
+      {
+        "id": "ChIJt4GsHaeOGGAREzn17fO_INY",
+        "addressLine1": "秋葉原１",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_4",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "circle-ultra-summer-festa-1"
+}

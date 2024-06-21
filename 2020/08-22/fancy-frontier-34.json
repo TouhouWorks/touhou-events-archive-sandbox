@@ -1,0 +1,30 @@
+{
+  "start": 1598054400,
+  "end": 1598054400,
+  "title": "Fancy Frontier 36",
+  "desc": "Fancy Frontier 36 于 台北市 花博公园 争艳馆 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-34",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fd8bb231e88be31483a4526440f0a632cbfbbd26b60a31c69f7ba5543c0e6df9",
+  "location": {
+    "type": "google",
+    "text": "台北市 花博公园 争艳馆",
+    "entity": [
+      {
+        "id": "ChIJqY40N0-pQjQR--Pjh74pGro",
+        "addressLine1": "花博公園爭艷館",
+        "addressLine2": "台湾 台北市 中山区 Yumen Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "fancy-frontier-34"
+}

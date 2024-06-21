@@ -1,0 +1,32 @@
+{
+  "start": 1579478400,
+  "end": 1579478400,
+  "title": "幻想重开宴1",
+  "desc": "幻想重开宴1 于 四川省成都市天街“热橙派对” 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E9%87%8D%E5%BC%80%E5%AE%B4#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3568ddf9ef6a6e09d65209d0bc76d6c459364246906dd8e5c7a8ef06ba4d0f2b",
+  "location": {
+    "type": "google",
+    "text": "四川省成都市天街“热橙派对”",
+    "entity": [
+      {
+        "id": "ChIJ9QonpXrD7zYRjeOPbg-JEGU",
+        "addressLine1": "热橙派对",
+        "addressLine2": "中華人民共和国 成都市 武侯区",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想重开宴-1"
+}

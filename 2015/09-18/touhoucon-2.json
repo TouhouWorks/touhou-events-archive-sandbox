@@ -1,0 +1,80 @@
+{
+  "start": 1442534400,
+  "end": 1442534400,
+  "title": "TouhouCon2015",
+  "desc": "TouhouCon2015 于 美国安纳海姆 Hilton Anaheim 举办",
+  "url": "https://thwiki.cc/TouhouCon#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "56802447b9f90768e4b3b2794db9e6385da8a0137cc91c97e4c00ccdd412e2ad",
+  "location": {
+    "type": "google",
+    "text": "美国安纳海姆 Hilton Anaheim",
+    "entity": [
+      {
+        "id": "ChIJlYb13N3X3IARSBN4EcYkK7I",
+        "addressLine1": "Hilton Anaheim",
+        "addressLine2": "West Convention Way, アナハイム カリフォルニア州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJYbbk45XX3IAR9zP7Mma7I-k",
+        "addressLine1": "Hilton Anaheim Self Parking 2",
+        "addressLine2": "West Convention Way, アナハイム カリフォルニア州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJI3XU6M_X3IARvRnCbW765BQ",
+        "addressLine1": "Home2 Suites by Hilton Anaheim Resort",
+        "addressLine2": "South Manchester Avenue, Anaheim Resort, アナハイム カリフォルニア州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ52NYRebX3IARreLtMeSEOtE",
+        "addressLine1": "DoubleTree Suites by Hilton Hotel Anaheim Resort - Convention Center",
+        "addressLine2": "South Harbor Boulevard, コンベンション・センター アナハイム カリフォルニア州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJW2Xw2OfX3IARiXR2Oe8ElpI",
+        "addressLine1": "Homewood Suites by Hilton Anaheim Resort - Convention Center",
+        "addressLine2": "South Harbor Boulevard, アナハイム カリフォルニア州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhoucon-2"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1705795200,
+  "end": 1705795200,
+  "title": "幻想神楽7",
+  "desc": "幻想神乐7 于 东京Big Sight 西4展厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E7%A5%9E%E4%B9%90#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ab4f9f06bf1fb7c870f6941b34b6eb07fe5ba390d2ab971baa53c3f9d6b56fc9",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 西4展厅",
+    "entity": [
+      {
+        "id": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+        "addressLine1": "東京ビッグサイト",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想神乐-7"
+}

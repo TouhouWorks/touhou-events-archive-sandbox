@@ -1,0 +1,19 @@
+{
+  "start": 1462060800,
+  "end": 1462060800,
+  "title": "COMIC1☆10",
+  "desc": "COMIC1☆10 于 东京都 东京国际展示场 东4-6展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "332e451ec54483f7b546e77d3e04a1cae178b1decbbce7072289ea3e76440f8d",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东4-6展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic1-10"
+}

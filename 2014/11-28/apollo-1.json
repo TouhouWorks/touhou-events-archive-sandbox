@@ -1,0 +1,19 @@
+{
+  "start": 1417132800,
+  "end": 1417132800,
+  "title": "APOLLO 第1回",
+  "desc": "APOLLO 第1回 于 https://booth.pm/apollo/a01 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "22c9c07aa15a8312a3be098aa9d83a85bec10f643b71bd01fcd7f56de8b52084",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/apollo/a01",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "apollo-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1708214400,
+  "end": 1708214400,
+  "title": "東深見市まつり1",
+  "desc": "东深见市祭1 于 东京 绵商会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%B7%B1%E8%A7%81%E5%B8%82%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b92cd3770fb4ea1f7a91769fc54e9a75bc30cb195fdb2e6daae92094522b5dcd",
+  "location": {
+    "type": "google",
+    "text": "东京 绵商会馆",
+    "entity": [
+      {
+        "id": "ChIJ72ldClKJGGARtnxJr7Xybg4",
+        "addressLine1": "綿商会館",
+        "addressLine2": "日本、東京都中央区日本橋富沢町８−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东深见市祭-1"
+}

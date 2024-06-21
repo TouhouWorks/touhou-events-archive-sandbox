@@ -1,0 +1,60 @@
+{
+  "start": 1701475200,
+  "end": 1701475200,
+  "title": "南京THO-金陵幻梦行4.0",
+  "desc": "南京THO-金陵幻梦行4.0 于 南京市 六合区 南京新世纪大酒店 举办",
+  "url": "https://thwiki.cc/%E9%87%91%E9%99%B5%E5%B9%BB%E6%A2%A6%E8%A1%8C#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "522d6a628408705e1bf76e2c79f5b12635a84f14dc2fa33738aa87a4fa531196",
+  "location": {
+    "type": "google",
+    "text": "南京市 六合区 南京新世纪大酒店",
+    "entity": [
+      {
+        "id": "ChIJK0nAqfkBtjURIvCkSJeRPtA",
+        "addressLine1": "Suwan Restaurant",
+        "addressLine2": "301县道 六合区 南京市 江蘇省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJf14QICr9tTURrBelIDRFPBg",
+        "addressLine1": "新世纪大酒店",
+        "addressLine2": "中華人民共和国 南京市六合区 Baiguo North Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJhXXEhNr8tTURJlmwORHgsKk",
+        "addressLine1": "新世纪大酒店",
+        "addressLine2": "中華人民共和国 江蘇省 南京市六合区 Taishan Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "金陵幻梦行-6"
+}

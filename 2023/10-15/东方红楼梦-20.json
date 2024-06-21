@@ -1,0 +1,30 @@
+{
+  "start": 1697328000,
+  "end": 1697328000,
+  "title": "東方紅楼夢19",
+  "desc": "东方红楼梦19 于 大阪国际展览中心 6号馆C・D区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6204f905c338fd2f836d4d922c62fe430b508f730f7a3abc2c6abe9dcf4d92a9",
+  "location": {
+    "type": "google",
+    "text": "大阪国际展览中心 6号馆C・D区",
+    "entity": [
+      {
+        "id": "ChIJAQAAy0_oAGAR8pBrXsjJnMA",
+        "addressLine1": "インテックス大阪",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方红楼梦-20"
+}

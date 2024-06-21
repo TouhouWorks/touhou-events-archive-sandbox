@@ -1,0 +1,80 @@
+{
+  "start": 1422748800,
+  "end": 1422748800,
+  "title": "東方樂祭 in あるあるcity with 大⑨州東方祭",
+  "desc": "东方乐祭 in Aruaru City with 大⑨州东方祭 于 北九州市 Aruaru City 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cbbf06cd1b1311d230396aab1394c5effda643e342a08d9bfa09ca8d531f55eb",
+  "location": {
+    "type": "google",
+    "text": "北九州市 Aruaru City",
+    "entity": [
+      {
+        "id": "ChIJU41AEEm_QzURmQifczh8sqM",
+        "addressLine1": "Aruaru City",
+        "addressLine2": "２丁目-１４-５ 浅野 小倉北区 北九州市 福岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJkcfVxGS_QzURW-7_Jk8OGRo",
+        "addressLine1": "あるあるCity駐輪場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4dfP_ki_QzURraCMO_QOpfU",
+        "addressLine1": "あるあるCity 2号館",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8ZIWEEm_QzURIobYnoaYleY",
+        "addressLine1": "あるあるCity7Fホール",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8ZIWEEm_QzUREDgY17X9k4g",
+        "addressLine1": "Ponta✕ローソン あるあるCity店",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-4"
+}

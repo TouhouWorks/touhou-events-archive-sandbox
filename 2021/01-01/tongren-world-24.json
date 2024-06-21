@@ -1,0 +1,30 @@
+{
+  "start": 1609459200,
+  "end": 1609459200,
+  "title": "Tongren World24",
+  "desc": "Tongren World24 于 广州市 海珠区 保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-24",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a437cdd387f511dcf20c73ef866912f4fb633a38af12b17a83d19ffca2933c18",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世贸展览馆",
+        "addressLine2": "中華人民共和国 広東省 广州市海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "tongren-world-24"
+}

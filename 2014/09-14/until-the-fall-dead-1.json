@@ -1,0 +1,30 @@
+{
+  "start": 1410652800,
+  "end": 1410652800,
+  "title": "Until the fall dead 1",
+  "desc": "Until the fall dead 1 于 名古屋市 名古屋CLUB ZION 举办",
+  "url": "https://thwiki.cc/Until_the_fall_dead#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6360bc7babb201efc1d623e222275e6138eb86c8498da20fa4c4feb1b8fb084b",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 名古屋CLUB ZION",
+    "entity": [
+      {
+        "id": "ChIJA2MBa8pwA2ARBEHXm9kOX40",
+        "addressLine1": "ＣＬＵＢ・Ｚｉｏｎ",
+        "addressLine2": "日本、愛知県名古屋市中区上前津２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "until-the-fall-dead-1"
+}

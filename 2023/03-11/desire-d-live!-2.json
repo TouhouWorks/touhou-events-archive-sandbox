@@ -1,0 +1,85 @@
+{
+  "start": 1678492800,
+  "end": 1678492800,
+  "title": "DESIRE D LIVE! 2",
+  "desc": "DESIRE D LIVE! 2 于 东京都 下北泽club251 举办",
+  "url": "https://thwiki.cc/DESIRE_D_LIVE!#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9b5aa9700727fdf0aee49547e6bbe5686019a1b0b09e4d1496e4ccf5e4912548",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽club251",
+    "entity": [
+      {
+        "id": "ChIJw_teZ_8hGGARgsSeLR2OLjM",
+        "addressLine1": "下北沢",
+        "addressLine2": "日本、東京都世田谷区北沢",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJM2EpmmvzGGARXV5tNZ86xGY",
+        "addressLine1": "下北泽",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目２４",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJhzin_PLzGGAR0rLbvR4Y7ek",
+        "addressLine1": "カラオケまねきねこ 下北沢店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目３１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ42EFrsfzGGARnw9voKD_9ho",
+        "addressLine1": "The Pizza 下北沢店",
+        "addressLine2": "日本、東京都世田谷区代沢５丁目２８−１４",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJQ_v7bGrzGGARr5DuyLzd5DI",
+        "addressLine1": "下北沢病院",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目８−１６",
+        "provider": "google_places",
+        "categories": [
+          "doctor",
+          "PHYSICIAN",
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "desire-d-live!-2"
+}

@@ -1,0 +1,62 @@
+{
+  "start": 1706313600,
+  "end": 1706313600,
+  "title": "哈尔滨THO02~雪原觅空",
+  "desc": "哈尔滨THO02~雪原觅空 于 黑龙江省哈尔滨市 秋林国际会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%8E%AB%E6%96%AF%E7%A7%91#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4709c8ed8a882eb1a9c8102c5f7361d08d43ab1d3f7952bf6caddef4591a9505",
+  "location": {
+    "type": "google",
+    "text": "黑龙江省哈尔滨市 秋林国际会议中心",
+    "entity": [
+      {
+        "id": "ChIJVypO6Ix_RF4RdBxb54zKzjo",
+        "addressLine1": "秋林国际购物中心",
+        "addressLine2": "中華人民共和国 黑龙江省哈尔滨市 南崗区 Dongda Street",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJDfm-4NJ_RF4RhvprwmJtPpY",
+        "addressLine1": "国际会议中心",
+        "addressLine2": "中華人民共和国 黑龙江省哈尔滨市 南崗区 Hongqi Ave",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPelFdxN_RF4RhZEUoqVEHZY",
+        "addressLine1": "哈工大国际会议中心",
+        "addressLine2": "中華人民共和国 黑龙江省哈尔滨市 南崗区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZRkdVLeBQ14RxI8UBDDfhRg",
+        "addressLine1": "国际会议中心酒店",
+        "addressLine2": "中華人民共和国 黑龙江省哈尔滨市 松北区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方莫斯科-2"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1424563200,
+  "end": 1424563200,
+  "title": "東京ゲーム音楽ショー2015",
+  "desc": "东京Game音乐Show 2015 于 东京都 晴海埠头晴海客船Terminal 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%ACGame%E9%9F%B3%E4%B9%90Show#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3cb88fe5af89f7fe2c372ab72b69a9561f1c92e46c864e6b54c81b2f94d15f86",
+  "location": {
+    "type": "google",
+    "text": "东京都 晴海埠头晴海客船Terminal",
+    "entity": [
+      {
+        "id": "ChIJFyPgbIKJGGARvreX2_t5jD4",
+        "addressLine1": "晴海",
+        "addressLine2": "日本、東京都中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东京game音乐show-2"
+}

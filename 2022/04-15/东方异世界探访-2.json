@@ -1,0 +1,30 @@
+{
+  "start": 1649980800,
+  "end": 1649980800,
+  "title": "東方異世界探訪 第弐回",
+  "desc": "东方异世界探访 第弐回 于 VRChat 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E4%B8%96%E7%95%8C%E6%8E%A2%E8%AE%BF#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "499f8cf4195d0d1f3d7c5e8c6d459292c9f45e34d5ce36ce25e128e1c9292e7b",
+  "location": {
+    "type": "google",
+    "text": "VRChat",
+    "entity": [
+      {
+        "id": "ChIJFUouji6BhYARoLHkbWvcA7I",
+        "addressLine1": "VRChat Inc. HQ",
+        "addressLine2": "マーケット・ストリート サンフランシスコ カリフォルニア州 アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方异世界探访-2"
+}

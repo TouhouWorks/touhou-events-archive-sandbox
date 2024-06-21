@@ -1,0 +1,30 @@
+{
+  "start": 1515888000,
+  "end": 1515888000,
+  "title": "大⑨州東方祭28",
+  "desc": "大⑨州东方祭28 于 佐贺市 佐贺市民文化会馆 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-29",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f394607885a6eb74e56453ad0132a10eab54717b37ce06687b7c9fcfb1711d70",
+  "location": {
+    "type": "google",
+    "text": "佐贺市 佐贺市民文化会馆",
+    "entity": [
+      {
+        "id": "ChIJD5UeQzU1QDURO8QbsgtD7Ts",
+        "addressLine1": "佐賀市立東与賀文化ホールふれあい館",
+        "addressLine2": "日本、佐賀県佐賀市東与賀町大字下古賀１２２８−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大⑨州东方祭-29"
+}

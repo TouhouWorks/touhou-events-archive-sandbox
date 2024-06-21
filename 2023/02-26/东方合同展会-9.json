@@ -1,0 +1,70 @@
+{
+  "start": 1677369600,
+  "end": 1677369600,
+  "title": "東方合同イベント2023冬！",
+  "desc": "东方合同展会2023冬！ 于 横滨产贸Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%88%E5%90%8C%E5%B1%95%E4%BC%9A#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c3c89dcda0d6e460ebe5d880a8f4a0bb6a537af42e23018fc300b1dc38e965b6",
+  "location": {
+    "type": "google",
+    "text": "横滨产贸Hall",
+    "entity": [
+      {
+        "id": "ChIJ__-_h_xcGGARPbtbJ8vyNwg",
+        "addressLine1": "産業貿易センタービル",
+        "addressLine2": "日本、神奈川県横浜市中区山下町２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8bWl_yH2GGARq-TffsoNNe0",
+        "addressLine1": "Katsuta Hall",
+        "addressLine2": "１３３３ 勝田町 都筑区 横浜市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJjyitsXhfGGARxIH549wEPd0",
+        "addressLine1": "プログラミング教育 HALLO Kids Duo 日吉校",
+        "addressLine2": "日本、神奈川県横浜市港北区高田東１丁目１３−２２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJpzn-FHdfGGARIL97bBWBUMs",
+        "addressLine1": "Hallelu Grande Hiyoshi",
+        "addressLine2": "２丁目-２-１６ 日吉 港北区 横浜市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ504bp2NfGGAR-8Vfpk5eqP8",
+        "addressLine1": "プログラミング教育 HALLO チャイルド・アイズ 菊名校",
+        "addressLine2": "日本、神奈川県横浜市港北区菊名６丁目１３−６０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方合同展会-9"
+}

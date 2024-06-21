@@ -1,0 +1,42 @@
+{
+  "start": 1416700800,
+  "end": 1416700800,
+  "title": "東方多宴祭2",
+  "desc": "东方多宴祭2 于 多治见市产业文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%9A%E5%AE%B4%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "824a2a22e33da8a8c6f5e2b66da26fd6ae3c7335a4b7ddcc4b2048abb166dc05",
+  "location": {
+    "type": "google",
+    "text": "多治见市产业文化中心",
+    "entity": [
+      {
+        "id": "ChIJG04kAolrA2ARKtbiaSAKujM",
+        "addressLine1": "産業文化センター 駐車場",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJT-SMhHBqA2AR28i5iDgLqK4",
+        "addressLine1": "産業文化センター",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方多宴祭-2"
+}

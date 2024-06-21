@@ -1,0 +1,34 @@
+{
+  "start": 1509667200,
+  "end": 1509667200,
+  "title": "第一回仙杜東方読書会",
+  "desc": "第一回仙杜东方读书会 于 宫城县仙台市 仙台市战灾复兴纪念馆 举办",
+  "url": "https://thwiki.cc/%E4%BB%99%E6%9D%9C%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3fb9f6f36e5c700ea01ff64de5934c728769678e4a9a4039d3f432857427f662",
+  "location": {
+    "type": "google",
+    "text": "宫城县仙台市 仙台市战灾复兴纪念馆",
+    "entity": [
+      {
+        "id": "ChIJs4syYTkoil8Rkm6b6a0v9uY",
+        "addressLine1": "仙台市战灾复兴纪念馆",
+        "addressLine2": "日本、宮城県仙台市青葉区大町２丁目１２−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "仙杜东方读书会-1"
+}

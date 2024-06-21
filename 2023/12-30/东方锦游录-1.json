@@ -1,0 +1,34 @@
+{
+  "start": 1703894400,
+  "end": 1703894400,
+  "title": "成都THP-东方锦游录1",
+  "desc": "成都THP-东方锦游录1 于 成都市 锦江区 三圣花乡 蜀宴百汇 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%94%A6%E6%B8%B8%E5%BD%95#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4ce298cc31a6a8f0f53ad2cc0ec0aa5639520135b667666bc21a3891632bc4b7",
+  "location": {
+    "type": "google",
+    "text": "成都市 锦江区 三圣花乡 蜀宴百汇",
+    "entity": [
+      {
+        "id": "ChIJ--p32dTI7zYRKLSHo04iSJQ",
+        "addressLine1": "三圣花乡",
+        "addressLine2": "中華人民共和国 蜀成都市锦江区 Shangju Road",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方锦游录-1"
+}

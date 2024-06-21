@@ -1,0 +1,30 @@
+{
+  "start": 1604361600,
+  "end": 1604361600,
+  "title": "東方てきぱ☆～アナフィラキシーショック",
+  "desc": "東方てきぱ☆～Anaphylactic Shock 于 大阪市 MILULARI 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E6%96%B9%E3%81%A6%E3%81%8D%E3%81%B1%E2%98%86#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2e72a51a363d2880174a9866ed98d636372741159eae352f410440b075821a51",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "東方てきぱ☆-5"
+}

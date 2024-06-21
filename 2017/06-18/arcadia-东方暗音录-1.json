@@ -1,0 +1,31 @@
+{
+  "start": 1497744000,
+  "end": 1497744000,
+  "title": "ARCADIA 東方闇音録1",
+  "desc": "ARCADIA 东方暗音录1 于 北海道札幌市 XENON 举办",
+  "url": "https://thwiki.cc/ARCADIA_%E4%B8%9C%E6%96%B9%E6%9A%97%E9%9F%B3%E5%BD%95#ev-1",
+  "type": [
+    "展会",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cbfd5e3e5d1dfe9438960fb30d3736f8428fccbc97c31716ac2f2599bfe9132c",
+  "location": {
+    "type": "google",
+    "text": "北海道札幌市 XENON",
+    "entity": [
+      {
+        "id": "ChIJ__9LJIYpC18RG97WSmR17ms",
+        "addressLine1": "XENON",
+        "addressLine2": "日本、北海道札幌市中央区南７条西４丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "arcadia-东方暗音录-1"
+}

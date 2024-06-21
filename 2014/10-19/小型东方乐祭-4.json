@@ -1,0 +1,30 @@
+{
+  "start": 1413676800,
+  "end": 1413676800,
+  "title": "ぷち東方樂祭 in SDF 沖縄 SP2014",
+  "desc": "小型东方乐祭 in SDF 冲绳 SP2014 于 那霸市 冲绳水产会馆 举办",
+  "url": "https://thwiki.cc/%E5%B0%8F%E5%9E%8B%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c594a8b651a156e08f27ee33e7655563ee558cb976ee286d7906fef3b1a8c17",
+  "location": {
+    "type": "google",
+    "text": "那霸市 冲绳水产会馆",
+    "entity": [
+      {
+        "id": "ChIJVVUFEX9p5TQR62Wq7SiCs20",
+        "addressLine1": "沖縄県水産会館",
+        "addressLine2": "日本、沖縄県那覇市前島３丁目２５−３９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "小型东方乐祭-4"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1662854400,
+  "end": 1662854400,
+  "title": "第百三十七季 文々。新聞友の会",
+  "desc": "第百三十七季 文文。新闻友人集会 于 京都综合见本市会馆 举办",
+  "url": "https://thwiki.cc/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#ev-13",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c9729c6ce496921478b5f7d2d2ede089557b2182f3747f07675990c1a25a2b49",
+  "location": {
+    "type": "google",
+    "text": "京都综合见本市会馆",
+    "entity": [
+      {
+        "id": "ChIJe13WqIcFAWARZedcDJps-sA",
+        "addressLine1": "京都府総合見本市会館 京都パルスプラザ",
+        "addressLine2": "日本、京都府京都市伏見区竹田鳥羽殿町５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "文文。新闻友人集会-13"
+}

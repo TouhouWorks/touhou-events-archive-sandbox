@@ -1,0 +1,56 @@
+{
+  "start": 1562976000,
+  "end": 1562976000,
+  "title": "東方蘇酒宴2",
+  "desc": "东方苏酒宴2 于 苏州市 优格创咖 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%8B%8F%E9%85%92%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2443c3cb3ba2251dfc3d77b9f8a477edb1f95bd3eea8101a9157c61fa4c34355",
+  "location": {
+    "type": "google",
+    "text": "苏州市 优格创咖",
+    "entity": [
+      {
+        "id": "ChIJ3Y7v1AZCsjUR9z3KVlDld9Q",
+        "addressLine1": "Innovation Cafe",
+        "addressLine2": "Tianzhu Road, 嘉定区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJbXXj5nhTsjUROBbhpVPY2r8",
+        "addressLine1": "格创装饰",
+        "addressLine2": "中華人民共和国 江蘇省 苏州市 崑山市 Xueshi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJha1YIHtMsjURDouBtTw95mI",
+        "addressLine1": "优格",
+        "addressLine2": "中華人民共和国 江蘇省 苏州市 崑山市 Beimen Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方苏酒宴-2"
+}

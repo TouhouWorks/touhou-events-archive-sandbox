@@ -1,0 +1,30 @@
+{
+  "start": 1393718400,
+  "end": 1393718400,
+  "title": "東方金彩屋1",
+  "desc": "东方金彩屋1 于 广岛县广岛市青少年中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%87%91%E5%BD%A9%E5%B1%8B#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3af43319370c55658f38b564fa48840e63e924afd5728553e4bf912fdca022f7",
+  "location": {
+    "type": "google",
+    "text": "广岛县广岛市青少年中心",
+    "entity": [
+      {
+        "id": "ChIJdfFwXAuiWjURyeIS_Zp_cxY",
+        "addressLine1": "廣島市青少年中心",
+        "addressLine2": "日本、広島県広島市中区基町５−６１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方金彩屋-1"
+}

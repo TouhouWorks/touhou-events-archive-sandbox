@@ -1,0 +1,30 @@
+{
+  "start": 1696636800,
+  "end": 1696636800,
+  "title": "岸田教団～東方アレンジオンリーツアー2023秋～1",
+  "desc": "岸田教团~东方Arrangement Only Tour2023秋~1 于 埼玉县埼玉市 HEAVEN&#39;S ROCK さいたま新都心VJ-3 举办",
+  "url": "https://thwiki.cc/%E5%B2%B8%E7%94%B0%E6%95%99%E5%9B%A2~%E4%B8%9C%E6%96%B9Arrangement_Only_Tour2023%E7%A7%8B~#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "86bce14d651d35235013f94da121c8fceba9b432b4de115c2b2a430ec3042145",
+  "location": {
+    "type": "google",
+    "text": "埼玉县埼玉市 HEAVEN&#39;S ROCK さいたま新都心VJ-3",
+    "entity": [
+      {
+        "id": "ChIJzZgfCXPBGGARy1E0v3JW7hc",
+        "addressLine1": "HEAVEN'S ROCK さいたま新都心 VJ-3",
+        "addressLine2": "日本、埼玉県さいたま市中央区上落合４丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "岸田教团~东方arrangement-only-tour2023秋~-1"
+}

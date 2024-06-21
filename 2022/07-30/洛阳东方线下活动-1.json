@@ -1,0 +1,32 @@
+{
+  "start": 1659139200,
+  "end": 1659139200,
+  "title": "洛阳东方线下活动-洛阳THP01·东方垂迹中天",
+  "desc": "洛阳东方线下活动-洛阳THP01·东方垂迹中天 于 河南省洛阳市洛龙区政和路与永泰街交叉口 政和大酒店会议室 举办",
+  "url": "https://thwiki.cc/%E6%B4%9B%E9%98%B3%E4%B8%9C%E6%96%B9%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d707bc447ea1ef48795c8f68801a822c2283bf1b8d2ed87a64d58d2f05748089",
+  "location": {
+    "type": "google",
+    "text": "河南省洛阳市洛龙区政和路与永泰街交叉口 政和大酒店会议室",
+    "entity": [
+      {
+        "id": "ChIJORlSlsB6eDYRp8JpUUyng0g",
+        "addressLine1": "Zhenghe Hotel",
+        "addressLine2": "Zhenghe Road, 洛竜区 洛陽市 河南省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "洛阳东方线下活动-1"
+}

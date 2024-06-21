@@ -1,0 +1,82 @@
+{
+  "start": 1335052800,
+  "end": 1335052800,
+  "title": "山梨コミックチャレンジ18",
+  "desc": "山梨Comic Challenge18 于 甲府市 Eye Messe山梨 举办",
+  "url": "https://thwiki.cc/%E5%B1%B1%E6%A2%A8Comic_Challenge#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "77fa3f84e240c9508450b3bc83ca6d8c1b7d246c14e7c36630d4969857d09b06",
+  "location": {
+    "type": "google",
+    "text": "甲府市 Eye Messe山梨",
+    "entity": [
+      {
+        "id": "ChIJ42OhMnj5G2ARTXwIFEoAPSw",
+        "addressLine1": "山梨学院大学",
+        "addressLine2": "日本、山梨県甲府市酒折２丁目４−５",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJR34t5TD4G2AR4HDZkgAx6oE",
+        "addressLine1": "山梨大学",
+        "addressLine2": "日本、山梨県甲府市武田４丁目４−３７",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJbyjSvqH3G2AR6aX0uqfD9sc",
+        "addressLine1": "山梨県立美術館",
+        "addressLine2": "日本、山梨県甲府市貢川１丁目４−２７",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJNR3wzbX5G2ARkp7gRgBn37E",
+        "addressLine1": "山梨県立科学館",
+        "addressLine2": "日本、山梨県甲府市愛宕町358−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJYbZS19H5G2AR9FEDjP4DPdw",
+        "addressLine1": "山梨県庁",
+        "addressLine2": "日本、山梨県甲府市丸の内１丁目６−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "山梨comic-challenge-2"
+}

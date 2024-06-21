@@ -1,0 +1,32 @@
+{
+  "start": 1603497600,
+  "end": 1603497600,
+  "title": "第一回 秋葉原同人祭",
+  "desc": "第一回 秋叶原同人祭 于 东京 秋叶原1号店大楼 举办",
+  "url": "https://thwiki.cc/%E7%A7%8B%E5%8F%B6%E5%8E%9F%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "222afa039856e028c3e35f335fac06ab39c984a83fe0ea598e51cfb483f0b7eb",
+  "location": {
+    "type": "google",
+    "text": "东京 秋叶原1号店大楼",
+    "entity": [
+      {
+        "id": "ChIJt4GsHaeOGGAREzn17fO_INY",
+        "addressLine1": "秋葉原１",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_4",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "秋叶原同人祭-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1288742400,
+  "end": 1288742400,
+  "title": "妖精大戦争！2",
+  "desc": "妖精大战争！2 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%EF%BC%81#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b755e7baf73d5f1c8b64cc87a758015c3dbfc237b16f6f05d9bf95e21db74cb8",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "妖精大战争！-2"
+}

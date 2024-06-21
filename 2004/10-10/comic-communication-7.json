@@ -1,0 +1,40 @@
+{
+  "start": 1097366400,
+  "end": 1097366400,
+  "title": "Comic Communication7",
+  "desc": "Comic Communication7 于 大阪国际会议场3楼 举办",
+  "url": "https://thwiki.cc/Comic_Communication#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d3e057220079f8efee0088cd0cfa55f5d2f5f88e7c299ade42ea87cbec91fd49",
+  "location": {
+    "type": "google",
+    "text": "大阪国际会议场3楼",
+    "entity": [
+      {
+        "id": "ChIJLyAg61jmAGARxD4WxFIVPgw",
+        "addressLine1": "大阪府立国际会议场",
+        "addressLine2": "日本、大阪府大阪市北区中之島５丁目３−５１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJY4tDzFjmAGAR9ptfg7yquZ0",
+        "addressLine1": "大阪国際会議場前港",
+        "addressLine2": "日本、大阪府大阪市北区中之島５丁目３−６７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-communication-7"
+}

@@ -1,0 +1,31 @@
+{
+  "start": 1448668800,
+  "end": 1448668800,
+  "title": "東方樂祭Global 2015 COMICUP Special",
+  "desc": "东方乐祭Global 2015 COMICUP Special 于 上海市 Arkham俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-2",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "daaea01d6cbd850574e9f6b53b35ecd476c73e49df0f93e26dfec286eac02a55",
+  "location": {
+    "type": "google",
+    "text": "上海市 Arkham俱乐部",
+    "entity": [
+      {
+        "id": "ChIJmT5bhrJ6sjURR59jmuDQ2aI",
+        "addressLine1": "Arkham俱乐部",
+        "addressLine2": "中華人民共和国 上海市 徐匯区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭global-2"
+}

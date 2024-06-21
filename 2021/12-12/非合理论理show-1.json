@@ -1,0 +1,30 @@
+{
+  "start": 1639267200,
+  "end": 1639267200,
+  "title": "非合理論理ショー1",
+  "desc": "非合理论理Show 1 于 东京都 赤羽ReNY alpha 举办",
+  "url": "https://thwiki.cc/%E9%9D%9E%E5%90%88%E7%90%86%E8%AE%BA%E7%90%86Show#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "338b021ce2915862e904a0f4e567b9f09b8addd51e2d1ffd5860e1a26782194a",
+  "location": {
+    "type": "google",
+    "text": "东京都 赤羽ReNY alpha",
+    "entity": [
+      {
+        "id": "ChIJa16-cRmTGGARrLjhWF1tKfI",
+        "addressLine1": "赤羽ReNY alpha",
+        "addressLine2": "日本、東京都北区赤羽１丁目７−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "非合理论理show-1"
+}

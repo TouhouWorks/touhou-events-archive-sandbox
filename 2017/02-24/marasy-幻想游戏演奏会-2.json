@@ -1,0 +1,30 @@
+{
+  "start": 1487894400,
+  "end": 1487894400,
+  "title": "まらしぃ 幻想遊戯演奏会2017 in東京",
+  "desc": "Marasy 幻想游戏演奏会2017 in东京 于 东京都 第一生命Hall 举办",
+  "url": "https://thwiki.cc/Marasy_%E5%B9%BB%E6%83%B3%E6%B8%B8%E6%88%8F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "297c0409ddd2ccb03217284280e4d7675211607f135e49df0541d2da68468c6b",
+  "location": {
+    "type": "google",
+    "text": "东京都 第一生命Hall",
+    "entity": [
+      {
+        "id": "ChIJt01LPniJGGARKqK6OjrqKn8",
+        "addressLine1": "第一生命音乐厅",
+        "addressLine2": "日本、東京都中央区晴海１丁目８−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "marasy-幻想游戏演奏会-2"
+}

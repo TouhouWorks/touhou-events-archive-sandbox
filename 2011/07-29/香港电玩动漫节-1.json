@@ -1,0 +1,74 @@
+{
+  "start": 1311897600,
+  "end": 1311897600,
+  "title": "香港电玩动漫节2011",
+  "desc": "香港电玩动漫节2011 于 香港 香港会议展览中心 举办",
+  "url": "https://thwiki.cc/%E9%A6%99%E6%B8%AF%E7%94%B5%E7%8E%A9%E5%8A%A8%E6%BC%AB%E8%8A%82#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8a6707a70d6f77eaddacbc46004c7e6a4dd625b26d4960b9765c2bac042a54be",
+  "location": {
+    "type": "google",
+    "text": "香港 香港会议展览中心",
+    "entity": [
+      {
+        "id": "ChIJsYSkMiUBBDQRbNnxhSrCSsA",
+        "addressLine1": "香港会议展览中心",
+        "addressLine2": "香港 Wan Chai, 港湾道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9S4htMEBBDQRMiY8iF29hX0",
+        "addressLine1": "香港会议展览中心Hall 1",
+        "addressLine2": "香港 Wan Chai, 港湾道",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_SY0114ABDQRJKsc_s7qUa8",
+        "addressLine1": "香港会议展览中心新翼停车场",
+        "addressLine2": "香港 Wan Chai",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJB8svKF8ABDQRHoDXlTJ1iFc",
+        "addressLine1": "香港会议展览中心",
+        "addressLine2": "香港 Wan Chai, 博覧道",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJhTtYvV4ABDQRtagYYMAhXBI",
+        "addressLine1": "香港会议展览中心演讲厅",
+        "addressLine2": "香港 Wan Chai",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "香港电玩动漫节-1"
+}

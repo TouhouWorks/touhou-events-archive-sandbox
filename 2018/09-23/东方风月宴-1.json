@@ -1,0 +1,52 @@
+{
+  "start": 1537660800,
+  "end": 1537660800,
+  "title": "东方风月宴1",
+  "desc": "东方风月宴1 于 上海市 MyTowm咖啡厅 1层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A3%8E%E6%9C%88%E5%AE%B4#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2935b3ccab01a922d54f97e79d42e458836af70c982a68b7ef4bfdcc54b3ed61",
+  "location": {
+    "type": "google",
+    "text": "上海市 MyTowm咖啡厅 1层",
+    "entity": [
+      {
+        "id": "ChIJHdeUOsV3sjURD0qO2SEb6D0",
+        "addressLine1": "上海张江拉卡菲酒店－咖啡",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 178, Ziwei Road",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJPVHi5SRwsjURpvP30K3Kq4g",
+        "addressLine1": "星巴克咖啡達邦協作廣場店",
+        "addressLine2": "中華人民共和国 上海市 静安区",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方风月宴-1"
+}

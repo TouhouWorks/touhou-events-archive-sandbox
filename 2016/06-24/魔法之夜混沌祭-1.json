@@ -1,0 +1,30 @@
+{
+  "start": 1466726400,
+  "end": 1466726400,
+  "title": "魔法の夜の混沌祭1",
+  "desc": "魔法之夜混沌祭1 于 Manboo+Plus神田店 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E6%B3%95%E4%B9%8B%E5%A4%9C%E6%B7%B7%E6%B2%8C%E7%A5%AD#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "53e5c6fb7a44a59f00f48cacc121d4e65211fd5c4efae98d49ff0cb6adcb5b50",
+  "location": {
+    "type": "google",
+    "text": "Manboo+Plus神田店",
+    "entity": [
+      {
+        "id": "ChIJuyJHdwGMGGARfaYddcBkGkI",
+        "addressLine1": "マンボープラス 神田店",
+        "addressLine2": "日本、東京都千代田区内神田３丁目１２−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魔法之夜混沌祭-1"
+}

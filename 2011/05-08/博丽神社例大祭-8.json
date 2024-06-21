@@ -1,0 +1,30 @@
+{
+  "start": 1304812800,
+  "end": 1304812800,
+  "title": "第八回 博麗神社例大祭",
+  "desc": "第八回 博丽神社例大祭 于 东京Big Sight 东23456展厅 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ff8baac852a505a4b650ef9a2d3a36381a0c81764d53cf41a2ba90356ec82794",
+  "location": {
+    "type": "google",
+    "text": "东京Big Sight 东23456展厅",
+    "entity": [
+      {
+        "id": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+        "addressLine1": "东京国际会展中心",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "博丽神社例大祭-8"
+}

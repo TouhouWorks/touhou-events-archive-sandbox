@@ -1,0 +1,84 @@
+{
+  "start": 1431820800,
+  "end": 1431820800,
+  "title": "寒軍べくたあが贈るありがとう！テイセンホールスペシャル1",
+  "desc": "寒軍べくたあが贈るありがとう！Teisen Hall Special 1 于 札幌市 札幌Teisen Hall 举办",
+  "url": "https://thwiki.cc/%E5%AF%92%E8%BB%8D%E3%81%B9%E3%81%8F%E3%81%9F%E3%81%82%E3%81%8C%E8%B4%88%E3%82%8B%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%EF%BC%81Teisen_Hall_Special#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7d3246a2046c38c5dd81169854807ca00777b2d8b3b55e7cf29db3c702fc388c",
+  "location": {
+    "type": "google",
+    "text": "札幌市 札幌Teisen Hall",
+    "entity": [
+      {
+        "id": "ChIJYz8AdSMrC18RI72dO4uVixE",
+        "addressLine1": "札幌病院",
+        "addressLine2": "日本、北海道札幌市白石区本通９丁目南１−１",
+        "provider": "google_places",
+        "categories": [
+          "HOSPITAL",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "hospital",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJ-U93sI8qC18RqYNSUx4toO8",
+        "addressLine1": "札幌大学",
+        "addressLine2": "日本、北海道札幌市豊平区西岡３条７丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzxOxRvQpC18RQSiQlTZGYDM",
+        "addressLine1": "ハローワーク札幌",
+        "addressLine2": "日本、北海道札幌市中央区南１０条西１４丁目２−２８",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJyQW7j50pC18RJLp2bwv6uYQ",
+        "addressLine1": "札幌市政府",
+        "addressLine2": "日本、北海道札幌市中央区北１条西２丁目",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJyTQqSYMpC18RC-3nJ2LhC5k",
+        "addressLine1": "札幌PARCO",
+        "addressLine2": "日本、北海道札幌市中央区南１条西３丁目３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "寒軍べくたあが贈るありがとう！teisen-hall-special-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1504310400,
+  "end": 1504310400,
+  "title": "第十二回神奈川東方読書会",
+  "desc": "第十二回神奈川东方读书会 于 川崎保育会馆 2层 举办",
+  "url": "https://thwiki.cc/%E7%A5%9E%E5%A5%88%E5%B7%9D%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-12",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "200c540c4971ca8f0a1af46a5e6e83ddf354df216c4ac7c4e39454ccfdd44817",
+  "location": {
+    "type": "google",
+    "text": "川崎保育会馆 2层",
+    "entity": [
+      {
+        "id": "ChIJ1dEN_KVgGGARoYixHUq_Lvw",
+        "addressLine1": "かわさき保育会館",
+        "addressLine2": "日本、神奈川県川崎市川崎区渡田新町３丁目２−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "神奈川东方读书会-12"
+}

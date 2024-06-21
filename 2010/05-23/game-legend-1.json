@@ -1,0 +1,84 @@
+{
+  "start": 1274572800,
+  "end": 1274572800,
+  "title": "ゲームレジェンド12",
+  "desc": "Game Legend 12 于 川口市 CupoLa 举办",
+  "url": "https://thwiki.cc/Game_Legend#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4894eac11891538489e37cdc63ca9214fa29b9e6bb709b10f067b5482c5037a1",
+  "location": {
+    "type": "google",
+    "text": "川口市 CupoLa",
+    "entity": [
+      {
+        "id": "ChIJw_SM726TGGARvWWZMybMWPA",
+        "addressLine1": "CupoLa廣場",
+        "addressLine2": "日本、埼玉県川口市川口１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJJUSnkm6TGGARzJsb5ktIknA",
+        "addressLine1": "川口キュポ・ラ",
+        "addressLine2": "日本、埼玉県川口市川口１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJSSBlfCKTGGARx5lhlQ1vZ0A",
+        "addressLine1": "nagomi plus cupola",
+        "addressLine2": "日本、埼玉県川口市中青木２丁目１９−６",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJdcxj6G6TGGARGxUrTG6KC48",
+        "addressLine1": "Tully's Coffee CupoLa Kawaguchi Shop",
+        "addressLine2": "１丁目-１-１ 川口 川口市 埼玉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJtXSghm6TGGARxZC5c-V9t_I",
+        "addressLine1": "Kyupora Parking Lot",
+        "addressLine2": "１丁目-１-１ 川口 川口市 埼玉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "game-legend-1"
+}

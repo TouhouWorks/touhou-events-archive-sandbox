@@ -1,0 +1,40 @@
+{
+  "start": 1680912000,
+  "end": 1680912000,
+  "title": "東方盟耀原vol.3",
+  "desc": "东方盟耀原vol.3 于 大阪市中央区千日前 难波MILULARI 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%9B%9F%E8%80%80%E5%8E%9F#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d55d15a71c13799e4b91b10151813ed2cfcaa50cca54deb49627392ada9387c5",
+  "location": {
+    "type": "google",
+    "text": "大阪市中央区千日前 难波MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "Ejrml6XmnKzjgIHlpKfpmKrlupzlpKfpmKrluILkuK3lpK7ljLrpm6Pms6LvvJEg5Y2D5pel5YmN6YCaIi4qLAoUChIJZ7mwVU7nAGARh24X_kLQtroSFAoSCeP0nlgg3gBgESmyN07luiXt",
+        "addressLine1": "千日前通",
+        "addressLine2": "日本、大阪府大阪市中央区難波１",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方盟耀原-3"
+}

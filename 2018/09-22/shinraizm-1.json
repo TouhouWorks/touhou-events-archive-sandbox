@@ -1,0 +1,30 @@
+{
+  "start": 1537574400,
+  "end": 1537574400,
+  "title": "シンライズム1",
+  "desc": "Shinraizm 1 于 东京都 高田马场CLUB PHASE 举办",
+  "url": "https://thwiki.cc/Shinraizm#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f3333d745699f72ece8854b24b0c9a14f44c606fce250dfab15d9cceb5a54497",
+  "location": {
+    "type": "google",
+    "text": "东京都 高田马场CLUB PHASE",
+    "entity": [
+      {
+        "id": "ChIJd4RpKjmNGGARi37Be0RmvcE",
+        "addressLine1": "高田馬場CLUB PHASE",
+        "addressLine2": "日本、東京都豊島区高田３丁目８−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "shinraizm-1"
+}

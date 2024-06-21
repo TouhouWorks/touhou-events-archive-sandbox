@@ -1,0 +1,30 @@
+{
+  "start": 1663459200,
+  "end": 1663459200,
+  "title": "第一回 あいち名古屋東方読書会",
+  "desc": "第一回 爱知名古屋东方读书会 于 名古屋市中区生涯学习中心 举办",
+  "url": "https://thwiki.cc/%E7%88%B1%E7%9F%A5%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2a78fe194f1a1218ffb308b35057c88d6041834f3f04d6f43a0db1e1bfad7448",
+  "location": {
+    "type": "google",
+    "text": "名古屋市中区生涯学习中心",
+    "entity": [
+      {
+        "id": "ChIJYVD5oMpwA2ARKLwU4iYpGis",
+        "addressLine1": "中生涯学習センター",
+        "addressLine2": "日本、愛知県名古屋市中区橘１丁目７−１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "爱知名古屋东方读书会-1"
+}

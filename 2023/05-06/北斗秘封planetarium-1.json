@@ -1,0 +1,30 @@
+{
+  "start": 1683331200,
+  "end": 1683331200,
+  "title": "北斗秘封プラネタリウム1",
+  "desc": "北斗秘封Planetarium 1 于 东京都 北とぴあ 巨蛋Hall 举办",
+  "url": "https://thwiki.cc/%E5%8C%97%E6%96%97%E7%A7%98%E5%B0%81Planetarium#ev-1",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b59ed61027b83f44e881f706f7eb57a81b93f2fb3d05785d27a80a593d7bf40e",
+  "location": {
+    "type": "google",
+    "text": "东京都 北とぴあ 巨蛋Hall",
+    "entity": [
+      {
+        "id": "ChIJd_UmhXySGGARnT_Wht7C3Cc",
+        "addressLine1": "北とぴあ",
+        "addressLine2": "日本、東京都北区王子１丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "北斗秘封planetarium-1"
+}

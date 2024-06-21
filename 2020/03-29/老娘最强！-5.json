@@ -1,0 +1,30 @@
+{
+  "start": 1585440000,
+  "end": 1585440000,
+  "title": "あたい最強！ 4～今日は一日あたいのターン！～",
+  "desc": "老娘最强！ 4~今天轮到老娘了！~ 于 福冈市 Papillon 24 Gas Hall 举办",
+  "url": "https://thwiki.cc/%E8%80%81%E5%A8%98%E6%9C%80%E5%BC%BA%EF%BC%81#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43d11539bedc800667f0e4b47e02b07157b002b71009bd42a9dc66dd7386467c",
+  "location": {
+    "type": "google",
+    "text": "福冈市 Papillon 24 Gas Hall",
+    "entity": [
+      {
+        "id": "ChIJVVVVktyRQTURYVI0sdQfdAM",
+        "addressLine1": "Papillon 24 Gas Hall",
+        "addressLine2": "１丁目-１７-１ 千代 博多区 福岡市 福岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "老娘最强！-5"
+}

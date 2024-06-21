@@ -1,0 +1,30 @@
+{
+  "start": 1337385600,
+  "end": 1337385600,
+  "title": "東方絢櫻祭6 -櫻絮綿延-",
+  "desc": "东方绚樱祭6 -樱絮绵延- 于 国立台北科技大学 中正纪念馆 中正厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%A8%B1%E7%A5%AD#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "20e17e318c235ea42126bf9b29e13e4a1485b38312465e7ca4e086497bd6d0a0",
+  "location": {
+    "type": "google",
+    "text": "国立台北科技大学 中正纪念馆 中正厅",
+    "entity": [
+      {
+        "id": "ChIJy1OgS32pQjQRVBuU_libkfI",
+        "addressLine1": "国立台北科技大学中正纪念馆",
+        "addressLine2": "台湾 台北市 大安区 Section 3rd, Zhongxiao East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方绚樱祭-6"
+}

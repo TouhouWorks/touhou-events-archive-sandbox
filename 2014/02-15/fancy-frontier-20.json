@@ -1,0 +1,19 @@
+{
+  "start": 1392422400,
+  "end": 1392422400,
+  "title": "Fancy Frontier 23",
+  "desc": "Fancy Frontier 23 于 台北市 国立台湾大学综合体育馆 1、3-4层 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b873c6ed924de472911e94c0045745ac93e96a155c0cc285ca0a7102af5a6416",
+  "location": {
+    "type": "google",
+    "text": "台北市 国立台湾大学综合体育馆 1、3-4层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "fancy-frontier-20"
+}

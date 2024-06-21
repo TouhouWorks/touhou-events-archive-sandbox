@@ -1,0 +1,86 @@
+{
+  "start": 1694908800,
+  "end": 1694908800,
+  "title": "東方螺茶会 札幌の宴 第二十五季",
+  "desc": "东方螺茶会 札幌之宴 第二十五季 于 ASTY45 4F大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-30",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43cbe4c1fb8ba2123d0345bedcdd318fa436e2f00ddb5c5267bd1d22459c3663",
+  "location": {
+    "type": "google",
+    "text": "ASTY45 4F大厅",
+    "entity": [
+      {
+        "id": "ChIJj16ZFRNJQg0RGC6sFZ7NVMc",
+        "addressLine1": "塞万提斯大厅剧院",
+        "addressLine2": "スペイン アルカラ・デ・エナレス Calle de Cervantes",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJCUb2cu7mAGARZulIIzV20v4",
+        "addressLine1": "大廳酒吧",
+        "addressLine2": "日本、大阪府大阪市北区堂島浜１丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "CAFE",
+          "cafe",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJpehwXdLgAGARwNLCvUGv5aY",
+        "addressLine1": "大阪城大厅",
+        "addressLine2": "日本、大阪府大阪市中央区大阪城３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJlxidl8gRXzYRljAaYMdghJk",
+        "addressLine1": "西和県 大厅下",
+        "addressLine2": "中華人民共和国 甘粛 隴南市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZzaEbzKkfDURmEWgSuuqTdA",
+        "addressLine1": "大厅站",
+        "addressLine2": "ソウル",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "bus_station",
+          "establishment",
+          "BUS_STATION",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-30"
+}

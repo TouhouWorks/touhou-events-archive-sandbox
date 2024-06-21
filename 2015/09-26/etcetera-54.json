@@ -1,0 +1,32 @@
+{
+  "start": 1443225600,
+  "end": 1443225600,
+  "title": "えとせとら Vol.53",
+  "desc": "Etcetera Vol.53 于 东京都 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-54",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e9beec8bb63c1cac37e99124c30064ab7273dbc277d895d2f42b64c20b869f51",
+  "location": {
+    "type": "google",
+    "text": "东京都 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-54"
+}

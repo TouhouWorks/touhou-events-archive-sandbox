@@ -1,0 +1,32 @@
+{
+  "start": 1707609600,
+  "end": 1707609600,
+  "title": "地獄極楽ボンバイエ Extra Stage",
+  "desc": "地狱极乐Bombayer Extra Stage 于 大阪市 Studio246 JUSO 举办",
+  "url": "https://thwiki.cc/%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90Bombayer#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3ec54f6f75acf79289ccd2fab06e381b90bccc8f1d265a5eee0e8e6484a38912",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Studio246 JUSO",
+    "entity": [
+      {
+        "id": "ChIJvY101NHlAGARot1Xg2WlvO0",
+        "addressLine1": "スタジオ246 JUSO",
+        "addressLine2": "日本、大阪府大阪市淀川区十三本町１丁目７−２７",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "地狱极乐bombayer-2"
+}

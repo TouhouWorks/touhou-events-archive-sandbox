@@ -1,0 +1,30 @@
+{
+  "start": 1330128000,
+  "end": 1330128000,
+  "title": "Little Lime Lighter 1",
+  "desc": "Little Lime Lighter 1 于 东京都町田市 町田SDR 举办",
+  "url": "https://thwiki.cc/Little_Lime_Lighter#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b9cdc108669ca5269a3654f6be5543f98313b83f1680e20960ef7be04a8c75e8",
+  "location": {
+    "type": "google",
+    "text": "东京都町田市 町田SDR",
+    "entity": [
+      {
+        "id": "ChIJwdT4Eqn-GGARWoEdREtm_BY",
+        "addressLine1": "町田SDR",
+        "addressLine2": "日本、東京都町田市森野２丁目２５−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "little-lime-lighter-1"
+}

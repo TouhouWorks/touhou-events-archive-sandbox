@@ -1,0 +1,52 @@
+{
+  "start": 1401580800,
+  "end": 1401580800,
+  "title": "COMICUP14",
+  "desc": "COMICUP14 于 上海市 上海汽车会展中心 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fc41b54fc8a5a8376fb20817779596ed3490faaddd4d1e2aeea27f961b64c4e5",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海汽车会展中心",
+    "entity": [
+      {
+        "id": "ChIJYxpD1FhbsjURzhYBhnhjLAw",
+        "addressLine1": "上海汽车会展中心",
+        "addressLine2": "中華人民共和国 上海市 嘉定区 Boyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzwn9Qk1bsjURLC9nuGAG988",
+        "addressLine1": "上海汽车会展中心",
+        "addressLine2": "中華人民共和国 上海市 嘉定区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJd7sJI19bsjURfRd5zFVz9hQ",
+        "addressLine1": "上海汽车会展中心停车场",
+        "addressLine2": "中華人民共和国 上海市 嘉定区 Boyuan Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicup-15"
+}

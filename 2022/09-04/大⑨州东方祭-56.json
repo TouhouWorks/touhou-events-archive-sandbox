@@ -1,0 +1,30 @@
+{
+  "start": 1662249600,
+  "end": 1662249600,
+  "title": "大⑨州東方祭54",
+  "desc": "大⑨州东方祭54 于 福冈市 福冈国际会议场 5层 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-56",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "db54c91e2804051070e979defa684ba2a4cfd9c050449f1d8eb770ddebecb16a",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈国际会议场 5层",
+    "entity": [
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡國際會議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大⑨州东方祭-56"
+}

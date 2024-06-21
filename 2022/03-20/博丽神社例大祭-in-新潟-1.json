@@ -1,0 +1,30 @@
+{
+  "start": 1647734400,
+  "end": 1647734400,
+  "title": "博麗神社例大祭 in 新潟1",
+  "desc": "博丽神社例大祭 in 新潟1 于 新潟市产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_in_%E6%96%B0%E6%BD%9F#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "98d793c02beb70c499ffd3f723eb24ac9ba53183633652c2dcc0ba8946a1beea",
+  "location": {
+    "type": "google",
+    "text": "新潟市产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJO0lAe8LI9F8RkO-8bqXzivk",
+        "addressLine1": "新潟市産業振興センター",
+        "addressLine2": "日本、新潟県新潟市中央区鐘木１８５−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "博丽神社例大祭-in-新潟-1"
+}

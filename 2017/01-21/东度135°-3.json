@@ -1,0 +1,46 @@
+{
+  "start": 1484956800,
+  "end": 1484956800,
+  "title": "東度135°3",
+  "desc": "东度135°3 于 名古屋市 club ATLANTIS 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E5%BA%A6135%C2%B0#ev-3",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a15354f3c92164a09788dd386f202fb7c947b1be90c34acdff8663d0525b052a",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 club ATLANTIS",
+    "entity": [
+      {
+        "id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
+        "addressLine1": "名古屋市",
+        "addressLine2": "日本、愛知県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJO9BXow96A2ARfYheCZ3ya1c",
+        "addressLine1": "名古屋市体育館",
+        "addressLine2": "日本、愛知県名古屋市熱田区六野２丁目５−３",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东度135°-3"
+}

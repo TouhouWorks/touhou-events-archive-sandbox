@@ -1,0 +1,30 @@
+{
+  "start": 1286582400,
+  "end": 1286582400,
+  "title": "Project.S 3rd stage",
+  "desc": "Project.S 3rd stage 于 横滨市 横滨BAY HALL 举办",
+  "url": "https://thwiki.cc/Project.S#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b136877d8fd5e1b2fa5cfcc0cf7676e7e093126620144367ce6bc840e49076d4",
+  "location": {
+    "type": "google",
+    "text": "横滨市 横滨BAY HALL",
+    "entity": [
+      {
+        "id": "ChIJkensVz1dGGARsIvyrlT5480",
+        "addressLine1": "橫濱BAY HALL",
+        "addressLine2": "日本、神奈川県横浜市中区新山下３丁目４−１７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "project.s-3"
+}

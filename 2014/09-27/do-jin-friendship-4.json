@@ -1,0 +1,58 @@
+{
+  "start": 1411776000,
+  "end": 1411776000,
+  "title": "Do-Jin Friendship 2014 -2nd Stage-",
+  "desc": "Do-Jin Friendship 2014 -2nd Stage- 于 东京都 新宿BLAZE 举办",
+  "url": "https://thwiki.cc/Do-Jin_Friendship#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fad7adb1de7d0f0b619d68834085dd734ef1217394c241fe3b4a94c6aa659a6c",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿BLAZE",
+    "entity": [
+      {
+        "id": "ChIJeccloguNGGARcIxNIjmyFY8",
+        "addressLine1": "新宿BLAZE",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmYqtWMaNGGARh6rFu8mcGgI",
+        "addressLine1": "ブレイズマンバーバーショップ 新宿",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目１４−１１",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJARdpMt-NGGARHVyryigRK9U",
+        "addressLine1": "レンタルジム BLAZE LILLY(ﾌﾞﾚｲｽﾞ ﾘﾘｰ)曙橋",
+        "addressLine2": "日本、東京都新宿区市谷台町１６−２",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "do-jin-friendship-4"
+}

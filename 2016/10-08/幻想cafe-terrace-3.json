@@ -1,0 +1,82 @@
+{
+  "start": 1475884800,
+  "end": 1475884800,
+  "title": "幻想カフェテラス Ⅲ",
+  "desc": "幻想Cafe Terrace Ⅲ 于 大阪市 afu 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Cafe_Terrace#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1e330d703a863097da7a23fec24ac545a4ec44ae391245a433be035ae99dfc95",
+  "location": {
+    "type": "google",
+    "text": "大阪市 afu",
+    "entity": [
+      {
+        "id": "ChIJXZZjahDnAGARvh3di07UiVA",
+        "addressLine1": "大阪心斎橋の屋上BBQ×貸切古民家キッチン【afu】",
+        "addressLine2": "日本、大阪府大阪市中央区西心斎橋１丁目８−９",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJr_msEzHnAGARAL11GwEw3tA",
+        "addressLine1": "Afutasukuru Haumaitsu Sukuru Fukushimako",
+        "addressLine2": "８丁目-１２-１０ 福島 福島区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJExeqQRbnAGARpjH0U5u78ZQ",
+        "addressLine1": "Afutasukuru Haumaitsu Sukuru Minamimorimachiko",
+        "addressLine2": "３丁目-２-７ 天神橋 北区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ3y9riS_dAGARSrjQwOjF85E",
+        "addressLine1": "Afutasukuru Haumaitsu Sukuru Abenoko",
+        "addressLine2": "１丁目-８-２１ 文の里 阿倍野区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_bp2s9fgAGAR4lKr7R1hBMg",
+        "addressLine1": "Afutanunti Ribingu Keihanmoru",
+        "addressLine2": "２丁目-１-３８ 東野田町 都島区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想cafe-terrace-3"
+}

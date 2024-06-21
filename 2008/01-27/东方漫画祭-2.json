@@ -1,0 +1,32 @@
+{
+  "start": 1201392000,
+  "end": 1201392000,
+  "title": "幻想郷大物産展 ～東方まんがまつり⑨～",
+  "desc": "幻想乡大物产展 ～东方漫画祭⑨～ 于 名古屋市综合体育馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%BC%AB%E7%94%BB%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cf6cb7410d765058833437ed8bef7b2170e7325c49478478b996d373b4cfae8f",
+  "location": {
+    "type": "google",
+    "text": "名古屋市综合体育馆",
+    "entity": [
+      {
+        "id": "ChIJXSQQI797A2ARTB2rtM6MJ_I",
+        "addressLine1": "名古屋市綜合体育館",
+        "addressLine2": "日本、愛知県名古屋市南区東又兵ヱ町５丁目１−１６",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方漫画祭-2"
+}

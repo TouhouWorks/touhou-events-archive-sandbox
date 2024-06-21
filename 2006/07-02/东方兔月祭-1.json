@@ -1,0 +1,30 @@
+{
+  "start": 1151798400,
+  "end": 1151798400,
+  "title": "東方兎月祭",
+  "desc": "东方兔月祭 于 东京都立产业贸易中心 台东馆 6层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%85%94%E6%9C%88%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ed17042282b16e5a91de39e4c2cc1f50a0b8451027c72387f4d6b9d5943a415d",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 台东馆 6层",
+    "entity": [
+      {
+        "id": "ChIJ9dCB2cOOGGARxq6ZRp_ssoI",
+        "addressLine1": "東京都立產業貿易中心 台東館",
+        "addressLine2": "日本、東京都台東区花川戸２丁目６−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方兔月祭-1"
+}

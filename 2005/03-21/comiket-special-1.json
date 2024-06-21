@@ -1,0 +1,30 @@
+{
+  "start": 1111363200,
+  "end": 1111363200,
+  "title": "30周年記念24耐(!?) Comiket Special 4",
+  "desc": "30周年纪念24小时耐力战（!?） Comiket Special 4 于 东京都 东京国际展示场 西1-4展厅 举办",
+  "url": "https://thwiki.cc/Comiket_Special#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1d802d67346e84566c67b6fe75c66d251b6f7a39e1f2850e198da870e466f5f4",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 西1-4展厅",
+    "entity": [
+      {
+        "id": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+        "addressLine1": "东京国际会展中心",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comiket-special-1"
+}

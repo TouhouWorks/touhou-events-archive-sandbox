@@ -1,0 +1,76 @@
+{
+  "start": 1714953600,
+  "end": 1714953600,
+  "title": "秘封蓮花蝶読書会2",
+  "desc": "秘封莲花蝶读书会2 于 东京都 Event Space Riddle 举办",
+  "url": "https://thwiki.cc/%E7%A7%98%E5%B0%81%E8%8E%B2%E8%8A%B1%E8%9D%B6%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-2",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b203f96a404d40aa2262414ba5abfb5e847bdc7ae227cc7ad7d59cc97f9ef96a",
+  "location": {
+    "type": "google",
+    "text": "东京都 Event Space Riddle",
+    "entity": [
+      {
+        "id": "ChIJN4llAaCOGGARcUVBqrh4stc",
+        "addressLine1": "event space",
+        "addressLine2": "３丁目-２９ 上野 台東区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJb4a-GTQgGWAR-9IWHowEFPU",
+        "addressLine1": "スペースECO 福生駅前第１",
+        "addressLine2": "日本、東京都福生市福生９０９−１",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ9RlKeXPzGGARIKoVhuXX1tM",
+        "addressLine1": "LAUNDRY SPACE",
+        "addressLine2": "日本、東京都世田谷区経堂２丁目７−１３",
+        "provider": "google_places",
+        "categories": [
+          "laundry",
+          "establishment",
+          "point_of_interest",
+          "LAUNDRY"
+        ]
+      },
+      {
+        "id": "ChIJR5ij-EbuGGARCdzyDxPLwME",
+        "addressLine1": "ハロースペース at 吉祥寺",
+        "addressLine2": "日本、東京都武蔵野市吉祥寺本町１丁目１２−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJM-HLHz2SGGARQPU-PC_uq_g",
+        "addressLine1": "スペースECO 足立区江北第１",
+        "addressLine2": "日本、東京都足立区江北３丁目３８−３６９",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "秘封莲花蝶读书会-2"
+}

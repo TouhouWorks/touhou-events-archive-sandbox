@@ -1,0 +1,30 @@
+{
+  "start": 1391299200,
+  "end": 1391299200,
+  "title": "諏訪子ランド 二",
+  "desc": "诹访子乐园 二 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E8%AF%B9%E8%AE%BF%E5%AD%90%E4%B9%90%E5%9B%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0a33a59587ffcece7ed47ee56dd0c92c078a74246e68f971aaf74ae9610b5db7",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "诹访子乐园-1"
+}

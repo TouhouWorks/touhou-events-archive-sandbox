@@ -1,0 +1,19 @@
+{
+  "start": 1351987200,
+  "end": 1351987200,
+  "title": "CHEN and NAZUU1",
+  "desc": "CHEN and NAZUU1 于 松山市综合社区中心 举办",
+  "url": "https://thwiki.cc/CHEN_and_NAZUU#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0d4394b0ffc44a32f045fffe4008a8e4698e2b5640dbbb08171b4b37e35d1f8",
+  "location": {
+    "type": "google",
+    "text": "松山市综合社区中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "chen-and-nazuu-1"
+}

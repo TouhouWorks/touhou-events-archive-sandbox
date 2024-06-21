@@ -1,0 +1,94 @@
+{
+  "start": 1484956800,
+  "end": 1484956800,
+  "title": "サブカル幻想郷1",
+  "desc": "Subcul幻想乡1 于 那霸市 冲绳G-shelter 举办",
+  "url": "https://thwiki.cc/Subcul%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "856799ef4005ffe8e9bd4707bdf636b4ed3e62253e6be0188adc1786cb45ce0a",
+  "location": {
+    "type": "google",
+    "text": "那霸市 冲绳G-shelter",
+    "entity": [
+      {
+        "id": "ChIJ-eL4TSlp5TQROIUuTwtlA0k",
+        "addressLine1": "G-shelter 大平スタジオ／Hermit Heritage",
+        "addressLine2": "日本、沖縄県浦添市大平２丁目２−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsb8UJfpr5TQRbAYNVmXKkPU",
+        "addressLine1": "沖縄銀行 首里支店",
+        "addressLine2": "日本、沖縄県那覇市首里儀保町２丁目１３",
+        "provider": "google_places",
+        "categories": [
+          "bank",
+          "BANK",
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJeSbumuhr5TQRLg4K_MiAWrE",
+        "addressLine1": "沖縄銀行 末吉支店",
+        "addressLine2": "日本、沖縄県那覇市古島１丁目２４−１８",
+        "provider": "google_places",
+        "categories": [
+          "bank",
+          "BANK",
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJoRGzU9dr5TQR33pLevWTJFg",
+        "addressLine1": "沖縄銀行 新都心支店",
+        "addressLine2": "日本、沖縄県那覇市天久１丁目１−３２",
+        "provider": "google_places",
+        "categories": [
+          "bank",
+          "BANK",
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJI4GGerNp5TQRT2JXg5ClKbc",
+        "addressLine1": "沖縄銀行 田原支店",
+        "addressLine2": "日本、沖縄県那覇市田原３丁目１２−６",
+        "provider": "google_places",
+        "categories": [
+          "bank",
+          "BANK",
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "subcul幻想乡-1"
+}

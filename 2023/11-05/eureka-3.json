@@ -1,0 +1,32 @@
+{
+  "start": 1699142400,
+  "end": 1699142400,
+  "title": "ユレカ 3",
+  "desc": "EUREKA 3 于 东京都 赤坂navey floor 举办",
+  "url": "https://thwiki.cc/EUREKA#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "85f71598d5f514262fff13d37631c25e71d1bddb4c2266145421c4b9eca05719",
+  "location": {
+    "type": "google",
+    "text": "东京都 赤坂navey floor",
+    "entity": [
+      {
+        "id": "ChIJKy5lB2-LGGARZQF4HFA0shc",
+        "addressLine1": "navey floor",
+        "addressLine2": "日本、東京都港区赤坂２丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "eureka-3"
+}

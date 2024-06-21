@@ -1,0 +1,30 @@
+{
+  "start": 1697241600,
+  "end": 1697241600,
+  "title": "ナイフ 9th ONEMAN 『原点回帰 -Return to healthy?encore-大阪公演』",
+  "desc": "Knife 9th ONEMAN 『原点回归 -Return to healthy?encore-大阪公演』 于 大阪市 Pollux Theater 举办",
+  "url": "https://thwiki.cc/Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE#ev-9",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6aedd7bfef873995614d7bd07c36dd11cfc46ffba0d82d630b40c0c11f73241a",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Pollux Theater",
+    "entity": [
+      {
+        "id": "ChIJr2XGFGjnAGARlz7N9cuEnjc",
+        "addressLine1": "日本橋ポルックスシアター",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋４丁目１４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "knife-秘封限定live-9"
+}

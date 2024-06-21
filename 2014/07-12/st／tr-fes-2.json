@@ -1,0 +1,30 @@
+{
+  "start": 1405123200,
+  "end": 1405123200,
+  "title": "ST／TR Fes Vol.2",
+  "desc": "ST／TR Fes Vol.2 于 东京都 四谷LOTUS 举办",
+  "url": "https://thwiki.cc/ST%EF%BC%8FTR_Fes#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aa1e1c4137d6aaecc32f1237d1c6aa1077743bab18a3ff2166d7844304285854",
+  "location": {
+    "type": "google",
+    "text": "东京都 四谷LOTUS",
+    "entity": [
+      {
+        "id": "ChIJL_zMYe2MGGAR6rQQU91YIUQ",
+        "addressLine1": "四谷LOTUS",
+        "addressLine2": "日本、東京都新宿区四谷３丁目４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "st／tr-fes-2"
+}

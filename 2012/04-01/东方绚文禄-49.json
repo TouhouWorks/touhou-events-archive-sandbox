@@ -1,0 +1,30 @@
+{
+  "start": 1333238400,
+  "end": 1333238400,
+  "title": "東方絢文禄 坂東の卷 第三弾",
+  "desc": "东方绚文禄 坂东之卷 第三弹 于 宇都宮产业展示馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-49",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "32deefe2d78dc515734f214a32d58dffc9ba61676377a4e29ae7fb46a51e8afb",
+  "location": {
+    "type": "google",
+    "text": "宇都宮产业展示馆",
+    "entity": [
+      {
+        "id": "ChIJj__zGWlnH2ARBA7ouCLMoSY",
+        "addressLine1": "栃木県宇都宮産業展示館 （マロニエプラザ）",
+        "addressLine2": "日本、栃木県宇都宮市元今泉６丁目１−３７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方绚文禄-49"
+}

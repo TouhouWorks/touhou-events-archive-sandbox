@@ -1,0 +1,19 @@
+{
+  "start": 1633392000,
+  "end": 1633392000,
+  "title": "COMIDAY25",
+  "desc": "COMIDAY25 于 成都市 世纪城新国际会展中心 2号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-25",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fbd0ee70878ee3a44cb3e7ef919d6c655d2a9bb917819b8930a18cad5d8d23eb",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 2号馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comiday-25"
+}

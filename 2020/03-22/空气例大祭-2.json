@@ -1,0 +1,19 @@
+{
+  "start": 1584835200,
+  "end": 1584835200,
+  "title": "エア例大祭17",
+  "desc": "空气例大祭17 于 https://twitter.com/hashtag/エア例大祭 https://twitter.com/hashtag/AirReitaisai 举办",
+  "url": "https://thwiki.cc/%E7%A9%BA%E6%B0%94%E4%BE%8B%E5%A4%A7%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c4b9cb5f3406ee4a7c111377d9cabdbeac404a626de2734ca3a16edc5780f511",
+  "location": {
+    "type": "google",
+    "text": "https://twitter.com/hashtag/エア例大祭 https://twitter.com/hashtag/AirReitaisai",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "空气例大祭-2"
+}

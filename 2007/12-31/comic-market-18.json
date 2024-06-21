@@ -1,0 +1,19 @@
+{
+  "start": 1199059200,
+  "end": 1199059200,
+  "title": "Comic Market 73",
+  "desc": "Comic Market 73 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-18",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aafdec246c4e2f06fa93c3e4638f9a3a0c6527e53e893ffecd9b57cff45f5bf2",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-18"
+}

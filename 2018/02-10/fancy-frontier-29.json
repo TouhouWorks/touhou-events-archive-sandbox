@@ -1,0 +1,19 @@
+{
+  "start": 1518220800,
+  "end": 1518220800,
+  "title": "Fancy Frontier 31",
+  "desc": "Fancy Frontier 31 于 台北市 国立台湾大学综合体育馆 B1层 桌球室，1、3层 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-29",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "69455eb014c2066b4226c3876d004c12103493d603099b50806840ecb3d0be0c",
+  "location": {
+    "type": "google",
+    "text": "台北市 国立台湾大学综合体育馆 B1层 桌球室，1、3层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "fancy-frontier-29"
+}

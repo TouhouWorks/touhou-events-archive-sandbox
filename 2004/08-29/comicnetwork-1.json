@@ -1,0 +1,38 @@
+{
+  "start": 1093737600,
+  "end": 1093737600,
+  "title": "ComicNetwork 福冈巨蛋19",
+  "desc": "ComicNetwork 福冈巨蛋19 于 福冈市 福冈巨蛋 举办",
+  "url": "https://thwiki.cc/ComicNetwork#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b6c458c7a3f34ebd6be87f275fec2bd3ffddd3706d193468fe3eba2e7f8ff588",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈巨蛋",
+    "entity": [
+      {
+        "id": "ChIJS7bmAk2SQTURwlTt0njZnLc",
+        "addressLine1": "福冈巨蛋",
+        "addressLine2": "日本、福岡県福岡市中央区地行浜２丁目２−２",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "CHURCH",
+          "place_of_worship",
+          "church",
+          "stadium",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicnetwork-1"
+}

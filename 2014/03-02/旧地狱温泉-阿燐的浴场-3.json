@@ -1,0 +1,30 @@
+{
+  "start": 1393718400,
+  "end": 1393718400,
+  "title": "旧地獄温泉 お燐の湯 3泊目",
+  "desc": "旧地狱温泉 阿燐的浴场 3泊目 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E6%97%A7%E5%9C%B0%E7%8B%B1%E6%B8%A9%E6%B3%89_%E9%98%BF%E7%87%90%E7%9A%84%E6%B5%B4%E5%9C%BA#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8d0eae8bc4b516c9b2b6e2ee3989296e83d6243a9619f99cd5d075eca9af2b37",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "旧地狱温泉-阿燐的浴场-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1659225600,
+  "end": 1659225600,
+  "title": "東方ロックメイツ2",
+  "desc": "东方Rockmates2 于 大阪市 MILULARI 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Rockmates#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dab0fb3bb898076faf405abdffbed69c1ed009f604b7831f8feac725c083b444",
+  "location": {
+    "type": "google",
+    "text": "大阪市 MILULARI",
+    "entity": [
+      {
+        "id": "ChIJS6aE2hTnAGARKuf3Q82SLis",
+        "addressLine1": "MILULARI",
+        "addressLine2": "１丁目-７-１１ 千日前 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方rockmates-2"
+}

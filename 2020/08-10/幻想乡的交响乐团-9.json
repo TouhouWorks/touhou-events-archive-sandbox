@@ -1,0 +1,30 @@
+{
+  "start": 1597017600,
+  "end": 1597017600,
+  "title": "幻想郷の交響楽団 - 風煇る吹花擘柳 -",
+  "desc": "幻想乡的交响乐团 - 风辉吹花擘柳 - 于 东京 墨田三声音乐厅 大厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2#ev-9",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5b583fc42cfda849e8c6182d1aced1fa01bb79322c1c93955548ddc2632b5936",
+  "location": {
+    "type": "google",
+    "text": "东京 墨田三声音乐厅 大厅",
+    "entity": [
+      {
+        "id": "ChIJS5hKGCmJGGAR2H5MvHuiBv0",
+        "addressLine1": "墨田三聲音樂廳",
+        "addressLine2": "日本、東京都墨田区錦糸１丁目２−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡的交响乐团-9"
+}

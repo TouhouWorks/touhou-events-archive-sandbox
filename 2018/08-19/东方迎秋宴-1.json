@@ -1,0 +1,30 @@
+{
+  "start": 1534636800,
+  "end": 1534636800,
+  "title": "東方迎秋宴1",
+  "desc": "东方迎秋宴1 于 香港 昌发工厂大厦 A座 10楼A 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%BF%8E%E7%A7%8B%E5%AE%B4#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a25eb8137fb3f206616e90d7d806c02ee1f53049c86985bfbb482e77363a0107",
+  "location": {
+    "type": "google",
+    "text": "香港 昌发工厂大厦 A座 10楼A",
+    "entity": [
+      {
+        "id": "ChIJhbQ9DGYHBDQRFwU43IaDzP4",
+        "addressLine1": "10lau",
+        "addressLine2": "Un Chau Street, Cheung Sha Wan, 香港",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方迎秋宴-1"
+}

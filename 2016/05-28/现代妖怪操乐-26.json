@@ -1,0 +1,33 @@
+{
+  "start": 1464393600,
+  "end": 1464393600,
+  "title": "今様妖怪操楽 Vol.26",
+  "desc": "现代妖怪操乐 Vol.26 于 东京都 R-Lounge涩谷 举办",
+  "url": "https://thwiki.cc/%E7%8E%B0%E4%BB%A3%E5%A6%96%E6%80%AA%E6%93%8D%E4%B9%90#ev-26",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f89ab460e41c53d31e38d5b07d64e9d1b88f147dbf97c27c8eaf6c3aeae86ff7",
+  "location": {
+    "type": "google",
+    "text": "东京都 R-Lounge涩谷",
+    "entity": [
+      {
+        "id": "ChIJORMuOqmMGGARuUTOAOwRSRI",
+        "addressLine1": "R Lounge",
+        "addressLine2": "日本、東京都渋谷区宇田川町４−７",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "现代妖怪操乐-26"
+}

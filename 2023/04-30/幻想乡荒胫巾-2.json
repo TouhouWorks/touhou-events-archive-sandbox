@@ -1,0 +1,34 @@
+{
+  "start": 1682812800,
+  "end": 1682812800,
+  "title": "幻想郷アラハバキ.23 with紅白晶",
+  "desc": "幻想乡荒胫巾 .23 with紅白晶 于 宫城县仙台市 仙台CLUB SHAFT 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E8%8D%92%E8%83%AB%E5%B7%BE#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c1ed13f113655ddda813ecd5300e2b37c54d58086bcd5b8f3ca9cb1dc895dabd",
+  "location": {
+    "type": "google",
+    "text": "宫城县仙台市 仙台CLUB SHAFT",
+    "entity": [
+      {
+        "id": "ChIJiYgEpRIpil8RMpf7YNYPt0M",
+        "addressLine1": "SHAFT",
+        "addressLine2": "日本、宮城県仙台市青葉区国分町２丁目７−２２",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡荒胫巾-2"
+}

@@ -1,0 +1,42 @@
+{
+  "start": 1342310400,
+  "end": 1342310400,
+  "title": "幻想文化祭in 岐阜",
+  "desc": "幻想文化祭in 岐阜 于 多治见市产业文化中心 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E6%96%87%E5%8C%96%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eee88672128854d552db648e87252080b34ec371e3154bbabb9540a5a32d8358",
+  "location": {
+    "type": "google",
+    "text": "多治见市产业文化中心",
+    "entity": [
+      {
+        "id": "ChIJG04kAolrA2ARKtbiaSAKujM",
+        "addressLine1": "産業文化センター 駐車場",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJT-SMhHBqA2AR28i5iDgLqK4",
+        "addressLine1": "産業文化センター",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想文化祭-1"
+}

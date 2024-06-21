@@ -1,0 +1,30 @@
+{
+  "start": 1627084800,
+  "end": 1627084800,
+  "title": "东方南缘凤起1",
+  "desc": "东方南缘凤起1 于 海南省海口市 龙华区金贸西路 椰海山庄7栋 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%97%E7%BC%98%E5%87%A4%E8%B5%B7#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2f9d87513abc9337546924a36af8d5a495d8c1680f5d5da3b0ae6766d2b3d0b",
+  "location": {
+    "type": "google",
+    "text": "海南省海口市 龙华区金贸西路 椰海山庄7栋",
+    "entity": [
+      {
+        "id": "ChIJ4QDBcOUsUjER9ApMU1Estf8",
+        "addressLine1": "椰海山荘（西北門）",
+        "addressLine2": "中華人民共和国 海南省 海口市 竜華区 Haixiu Middle Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方南缘凤起-1"
+}

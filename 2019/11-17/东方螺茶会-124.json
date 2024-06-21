@@ -1,0 +1,19 @@
+{
+  "start": 1573948800,
+  "end": 1573948800,
+  "title": "東方螺茶会 遠江の宴 第三季",
+  "desc": "东方螺茶会 远江之宴 第三季 于 ActCity浜松 展示活动馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-124",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "902ff688c635a5242fb412f1b0fab7a2f4d0d1bfbb6230a5703405f340967ba4",
+  "location": {
+    "type": "google",
+    "text": "ActCity浜松 展示活动馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-124"
+}

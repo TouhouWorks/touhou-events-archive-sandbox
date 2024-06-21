@@ -1,0 +1,30 @@
+{
+  "start": 1429401600,
+  "end": 1429401600,
+  "title": "幻想郷フォーラム2015",
+  "desc": "幻想乡论坛2015 于 名古屋市国际展示场 第3展厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E8%AE%BA%E5%9D%9B#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3d1bdd8d55916320308ec02fccc44a19a485aef6bcdc1bcbed9e980ec325095b",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第3展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡论坛-2"
+}

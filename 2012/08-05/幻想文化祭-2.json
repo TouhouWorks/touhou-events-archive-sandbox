@@ -1,0 +1,42 @@
+{
+  "start": 1344124800,
+  "end": 1344124800,
+  "title": "幻想文化祭in 新潟",
+  "desc": "幻想文化祭in 新潟 于 新潟市万代市民会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E6%96%87%E5%8C%96%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "59105bc86ea22a553edaab501d2ec8b1e7dbdff0766c10e9ad8f6eec644e8593",
+  "location": {
+    "type": "google",
+    "text": "新潟市万代市民会馆",
+    "entity": [
+      {
+        "id": "ChIJtdJf5Y7J9F8RYsXFtlkqNoQ",
+        "addressLine1": "万代市民会館",
+        "addressLine2": "日本、新潟県新潟市中央区東万代町９−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDz19veLJ9F8Rhf9zdXFFv_8",
+        "addressLine1": "パーキングスペース万代市民会館前",
+        "addressLine2": "日本、新潟県新潟市中央区東万代町１−５",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想文化祭-2"
+}

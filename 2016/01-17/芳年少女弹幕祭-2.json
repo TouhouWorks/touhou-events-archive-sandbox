@@ -1,0 +1,30 @@
+{
+  "start": 1452988800,
+  "end": 1452988800,
+  "title": "芳年少女弾幕祭 第2幕",
+  "desc": "芳年少女弹幕祭 第2幕 于 韩国釜山会展中心第1展厅3楼314~7号 举办",
+  "url": "https://thwiki.cc/%E8%8A%B3%E5%B9%B4%E5%B0%91%E5%A5%B3%E5%BC%B9%E5%B9%95%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e5f73c2023f1e160488e0b90fa814d182b961ad1417804c7f30ff3930a25f2b3",
+  "location": {
+    "type": "google",
+    "text": "韩国釜山会展中心第1展厅3楼314~7号",
+    "entity": [
+      {
+        "id": "ChIJ4d-lAr-SaDURSdW6W-ZwZbM",
+        "addressLine1": "BEXCO べクスコ",
+        "addressLine2": "大韓民国 プサン広域市 ヘウンデ区 APEC-ro",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "芳年少女弹幕祭-2"
+}

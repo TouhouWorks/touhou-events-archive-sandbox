@@ -1,0 +1,70 @@
+{
+  "start": 1563148800,
+  "end": 1563148800,
+  "title": "ARCADIA 東方闇音録14",
+  "desc": "ARCADIA 东方暗音录14 于 北海道札幌市 Bar Locotonte 举办",
+  "url": "https://thwiki.cc/ARCADIA_%E4%B8%9C%E6%96%B9%E6%9A%97%E9%9F%B3%E5%BD%95#ev-14",
+  "type": [
+    "展会",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dca190236ca82a5fba14d36bd08eac9869876353e751d1ae8fbae29b3f5dec1c",
+  "location": {
+    "type": "google",
+    "text": "北海道札幌市 Bar Locotonte",
+    "entity": [
+      {
+        "id": "ChIJydahJoYpC18RzEKOtbEejCc",
+        "addressLine1": "Locotonte",
+        "addressLine2": "４丁目 南７条西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
+        "addressLine1": "札幌市",
+        "addressLine2": "日本、北海道",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJQ5rcxQspC18R1YYLPgKYX0I",
+        "addressLine1": "北海道大学",
+        "addressLine2": "日本、北海道札幌市北区北８条西５丁目",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmZp3z18oC18RF3Y_bDjts7g",
+        "addressLine1": "農試公園",
+        "addressLine2": "日本、北海道札幌市西区八軒５条西６丁目95−２１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "arcadia-东方暗音录-14"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1708128000,
+  "end": 1708128000,
+  "title": "Bar鈴奈庵5",
+  "desc": "Bar铃奈庵5 于 名古屋市 Sound Bar 乙 举办",
+  "url": "https://thwiki.cc/Bar%E9%93%83%E5%A5%88%E5%BA%B5#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "80d6c5cb93b6929f00df9e80cfa02d7be80831911988ca2844c917ab4471fc4d",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 Sound Bar 乙",
+    "entity": [
+      {
+        "id": "ChIJ40mWVttwA2ARqBUL4JoZoAk",
+        "addressLine1": "SOUND BAR 乙",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２１−１３",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "bar铃奈庵-5"
+}

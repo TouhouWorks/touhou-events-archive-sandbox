@@ -1,0 +1,30 @@
+{
+  "start": 1532736000,
+  "end": 1532736000,
+  "title": "東方不夜城vol.1",
+  "desc": "东方不夜城vol.1 于 东京都 新宿MARZ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B8%8D%E5%A4%9C%E5%9F%8E#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9e6891ac7f5b162a5e58ecc6ea4999db844f2f595cc2ee01823c6989c951e117",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿MARZ",
+    "entity": [
+      {
+        "id": "ChIJGa1pCzqNGGARK201-NazdyA",
+        "addressLine1": "新宿MARZ",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目４５−１ トキワビル",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方不夜城-1"
+}

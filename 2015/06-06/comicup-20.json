@@ -1,0 +1,52 @@
+{
+  "start": 1433548800,
+  "end": 1433548800,
+  "title": "COMICUP16",
+  "desc": "COMICUP16 于 上海市 上海光大会展中心 西楼 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dcda75dc9e9bb6b0bad48faee2349e37b1d3e87cd491583d9d6dc82c6f8f4eb3",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海光大会展中心 西楼",
+    "entity": [
+      {
+        "id": "ChIJM9AuBcRksjUR9P2wRgAcE5I",
+        "addressLine1": "Shanghai Everbright Convention & Exhibition Center",
+        "addressLine2": "Caobao Road, 徐匯区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJYIcV8FksjURy8w_jC-kLGU",
+        "addressLine1": "光大会展中心停车场",
+        "addressLine2": "中華人民共和国 上海 徐匯区 田林 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJb8_LVcFksjURUTOAmhhhMXc",
+        "addressLine1": "上海光大会展中心（东馆）停车场",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 田林 Xiqin Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicup-20"
+}

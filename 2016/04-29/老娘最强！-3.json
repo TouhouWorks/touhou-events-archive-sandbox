@@ -1,0 +1,30 @@
+{
+  "start": 1461888000,
+  "end": 1461888000,
+  "title": "あたい最強！ 2",
+  "desc": "老娘最强！ 2 于 福冈市 福冈国际会议场 2层 多功能Hall 举办",
+  "url": "https://thwiki.cc/%E8%80%81%E5%A8%98%E6%9C%80%E5%BC%BA%EF%BC%81#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "079a220233820c412cb79f8e237bcad1e1adfde64ecd9bfd18b57fda337b9dcf",
+  "location": {
+    "type": "google",
+    "text": "福冈市 福冈国际会议场 2层 多功能Hall",
+    "entity": [
+      {
+        "id": "ChIJOzQkce-RQTURl8njBgbY8Gg",
+        "addressLine1": "福岡國際會議場",
+        "addressLine2": "日本、福岡県福岡市博多区石城町２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "老娘最强！-3"
+}

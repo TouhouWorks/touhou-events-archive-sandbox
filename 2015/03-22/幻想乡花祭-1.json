@@ -1,0 +1,72 @@
+{
+  "start": 1426982400,
+  "end": 1426982400,
+  "title": "幻想郷花祭り1",
+  "desc": "幻想乡花祭1 于 广岛市 Animate大楼4F 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E8%8A%B1%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8354182030b635d3d891501dab32a879d23f37fd3fbc0128a2f2e019c59faf89",
+  "location": {
+    "type": "google",
+    "text": "广岛市 Animate大楼4F",
+    "entity": [
+      {
+        "id": "ChIJdxc16JZBAzQR-RMTMEm8KCM",
+        "addressLine1": "増城区 大楼",
+        "addressLine2": "中華人民共和国 広東省 广州市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_3",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJmwLkl7D_AjQRwur9sxfeIRk",
+        "addressLine1": "通讯大楼",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区 163, 广电科技园正北方向80米",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg3tpMFv-AjQRVf4XzK6pR9Q",
+        "addressLine1": "汽车科技大楼",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg1BM4EL-AjQR8xv0ohv4oug",
+        "addressLine1": "汽车科技大楼",
+        "addressLine2": "中華人民共和国 広東省 广州市 天河区 Wushan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJjUa6Caz4AjQRq53-9EujrUk",
+        "addressLine1": "司法机关大楼",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 滨江路 Wanshou Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡花祭-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1682899200,
+  "end": 1682899200,
+  "title": "山西THP-晋月汾想曲",
+  "desc": "山西THP-晋月汾想曲 于 山西省太原市 红楼酒店（建设南路）会议室 举办",
+  "url": "https://thwiki.cc/%E5%9F%B4%E8%BD%AE%E5%81%B6%E5%83%8F%E8%AE%A1%E5%88%92#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f7fc9f7e5b78ba2108325c661bd5e00a0bf14a29eab3f3f7328561e17aafd6f",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市 红楼酒店（建设南路）会议室",
+    "entity": [
+      {
+        "id": "ChIJ5V3R95CpCjYROP7TNv-D1vE",
+        "addressLine1": "建设南路",
+        "addressLine2": "中華人民共和国 山西省太原市 迎沢区 Jianshe South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "埴轮偶像计划-4"
+}

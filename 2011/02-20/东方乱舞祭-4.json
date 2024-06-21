@@ -1,0 +1,36 @@
+{
+  "start": 1298160000,
+  "end": 1298160000,
+  "title": "東方乱舞祭4",
+  "desc": "东方乱舞祭4 于 札幌艺术之森 艺术大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%B1%E8%88%9E%E7%A5%AD#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b4a415bb9881489ae8897f53818b003d485b0cd20c401485b50aadc480f0e075",
+  "location": {
+    "type": "google",
+    "text": "札幌艺术之森 艺术大厅",
+    "entity": [
+      {
+        "id": "ChIJRW9cIGgrdV8RSO3C6b1w1T8",
+        "addressLine1": "札幌芸術の森",
+        "addressLine2": "日本、北海道札幌市南区芸術の森２丁目７５",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乱舞祭-4"
+}

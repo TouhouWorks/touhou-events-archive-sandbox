@@ -1,0 +1,76 @@
+{
+  "start": 1708819200,
+  "end": 1708819200,
+  "title": "东方LiveParty×东方only游剧天2024",
+  "desc": "东方LiveParty×东方only游剧天2024 于 广州 设计殿堂 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-79",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7ba5de7ae80aca41ff84cfdc6a1f077bd41fca0e10fa7013c73acd09bfeaa9b",
+  "location": {
+    "type": "google",
+    "text": "广州 设计殿堂",
+    "entity": [
+      {
+        "id": "ChIJmw-RcMz4AjQRERP5B5BnLXg",
+        "addressLine1": "广州设计",
+        "addressLine2": "中華人民共和国 広東省 広州市 越秀区 中华广场 Jiaochang West Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJP5xbHt4IAzQRjwRRa7el6O8",
+        "addressLine1": "殿堂鞋殿",
+        "addressLine2": "中華人民共和国 広東省 广州 増城区 解放北路",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJdzWYPdwIAzQRJWsR3IGTCHw",
+        "addressLine1": "殿堂",
+        "addressLine2": "中華人民共和国 広東省 广州增城市",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJdYBSa9sIAzQRjgqDiZABL3w",
+        "addressLine1": "殿堂",
+        "addressLine2": "中華人民共和国 広東省 广州增城市 Weishan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJr9lltYkBAzQR3OcgLdPVc-Y",
+        "addressLine1": "美发设计",
+        "addressLine2": "中華人民共和国 広東省 广州 天河区",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-79"
+}

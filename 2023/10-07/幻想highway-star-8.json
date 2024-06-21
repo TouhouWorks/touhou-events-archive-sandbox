@@ -1,0 +1,50 @@
+{
+  "start": 1696636800,
+  "end": 1696636800,
+  "title": "幻想ハイウェイスター Gear 8th ~CLUB Edition~",
+  "desc": "幻想Highway Star Gear 8th ~CLUB Edition~ 于 仙台市 Shangri-La 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Highway_Star#ev-8",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1c8ca3c314bb82e4c3cc31320ea591c7789f93b52c2515dfefa4d78a5691295f",
+  "location": {
+    "type": "google",
+    "text": "仙台市 Shangri-La",
+    "entity": [
+      {
+        "id": "ChIJWcOp6BUoil8RfOcfkhoDg0o",
+        "addressLine1": "Shangri-La",
+        "addressLine2": "日本、宮城県仙台市青葉区一番町１丁目１１−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ66vsCiUoil8R4kuKssYlBcE",
+        "addressLine1": "Shangri・La",
+        "addressLine2": "日本、宮城県仙台市青葉区本町２丁目１７−１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJQV32lqEpil8RRo4yZQBE7pc",
+        "addressLine1": "Shangri-La",
+        "addressLine2": "日本、宮城県仙台市青葉区本町１丁目５−２８−６０３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想highway-star-8"
+}

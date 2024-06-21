@@ -1,0 +1,52 @@
+{
+  "start": 1601164800,
+  "end": 1601164800,
+  "title": "東方螺茶会 安芸の宴 第十三季",
+  "desc": "东方螺茶会 安艺之宴 第十三季 于 广岛市中小企业会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-45",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bfe6f96de6d154c13993de9188e684df94e39e6dfd530f5773ca2c8983073be3",
+  "location": {
+    "type": "google",
+    "text": "广岛市中小企业会馆",
+    "entity": [
+      {
+        "id": "ChIJ60pNrUujWjURa4BXf4xp9tg",
+        "addressLine1": "広島市中小企業会館/総合展示館",
+        "addressLine2": "日本、広島県広島市西区商工センター１丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJeXb-cx6jWjURvOCfw8rs0ek",
+        "addressLine1": "広島市中小企業会館/本館",
+        "addressLine2": "日本、広島県広島市西区商工センター１丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJSeB5rAujWjURbT7kDS7Zb44",
+        "addressLine1": "広島市中小企業会館臨時駐車場",
+        "addressLine2": "日本、広島県広島市西区商工センター２丁目６",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-45"
+}

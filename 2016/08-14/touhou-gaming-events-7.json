@@ -1,0 +1,76 @@
+{
+  "start": 1471132800,
+  "end": 1471132800,
+  "title": "Touhou Gaming Events 7",
+  "desc": "Touhou Gaming Events 7 于 乌克兰哈尔科夫 Anticafe “7/9” 举办",
+  "url": "https://thwiki.cc/Touhou_Gaming_Events#ev-7",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b68c9e1bea2266312f3115f7d7dc697697c7a0db3eb76aabb388ec85c7be0da9",
+  "location": {
+    "type": "google",
+    "text": "乌克兰哈尔科夫 Anticafe “7/9”",
+    "entity": [
+      {
+        "id": "ChIJTVuUhnLoJ0ERjqfNGaEoU94",
+        "addressLine1": "Apteka 9-1-1 - Bohodukhivsʹka",
+        "addressLine2": "Kooperatyvna Street, Bohodukhiv ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "PHARMACY",
+          "SHOPS_AND_SERVICES",
+          "pharmacy",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJEwOU8qmmJ0ERZwwjqA2Mh8E",
+        "addressLine1": "ОБЩЕЖИТИЕ №9 НТУ 'ХПИ'",
+        "addressLine2": "Tsilynohrads'ka Street, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAzSTNxekJ0ER7TnvlCUHfKY",
+        "addressLine1": "Hostel №9 Kharkiv National University VN Karazin",
+        "addressLine2": "Lyudviha Svobody Avenue, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ1c8dLrahJ0ERWY-opMo5xtA",
+        "addressLine1": "9-Й ГАРНИЗОННЫЙ ДОМ ОФИЦЕРОВ",
+        "addressLine2": "Poltavskyi Shliakh Street, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJEfVhxm6hJ0ERXudfknUXib8",
+        "addressLine1": "9/17A",
+        "addressLine2": "Berkosa Street, ハルキウ ウクライナ",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhou-gaming-events-7"
+}

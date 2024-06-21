@@ -1,0 +1,19 @@
+{
+  "start": 1407024000,
+  "end": 1407024000,
+  "title": "東方星屑祭9",
+  "desc": "东方星屑祭9 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-10",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8873d0a54a7f8861b863f7520677a197f82ee4efd3b2f16a35a42a9457d232c9",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方星屑祭-10"
+}

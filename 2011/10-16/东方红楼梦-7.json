@@ -1,0 +1,19 @@
+{
+  "start": 1318723200,
+  "end": 1318723200,
+  "title": "東方紅楼夢7",
+  "desc": "东方红楼梦7 于 大阪国际展览中心 4号馆・5号馆A区・6号馆B区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "41c886df60946010c417d5e2834e2ebc2838b0c48f19ee1e83fbab83760c0475",
+  "location": {
+    "type": "google",
+    "text": "大阪国际展览中心 4号馆・5号馆A区・6号馆B区",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方红楼梦-7"
+}

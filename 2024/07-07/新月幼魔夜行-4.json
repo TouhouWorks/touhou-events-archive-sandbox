@@ -1,0 +1,30 @@
+{
+  "start": 1720310400,
+  "end": 1720310400,
+  "title": "新月幼魔夜行 4喰目",
+  "desc": "新月幼魔夜行 4喰目 于 埼玉县春日部市 ふれあいキューブ 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%9C%88%E5%B9%BC%E9%AD%94%E5%A4%9C%E8%A1%8C#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c436a16a56c1aec8db7d58eeda096e51289a5893aba8965a13c83df43b1f46a4",
+  "location": {
+    "type": "google",
+    "text": "埼玉县春日部市 ふれあいキューブ",
+    "entity": [
+      {
+        "id": "ChIJk4WNwk65GGARSKdZp0uHHhU",
+        "addressLine1": "ふれあいキューブ",
+        "addressLine2": "日本、埼玉県春日部市南１丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "新月幼魔夜行-4"
+}

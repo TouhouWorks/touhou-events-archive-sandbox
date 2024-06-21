@@ -1,0 +1,20 @@
+{
+  "start": 1530403200,
+  "end": 1530403200,
+  "title": "鈴奈幻想絵巻 1",
+  "desc": "铃奈幻想绘卷 1 于 松阪市产业振兴中心 2-3层 举办",
+  "url": "https://thwiki.cc/%E9%93%83%E5%A5%88%E5%B9%BB%E6%83%B3%E7%BB%98%E5%8D%B7#ev-1",
+  "type": [
+    "展会",
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c9bd2cbb5627629054f64225f17e336ab12a92f2176f222ed3e49d72a10a9e15",
+  "location": {
+    "type": "google",
+    "text": "松阪市产业振兴中心 2-3层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "铃奈幻想绘卷-1"
+}

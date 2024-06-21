@@ -1,0 +1,30 @@
+{
+  "start": 1707523200,
+  "end": 1707523200,
+  "title": "すいかといっしょ 捌",
+  "desc": "跟萃香一起 捌 于 东京都大田区产业广场Pio 举办",
+  "url": "https://thwiki.cc/%E8%B7%9F%E8%90%83%E9%A6%99%E4%B8%80%E8%B5%B7#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8783e7d7b83f48cdf703a3bea3c89650d6d3121c6fe0355d7fcd94bd00da207b",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "跟萃香一起-8"
+}

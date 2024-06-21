@@ -1,0 +1,19 @@
+{
+  "start": 1295136000,
+  "end": 1295136000,
+  "title": "第一回幻想肥後ノ祭典",
+  "desc": "第一回幻想肥后之祭典 于 熊本市 兴南会馆综合展示会场 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E8%82%A5%E5%90%8E%E4%B9%8B%E7%A5%AD%E5%85%B8#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "39070931032513853e3edd05815061ce9dd21158682c55ae269680d8eec72cd9",
+  "location": {
+    "type": "google",
+    "text": "熊本市 兴南会馆综合展示会场",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "幻想肥后之祭典-1"
+}

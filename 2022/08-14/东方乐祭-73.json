@@ -1,0 +1,30 @@
+{
+  "start": 1660435200,
+  "end": 1660435200,
+  "title": "東方樂祭 2022 in 令和4年 神田明神納涼祭り",
+  "desc": "东方乐祭 2022 in 令和4年 神田明神纳凉祭 于 东京都 神田明神文化交流会馆 EDOCCO STUDIO 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-73",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3b5019d36facf298e84013d420f0f501833a254a71e65b98c899f9856b81ae5f",
+  "location": {
+    "type": "google",
+    "text": "东京都 神田明神文化交流会馆 EDOCCO STUDIO",
+    "entity": [
+      {
+        "id": "ChIJM88ENLeNGGARq8KMGWmsp_A",
+        "addressLine1": "EDOCCO STUDIO（神田明神文化交流館 地下1階イベントホール）",
+        "addressLine2": "日本、東京都千代田区外神田２丁目１６−２ 文化交流館",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-73"
+}

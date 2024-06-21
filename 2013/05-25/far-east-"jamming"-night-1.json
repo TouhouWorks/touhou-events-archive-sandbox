@@ -1,0 +1,36 @@
+{
+  "start": 1369440000,
+  "end": 1369440000,
+  "title": "Far East \"JAMMING\" Night1",
+  "desc": "Far East \"JAMMING\" Night1 于 东京都 池袋 Somethin’ Jazz Club 举办",
+  "url": "https://thwiki.cc/Far_East_%22JAMMING%22_Night#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dc895b15a4e825df75d405ee6d26673c7728d2615628a984a5408025c500ad97",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋 Somethin’ Jazz Club",
+    "entity": [
+      {
+        "id": "ChIJdeYw4F-NGGARiQmvT3lf9w8",
+        "addressLine1": "SOMETHIN' Jazz Club",
+        "addressLine2": "日本、東京都豊島区池袋１丁目８−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "SHOPS_AND_SERVICES",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "far-east-\"jamming\"-night-1"
+}

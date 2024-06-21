@@ -1,0 +1,57 @@
+{
+  "start": 1433548800,
+  "end": 1433548800,
+  "title": "博麗神社例大祭 in 台灣1",
+  "desc": "博丽神社例大祭 in 台湾1 于 台湾新北市三重区综合体育馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_in_%E5%8F%B0%E6%B9%BE#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b026d45d7e85a984d691714d1a015a72733a7bed89b829c86797e15169c41420",
+  "location": {
+    "type": "google",
+    "text": "台湾新北市三重区综合体育馆",
+    "entity": [
+      {
+        "id": "ChIJN_P_2eGoQjQRDTsJ2eluovk",
+        "addressLine1": "三重区综合体育馆 地下停车场",
+        "addressLine2": "台湾 新北市 三重区 Section 1, New Taipei Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJm-IcMh6pQjQRHkoTTRgx6cE",
+        "addressLine1": "三重综合体育馆",
+        "addressLine2": "台湾 新北市 三重区 Section 1, New Taipei Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLUmxZduvQjQR-7TEHT2tgnc",
+        "addressLine1": "市立新北高中 综合体育馆",
+        "addressLine2": "台湾 新北市 三重区 Sanxin Road",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "secondary_school",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "博丽神社例大祭-in-台湾-1"
+}

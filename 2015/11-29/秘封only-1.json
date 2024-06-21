@@ -1,0 +1,20 @@
+{
+  "start": 1448755200,
+  "end": 1448755200,
+  "title": "秘封ONLY 1",
+  "desc": "秘封ONLY 1 于 台北小巨蛋 星光厅 举办",
+  "url": "https://thwiki.cc/%E7%A7%98%E5%B0%81ONLY#ev-1",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d694e427f2280095ded08bbfe06a5fbf2cb54e2a62baea174806d6371d31e2bb",
+  "location": {
+    "type": "google",
+    "text": "台北小巨蛋 星光厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "秘封only-1"
+}

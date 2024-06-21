@@ -1,0 +1,40 @@
+{
+  "start": 1374883200,
+  "end": 1374883200,
+  "title": "COMIDAY12",
+  "desc": "COMIDAY12 于 成都市 锦颂·东方艺术展览中心 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e6ea510377c5d5542d1a0c66fe0cd5df2f29482e2e8254819994a4e26ac7ac3b",
+  "location": {
+    "type": "google",
+    "text": "成都市 锦颂·东方艺术展览中心",
+    "entity": [
+      {
+        "id": "ChIJBVkm4R_Q7zYRpTUfzP735ss",
+        "addressLine1": "锦颂东方艺术展览中心",
+        "addressLine2": "中華人民共和国 四川省 成都市 成華区 Niushikou",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJo9kQ2h_Q7zYRZ05JyqwfZ9s",
+        "addressLine1": "锦颂东方艺术展览中心",
+        "addressLine2": "中華人民共和国 四川省 成都市 成華区 建设路 Beijie Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comiday-12"
+}

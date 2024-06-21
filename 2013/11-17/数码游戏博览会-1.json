@@ -1,0 +1,30 @@
+{
+  "start": 1384646400,
+  "end": 1384646400,
+  "title": "デジゲー博2013",
+  "desc": "数码游戏博览会2013 于 东京都大田区产业广场Pio 2层 小展示厅 举办",
+  "url": "https://thwiki.cc/%E6%95%B0%E7%A0%81%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "867e020037829ece005517c0b744d245764718fc00159ee26fe6f0aa9d9723a9",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 2层 小展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "数码游戏博览会-1"
+}

@@ -1,0 +1,50 @@
+{
+  "start": 1487376000,
+  "end": 1487376000,
+  "title": "The Origins 2nd",
+  "desc": "The Origins 2nd 于 上海 浅水湾文化艺术中心Q.house 举办",
+  "url": "https://thwiki.cc/The_Origins#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fd7a610ead3183276c02a14d126b020682ee5cc891a613fbc1bccb9e5c3d1415",
+  "location": {
+    "type": "google",
+    "text": "上海 浅水湾文化艺术中心Q.house",
+    "entity": [
+      {
+        "id": "ChIJoWHPhtlvsjUR_3MBLTO_EpA",
+        "addressLine1": "浅水湾文化艺术中心",
+        "addressLine2": "中華人民共和国 上海 普陀区 Yichang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJpcX_gNlvsjURbMRvnj7NYMI",
+        "addressLine1": "Q. Hall",
+        "addressLine2": "Yichang Road, 普陀区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJtSu_eMNvsjURENUCKNqKteY",
+        "addressLine1": "浅水湾文化艺术中心",
+        "addressLine2": "中華人民共和国 上海 普陀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "the-origins-2"
+}

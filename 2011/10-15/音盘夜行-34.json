@@ -1,0 +1,91 @@
+{
+  "start": 1318636800,
+  "end": 1318636800,
+  "title": "音盤夜行EX3",
+  "desc": "音盘夜行EX3 于 大阪市 CLUB NEO 举办",
+  "url": "https://thwiki.cc/%E9%9F%B3%E7%9B%98%E5%A4%9C%E8%A1%8C#ev-34",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "46fbfe3c2ac87ad776e3d8c266b10c83f3fe6af3555542f40f48dc15bc248449",
+  "location": {
+    "type": "google",
+    "text": "大阪市 CLUB NEO",
+    "entity": [
+      {
+        "id": "ChIJEfx6vtbdAGARgy6E_TsPYo8",
+        "addressLine1": "大阪/アサイーボウル/ネオン",
+        "addressLine2": "日本、大阪府大阪市西成区玉出西１丁目４−６",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ4eIGNFXmAGAR5y9q5G7BW8U",
+        "addressLine1": "大阪市",
+        "addressLine2": "日本、大阪府",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJOaWZl47nAGAROm0rFpojfT0",
+        "addressLine1": "bistrot neuf",
+        "addressLine2": "日本、大阪府大阪市中央区東平１丁目４−１７",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ36zZ2HPnAGARCukviYDUlto",
+        "addressLine1": "Shinsaibashi Neon Shokudogai",
+        "addressLine2": "１丁目-８-３ 心斎橋筋 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJQ5ZHUK38AGARxxGtklDGX9U",
+        "addressLine1": "ニフレル",
+        "addressLine2": "日本、大阪府吹田市千里万博公園２−１",
+        "provider": "google_places",
+        "categories": [
+          "AQUARIUM",
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "zoo",
+          "point_of_interest",
+          "ZOO",
+          "MUSEUM",
+          "aquarium"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "音盘夜行-34"
+}

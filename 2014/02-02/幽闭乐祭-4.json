@@ -1,0 +1,30 @@
+{
+  "start": 1391299200,
+  "end": 1391299200,
+  "title": "幽閉樂祭2014大⑨州東方奏～早春の宴～",
+  "desc": "幽闭乐祭2014大⑨州东方奏～早春之宴～ 于 北九州市 西日本综合展示场 本馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BD%E9%97%AD%E4%B9%90%E7%A5%AD#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b7816665810f900f3304a898b4454e4b87780b09bcdb9b6fa015e26185e62821",
+  "location": {
+    "type": "google",
+    "text": "北九州市 西日本综合展示场 本馆",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幽闭乐祭-4"
+}

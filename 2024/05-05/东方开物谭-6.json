@@ -1,0 +1,74 @@
+{
+  "start": 1714867200,
+  "end": 1714867200,
+  "title": "东方开物谭·六",
+  "desc": "东方开物谭·六 于 杭州 浙江大学紫金港校区 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%80%E7%89%A9%E8%B0%AD#ev-6",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "47135e277f9b1ddd177d94d351c7a1f77b191932bd4cac29ae8577f5d43bedf6",
+  "location": {
+    "type": "google",
+    "text": "杭州 浙江大学紫金港校区",
+    "entity": [
+      {
+        "id": "ChIJ5aYir79jSzQRjSN5YmMzujc",
+        "addressLine1": "浙江大学紫金港校区",
+        "addressLine2": "中華人民共和国 浙江省 杭州 西湖区 紫荆花路",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJZR9zlb9jSzQRXs0b74tYPzA",
+        "addressLine1": "浙江大学紫金港校区学生活动中心",
+        "addressLine2": "中華人民共和国 浙江省 杭州 西湖区 余杭塘路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJF7YsNZFjSzQRuIYP646MK3Y",
+        "addressLine1": "浙江大学紫金港校区计算中心",
+        "addressLine2": "中華人民共和国 浙江省 杭州 西湖区 Dichen South Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJu2sShIZjSzQR1YN76mpYrDo",
+        "addressLine1": "浙江大学紫金港校区西区",
+        "addressLine2": "中華人民共和国 浙江省 杭州 西湖区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJcQZnSpRjSzQRvM6FNR9TT6g",
+        "addressLine1": "浙江大学紫金港校区",
+        "addressLine2": "中華人民共和国 杭州 西湖区 Yu Hang Tang Lu",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方开物谭-6"
+}

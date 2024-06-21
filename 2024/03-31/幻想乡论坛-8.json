@@ -1,0 +1,30 @@
+{
+  "start": 1711843200,
+  "end": 1711843200,
+  "title": "Re：幻想郷フォーラム2024",
+  "desc": "Re：幻想乡论坛2024 于 名古屋市国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E8%AE%BA%E5%9D%9B#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5eda373fb047237d1ee3fdd0b1aeb7bd8766c70948432714f94c15d5a020b200",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡论坛-8"
+}

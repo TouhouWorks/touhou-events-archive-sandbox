@@ -1,0 +1,33 @@
+{
+  "start": 1353196800,
+  "end": 1353196800,
+  "title": "とりあえず、生 Vol.4",
+  "desc": "先来杯，生的 Vol.4 于 名古屋市 ZEROstudio LIVE HALL DUDE 举办",
+  "url": "https://thwiki.cc/%E5%85%88%E6%9D%A5%E6%9D%AF%EF%BC%8C%E7%94%9F%E7%9A%84#ev-4",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "43edd0fca0a4be893d03cf3e33acb88dbd09ffb8f458165c4c4b462374dc6956",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 ZEROstudio LIVE HALL DUDE",
+    "entity": [
+      {
+        "id": "ChIJOUZ8byplA2ARzIUT31sBUvg",
+        "addressLine1": "ZERO studio",
+        "addressLine2": "１丁目-１０３ 植田西 天白区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "先来杯，生的-4"
+}

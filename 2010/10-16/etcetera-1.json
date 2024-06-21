@@ -1,0 +1,86 @@
+{
+  "start": 1287187200,
+  "end": 1287187200,
+  "title": "えとせとら Vol.1",
+  "desc": "Etcetera Vol.1 于 东京都 池袋Tri 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0a82c659a7cdd155f608e8960a4ead9b121bea55c951a64f46e0416cb9ba86a5",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋Tri",
+    "entity": [
+      {
+        "id": "ChIJFa_MNF6NGGAREBay8ChOj70",
+        "addressLine1": "Tri-force jiu-jitsu Academy Ikebukuro",
+        "addressLine2": "２丁目-６２-１ 池袋 豊島区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJC2ktO32TGGARLlrM3s7pc1M",
+        "addressLine1": "trias367",
+        "addressLine2": "日本、東京都豊島区池袋３丁目６７−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJN9_zu9WTGGAR-oG_y9hJPuE",
+        "addressLine1": "酒処 TRio",
+        "addressLine2": "日本、東京都豊島区池袋４丁目２６−１１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJubRI2IiNGGARspqm8XVmobs",
+        "addressLine1": "AMOSTYLE BY Triumph ルミネ池袋店",
+        "addressLine2": "日本、東京都豊島区西池袋１丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJtWPB_3ONGGAR9qqhSJtuqw4",
+        "addressLine1": "TRIELA 池袋",
+        "addressLine2": "日本、東京都豊島区南池袋２丁目９−１２",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-1"
+}

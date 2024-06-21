@@ -1,0 +1,32 @@
+{
+  "start": 1462579200,
+  "end": 1462579200,
+  "title": "Stockholms Internationella Seriefestival 2016",
+  "desc": "Stockholms Internationella Seriefestival 2016 于 瑞典斯德哥尔摩 Serieteket 举办",
+  "url": "https://thwiki.cc/Stockholms_Internationella_Seriefestival#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "23a7974a6c77f8f3b2d88d59fdf245af62bb27a1f4c54581ab999cc3e1106a22",
+  "location": {
+    "type": "google",
+    "text": "瑞典斯德哥尔摩 Serieteket",
+    "entity": [
+      {
+        "id": "ChIJRXHxfF6dX0YRMI_pY0FaFzY",
+        "addressLine1": "Serieteket",
+        "addressLine2": "Sergels Torg, Stockholm, スウェーデン",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "stockholms-internationella-seriefestival-1"
+}

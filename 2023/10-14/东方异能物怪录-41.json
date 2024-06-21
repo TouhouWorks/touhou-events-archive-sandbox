@@ -1,0 +1,34 @@
+{
+  "start": 1697241600,
+  "end": 1697241600,
+  "title": "東方異能物怪録卷之四十壱",
+  "desc": "东方异能物怪录卷之四十壱 于 神奈川县大和市 引地台公园野外音乐堂 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E8%83%BD%E7%89%A9%E6%80%AA%E5%BD%95#ev-41",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4552f648660742c1f165e2695f07a36bbe303f267115762242ed622414e0d7ac",
+  "location": {
+    "type": "google",
+    "text": "神奈川县大和市 引地台公园野外音乐堂",
+    "entity": [
+      {
+        "id": "ChIJx_S6vGNWGGARMDTRlSZYQnc",
+        "addressLine1": "引地台公園",
+        "addressLine2": "日本、神奈川県大和市柳橋４丁目５０００",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方异能物怪录-41"
+}

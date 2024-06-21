@@ -1,0 +1,30 @@
+{
+  "start": 1417305600,
+  "end": 1417305600,
+  "title": "響灯小町祭1",
+  "desc": "响灯小町祭1 于 秋田市 繁华交流馆AU 举办",
+  "url": "https://thwiki.cc/%E5%93%8D%E7%81%AF%E5%B0%8F%E7%94%BA%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f8ca27ab0d3826d6362172c7871ce6aebb9d593a7110c894ccc0c5d4a2df9d31",
+  "location": {
+    "type": "google",
+    "text": "秋田市 繁华交流馆AU",
+    "entity": [
+      {
+        "id": "ChIJJYCBRuvCj18RB8bIYjOYy1Y",
+        "addressLine1": "秋田市にぎわい交流館au",
+        "addressLine2": "日本、秋田県秋田市中通１丁目４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "响灯小町祭-1"
+}

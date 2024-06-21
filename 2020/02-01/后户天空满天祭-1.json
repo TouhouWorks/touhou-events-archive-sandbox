@@ -1,0 +1,30 @@
+{
+  "start": 1580515200,
+  "end": 1580515200,
+  "title": "第一回 後戸天空満天祭",
+  "desc": "第一回 后户天空满天祭 于 大阪 西成区民中心 1层大厅 举办",
+  "url": "https://thwiki.cc/%E5%90%8E%E6%88%B7%E5%A4%A9%E7%A9%BA%E6%BB%A1%E5%A4%A9%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "384490e15fea648ed1dbb294ee5cd6b59f556bedf32b6da51986aed023c2f4e1",
+  "location": {
+    "type": "google",
+    "text": "大阪 西成区民中心 1层大厅",
+    "entity": [
+      {
+        "id": "ChIJ4SvTV5rdAGARDLFG0uhL_ng",
+        "addressLine1": "西成區民中心",
+        "addressLine2": "日本、大阪府大阪市西成区岸里１丁目１−５０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "后户天空满天祭-1"
+}

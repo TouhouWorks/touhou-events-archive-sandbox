@@ -1,0 +1,32 @@
+{
+  "start": 1714608000,
+  "end": 1714608000,
+  "title": "陕西THO-景曜旧都",
+  "desc": "陕西THO-景曜旧都 于 西安市 解放宾馆 举办",
+  "url": "https://thwiki.cc/%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AE#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7d51b8efa21b266b411be42222a8b0563149ca993ccdb707cec519cc022f1ed2",
+  "location": {
+    "type": "google",
+    "text": "西安市 解放宾馆",
+    "entity": [
+      {
+        "id": "ChIJ8TC-zOR6YzYRCad9AzykWSw",
+        "addressLine1": "解放宾馆",
+        "addressLine2": "中華人民共和国 陝西省 西安市 新城区 Xiba Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "长乐未央-7"
+}

@@ -1,0 +1,64 @@
+{
+  "start": 1527379200,
+  "end": 1527379200,
+  "title": "どこもかしこも幻想郷 in高雄",
+  "desc": "处处都是幻想乡 in高雄 于 高雄市 高雄国际会议中心 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6f15d356e059440f8b6fd9e2b3ac78b3d51d5517d97c9cb180e9b0f9d1a4e198",
+  "location": {
+    "type": "google",
+    "text": "高雄市 高雄国际会议中心",
+    "entity": [
+      {
+        "id": "ChIJU2uyaHoEbjQR6SLeog-FuvI",
+        "addressLine1": "高雄国际会议中心 ICCK",
+        "addressLine2": "台湾 高雄市 Yancheng District, Zhongzheng 4th Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsf1lNpAEbjQREkXHTBk6ks0",
+        "addressLine1": "道騰國際商務中心 | 四維館 - 高雄優質辦公室 | 會議空間租借|活動場地租借",
+        "addressLine2": "台湾 高雄市 苓雅区 Siwei 4th Rd",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJv942EoEDbjQRhCZirNjpTDE",
+        "addressLine1": "道騰國際商務中心 | 民權館 - 高雄優質辦公室 | 會議空間租借|活動場地租借",
+        "addressLine2": "台湾 高雄市 新興区 Mincyuan 1st Road",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmfWaJgAFbjQR2FLGBMXwtSg",
+        "addressLine1": "高雄国际会议中心停车场",
+        "addressLine2": "台湾 高雄市 Yancheng District",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "处处都是幻想乡-1"
+}

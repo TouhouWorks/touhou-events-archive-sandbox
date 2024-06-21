@@ -1,0 +1,60 @@
+{
+  "start": 1379203200,
+  "end": 1379203200,
+  "title": "東方響奏楽Vol.3",
+  "desc": "东方响奏乐Vol.3 于 东京都 新宿Marble 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%93%8D%E5%A5%8F%E4%B9%90#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "91efb83522b35142245a5e2d86a30da9778ed84d886044fcb99d0f80aaae97d3",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿Marble",
+    "entity": [
+      {
+        "id": "ChIJWUBAWIeNGGARx5IeuCQ80Ts",
+        "addressLine1": "新宿Marble",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目４５−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJlVe4oleLGGARRzgwYZOj3a4",
+        "addressLine1": "Marble Lounge",
+        "addressLine2": "６丁目-６-２ 西新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJQc2aedONGGARSgi_VjUib-w",
+        "addressLine1": "marbre vegan",
+        "addressLine2": "２丁目-１-５ 新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "bakery",
+          "BAKERY",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方响奏乐-3"
+}

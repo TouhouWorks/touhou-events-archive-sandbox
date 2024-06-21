@@ -1,0 +1,30 @@
+{
+  "start": 1535241600,
+  "end": 1535241600,
+  "title": "東方螺茶会 陸奥の宴 第二季",
+  "desc": "东方螺茶会 陆奥之宴 第二季 于 青森产业会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-90",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "32210313c3e2e953c78e24380e5069505557a7456b76d61ac62e4adbafcc7d7b",
+  "location": {
+    "type": "google",
+    "text": "青森产业会馆",
+    "entity": [
+      {
+        "id": "ChIJA8wmJO6fm18ReRT24UHXh-k",
+        "addressLine1": "青森産業会館",
+        "addressLine2": "日本、青森県青森市第二問屋町４丁目４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-90"
+}

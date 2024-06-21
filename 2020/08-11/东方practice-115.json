@@ -1,0 +1,43 @@
+{
+  "start": 1597104000,
+  "end": 1597104000,
+  "title": "東方Practice 夏まつり",
+  "desc": "东方Practice 夏祭 于 桑名市 レインボースポーツカートコース 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-115",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8a4303c447b5dbbcb6737c81da04078bb6368d2448d67c195922cba98eef8414",
+  "location": {
+    "type": "google",
+    "text": "桑名市 レインボースポーツカートコース",
+    "entity": [
+      {
+        "id": "ChIJ2Rgo8wuRA2AR-vHP7yp56Kg",
+        "addressLine1": "レインボースポーツ カートコース駐車場",
+        "addressLine2": "日本、三重県桑名市志知",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ84nz8QuRA2ARLqvpUZnErCE",
+        "addressLine1": "レインボースポーツ",
+        "addressLine2": "日本、三重県桑名市志知３９１８−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方practice-115"
+}

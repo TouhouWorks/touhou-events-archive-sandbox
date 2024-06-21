@@ -1,0 +1,19 @@
+{
+  "start": 1467504000,
+  "end": 1467504000,
+  "title": "東方信州祭ミニ第1幕",
+  "desc": "东方信州祭MINI第1幕 于 松本站前会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BF%A1%E5%B7%9E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6b6501afa75d6ec62ab68f4456472ea05b4c1f3ac661f98e9463a4e67273852c",
+  "location": {
+    "type": "google",
+    "text": "松本站前会馆 4层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方信州祭-1"
+}

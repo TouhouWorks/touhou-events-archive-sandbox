@@ -1,0 +1,30 @@
+{
+  "start": 1391299200,
+  "end": 1391299200,
+  "title": "あたい最強！ 2",
+  "desc": "老娘最强！ 2 于 北九州市 西日本综合展示场 新馆 举办",
+  "url": "https://thwiki.cc/%E8%80%81%E5%A8%98%E6%9C%80%E5%BC%BA%EF%BC%81#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e0ae42ebfdfd34a57b6b5d51ba2f3791148de1c6b023cec7bb674063f00fc72c",
+  "location": {
+    "type": "google",
+    "text": "北九州市 西日本综合展示场 新馆",
+    "entity": [
+      {
+        "id": "ChIJNZp3wze_QzURJnjif62aj0E",
+        "addressLine1": "西日本綜合展示場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野３丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "老娘最强！-2"
+}

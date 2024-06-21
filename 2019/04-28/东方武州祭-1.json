@@ -1,0 +1,30 @@
+{
+  "start": 1556409600,
+  "end": 1556409600,
+  "title": "東方武州祭 第一幕",
+  "desc": "东方武州祭 第一幕 于 秩父宫纪念市民会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%AD%A6%E5%B7%9E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d44f299b70ce4a50c70aee10213c944de8f633efada014f9e37d4ed4f371d0df",
+  "location": {
+    "type": "google",
+    "text": "秩父宫纪念市民会馆",
+    "entity": [
+      {
+        "id": "ChIJd8NWRtTLHmARSv1SmTLlEqU",
+        "addressLine1": "秩父宫纪念市民会馆",
+        "addressLine2": "日本、埼玉県秩父市熊木町８−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方武州祭-1"
+}

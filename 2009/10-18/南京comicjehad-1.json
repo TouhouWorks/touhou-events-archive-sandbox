@@ -1,0 +1,32 @@
+{
+  "start": 1255824000,
+  "end": 1255824000,
+  "title": "南京Comicjehad 5",
+  "desc": "南京Comicjehad 5 于 江苏省南京市 南京特殊教育职业技术学院体育馆 举办",
+  "url": "https://thwiki.cc/%E5%8D%97%E4%BA%ACComicjehad#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "856ca08c9b08ba77794752f51c2f6a51d1cc60c72a9db91898c3d165924e09c5",
+  "location": {
+    "type": "google",
+    "text": "江苏省南京市 南京特殊教育职业技术学院体育馆",
+    "entity": [
+      {
+        "id": "ChIJtb2OPTnytTURAthi6RqoU4A",
+        "addressLine1": "南京特殊教育职业技术学院体育馆",
+        "addressLine2": "中華人民共和国 江苏省南京市 棲霞区 神农路",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "南京comicjehad-1"
+}

@@ -1,0 +1,75 @@
+{
+  "start": 1292025600,
+  "end": 1292025600,
+  "title": "東方わぁい！其之肆",
+  "desc": "东方哇！其之肆 于 京都市 Nine Musez 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%93%87%EF%BC%81#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b40b27df5c26e0fd8ace767de0e926bd5006900f1cb09f846e024babe4b446ff",
+  "location": {
+    "type": "google",
+    "text": "京都市 Nine Musez",
+    "entity": [
+      {
+        "id": "ChIJ8cM8zdaoAWARPR27azYdlsA",
+        "addressLine1": "京都市",
+        "addressLine2": "日本、京都府",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "EkFOYXRpb25hbCBSb3V0ZSA5LCDvvJPkuIHnm64t77yRIOW5s-mHjiDkuqzpg73luIIg5bGx5Y-j55yMIOaXpeacrCIuKiwKFAoSCY_MeOefCAFgEWtaJhPKEPkqEhQKEgkBK9rlRZZENRF9eLVkc53blg",
+        "addressLine1": "National Route 9",
+        "addressLine2": "３丁目-１ 平野 京都市 山口県 日本",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJm0-RiZIPAWARFBKWjzdln9k",
+        "addressLine1": "伏見十石舟",
+        "addressLine2": "日本、京都府京都市伏見区南兵町２４７",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJjbHMgpAPAWARisLX47dSp58",
+        "addressLine1": "京都市呉竹文化センター",
+        "addressLine2": "日本、京都府京都市伏見区京町南７丁目３５−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJwehrwJUOAWARRziuw_jnMHE",
+        "addressLine1": "京都市立安祥寺中学校",
+        "addressLine2": "日本、京都府京都市山科区西野今屋敷町９−６",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方哇！-4"
+}

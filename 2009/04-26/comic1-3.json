@@ -1,0 +1,19 @@
+{
+  "start": 1240704000,
+  "end": 1240704000,
+  "title": "COMIC1☆3",
+  "desc": "COMIC1☆3 于 东京都 东京国际展示场 东4-6展厅 举办",
+  "url": "https://thwiki.cc/COMIC1#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6fad563161b4aca25d5e7ff28111d0671b261563644b0db0c83e166d9f7eb951",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东4-6展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic1-3"
+}

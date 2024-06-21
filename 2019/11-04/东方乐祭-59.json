@@ -1,0 +1,40 @@
+{
+  "start": 1572825600,
+  "end": 1572825600,
+  "title": "東方樂祭 in 東方野州祭 第1幕",
+  "desc": "东方乐祭 in 东方野州祭 第1幕 于 宇都宫市 宇都宫产业展示馆 （マロニエプラザ） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-59",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c9af344f8feda44f7c288ebd1380c61f62d427f2124afc8c76495444e5ecbe07",
+  "location": {
+    "type": "google",
+    "text": "宇都宫市 宇都宫产业展示馆 （マロニエプラザ）",
+    "entity": [
+      {
+        "id": "ChIJj__zGWlnH2ARBA7ouCLMoSY",
+        "addressLine1": "栃木県宇都宮産業展示館 （マロニエプラザ）",
+        "addressLine2": "日本、栃木県宇都宮市元今泉６丁目１−３７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJIU93GmlnH2ARN8PYBVWhjoQ",
+        "addressLine1": "栃木県立宇都宮産業展示館（マロニエプラザ）",
+        "addressLine2": "日本、栃木県宇都宮市元今泉６丁目１−３７",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-59"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1547337600,
+  "end": 1547337600,
+  "title": "みんなの鈴奈庵1",
+  "desc": "大家的铃奈庵1 于 松阪市产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E5%AE%B6%E7%9A%84%E9%93%83%E5%A5%88%E5%BA%B5#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8f29e9c991e8519be21b6545bff8795761fcdb7567a8f04473cb7bc9edf2751f",
+  "location": {
+    "type": "google",
+    "text": "松阪市产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJVVWl3CZrBGARtUdxIF445xM",
+        "addressLine1": "松阪市産業振興センター",
+        "addressLine2": "日本、三重県松阪市本町２１７６",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大家的铃奈庵-1"
+}

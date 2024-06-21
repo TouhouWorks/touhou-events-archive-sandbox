@@ -1,0 +1,54 @@
+{
+  "start": 1668816000,
+  "end": 1668816000,
+  "title": "第三回和歌山東方読書会",
+  "desc": "第三回和歌山东方读书会 于 和歌山市 和歌山城Hall 举办",
+  "url": "https://thwiki.cc/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-3",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c604bce07cd92b3f93fcc0629cb4a059b03b85acfb613f916582962316d738bb",
+  "location": {
+    "type": "google",
+    "text": "和歌山市 和歌山城Hall",
+    "entity": [
+      {
+        "id": "ChIJd-T0rJezAGARIqEN4AcTHyc",
+        "addressLine1": "和歌山城ホール",
+        "addressLine2": "日本、和歌山県和歌山市七番丁25番地の1",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJxdJgocGyAGARk2yAa2IxAOE",
+        "addressLine1": "和歌山城",
+        "addressLine2": "日本、和歌山県和歌山市一番丁３",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJ9cpWUpKzAGAR0_PBBtoSR-c",
+        "addressLine1": "無料駐輪場（和歌山城ホール）",
+        "addressLine2": "日本、和歌山県和歌山市七番丁２５−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "和歌山东方读书会-3"
+}

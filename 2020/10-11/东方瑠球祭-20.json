@@ -1,0 +1,30 @@
+{
+  "start": 1602374400,
+  "end": 1602374400,
+  "title": "東方瑠球祭 第二十弾",
+  "desc": "东方瑠球祭 第二十弹 于 宜野湾市 冲绳会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%91%A0%E7%90%83%E7%A5%AD#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce3fb9099901c625222cd8a35996b13c9fad55e3b539600c930d82a98db482b8",
+  "location": {
+    "type": "google",
+    "text": "宜野湾市 冲绳会议中心",
+    "entity": [
+      {
+        "id": "ChIJq6qqA6Vs5TQRiCDe1oSbdus",
+        "addressLine1": "冲绳会议中心",
+        "addressLine2": "日本、沖縄県宜野湾市真志喜４丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方瑠球祭-20"
+}

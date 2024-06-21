@@ -1,0 +1,32 @@
+{
+  "start": 1473033600,
+  "end": 1473033600,
+  "title": "TouhouTech 4 Monterrey",
+  "desc": "TouhouTech 4 蒙特雷 于 墨西哥 蒙特雷 蒙特雷大广场酒店 举办",
+  "url": "https://thwiki.cc/TouhouTech#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3371086a6941ce54a4b471b420919098736e8178c26cd8615e0cff2bee047f61",
+  "location": {
+    "type": "google",
+    "text": "墨西哥 蒙特雷 蒙特雷大广场酒店",
+    "entity": [
+      {
+        "id": "ChIJBffI7yu-YoYRIle_B5Sdf9U",
+        "addressLine1": "大广场",
+        "addressLine2": "メキシコ ヌエボ・レオン モンテレイ セントロ",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhoutech-8"
+}

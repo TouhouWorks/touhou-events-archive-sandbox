@@ -1,0 +1,30 @@
+{
+  "start": 1424476800,
+  "end": 1424476800,
+  "title": "東方合同祭事参",
+  "desc": "东方合同祭事叁 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%88%E5%90%8C%E7%A5%AD%E4%BA%8B#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d3b9b7875ab227cde2d70b0e452d00dae8f6f312fd2e9947a850e3c0f58d7480",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方合同祭事-2"
+}

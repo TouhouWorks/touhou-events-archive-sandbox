@@ -1,0 +1,19 @@
+{
+  "start": 1335744000,
+  "end": 1335744000,
+  "title": "YACA36",
+  "desc": "YACA36 于 广州市 中洲国际展览中心 举办",
+  "url": "https://thwiki.cc/YACA#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c67461bf0c9c6d89a8785baff3a221186ac403ced9abefbcc2ba73203f7b1b50",
+  "location": {
+    "type": "google",
+    "text": "广州市 中洲国际展览中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "yaca-15"
+}

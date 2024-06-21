@@ -1,0 +1,32 @@
+{
+  "start": 1608940800,
+  "end": 1608940800,
+  "title": "东方LiveParty南京·东方PartyNight",
+  "desc": "东方LiveParty南京·东方PartyNight 于 南京 MONOHOUSE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-32",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0f0735a51d52850ff070de119a5f7a7c78780dd3a653d07a104ec8ae3f8f1a1e",
+  "location": {
+    "type": "google",
+    "text": "南京 MONOHOUSE",
+    "entity": [
+      {
+        "id": "ChIJp_TqHpuMtTUR-jtADzNYpmw",
+        "addressLine1": "ｍｏｎｏｈｏｕｓｅ",
+        "addressLine2": "中華人民共和国 南京 鼓楼区",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-32"
+}

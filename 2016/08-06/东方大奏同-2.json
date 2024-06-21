@@ -1,0 +1,32 @@
+{
+  "start": 1470441600,
+  "end": 1470441600,
+  "title": "東方大奏同2",
+  "desc": "东方大奏同2 于 大阪市浪速区日本桥 KS日本桥大楼 BAR Guild 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A7%E5%A5%8F%E5%90%8C#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "420b510cf9cfdf48e0fad875910770670a83a85ec3532d63033d5c9758d900ce",
+  "location": {
+    "type": "google",
+    "text": "大阪市浪速区日本桥 KS日本桥大楼 BAR Guild",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方大奏同-2"
+}

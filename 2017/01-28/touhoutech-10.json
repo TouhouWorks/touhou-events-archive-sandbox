@@ -1,0 +1,32 @@
+{
+  "start": 1485561600,
+  "end": 1485561600,
+  "title": "TouhouTech 5 Monterrey",
+  "desc": "TouhouTech 5 蒙特雷 于 墨西哥 蒙特雷 蒙特雷大广场酒店 举办",
+  "url": "https://thwiki.cc/TouhouTech#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "39d84f8e3143ab69e0add659b866e992027ac252e8e52287fbf1f0ed7f860d51",
+  "location": {
+    "type": "google",
+    "text": "墨西哥 蒙特雷 蒙特雷大广场酒店",
+    "entity": [
+      {
+        "id": "ChIJBffI7yu-YoYRIle_B5Sdf9U",
+        "addressLine1": "大广场",
+        "addressLine2": "メキシコ ヌエボ・レオン モンテレイ セントロ",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhoutech-10"
+}

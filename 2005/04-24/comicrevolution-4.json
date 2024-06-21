@@ -1,0 +1,84 @@
+{
+  "start": 1114300800,
+  "end": 1114300800,
+  "title": "ComicRevolution37",
+  "desc": "ComicRevolution37 于 东京都 池袋Sunshine City 举办",
+  "url": "https://thwiki.cc/ComicRevolution#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e2876b62280d1213ab5cd1d3b3758973bb4f4f86cadc9034c328dbaa32975715",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋Sunshine City",
+    "entity": [
+      {
+        "id": "ChIJd80kRG6NGGARcp9werbteWQ",
+        "addressLine1": "池袋サンシャインシティアルタ",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−３",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJU9ZPE2-NGGARwiJyx0Id61E",
+        "addressLine1": "池袋サンシャインシティ店",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "shopping_mall",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJp1PmFfCNGGARkSxx8c6E5OA",
+        "addressLine1": "すみっコぐらしショップ 池袋サンシャインシティ店",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−２",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJhT_wQW-NGGARyeOCR2L-W-I",
+        "addressLine1": "サンシャイン水族館",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "AQUARIUM",
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "aquarium"
+        ]
+      },
+      {
+        "id": "ChIJCUPxU26NGGARmQ_W4QMUlHU",
+        "addressLine1": "ディズニーストア 池袋サンシャインシティアルパ店",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−２",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicrevolution-4"
+}

@@ -1,0 +1,84 @@
+{
+  "start": 1553299200,
+  "end": 1553299200,
+  "title": "CODE-G Vol.3 -MIDNIGHT TOHO MUSIC PARTY-",
+  "desc": "CODE-G Vol.3 -MIDNIGHT TOHO MUSIC PARTY- 于 东京都涩谷区 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/CODE-G#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a8b40ded13e03d6869a77cac545fde3f247340c3dccd148f287b6af907fecbc1",
+  "location": {
+    "type": "google",
+    "text": "东京都涩谷区 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJGfSRvl6LGGAR5GDIDOVf4Bc",
+        "addressLine1": "涩谷",
+        "addressLine2": "日本、東京都渋谷区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ4Rr2JWiLGGARcyRSHuZ-9G8",
+        "addressLine1": "澀谷 SKY",
+        "addressLine2": "日本、東京都渋谷区渋谷２丁目２４−１２",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJv1LdWqiMGGARtLjjcZL2Qsk",
+        "addressLine1": "涩谷LOFT",
+        "addressLine2": "日本、東京都渋谷区宇田川町２１−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "point_of_interest",
+          "store",
+          "HOME_AND_GARDEN",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJK9EM68qLGGARacmu4KJj5SA",
+        "addressLine1": "渋谷スクランブル交差点",
+        "addressLine2": "日本、東京都渋谷区宇田川町２１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJcyH-4qiMGGARGzk4lZCx2xo",
+        "addressLine1": "澀谷PARCO",
+        "addressLine2": "日本、東京都渋谷区宇田川町１５−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "code-g-3"
+}

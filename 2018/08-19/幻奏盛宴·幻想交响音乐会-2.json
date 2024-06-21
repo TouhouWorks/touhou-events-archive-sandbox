@@ -1,0 +1,30 @@
+{
+  "start": 1534636800,
+  "end": 1534636800,
+  "title": "幻奏盛宴·幻想交响音乐会 ～ 锦绣的姑苏迷梦",
+  "desc": "幻奏盛宴·幻想交响音乐会 ～ 锦绣的姑苏迷梦 于 苏州 苏州文化艺术中心 大剧院 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E5%A5%8F%E7%9B%9B%E5%AE%B4%C2%B7%E5%B9%BB%E6%83%B3%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A#ev-2",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dd90accc97f89623013128aaa88fe1a2d6bb7de91ae0e046c4e89d10dffecf94",
+  "location": {
+    "type": "google",
+    "text": "苏州 苏州文化艺术中心 大剧院",
+    "entity": [
+      {
+        "id": "ChIJNbvyaBqmszURtxcbzFEHlaI",
+        "addressLine1": "苏州大剧院",
+        "addressLine2": "中華人民共和国 苏州 呉中区 苏州文化艺术中心文化艺术中心中2F",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻奏盛宴·幻想交响音乐会-2"
+}

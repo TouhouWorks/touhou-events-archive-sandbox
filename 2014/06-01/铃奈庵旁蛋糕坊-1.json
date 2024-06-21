@@ -1,0 +1,62 @@
+{
+  "start": 1401580800,
+  "end": 1401580800,
+  "title": "鈴奈庵旁蛋糕坊1",
+  "desc": "铃奈庵旁蛋糕坊1 于 韩国 SETEC 举办",
+  "url": "https://thwiki.cc/%E9%93%83%E5%A5%88%E5%BA%B5%E6%97%81%E8%9B%8B%E7%B3%95%E5%9D%8A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9782112672a9829d501a0f2162239f94c9b1698f302ac3a5d303dacba723da01",
+  "location": {
+    "type": "google",
+    "text": "韩国 SETEC",
+    "entity": [
+      {
+        "id": "ChIJT9QeqTqkfDUR-Rg-NI8_9No",
+        "addressLine1": "SETEC",
+        "addressLine2": "大韓民国 ソウル 江南区 Nambusunhwan-ro",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJM4-FozqkfDURl-kQSd1qbJE",
+        "addressLine1": "SETEC주차장",
+        "addressLine2": "大韓民国 ソウル 江南区 テチドン",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJ3zlJguTGfDURAODkgJhvUEQ",
+        "addressLine1": "SETEC",
+        "addressLine2": "ウィジョンブ市 大韓民国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJBfFmQi9hezURFt-ToFOBzcE",
+        "addressLine1": "에스이테크놀로지(주)",
+        "addressLine2": "大韓民国 ソウル クムチョン区 Digital-ro, 에이스가산타워",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "铃奈庵旁蛋糕坊-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1647129600,
+  "end": 1647129600,
+  "title": "東方樂祭 2022 in 池袋MONO",
+  "desc": "东方乐祭 2022 in 池袋MONO 于 东京都 池袋MONO 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-71",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cb6bec2c6e3aebf382468eb39fc3db7b7630c844c9127e928d204403d5ac198c",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋MONO",
+    "entity": [
+      {
+        "id": "ChIJVVUUyWmNGGARrRk80gajvLs",
+        "addressLine1": "池袋 LiveHouse mono",
+        "addressLine2": "日本、東京都豊島区南池袋３丁目１３−１７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-71"
+}

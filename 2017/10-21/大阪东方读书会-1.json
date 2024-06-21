@@ -1,0 +1,30 @@
+{
+  "start": 1508544000,
+  "end": 1508544000,
+  "title": "第一回大阪東方読書会",
+  "desc": "第一回大阪东方读书会 于 大阪市立阿倍野区民中心 1层 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E9%98%AA%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1dbfcbf3e1bc2a0f484de9759528ff3bc581ff3e51db4a57786a1adc193a59a3",
+  "location": {
+    "type": "google",
+    "text": "大阪市立阿倍野区民中心 1层",
+    "entity": [
+      {
+        "id": "ChIJF1ibI-zdAGARQHKYdTxFTU4",
+        "addressLine1": "阿倍野區民中心",
+        "addressLine2": "日本、大阪府大阪市阿倍野区阿倍野筋４丁目１９−１１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大阪东方读书会-1"
+}

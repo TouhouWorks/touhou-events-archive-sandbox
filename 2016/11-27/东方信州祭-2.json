@@ -1,0 +1,19 @@
+{
+  "start": 1480204800,
+  "end": 1480204800,
+  "title": "東方信州祭第2幕",
+  "desc": "东方信州祭第2幕 于 松本站前会馆 4层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BF%A1%E5%B7%9E%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "35a7ff82ec2880d068c07d03c9d2a36bb283cc7f13fd15e21ff554ee7e972c63",
+  "location": {
+    "type": "google",
+    "text": "松本站前会馆 4层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方信州祭-2"
+}

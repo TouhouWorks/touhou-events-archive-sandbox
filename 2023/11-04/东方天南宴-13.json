@@ -1,0 +1,19 @@
+{
+  "start": 1699056000,
+  "end": 1699056000,
+  "title": "东方天南宴13",
+  "desc": "东方天南宴13 于 天津市派对城梵星汇别墅轰趴双港店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-13",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "14dc173ce4ba5380feb9f91f53e1b838466065a328491e6fbeec8ec8ce107b88",
+  "location": {
+    "type": "google",
+    "text": "天津市派对城梵星汇别墅轰趴双港店",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方天南宴-13"
+}

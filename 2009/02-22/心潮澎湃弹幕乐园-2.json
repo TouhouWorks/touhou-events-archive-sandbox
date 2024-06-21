@@ -1,0 +1,30 @@
+{
+  "start": 1235260800,
+  "end": 1235260800,
+  "title": "わくわく弾幕ランド ～she gets high～",
+  "desc": "心潮澎湃弹幕乐园 ~she gets high~ 于 爱知县 名古屋 CLUB QUATTRO 举办",
+  "url": "https://thwiki.cc/%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83%E5%BC%B9%E5%B9%95%E4%B9%90%E5%9B%AD#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1750904b4262399f5076b608c64f7d8d2ce17882a5a269f6a97379785824c3eb",
+  "location": {
+    "type": "google",
+    "text": "爱知县 名古屋 CLUB QUATTRO",
+    "entity": [
+      {
+        "id": "ChIJidPxe85wA2ARMgcXIo30l4Q",
+        "addressLine1": "名古屋CLUB QUATTRO",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目２９−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "心潮澎湃弹幕乐园-2"
+}

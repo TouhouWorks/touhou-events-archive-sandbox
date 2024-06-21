@@ -1,0 +1,66 @@
+{
+  "start": 1408060800,
+  "end": 1408060800,
+  "title": "Far East \"JAMMING\" Night2",
+  "desc": "Far East \"JAMMING\" Night2 于 东京都 三轩茶屋 GrapefruiteMoon 举办",
+  "url": "https://thwiki.cc/Far_East_%22JAMMING%22_Night#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "515e65e6cc4ff2ba3da564043b996b30e6d750f4e73f09c630f2f201ead413bd",
+  "location": {
+    "type": "google",
+    "text": "东京都 三轩茶屋 GrapefruiteMoon",
+    "entity": [
+      {
+        "id": "ChIJ-R4jJ5n0GGAR5j_HSqAxKcw",
+        "addressLine1": "三轩茶屋",
+        "addressLine2": "日本、東京都世田谷区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "Ekfml6XmnKzjgIHmnbHkuqzpg73muIvosLfljLrkuInou5LojLblsYvvvJHvvJUg6aaW6YO96auY6YCfM-WPt-a4i-iwt-e3miIuKiwKFAoSCU0Ij5uv9BhgEQX1SQeiroXYEhQKEgnfk1AzVIsYYBFV8RJ3EV-vVA",
+        "addressLine1": "首都高速3号渋谷線",
+        "addressLine2": "日本、東京都渋谷区三軒茶屋１５",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ6W5y-aH0GGARTdd2-4qF-9U",
+        "addressLine1": "三轩茶屋",
+        "addressLine2": "日本、東京都世田谷区太子堂２丁目１５",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJudleLZ_0GGARmqqfSt9agwY",
+        "addressLine1": "カラオケまねきねこ 三軒茶屋店",
+        "addressLine2": "日本、東京都世田谷区三軒茶屋２丁目１０−１３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "far-east-\"jamming\"-night-2"
+}

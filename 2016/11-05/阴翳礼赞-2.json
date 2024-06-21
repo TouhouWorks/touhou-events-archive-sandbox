@@ -1,0 +1,79 @@
+{
+  "start": 1478304000,
+  "end": 1478304000,
+  "title": "陰翳礼讃vol.2",
+  "desc": "阴翳礼赞vol.2 于 名古屋市 栄SOUND BAR MiRAi 举办",
+  "url": "https://thwiki.cc/%E9%98%B4%E7%BF%B3%E7%A4%BC%E8%B5%9E#ev-2",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e49182ada95d421c75ce53a1969bfc9b5644c00d612eb0a56b1bfebe9405e97c",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 栄SOUND BAR MiRAi",
+    "entity": [
+      {
+        "id": "ChIJE9TijcVxA2ARGXqBS96_P6g",
+        "addressLine1": "SoundBar emanon",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目１−１８",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJGZ5oNZNxA2AR1Bz1VypJvik",
+        "addressLine1": "MIRAI NAGOYA",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目３−１５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJm-yXLpF3A2ARioUUM18RhuU",
+        "addressLine1": "Miraieリフォーム",
+        "addressLine2": "日本、愛知県名古屋市中区栄２丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9asI6SNxA2ARwYv3Wc_VaZE",
+        "addressLine1": "株式会社MIRAI HOME",
+        "addressLine2": "日本、愛知県名古屋市中区栄２丁目４−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJb0t_tcx3A2ARYpnREN14rGQ",
+        "addressLine1": "Neo和Dining MiRAI 和食居酒屋 海鮮 日本酒",
+        "addressLine2": "日本、愛知県名古屋市中区栄２丁目１−１６",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "阴翳礼赞-2"
+}

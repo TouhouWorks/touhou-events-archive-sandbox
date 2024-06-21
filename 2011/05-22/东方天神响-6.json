@@ -1,0 +1,38 @@
+{
+  "start": 1306022400,
+  "end": 1306022400,
+  "title": "第5回 東方天神響",
+  "desc": "第5回 东方天神响 于 福岡Yahuoku!巨蛋 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A5%9E%E5%93%8D#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1cc13b33726225f1433855ce4b5d334b79b18f8a8e8711d1cb40062292c19637",
+  "location": {
+    "type": "google",
+    "text": "福岡Yahuoku!巨蛋",
+    "entity": [
+      {
+        "id": "ChIJS7bmAk2SQTURwlTt0njZnLc",
+        "addressLine1": "福岡PayPay巨蛋",
+        "addressLine2": "日本、福岡県福岡市中央区地行浜２丁目２−２",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "CHURCH",
+          "place_of_worship",
+          "church",
+          "stadium",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方天神响-6"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1417305600,
+  "end": 1417305600,
+  "title": "東方神星花1",
+  "desc": "东方神星花1 于 名古屋市国际展示场 活动馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%9E%E6%98%9F%E8%8A%B1#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e31838edd94a421e517aab6ad153e3f3ea09df530d8ac55fba81e0003415c9fa",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 活动馆",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方神星花-1"
+}

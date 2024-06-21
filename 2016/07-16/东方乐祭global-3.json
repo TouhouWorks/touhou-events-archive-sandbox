@@ -1,0 +1,31 @@
+{
+  "start": 1468627200,
+  "end": 1468627200,
+  "title": "東方樂祭Global 2016 in China 北京站",
+  "desc": "东方乐祭Global 2016 in China 北京站 于 北京市 北京光耀东方国贸国际会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-3",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1336038c3685208882bd6e58144a90bd693e92fa57739bce56a6081623e89c83",
+  "location": {
+    "type": "google",
+    "text": "北京市 北京光耀东方国贸国际会展中心",
+    "entity": [
+      {
+        "id": "ChIJM9gNiAhO8DUR3et5lSj2KuI",
+        "addressLine1": "国贸国际会展中心",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Yangfangdian Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭global-3"
+}

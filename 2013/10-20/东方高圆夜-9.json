@@ -1,0 +1,32 @@
+{
+  "start": 1382227200,
+  "end": 1382227200,
+  "title": "東方高円夜9",
+  "desc": "东方高圆夜9 于 东京都 药酒Bar高圆寺 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%AB%98%E5%9C%86%E5%A4%9C#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0974bea8da5934a2a944cc521a1af44bbc3721b6ff472279fde73038f43cb101",
+  "location": {
+    "type": "google",
+    "text": "东京都 药酒Bar高圆寺",
+    "entity": [
+      {
+        "id": "ChIJ-8GMJnzyGGARQAC93s1A48o",
+        "addressLine1": "Bar",
+        "addressLine2": "３丁目-１６-２ 高円寺北 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方高圆夜-9"
+}

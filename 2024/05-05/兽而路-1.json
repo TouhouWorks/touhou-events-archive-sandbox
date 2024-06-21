@@ -1,0 +1,32 @@
+{
+  "start": 1714867200,
+  "end": 1714867200,
+  "title": "獣而路 vol.1",
+  "desc": "兽而路 vol.1 于 东京都 小岩BUSHBASH 举办",
+  "url": "https://thwiki.cc/%E5%85%BD%E8%80%8C%E8%B7%AF#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5c3169d08ee21bf72cd12e175546ad8d801feb3ad54d93aca232ef6d8578d47e",
+  "location": {
+    "type": "google",
+    "text": "东京都 小岩BUSHBASH",
+    "entity": [
+      {
+        "id": "ChIJR7qqxneGGGARWy6ZnLWh_TA",
+        "addressLine1": "小岩ブッシュバッシュ",
+        "addressLine2": "日本、東京都江戸川区南小岩７丁目２８−１１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "兽而路-1"
+}

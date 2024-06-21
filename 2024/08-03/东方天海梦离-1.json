@@ -1,0 +1,74 @@
+{
+  "start": 1722643200,
+  "end": 1722643200,
+  "title": "东方天海梦离1",
+  "desc": "东方天海梦离1 于 烟台 毓璜顶宾馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E6%B5%B7%E6%A2%A6%E7%A6%BB#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eea06de7940578947be76f514ccc9a951e8f4f6cd162bb933de6be8c6caa3d07",
+  "location": {
+    "type": "google",
+    "text": "烟台 毓璜顶宾馆",
+    "entity": [
+      {
+        "id": "ChIJ66zzyZZjkDURIX64ZPQ8IYc",
+        "addressLine1": "烟台毓璜顶宾馆",
+        "addressLine2": "中華人民共和国 山東省 煙台市 芝罘区 毓璜顶西路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJEeOTupZjkDURtk8TCexzNIY",
+        "addressLine1": "毓璜顶宾馆－毓苑厅",
+        "addressLine2": "中華人民共和国 烟台 芝罘区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJV902ypZjkDUR62C46sKRntY",
+        "addressLine1": "毓璜顶宾馆",
+        "addressLine2": "中華人民共和国 山東省 烟台 芝罘区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJB8Mou5ZjkDURtUK-DmaHr4I",
+        "addressLine1": "毓璜顶宾馆－毓苑厅",
+        "addressLine2": "中華人民共和国 山東省 烟台 芝罘区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ_-5iypZjkDURJhl9dy_nWuo",
+        "addressLine1": "毓璜顶宾馆停车场",
+        "addressLine2": "中華人民共和国 山東省 烟台 芝罘区 Yuhuangding West Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方天海梦离-1"
+}

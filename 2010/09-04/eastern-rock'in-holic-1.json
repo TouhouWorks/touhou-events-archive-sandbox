@@ -1,0 +1,57 @@
+{
+  "start": 1283558400,
+  "end": 1283558400,
+  "title": "eastern rock'in holic 1",
+  "desc": "eastern rock&#39;in holic 1 于 名古屋市 荣MUJICA 举办",
+  "url": "https://thwiki.cc/eastern_rock%27in_holic#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "692328aecb73976697bcbb7b2062589cb8a6fdcde3f603a5d3a4b03ce418ebbd",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 荣MUJICA",
+    "entity": [
+      {
+        "id": "ChIJr0q0YtZwA2ARnNGv0bjT9iE",
+        "addressLine1": "栄MUJICA",
+        "addressLine2": "日本、愛知県名古屋市中区錦３丁目６−１５",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
+        "addressLine1": "名古屋市",
+        "addressLine2": "日本、愛知県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJO9BXow96A2ARfYheCZ3ya1c",
+        "addressLine1": "名古屋市体育館",
+        "addressLine2": "日本、愛知県名古屋市熱田区六野２丁目５−３",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "eastern-rock'in-holic-1"
+}

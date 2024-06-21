@@ -1,0 +1,19 @@
+{
+  "start": 1656201600,
+  "end": 1656201600,
+  "title": "東方椰麟祭 第十二幕",
+  "desc": "东方椰麟祭 第十二幕 于 广岛县立广岛产业会馆 西展示场 1层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A4%B0%E9%BA%9F%E7%A5%AD#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fa3b85b49b57f2efc3ee5e15a62215648fbca2320084d389f0e5a8b8c458c500",
+  "location": {
+    "type": "google",
+    "text": "广岛县立广岛产业会馆 西展示场 1层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方椰麟祭-12"
+}

@@ -1,0 +1,34 @@
+{
+  "start": 1517616000,
+  "end": 1517616000,
+  "title": "魔法の夜の混沌祭8",
+  "desc": "魔法之夜混沌祭8 于 莺谷Studio 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E6%B3%95%E4%B9%8B%E5%A4%9C%E6%B7%B7%E6%B2%8C%E7%A5%AD#ev-8",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "807c982af53e6d109437aa7ace0255701a29384d12195ee44f51109e6a779720",
+  "location": {
+    "type": "google",
+    "text": "莺谷Studio",
+    "entity": [
+      {
+        "id": "ChIJuxgHdoSOGGARO0jsadkzv_A",
+        "addressLine1": "莺谷",
+        "addressLine2": "日本、東京都台東区根岸１丁目４",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魔法之夜混沌祭-8"
+}

@@ -1,0 +1,99 @@
+{
+  "start": 1306022400,
+  "end": 1306022400,
+  "title": "東方夢追戦 -第三章-",
+  "desc": "东方梦追战 -第三章- 于 札幌市 alife sapporo 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E8%BF%BD%E6%88%98#ev-3",
+  "type": [
+    "夜店舞会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ba3ceecfa5618ae217eb57dd24fa147cd1ee8721fd920901bad7cd79ad4376e1",
+  "location": {
+    "type": "google",
+    "text": "札幌市 alife sapporo",
+    "entity": [
+      {
+        "id": "ChIJDzkt7espC18R7JoceaBT2SM",
+        "addressLine1": "SAPPORO STREAM HOTEL",
+        "addressLine2": "日本、北海道札幌市中央区南４条西４丁目1−１",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJO9pVtj0vC18ROxsFLOO337o",
+        "addressLine1": "Sapporo-Okadama Airport (OKD)",
+        "addressLine2": "丘珠町 東区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJHXj30Z0pC18RVn4iPTDF3ns",
+        "addressLine1": "Sapporo Grand Hotel",
+        "addressLine2": "４丁目 北１条西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "CAFE",
+          "bakery",
+          "restaurant",
+          "establishment",
+          "store",
+          "food",
+          "HOTEL",
+          "meal_takeaway",
+          "bar",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "BAR",
+          "BAKERY",
+          "RESTAURANT",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE"
+        ]
+      },
+      {
+        "id": "ChIJ0fYsL4QpC18Ry-fF7_rGYBM",
+        "addressLine1": "Sapporo Beer Museum",
+        "addressLine2": "９丁目-１-１ 北７条東 東区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJo5eDnQMpC18RixwdzkIeMv8",
+        "addressLine1": "SAPPORO餃子製造所 狸小路店",
+        "addressLine2": "日本、北海道札幌市中央区南２条西５丁目１１−３",
+        "provider": "google_places",
+        "categories": [
+          "meal_takeaway",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方梦追战-3"
+}

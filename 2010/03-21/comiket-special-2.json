@@ -1,0 +1,19 @@
+{
+  "start": 1269129600,
+  "end": 1269129600,
+  "title": "Comiket Special 5 in 水戸",
+  "desc": "Comiket Special 5 in 水户 于 水户市 伊势甚泉町北建筑物（旧京成百货店） 举办",
+  "url": "https://thwiki.cc/Comiket_Special#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce447f3d75654b1acc15088edb356fc93494259773cae1da9740e4cbaf1c15aa",
+  "location": {
+    "type": "google",
+    "text": "水户市 伊势甚泉町北建筑物（旧京成百货店）",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comiket-special-2"
+}

@@ -1,0 +1,78 @@
+{
+  "start": 1658620800,
+  "end": 1658620800,
+  "title": "東方幻奏祭vol.⑨",
+  "desc": "东方幻奏祭vol.⑨ 于 VRCHAT World CLUB COLOR 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E5%A5%8F%E7%A5%AD#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aa86b9538a54df9ad03de60f3a46874cea7c63a2fd309d6104fa444308e0c6e7",
+  "location": {
+    "type": "google",
+    "text": "VRCHAT World CLUB COLOR",
+    "entity": [
+      {
+        "id": "ChIJmZduMcgFxpQRSmZoNgA2n-g",
+        "addressLine1": "world club oficial",
+        "addressLine2": "Rafard - サン・パウロ ブラジル",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJx1MCxGpG1ZERWWEKlfnqXP8",
+        "addressLine1": "World Technology",
+        "addressLine2": "サント・ドミンゴ エクアドル",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "Ej1DbHViIFJvYWQsIOOCueOCv-ODvOODquODs-OCsCBDb2xvcmFkbywg44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9Ii4qLAoUChIJs6CQC7_zcYcR7JgqLgY-COgSFAoSCTWBBYwP83GHEaZNOVy5-XoK",
+        "addressLine1": "Club Road",
+        "addressLine2": "スターリング Colorado, アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ7zNhvPG0bocRCzrdbQ5qIvw",
+        "addressLine1": "RV World LLC",
+        "addressLine2": "Lone Tree Ln, Nunn, Colorado, アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "car_dealer",
+          "CAR_DEALER",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "EjtDbHViIFBsYWNlLCDjg6vjgqTjgrnjg5Pjg6sgQ29sb3JhZG8sIOOCouODoeODquOCq-WQiOihhuWbvSIuKiwKFAoSCZVo1YE082uHEXs_Z0tR-FX3EhQKEgm5yRFlT4trhxFI4s8gMjW_oA",
+        "addressLine1": "Club Place",
+        "addressLine2": "ルイスビル Colorado, アメリカ合衆国",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幻奏祭-9"
+}

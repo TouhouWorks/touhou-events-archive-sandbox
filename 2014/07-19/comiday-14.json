@@ -1,0 +1,19 @@
+{
+  "start": 1405728000,
+  "end": 1405728000,
+  "title": "COMIDAY14",
+  "desc": "COMIDAY14 于 成都市 世纪城新国际会展中心 9号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "982f0c0549368256e5dabf431d23fc127ee6bb53f9680ade35d00bdae59fa6f6",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 9号馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comiday-14"
+}

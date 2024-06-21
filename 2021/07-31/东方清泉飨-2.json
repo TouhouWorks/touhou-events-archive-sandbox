@@ -1,0 +1,19 @@
+{
+  "start": 1627689600,
+  "end": 1627689600,
+  "title": "東方清泉飨2",
+  "desc": "东方清泉飨2 于 济南 战术熊猫Panda Q Arena 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%85%E6%B3%89%E9%A3%A8#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "037c8233b98bbffcf3f87ad39f56c2aba3e699c35c54c8cc22b29e83fd053dc9",
+  "location": {
+    "type": "google",
+    "text": "济南 战术熊猫Panda Q Arena",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方清泉飨-2"
+}

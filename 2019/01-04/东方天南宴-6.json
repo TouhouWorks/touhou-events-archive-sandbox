@@ -1,0 +1,30 @@
+{
+  "start": 1546560000,
+  "end": 1546560000,
+  "title": "东方天南宴6",
+  "desc": "东方天南宴6 于 天津哈尔滨道考恩咖啡馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-6",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bcef4efa5f6e672518ac5c9fbdc6ae0c08be87255f49e07bc0482809297e7e0d",
+  "location": {
+    "type": "google",
+    "text": "天津哈尔滨道考恩咖啡馆",
+    "entity": [
+      {
+        "id": "EjPkuK3oj6_kurrmsJHlhbHlkozlm70g5aSp5rSlIOWSjOW5s-WMuiDlk4jlsJTmu6jpgZMiLiosChQKEgljMZ6fu_3tNRF9GIXFhyyfChIUChIJNcSgYqH97TURNB3gHj7TYl4",
+        "addressLine1": "哈尔滨道",
+        "addressLine2": "中華人民共和国 天津 和平区",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方天南宴-6"
+}

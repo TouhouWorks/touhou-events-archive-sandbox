@@ -1,0 +1,30 @@
+{
+  "start": 1707004800,
+  "end": 1707004800,
+  "title": "非合理論理ショー·ニューオーダー",
+  "desc": "非合理论理Show New Order 于 东京都 初台The DOORS 举办",
+  "url": "https://thwiki.cc/%E9%9D%9E%E5%90%88%E7%90%86%E8%AE%BA%E7%90%86Show#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5a4ff49e35919905705f35abf8441015890262ab9304fbf4824bd6bce1819a4e",
+  "location": {
+    "type": "google",
+    "text": "东京都 初台The DOORS",
+    "entity": [
+      {
+        "id": "ChIJE-UjAi7zGGARSpiMoEOsmhU",
+        "addressLine1": "初台DOORS",
+        "addressLine2": "日本、東京都渋谷区本町１丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "非合理论理show-2"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1545436800,
+  "end": 1545436800,
+  "title": "Comic Fiesta 2018",
+  "desc": "Comic Fiesta 2018 于 马来西亚吉隆坡会议中心 举办",
+  "url": "https://thwiki.cc/Comic_Fiesta#ev-17",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "79010f3994786e1bbd88533d2f914744a52b95ba6021c43e7308ddb6034f5b5e",
+  "location": {
+    "type": "google",
+    "text": "马来西亚吉隆坡会议中心",
+    "entity": [
+      {
+        "id": "ChIJ__zTe9M3zDERtzz3V5s1Bnc",
+        "addressLine1": "吉隆坡会展中心",
+        "addressLine2": "マレーシア クアラ・ルンプル Kuala Lumpur City Centre",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-fiesta-17"
+}

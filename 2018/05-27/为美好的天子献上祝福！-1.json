@@ -1,0 +1,42 @@
+{
+  "start": 1527379200,
+  "end": 1527379200,
+  "title": "この素晴らしい天子に祝福を！1",
+  "desc": "为美好的天子献上祝福！1 于 多治见市产业文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E5%A4%A9%E5%AD%90%E7%8C%AE%E4%B8%8A%E7%A5%9D%E7%A6%8F%EF%BC%81#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "863bf24a0ba9d027921dec1b1adea302a507f78195ae5f955f667bdb2938b85d",
+  "location": {
+    "type": "google",
+    "text": "多治见市产业文化中心",
+    "entity": [
+      {
+        "id": "ChIJG04kAolrA2ARKtbiaSAKujM",
+        "addressLine1": "産業文化センター 駐車場",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJT-SMhHBqA2AR28i5iDgLqK4",
+        "addressLine1": "産業文化センター",
+        "addressLine2": "日本、岐阜県多治見市新町１丁目２３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "为美好的天子献上祝福！-1"
+}

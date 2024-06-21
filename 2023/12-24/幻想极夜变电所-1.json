@@ -1,0 +1,30 @@
+{
+  "start": 1703376000,
+  "end": 1703376000,
+  "title": "幻想极夜变电所1",
+  "desc": "幻想极夜变电所1 于 上海市 普陀区 万代南梦宫上海文化中心 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E6%9E%81%E5%A4%9C%E5%8F%98%E7%94%B5%E6%89%80#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "29233876582458ee830bb43a3bbb8315cafb595052c930bd94d507f1b9114157",
+  "location": {
+    "type": "google",
+    "text": "上海市 普陀区 万代南梦宫上海文化中心",
+    "entity": [
+      {
+        "id": "ChIJKWazf9lvsjURgn7ZwuyAQg8",
+        "addressLine1": "万代南梦宫上海文化中心",
+        "addressLine2": "中華人民共和国 上海市普陀区宜昌路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想极夜变电所-1"
+}

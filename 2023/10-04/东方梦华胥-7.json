@@ -1,0 +1,54 @@
+{
+  "start": 1696377600,
+  "end": 1696377600,
+  "title": "第七届武漢THONLY-楚韵九歌",
+  "desc": "第七届武汉THONLY-楚韵九歌 于 武汉 巴山夜雨大酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A2%A6%E5%8D%8E%E8%83%A5#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "760c93c937e3e4239208a4cbf9c4759b975bb17a89aa3e2f48eb40dbb44488d0",
+  "location": {
+    "type": "google",
+    "text": "武汉 巴山夜雨大酒店",
+    "entity": [
+      {
+        "id": "ChIJ7YCXkomvLjQRosfpqwByPCg",
+        "addressLine1": "巴山夜雨大酒店",
+        "addressLine2": "中華人民共和国 湖北省 武汉 武昌区 民主路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ7ffyjomvLjQRcb3LCO-MGVs",
+        "addressLine1": "巴山夜雨大酒店",
+        "addressLine2": "中華人民共和国 湖北省 武汉 武昌区 街道口",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJZShYwYmvLjQRoACRJrYTadg",
+        "addressLine1": "巴山夜雨大酒店停车场",
+        "addressLine2": "中華人民共和国 湖北省 武汉 武昌区 中南商圈 Minzhu Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方梦华胥-7"
+}

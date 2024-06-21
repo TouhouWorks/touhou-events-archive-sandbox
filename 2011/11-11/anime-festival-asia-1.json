@@ -1,0 +1,42 @@
+{
+  "start": 1320969600,
+  "end": 1320969600,
+  "title": "Anime Festival Asia 2011 Singapore",
+  "desc": "Anime Festival Asia 2011 Singapore 于 新加坡 新达城新加坡国际会议展览中心 举办",
+  "url": "https://thwiki.cc/Anime_Festival_Asia#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2d4083bb6f47f294820f7065798228a09d47202f426c99d297a99ab63566f67a",
+  "location": {
+    "type": "google",
+    "text": "新加坡 新达城新加坡国际会议展览中心",
+    "entity": [
+      {
+        "id": "ChIJ20X__K4Z2jERRE8GRs-d8HE",
+        "addressLine1": "新达城",
+        "addressLine2": "シンガポール 新加坡 Temasek Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJ8yvdOK8Z2jERx1TP2rKMPtY",
+        "addressLine1": "新達城新加坡國際會議展覽中心",
+        "addressLine2": "シンガポール 新加坡 Raffles Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "anime-festival-asia-1"
+}

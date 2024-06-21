@@ -1,0 +1,30 @@
+{
+  "start": 1518220800,
+  "end": 1518220800,
+  "title": "第五次百鬼戦争",
+  "desc": "第五次百鬼战争 于 东京都武藏野市 吉祥寺WARP 举办",
+  "url": "https://thwiki.cc/%E7%99%BE%E9%AC%BC%E6%88%98%E4%BA%89#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "27d44f843a12b5f41c218c1adb952742cff41af8930609aaa723c9f88c84fb0c",
+  "location": {
+    "type": "google",
+    "text": "东京都武藏野市 吉祥寺WARP",
+    "entity": [
+      {
+        "id": "ChIJh1vXkqXvGGAR06kpBZQ-TEw",
+        "addressLine1": "吉祥寺WARP",
+        "addressLine2": "日本、東京都武蔵野市吉祥寺本町１丁目３０−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "百鬼战争-5"
+}

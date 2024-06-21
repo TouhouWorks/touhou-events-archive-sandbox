@@ -1,0 +1,67 @@
+{
+  "start": 1344038400,
+  "end": 1344038400,
+  "title": "様式美大作戦2012",
+  "desc": "样式美大作战2012 于 东京都 目黑LiveStation 举办",
+  "url": "https://thwiki.cc/%E6%A0%B7%E5%BC%8F%E7%BE%8E%E5%A4%A7%E4%BD%9C%E6%88%98#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9dcac33f7c92bdc01b2c69b2b799c6fa79dbda2be935193cd082e5881fafef66",
+  "location": {
+    "type": "google",
+    "text": "东京都 目黑LiveStation",
+    "entity": [
+      {
+        "id": "ChIJUXZQCRyLGGARvGhIW9yx9SE",
+        "addressLine1": "THE LIVE STATION",
+        "addressLine2": "２丁目-１３-３５ 上大崎 品川区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8TUonsz0GGARcxiwpBmNByg",
+        "addressLine1": "目黑区",
+        "addressLine2": "日本、東京都",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJaY_cth6LGGARPkL8dlJKYoU",
+        "addressLine1": "目黑",
+        "addressLine2": "日本、東京都品川区上大崎２丁目１６",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJE-8MdieNGGARJeVbVhmbU9s",
+        "addressLine1": "Yoani Live Station",
+        "addressLine2": "１丁目-１１-３ 大久保 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "样式美大作战-1"
+}

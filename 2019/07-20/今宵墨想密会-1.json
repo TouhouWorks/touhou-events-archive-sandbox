@@ -1,0 +1,30 @@
+{
+  "start": 1563580800,
+  "end": 1563580800,
+  "title": "贵阳THO-今宵墨想密会 ~ Secret Feast in Forest",
+  "desc": "贵阳THO-今宵墨想密会 ~ Secret Feast in Forest 于 贵阳 铂美酒店 5楼会议室 举办",
+  "url": "https://thwiki.cc/%E4%BB%8A%E5%AE%B5%E5%A2%A8%E6%83%B3%E5%AF%86%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ff8a192d3ab1f95931bbed9635c0818cbf7b688b5cc5f187ca122349c3c8b084",
+  "location": {
+    "type": "google",
+    "text": "贵阳 铂美酒店 5楼会议室",
+    "entity": [
+      {
+        "id": "ChIJN3M_98JnvzYROsTl1J4Y98M",
+        "addressLine1": "铂美酒店",
+        "addressLine2": "中華人民共和国 貴州省 贵阳 南明区 Dusi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "今宵墨想密会-1"
+}

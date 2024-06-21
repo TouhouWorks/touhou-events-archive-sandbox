@@ -1,0 +1,72 @@
+{
+  "start": 1436572800,
+  "end": 1436572800,
+  "title": "CR01 夏季毕业祭动漫游园会",
+  "desc": "CR01 夏季毕业祭动漫游园会 于 深圳市 景田文化馆 举办",
+  "url": "https://thwiki.cc/CR#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7eb095cc3dd9ffdf96863a8b53173d07b9d42e7d1a2786f38e5baa45d868a6f2",
+  "location": {
+    "type": "google",
+    "text": "深圳市 景田文化馆",
+    "entity": [
+      {
+        "id": "ChIJv0smEChxBDQRN3iwKHNE7PY",
+        "addressLine1": "深圳市龙岗区文化馆",
+        "addressLine2": "中華人民共和国 広東省 深圳市 竜崗区 龙岗中心城 Longxiang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJD7KqvWILBDQRbRVOfRXc33w",
+        "addressLine1": "盐田区文化馆",
+        "addressLine2": "中華人民共和国 広東省 深圳市 塩田区 Shenyan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ9-PZh7L2AzQRh6LZaZN574Q",
+        "addressLine1": "深圳市福田区文化馆",
+        "addressLine2": "中華人民共和国 広東省 深圳市 福田区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJO-qKfbL2AzQRaq4DLUgAgPY",
+        "addressLine1": "福田区文化馆石厦戏剧主题馆",
+        "addressLine2": "中華人民共和国 広東省 深圳市 福田区 Fuqiang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7RQ3YLL1AzQRnOxvN4g3cPo",
+        "addressLine1": "文化馆地下停车场P27）",
+        "addressLine2": "中華人民共和国 広東省 深圳市 福田区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "cr-1"
+}

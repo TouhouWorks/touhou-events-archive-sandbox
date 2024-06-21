@@ -1,0 +1,19 @@
+{
+  "start": 1502409600,
+  "end": 1502409600,
+  "title": "Comic Market 92",
+  "desc": "Comic Market 92 于 东京都 东京国际展示场 东1-8展厅、西1, 3-4展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-37",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "faa71b1557a043f0591e006b70694c72f7cf820da46c4bfb4f226fc8ebd4ef4a",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-8展厅、西1, 3-4展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-37"
+}

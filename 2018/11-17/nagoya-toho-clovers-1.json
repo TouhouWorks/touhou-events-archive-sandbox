@@ -1,0 +1,52 @@
+{
+  "start": 1542412800,
+  "end": 1542412800,
+  "title": "Nagoya TOHO Clovers2018",
+  "desc": "Nagoya TOHO Clovers2018 于 爱知县名古屋市 Club JB&#39;S 举办",
+  "url": "https://thwiki.cc/Nagoya_TOHO_Clovers#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a6dddbcd08521a3c0cfde34168a57fa4885509c185d728fd205d82a9e9bd3c31",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Club JB&#39;S",
+    "entity": [
+      {
+        "id": "ChIJSdJNa9BwA2AR7vtuAqJv5J0",
+        "addressLine1": "club JB'S",
+        "addressLine2": "４丁目-３-１５ 栄 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "Ejvml6XmnKzjgIHmhJvnn6XnnIzlkI3lj6TlsYvluIJTaG93YSBXYXJkLCDkvIrli53nrKwzOeWPt-e3miIuKiwKFAoSCT3MT5SaegNgEcC-4MFVOdfsEhQKEgnF2Bj1fXoDYBGs25qBPpW-yg",
+        "addressLine1": "伊勝第39号線",
+        "addressLine2": "日本、愛知県名古屋市Showa Ward",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ElPml6XmnKzjgIHmhJvnn6XnnIzlkI3lj6TlsYvluILlrojlsbHljLpTdWlzaMWNZW4sIO-8keS4geebriDlsI_luaHljJflsbHnrKwzOeWPt-e3miIuKiwKFAoSCYsNjbksbgNgEQaUN6wwuQeNEhQKEgmjBucgLW4DYBFyFKPzsNJ7hg",
+        "addressLine1": "小幡北山第39号線",
+        "addressLine2": "日本、愛知県名古屋市守山区Suishōen, １丁目",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "nagoya-toho-clovers-1"
+}

@@ -1,0 +1,76 @@
+{
+  "start": 1361577600,
+  "end": 1361577600,
+  "title": "成都Rainbow Market同人祭6",
+  "desc": "成都Rainbow Market同人祭6 于 成都市 四川科技馆 举办",
+  "url": "https://thwiki.cc/%E6%88%90%E9%83%BDRainbow_Market%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "91451d818413317346c1bf902d76437fcf3ebde3dfa0d4545ed39e490833ef96",
+  "location": {
+    "type": "google",
+    "text": "成都市 四川科技馆",
+    "entity": [
+      {
+        "id": "ChIJcbd50jrF7zYRnytgUX55Sio",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Luomashi, Renmin Middle Road Section 1",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJfXZBzSTF7zYRUQmuR9ZEAHI",
+        "addressLine1": "四川科技馆售票处",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Luomashi, Renmin Middle Road Section 1",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ85DXNjvF7zYR8VirKreGH6s",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Yulin",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJJ0dILjvF7zYR3wQdd18dGhU",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Fuqin",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJDxUmLjvF7zYRJ-6EqTJ7JS0",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Luomashi",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "成都rainbow-market同人祭-6"
+}

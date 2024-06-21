@@ -1,0 +1,40 @@
+{
+  "start": 1345852800,
+  "end": 1345852800,
+  "title": "A Certain Magical Event IV",
+  "desc": "A Certain Magical Event IV 于 新加坡 Singapore Expo Garnet Rooms 举办",
+  "url": "https://thwiki.cc/A_Certain_Magical_Event#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0149bc8ad41d972a9124a9a36158ef439652b717016ad4c9a3409309f264ae92",
+  "location": {
+    "type": "google",
+    "text": "新加坡 Singapore Expo Garnet Rooms",
+    "entity": [
+      {
+        "id": "ChIJgU5qayg92jERoeC9afgWF68",
+        "addressLine1": "新加坡博覽中心",
+        "addressLine2": "シンガポール Singapore, Expo Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJR2iotCk92jER3_zyGnGrqmI",
+        "addressLine1": "Singapore EXPO Meeting Rooms",
+        "addressLine2": "Expo Drive, シンガポール新加坡",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "a-certain-magical-event-4"
+}

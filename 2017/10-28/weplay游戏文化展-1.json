@@ -1,0 +1,52 @@
+{
+  "start": 1509148800,
+  "end": 1509148800,
+  "title": "2017 WePlay游戏文化展",
+  "desc": "2017 WePlay游戏文化展 于 上海光大会展中心 3F 举办",
+  "url": "https://thwiki.cc/WePlay%E6%B8%B8%E6%88%8F%E6%96%87%E5%8C%96%E5%B1%95#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "343bac704b046c76758c2a3d5c5dfdb941b9c9e8675383fd0b6674cc0a4bc2bc",
+  "location": {
+    "type": "google",
+    "text": "上海光大会展中心 3F",
+    "entity": [
+      {
+        "id": "ChIJM9AuBcRksjUR9P2wRgAcE5I",
+        "addressLine1": "光大会展中心",
+        "addressLine2": "中華人民共和国 上海 徐匯区 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJb8_LVcFksjURUTOAmhhhMXc",
+        "addressLine1": "上海光大会展中心（东馆）停车场",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 田林 Xiqin Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJJYIcV8FksjURy8w_jC-kLGU",
+        "addressLine1": "光大会展中心停车场",
+        "addressLine2": "中華人民共和国 上海 徐匯区 田林 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "weplay游戏文化展-1"
+}

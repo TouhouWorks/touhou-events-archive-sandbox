@@ -1,0 +1,32 @@
+{
+  "start": 1627171200,
+  "end": 1627171200,
+  "title": "重庆THP-东方潮天闷1",
+  "desc": "重庆THP-东方潮天闷1 于 重庆市 渝北区红锦大道100号 热橙派对(恒大中渝店) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%BD%AE%E5%A4%A9%E9%97%B7#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "51b5b4948f7a2512e8f903bfc206a0cfb543f8d0eb2a52dde48db897f5902fc4",
+  "location": {
+    "type": "google",
+    "text": "重庆市 渝北区红锦大道100号 热橙派对(恒大中渝店)",
+    "entity": [
+      {
+        "id": "ChIJB1NCOcbM7DYRSYc8RGlfsko",
+        "addressLine1": "恒大中渝广场",
+        "addressLine2": "中華人民共和国 重庆市渝北区 100, 红锦大道",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方潮天闷-1"
+}

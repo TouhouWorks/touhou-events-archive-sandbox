@@ -1,0 +1,19 @@
+{
+  "start": 1490400000,
+  "end": 1490400000,
+  "title": "す～ぱ～東方せとうち音楽祭2",
+  "desc": "超~级~东方濑户内音乐祭2 于 松山市综合社区中心 企划展示厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%BF%91%E6%88%B7%E5%86%85%E9%9F%B3%E4%B9%90%E7%A5%AD#ev-5",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3f1efd60626668326f151bbfdaa1cd04237c34042ca78d27207663257b6a9ef0",
+  "location": {
+    "type": "google",
+    "text": "松山市综合社区中心 企划展示厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方濑户内音乐祭-5"
+}

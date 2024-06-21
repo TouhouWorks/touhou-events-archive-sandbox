@@ -1,0 +1,30 @@
+{
+  "start": 1315008000,
+  "end": 1315008000,
+  "title": "東方因幡祭1",
+  "desc": "东方因幡祭1 于 米子会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%9B%A0%E5%B9%A1%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "11077a02ca5145c2e8f3801eafc5b628fc58a8aa183443c68194eafe2dfd6983",
+  "location": {
+    "type": "google",
+    "text": "米子会议中心",
+    "entity": [
+      {
+        "id": "ChIJ3-ZYHnz3VjURi63WzCBc2uY",
+        "addressLine1": "米子會議中心",
+        "addressLine2": "日本、鳥取県米子市末広町２９４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方因幡祭-1"
+}

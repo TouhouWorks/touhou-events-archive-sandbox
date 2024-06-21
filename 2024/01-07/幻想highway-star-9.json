@@ -1,0 +1,70 @@
+{
+  "start": 1704585600,
+  "end": 1704585600,
+  "title": "幻想ハイウェイスター Gear 9th ~新年会KARAOKE Edition~",
+  "desc": "幻想Highway Star Gear 9th ~新年会KARAOKE Edition~ 于 仙台市 カラオケまねきねこ 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Highway_Star#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0a8b9c1fbde8220cabd4e5a4272855d252f0d0bb8ccf5f8b1a848fd8f8b80853",
+  "location": {
+    "type": "google",
+    "text": "仙台市 カラオケまねきねこ",
+    "entity": [
+      {
+        "id": "ChIJ3TBlqSIoil8RV50GhAmpfuU",
+        "addressLine1": "カラオケまねきねこ 仙台駅前店",
+        "addressLine2": "日本、宮城県仙台市青葉区中央３丁目６−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJeVSZ4pImil8R6lIED37B_aY",
+        "addressLine1": "カラオケまねきねこ 仙台中田店",
+        "addressLine2": "日本、宮城県仙台市太白区中田４丁目９−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJL413wMqGiV8Rbs1bF9FEh1A",
+        "addressLine1": "カラオケまねきねこ 仙台市名坂店",
+        "addressLine2": "日本、宮城県仙台市泉区市名坂窪田２０−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJF4wHqCIoil8RWJjAlZJ6vNc",
+        "addressLine1": "カラオケまねきねこ 仙台駅前２号店",
+        "addressLine2": "日本、宮城県仙台市青葉区中央３丁目６−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJW4NZoecpil8RzBnW5nY7p-4",
+        "addressLine1": "カラオケまねきねこ 仙台名掛丁店",
+        "addressLine2": "日本、宮城県仙台市青葉区中央１丁目８−２６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想highway-star-9"
+}

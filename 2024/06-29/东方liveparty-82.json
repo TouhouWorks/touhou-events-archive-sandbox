@@ -1,0 +1,32 @@
+{
+  "start": 1719619200,
+  "end": 1719619200,
+  "title": "东方LiveParty×安徽THO4·隙间皖韵之梦",
+  "desc": "东方LiveParty×安徽THO4·隙间皖韵之梦 于 安徽省 合肥市 蜀山区 背影骑士LiveHouse 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-82",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8c5d7db1921a3094b6780fa8243b9aafc9158c046d73f0b4f30054ae6b34d123",
+  "location": {
+    "type": "google",
+    "text": "安徽省 合肥市 蜀山区 背影骑士LiveHouse",
+    "entity": [
+      {
+        "id": "ChIJc0EOltlfyzURsBx83PpzlsM",
+        "addressLine1": "背影骑士",
+        "addressLine2": "中華人民共和国 合肥市蜀山区",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-82"
+}

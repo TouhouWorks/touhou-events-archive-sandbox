@@ -1,0 +1,32 @@
+{
+  "start": 1351987200,
+  "end": 1351987200,
+  "title": "MUSIC COMMUNICATION 6",
+  "desc": "MUSIC COMMUNICATION 6 于 京都市劝业馆 举办",
+  "url": "https://thwiki.cc/MUSIC_COMMUNICATION#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cd3352b568f13cc119c5608ac7d77ef16e75ad0f02621482f5677dc60891b17c",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勸業館 Miyako Messe",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "music-communication-6"
+}

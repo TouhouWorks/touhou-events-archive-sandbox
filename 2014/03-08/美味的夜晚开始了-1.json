@@ -1,0 +1,43 @@
+{
+  "start": 1394236800,
+  "end": 1394236800,
+  "title": "おいしく始まらナイト vol.2",
+  "desc": "美味的夜晚开始了 vol.2 于 神奈川县横须贺市 REVERB SOUND 举办",
+  "url": "https://thwiki.cc/%E7%BE%8E%E5%91%B3%E7%9A%84%E5%A4%9C%E6%99%9A%E5%BC%80%E5%A7%8B%E4%BA%86#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aa1123de5d5cb2603aed6ab638a6a702480b1549a8f81d36475c7fce081664b2",
+  "location": {
+    "type": "google",
+    "text": "神奈川县横须贺市 REVERB SOUND",
+    "entity": [
+      {
+        "id": "ChIJcai9Ac4_GGAR6F_jciwzWEI",
+        "addressLine1": "リバーブサウンドスタジオ",
+        "addressLine2": "日本、神奈川県横須賀市根岸町４丁目２４−２１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJV56GCpc_GGARP2fZpDHiIFI",
+        "addressLine1": "横须贺市",
+        "addressLine2": "日本、神奈川県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "美味的夜晚开始了-1"
+}

@@ -1,0 +1,77 @@
+{
+  "start": 1688169600,
+  "end": 1688169600,
+  "title": "东方Project×仙台站前EBeanS 「博丽神社～夏之祭2023」",
+  "desc": "东方Project×仙台站前EBeanS 「博丽神社～夏之祭2023」 于 宫城县仙台市青叶区中央4丁目1-1 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Project%C3%97%E7%99%BE%E8%B4%A7%E5%95%86%E5%9C%BA%E6%B4%BB%E5%8A%A8#ev-52",
+  "type": [
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6e26d42f34cde7c818cd4bbda1040ee196d27140bf584033c2abe184f30ad3ac",
+  "location": {
+    "type": "google",
+    "text": "宫城县仙台市青叶区中央4丁目1-1",
+    "entity": [
+      {
+        "id": "ChIJo5Q6ihcoil8RKU_qtV66i_Y",
+        "addressLine1": "100円ショップ ワッツ 仙台駅前イービーンズ店",
+        "addressLine2": "日本、宮城県仙台市青葉区中央４丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "furniture_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJIY7mmfMpil8Rr-Q8ZhQ13XQ",
+        "addressLine1": "QB HOUSE イービーンズ店",
+        "addressLine2": "日本、宮城県仙台市青葉区中央４丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJAaRSIBgoil8Rct0MqsinofI",
+        "addressLine1": "七十七銀行本店営業部イービーンズ出張所",
+        "addressLine2": "日本、宮城県仙台市青葉区中央４丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "BANKING_AND_FINANCE",
+          "establishment",
+          "ATM",
+          "atm",
+          "point_of_interest",
+          "finance"
+        ]
+      },
+      {
+        "id": "ChIJY7AcoPApil8RVhu7YytQtPQ",
+        "addressLine1": "シェアオフィス FIRST BASE（ファーストベース） 仙台駅前",
+        "addressLine2": "日本、宮城県仙台市青葉区中央４丁目１−２６",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方project×百货商场活动-52"
+}

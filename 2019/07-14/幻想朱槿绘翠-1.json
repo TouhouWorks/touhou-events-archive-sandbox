@@ -1,0 +1,20 @@
+{
+  "start": 1563062400,
+  "end": 1563062400,
+  "title": "幻想朱槿绘翠1",
+  "desc": "幻想朱槿绘翠1 于 南宁 溪谷轰趴馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E6%9C%B1%E6%A7%BF%E7%BB%98%E7%BF%A0#ev-1",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9b5db45f6c9caed0b7191cbaab55052b03928207bfb7289dd859325b011dc362",
+  "location": {
+    "type": "google",
+    "text": "南宁 溪谷轰趴馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "幻想朱槿绘翠-1"
+}

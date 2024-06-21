@@ -1,0 +1,32 @@
+{
+  "start": 929664000,
+  "end": 929664000,
+  "title": "Anime North 1999",
+  "desc": "Anime North 1999 于 加拿大安大略省多伦多 Ramada Airport East Hotel 举办",
+  "url": "https://thwiki.cc/Anime_North#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7ed1d8cf3d3e5bfeaea28ddb0cbf86f9fffb9e14b006aa347601b64c1b21fd1a",
+  "location": {
+    "type": "google",
+    "text": "加拿大安大略省多伦多 Ramada Airport East Hotel",
+    "entity": [
+      {
+        "id": "ChIJk9n1Yps5K4gRrBjff90cWn0",
+        "addressLine1": "Holiday Inn Toronto Airport East",
+        "addressLine2": "Dixon Road, エトビコ オンタリオ カナダ",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "anime-north-3"
+}

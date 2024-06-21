@@ -1,0 +1,30 @@
+{
+  "start": 1458518400,
+  "end": 1458518400,
+  "title": "ふぁーすと11",
+  "desc": "Fur-st11 于 埼玉县川口市 川口Friendia 举办",
+  "url": "https://thwiki.cc/Fur-st#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eafd8a5b34b3e6d6e3aa37a25c36f07a801c3e350c22d916aef3bf124cdaec4e",
+  "location": {
+    "type": "google",
+    "text": "埼玉县川口市 川口Friendia",
+    "entity": [
+      {
+        "id": "ChIJwZeAkm6TGGARDxs9v8kn1gg",
+        "addressLine1": "Friendia",
+        "addressLine2": "１丁目-１-１ 川口 川口市 埼玉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "fur-st-4"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1373155200,
+  "end": 1373155200,
+  "title": "東方鈴仙祭3",
+  "desc": "东方铃仙祭3 于 大阪皮革产业会馆 (アルフィック大阪) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%93%83%E4%BB%99%E7%A5%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d2efd0fe4c598374db4fdf373597ccb9e163f9cd998fc8e9ebb6e56c2f695439",
+  "location": {
+    "type": "google",
+    "text": "大阪皮革产业会馆 (アルフィック大阪)",
+    "entity": [
+      {
+        "id": "ChIJue4UPQDnAGARY7YVZWjdOas",
+        "addressLine1": "大阪皮革産業会館（アルフィック大阪）跡",
+        "addressLine2": "日本、大阪府大阪市浪速区戎本町１丁目８−２０",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方铃仙祭-3"
+}

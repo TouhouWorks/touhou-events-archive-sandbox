@@ -1,0 +1,80 @@
+{
+  "start": 1696291200,
+  "end": 1696291200,
+  "title": "东莞THO-莞城东游记",
+  "desc": "东莞THO-莞城东游记 于 广东省东莞市 银城酒店 举办",
+  "url": "https://thwiki.cc/%E8%8E%9E%E5%9F%8E%E4%B8%9C%E6%B8%B8%E8%AE%B0#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "14ea91b5c59829937ae071b2c00877f10a676e6813ee8a2aba435efa91c1d7cd",
+  "location": {
+    "type": "google",
+    "text": "广东省东莞市 银城酒店",
+    "entity": [
+      {
+        "id": "ChIJj2NChwugAzQRvtWDPY85adU",
+        "addressLine1": "银城酒店",
+        "addressLine2": "中華人民共和国 广东省东莞市莞太路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ8er-gQygAzQRJDPPjvzJXMg",
+        "addressLine1": "银城酒店",
+        "addressLine2": "中華人民共和国 广东省东莞市",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJYX_gfgugAzQR1yujm9wsVTA",
+        "addressLine1": "银城酒店怡苑潮菜厅",
+        "addressLine2": "中華人民共和国 广东省东莞市",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJEcefZAugAzQRJa6CKriGe2A",
+        "addressLine1": "银城酒店对外洗衣部",
+        "addressLine2": "中華人民共和国 广东省东莞市",
+        "provider": "google_places",
+        "categories": [
+          "laundry",
+          "establishment",
+          "point_of_interest",
+          "LAUNDRY"
+        ]
+      },
+      {
+        "id": "ChIJYX_gfgugAzQRsTAY9Kp8Mjw",
+        "addressLine1": "银城酒店停车场",
+        "addressLine2": "中華人民共和国 广东省东莞市 Yinfeng Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "莞城东游记-1"
+}

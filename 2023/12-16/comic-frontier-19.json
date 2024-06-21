@@ -1,0 +1,19 @@
+{
+  "start": 1702684800,
+  "end": 1702684800,
+  "title": "Comic Frontier 17",
+  "desc": "Comic Frontier 17 于 印度尼西亚 BSD城市 ICE会展中心 举办",
+  "url": "https://thwiki.cc/Comic_Frontier#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ad8f81d46b054be532c83db8cd7dd8450426db6bfa10704beee5093faa8e4c4e",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚 BSD城市 ICE会展中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-frontier-19"
+}

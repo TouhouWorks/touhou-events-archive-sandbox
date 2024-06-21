@@ -1,0 +1,32 @@
+{
+  "start": 1710633600,
+  "end": 1710633600,
+  "title": "第十回東方幻騒祭",
+  "desc": "第十回东方幻骚祭 于 神奈川县川崎市 月あかり夢てらす 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E9%AA%9A%E7%A5%AD#ev-11",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce61ff4bff747ca45212dd528bc68281ae91adf38ac7d3b216f4d5dd3a0e0844",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市 月あかり夢てらす",
+    "entity": [
+      {
+        "id": "ChIJC8oC6aJgGGARe2hrrYGdMHw",
+        "addressLine1": "月あかり 夢てらす",
+        "addressLine2": "日本、神奈川県川崎市川崎区砂子２丁目6−４",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幻骚祭-11"
+}

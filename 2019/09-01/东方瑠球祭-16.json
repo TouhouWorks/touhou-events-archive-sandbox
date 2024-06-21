@@ -1,0 +1,30 @@
+{
+  "start": 1567296000,
+  "end": 1567296000,
+  "title": "東方瑠球祭 第十六弾",
+  "desc": "东方瑠球祭 第十六弹 于 宜野湾市 冲绳会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%91%A0%E7%90%83%E7%A5%AD#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "417cc0d538c6fbaa34d39930de6a024f5a1c3549555b5b1a4317b5cb57c6998c",
+  "location": {
+    "type": "google",
+    "text": "宜野湾市 冲绳会议中心",
+    "entity": [
+      {
+        "id": "ChIJq6qqA6Vs5TQRiCDe1oSbdus",
+        "addressLine1": "冲绳会议中心",
+        "addressLine2": "日本、沖縄県宜野湾市真志喜４丁目３−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方瑠球祭-16"
+}

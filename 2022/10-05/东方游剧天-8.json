@@ -1,0 +1,20 @@
+{
+  "start": 1664928000,
+  "end": 1664928000,
+  "title": "東方遊劇天紀念日",
+  "desc": "东方游剧天纪念日 于 广州市 星之光·潮领地 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#ev-8",
+  "type": [
+    "展会",
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "de981e32a922de40a9d620556a2a1d26f5af0a759b1f8629a89d8ddb0d86d10b",
+  "location": {
+    "type": "google",
+    "text": "广州市 星之光·潮领地",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方游剧天-8"
+}

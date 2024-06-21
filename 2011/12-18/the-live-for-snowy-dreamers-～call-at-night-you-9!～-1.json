@@ -1,0 +1,45 @@
+{
+  "start": 1324166400,
+  "end": 1324166400,
+  "title": "the Live for Snowy Dreamers ～call at night you 9!～ act.1",
+  "desc": "the Live for Snowy Dreamers ～call at night you 9!～ act.1 于 名古屋市 SONSET STRIP 举办",
+  "url": "https://thwiki.cc/the_Live_for_Snowy_Dreamers_%EF%BD%9Ecall_at_night_you_9!%EF%BD%9E#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "619bb7c19affc800179a929725fe894e558eee2b3fc8a8aab30025ec1d373d4f",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 SONSET STRIP",
+    "entity": [
+      {
+        "id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
+        "addressLine1": "名古屋市",
+        "addressLine2": "日本、愛知県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJO9BXow96A2ARfYheCZ3ya1c",
+        "addressLine1": "名古屋市体育館",
+        "addressLine2": "日本、愛知県名古屋市熱田区六野２丁目５−３",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "the-live-for-snowy-dreamers-～call-at-night-you-9!～-1"
+}

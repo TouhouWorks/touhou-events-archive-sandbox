@@ -1,0 +1,30 @@
+{
+  "start": 1604016000,
+  "end": 1604016000,
+  "title": "青鸟国际梦想动漫游戏嘉年华X长沙THO东方文椛祭",
+  "desc": "青鸟国际梦想动漫游戏嘉年华X长沙THO东方文椛祭 于 长沙市 湖南国际会展中心 芒果馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%83%9B%E5%A4%9C%E5%87%9D#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2af9ff511a5b2396709d8c1d8f47848f1f6c2e750f8640584641e23d1f1c3a74",
+  "location": {
+    "type": "google",
+    "text": "长沙市 湖南国际会展中心 芒果馆",
+    "entity": [
+      {
+        "id": "ChIJgWllinI2JzQRKhAiubMOKU8",
+        "addressLine1": "湖南国际会展中心",
+        "addressLine2": "中華人民共和国 湖南省 长沙市 開福区 Sanyi Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方烛夜凝-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1691798400,
+  "end": 1691798400,
+  "title": "Cafe de Starry ~Reception Party 1",
+  "desc": "Cafe de Starry ~Reception Party 1 于 东京都 三軒茶屋Grapefruit Moon 举办",
+  "url": "https://thwiki.cc/Cafe_de_Starry_~Reception_Party#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a4b859b75f84f371cce9143edb0c38983de6251ea9296a0e3d9708e0df0c2d3",
+  "location": {
+    "type": "google",
+    "text": "东京都 三軒茶屋Grapefruit Moon",
+    "entity": [
+      {
+        "id": "ChIJq6r-QqD0GGARDyIHhKs_1Y4",
+        "addressLine1": "三軒茶屋グレープフルーツムーン",
+        "addressLine2": "日本、東京都世田谷区太子堂２丁目８−１２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "cafe-de-starry-~reception-party-1"
+}

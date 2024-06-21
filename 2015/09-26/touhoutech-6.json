@@ -1,0 +1,34 @@
+{
+  "start": 1443225600,
+  "end": 1443225600,
+  "title": "TouhouTech 3 Mexico City",
+  "desc": "TouhouTech 3 墨西哥城 于 墨西哥 墨西哥城 Frikiplaza Uruguay #17 举办",
+  "url": "https://thwiki.cc/TouhouTech#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "08de7a6db45fda1f8adc840ec1dab5ccab6632e25c80a4f65e161108b8bf90b9",
+  "location": {
+    "type": "google",
+    "text": "墨西哥 墨西哥城 Frikiplaza Uruguay #17",
+    "entity": [
+      {
+        "id": "ChIJs9cijtT-0YURaB9GduURnuM",
+        "addressLine1": "Mayoreo Uruguay 17",
+        "addressLine2": "República de Uruguay 17 セントロ・イストリコ・デ・ラ・メキシコ・シティ セントロ メキシコシティ 連邦区 メキシコ",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "ELECTRONICS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhoutech-6"
+}

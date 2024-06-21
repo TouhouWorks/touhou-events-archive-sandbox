@@ -1,0 +1,30 @@
+{
+  "start": 1676160000,
+  "end": 1676160000,
+  "title": "第二回 後戸天空満天祭",
+  "desc": "第二回 后户天空满天祭 于 川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E5%90%8E%E6%88%B7%E5%A4%A9%E7%A9%BA%E6%BB%A1%E5%A4%A9%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c679bd17be0ac8a3c89c12bf3bf1ba526b3a65f29b58247332c11c5fb59a5e73",
+  "location": {
+    "type": "google",
+    "text": "川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "后户天空满天祭-2"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1565395200,
+  "end": 1565395200,
+  "title": "ANOTHER VISION 2",
+  "desc": "ANOTHER VISION 2 于 东京都 四谷HoneyBurst 举办",
+  "url": "https://thwiki.cc/ANOTHER_VISION#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3c097a59ae6144d02163f3c3117a98377ff5d0c9fdee074b44c9a3eec3fd338b",
+  "location": {
+    "type": "google",
+    "text": "东京都 四谷HoneyBurst",
+    "entity": [
+      {
+        "id": "ChIJtUhIT_WMGGARqln_x4LFFQE",
+        "addressLine1": "四谷 Honey Burst",
+        "addressLine2": "日本、東京都新宿区市谷本村町３−１９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "another-vision-2"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1457740800,
+  "end": 1457740800,
+  "title": "東方わぁい！其之甘",
+  "desc": "东方哇！其之甘 于 大阪市 Bar GUILD 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%93%87%EF%BC%81#ev-21",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "055fc79fcf233d826fb9e3937bd36e0eb8f246450adaaa66a2e1e94171286154",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Bar GUILD",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方哇！-21"
+}

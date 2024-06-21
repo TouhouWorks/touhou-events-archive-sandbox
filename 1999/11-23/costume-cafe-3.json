@@ -1,0 +1,19 @@
+{
+  "start": 943315200,
+  "end": 943315200,
+  "title": "コスチュームカフェ 3号店",
+  "desc": "Costume Cafe 3号店 于 东京都立产业贸易中心 浜松町馆 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ed035953d7c5a2d1e1e03a7ff8d7982f258423b2c1bb24c473c81f0995d9dd6f",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 浜松町馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "costume-cafe-3"
+}

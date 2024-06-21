@@ -1,0 +1,19 @@
+{
+  "start": 1385856000,
+  "end": 1385856000,
+  "title": "寺子屋の学園祭 1",
+  "desc": "寺子屋的学园祭 1 于 新潟卸中心 (NOC Plaza) 举办",
+  "url": "https://thwiki.cc/%E5%AF%BA%E5%AD%90%E5%B1%8B%E7%9A%84%E5%AD%A6%E5%9B%AD%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f9c650118e347f2b3de76b57bfd65a40a7ac14f40487226cf68f1388c62cfe70",
+  "location": {
+    "type": "google",
+    "text": "新潟卸中心 (NOC Plaza)",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "寺子屋的学园祭-1"
+}

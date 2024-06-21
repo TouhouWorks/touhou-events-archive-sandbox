@@ -1,0 +1,30 @@
+{
+  "start": 1398988800,
+  "end": 1398988800,
+  "title": "魔都東方ONLY2014 梦想星生",
+  "desc": "魔都东方ONLY2014 梦想星生 于 上海市 五角场800号 西馆 1-2层 主展厅+画廊 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E9%83%BD%E4%B8%9C%E6%96%B9ONLY#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6cc0e2a07c7247e70ad7de58f217594e0a82431ec31e7d4fdaa6c88f739a8563",
+  "location": {
+    "type": "google",
+    "text": "上海市 五角场800号 西馆 1-2层 主展厅+画廊",
+    "entity": [
+      {
+        "id": "ChIJ_dwLnaV2sjURFyGE21Jo2Fo",
+        "addressLine1": "No.800, Wujiaochang Creative Storehouse Construction Committee",
+        "addressLine2": "Yangshupu Road, 楊浦区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魔都东方only-1"
+}

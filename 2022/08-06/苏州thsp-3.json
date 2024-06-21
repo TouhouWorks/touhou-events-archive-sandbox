@@ -1,0 +1,41 @@
+{
+  "start": 1659744000,
+  "end": 1659744000,
+  "title": "苏州THSP3",
+  "desc": "苏州THSP3 于 苏州市 容·创意园 举办",
+  "url": "https://thwiki.cc/%E8%8B%8F%E5%B7%9ETHSP#ev-3",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82254e9d2c58c788fa3f3d39210e15361c69e9dbfc91e774d9182bfb6fdf1061",
+  "location": {
+    "type": "google",
+    "text": "苏州市 容·创意园",
+    "entity": [
+      {
+        "id": "ChIJdwquDdumszURBRvKMOg3LTE",
+        "addressLine1": "容·创意园",
+        "addressLine2": "中華人民共和国 江蘇省 苏州市 姑蘇区 Baita East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJt5BHC9umszURwcfuftcqunw",
+        "addressLine1": "容创意园停车场",
+        "addressLine2": "中華人民共和国 江蘇省 苏州市 姑蘇区 Baita East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "苏州thsp-3"
+}

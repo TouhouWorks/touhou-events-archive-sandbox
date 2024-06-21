@@ -1,0 +1,44 @@
+{
+  "start": 1526083200,
+  "end": 1526083200,
+  "title": "Creator's Super Fest 2",
+  "desc": "Creator&#39;s Super Fest 2 于 印度尼西亚雅加达 Jakarta Grand Ballroom Pullman Hotel 举办",
+  "url": "https://thwiki.cc/Creator%27s_Super_Fest#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "783c5b25bc6cb3be8a86681cb66625cac06adf039923159a0547b9ef998c2614",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚雅加达 Jakarta Grand Ballroom Pullman Hotel",
+    "entity": [
+      {
+        "id": "ChIJSdyLZF_2aS4RZokg06PF_j0",
+        "addressLine1": "Hotel Pullman Jakarta Central Park",
+        "addressLine2": "Letjen S. Parman, South Tanjung Duren, West Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJp9WFYiH0aS4R3B372KAlQb4",
+        "addressLine1": "Pullman Jakarta Indonesia Thamrin CBD",
+        "addressLine2": "Pullman Hotel Wisma Nusantara, Jalan M.H. Thamrin, Gondangdia, Central Jakarta City, ジャカルタ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "creator's-super-fest-2"
+}

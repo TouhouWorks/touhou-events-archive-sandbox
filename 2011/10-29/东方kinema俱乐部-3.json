@@ -1,0 +1,58 @@
+{
+  "start": 1319846400,
+  "end": 1319846400,
+  "title": "東方キネマ倶楽部3",
+  "desc": "东方Kinema俱乐部3 于 东京都 新宿BLAZE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Kinema%E4%BF%B1%E4%B9%90%E9%83%A8#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1e3f004dab8bca37385f72e61d79dff217c223dd88820676a02b25bca97f569c",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿BLAZE",
+    "entity": [
+      {
+        "id": "ChIJeccloguNGGARcIxNIjmyFY8",
+        "addressLine1": "新宿BLAZE",
+        "addressLine2": "日本、東京都新宿区歌舞伎町１丁目２１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmYqtWMaNGGARh6rFu8mcGgI",
+        "addressLine1": "ブレイズマンバーバーショップ 新宿",
+        "addressLine2": "日本、東京都新宿区西新宿７丁目１４−１１",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJARdpMt-NGGARHVyryigRK9U",
+        "addressLine1": "レンタルジム BLAZE LILLY(ﾌﾞﾚｲｽﾞ ﾘﾘｰ)曙橋",
+        "addressLine2": "日本、東京都新宿区市谷台町１６−２",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方kinema俱乐部-3"
+}

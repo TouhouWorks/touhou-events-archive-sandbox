@@ -1,0 +1,30 @@
+{
+  "start": 1233446400,
+  "end": 1233446400,
+  "title": "第三回東方対戦会",
+  "desc": "第三回东方对战会 于 爱知县名古屋市 千早社区中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%AF%B9%E6%88%98%E4%BC%9A#ev-3",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "258a55bb2323007abc2b8799e112f1ed0139d8daf24f7834c24e0fcdae492ce6",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 千早社区中心",
+    "entity": [
+      {
+        "id": "ChIJk4Lhis9wA2AR1o6VqwpH8wQ",
+        "addressLine1": "社区中心rise",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目１８−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方对战会-3"
+}

@@ -1,0 +1,44 @@
+{
+  "start": 1517011200,
+  "end": 1517011200,
+  "title": "東方異能物怪録卷之拾八",
+  "desc": "东方异能物怪录卷之拾八 于 THUNDER高円寺 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BC%82%E8%83%BD%E7%89%A9%E6%80%AA%E5%BD%95#ev-18",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1b68d84f95dd763ecf5455e6a268badd6c54e1132b11e23df2f0b423cf412a91",
+  "location": {
+    "type": "google",
+    "text": "THUNDER高円寺",
+    "entity": [
+      {
+        "id": "ChIJMWvkNofyGGARgDkd8D-PkAQ",
+        "addressLine1": "THUNDER",
+        "addressLine2": "日本、東京都杉並区高円寺北２丁目３４−９",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJJb1N9ebzGGARMn1mQWKKBX4",
+        "addressLine1": "thunder koenji",
+        "addressLine2": "日本、東京都杉並区高円寺北１丁目４−８",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方异能物怪录-18"
+}

@@ -1,0 +1,66 @@
+{
+  "start": 1459641600,
+  "end": 1459641600,
+  "title": "Rainbow Gala 17",
+  "desc": "Rainbow Gala 17 于 香港 九龙湾国际展贸中心 举办",
+  "url": "https://thwiki.cc/Rainbow_Gala#ev-17",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a46a925bbdfdb1466612e9cd1bfbe8a18210bd8af5abc043a91884604be15f08",
+  "location": {
+    "type": "google",
+    "text": "香港 九龙湾国际展贸中心",
+    "entity": [
+      {
+        "id": "ChIJP6kcijIBBDQR1mw0YdxCnbI",
+        "addressLine1": "九龙湾国际展贸中心停车场",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJK0V8mzIBBDQRf2jE61Co97k",
+        "addressLine1": "九龍灣國際展貿中心",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4ymshDIBBDQRH5lqMo9MdB8",
+        "addressLine1": "星巴克 (九龍灣國際展貿中心)",
+        "addressLine2": "香港 九龍湾 Trademart Drive",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJEzognzIBBDQRJJ8szs6MDbA",
+        "addressLine1": "九龍灣國際展貿中心 - WearHouse WiFi熱點",
+        "addressLine2": "香港 九龍湾 Trademart Drive, WearHouse",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "rainbow-gala-17"
+}

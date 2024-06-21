@@ -1,0 +1,30 @@
+{
+  "start": 1503100800,
+  "end": 1503100800,
+  "title": "第四次百鬼戦争",
+  "desc": "第四次百鬼战争 于 东京都丰岛区 大塚MEETS 举办",
+  "url": "https://thwiki.cc/%E7%99%BE%E9%AC%BC%E6%88%98%E4%BA%89#ev-4",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "93cb4351a380b198505c59897fc23b9ffa03f37580f934415d28f128125a1543",
+  "location": {
+    "type": "google",
+    "text": "东京都丰岛区 大塚MEETS",
+    "entity": [
+      {
+        "id": "ChIJI2hSH3SNGGARGFClcQN5GQw",
+        "addressLine1": "大塚MEETS",
+        "addressLine2": "日本、東京都豊島区南大塚３丁目５０−1B1",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "百鬼战争-4"
+}

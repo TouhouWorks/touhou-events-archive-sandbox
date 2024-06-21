@@ -1,0 +1,101 @@
+{
+  "start": 1683244800,
+  "end": 1683244800,
+  "title": "第七回 Boundary Satellite Cafe",
+  "desc": "第七回 Boundary Satellite Cafe 于 东京都 2 tail coffee 举办",
+  "url": "https://thwiki.cc/Boundary_Satellite_Cafe#ev-7",
+  "type": [
+    "展会",
+    "店铺联动"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5cbab982d2ab73cb1eee2debec65d1fd28689e3cfeea191b265bc25d2ee67325",
+  "location": {
+    "type": "google",
+    "text": "东京都 2 tail coffee",
+    "entity": [
+      {
+        "id": "ChIJx8n7zXDzGGARu1MTI08GWfk",
+        "addressLine1": "Bole COFFEE & ICECREAM",
+        "addressLine2": "日本、東京都世田谷区羽根木１丁目１９−１９",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJQ3_Q_0vzGGARcOmD6KLVMts",
+        "addressLine1": "Little Nap Coffee Roasters",
+        "addressLine2": "２丁目-４３-１５ 富ケ谷 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJr8LoBZ-OGGARyal9_5Cixuw",
+        "addressLine1": "珈琲王城",
+        "addressLine2": "日本、東京都台東区上野６丁目８−１５",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJTV7TXp6OGGAR17BDEGjZmPk",
+        "addressLine1": "Coffee Shop Galant",
+        "addressLine2": "６丁目-１４-４ 上野 台東区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ0ydG35iOGGARYJTkDwbwV_M",
+        "addressLine1": "Kojo",
+        "addressLine2": "３丁目-３９-１０ 東上野 台東区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "boundary-satellite-cafe-7"
+}

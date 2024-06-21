@@ -1,0 +1,64 @@
+{
+  "start": 1409443200,
+  "end": 1409443200,
+  "title": "ぷち東方樂祭 in 札幌まんだら",
+  "desc": "小型东方乐祭 in 札幌Mandara 于 札幌市 札幌Mandara 举办",
+  "url": "https://thwiki.cc/%E5%B0%8F%E5%9E%8B%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "99c7beb17a84680e1c258936f93a58832832d6e02b339fc889c729d0e919cdf2",
+  "location": {
+    "type": "google",
+    "text": "札幌市 札幌Mandara",
+    "entity": [
+      {
+        "id": "ChIJo7vfsYUpC18RRXbj5JKgDxI",
+        "addressLine1": "まんだらけ 札幌店",
+        "addressLine2": "日本、北海道札幌市中央区南３条西５丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN"
+        ]
+      },
+      {
+        "id": "ChIJ49Wm5zgoC18RKRHPeXo31l8",
+        "addressLine1": "札幌スープカレー 曼荼羅",
+        "addressLine2": "日本、北海道札幌市西区西町南１８丁目１−４０",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJc0hrb9wpC18RrJIw-pu7IBc",
+        "addressLine1": "札幌スープカレー曼荼羅 北海道神宮前店",
+        "addressLine2": "日本、北海道札幌市中央区宮の森２条１０丁目１−２７",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "小型东方乐祭-2"
+}

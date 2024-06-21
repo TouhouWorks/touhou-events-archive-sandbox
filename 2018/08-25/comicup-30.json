@@ -1,0 +1,30 @@
+{
+  "start": 1535155200,
+  "end": 1535155200,
+  "title": "COMICUP2018SP",
+  "desc": "COMICUP2018SP 于 上海市 上海光大会展中心 2-3层 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-30",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0309bf44a1324e469acec3b03cb7e9f9a778d52a0b8db2fd01d7858ef0f22a58",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海光大会展中心 2-3层",
+    "entity": [
+      {
+        "id": "ChIJM9AuBcRksjUR9P2wRgAcE5I",
+        "addressLine1": "光大会展中心",
+        "addressLine2": "中華人民共和国 上海市 徐匯区 Caobao Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicup-30"
+}

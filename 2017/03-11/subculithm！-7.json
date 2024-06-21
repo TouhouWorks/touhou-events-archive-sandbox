@@ -1,0 +1,30 @@
+{
+  "start": 1489190400,
+  "end": 1489190400,
+  "title": "サブカリズム！vol.7",
+  "desc": "SUBCULITHM！vol.7 于 东京都 立川Live Bar Heart Beat 举办",
+  "url": "https://thwiki.cc/SUBCULITHM%EF%BC%81#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "311cdd58ff5301ae7645546c99dbcfb58903b11f4c78f1309276964078cd7b14",
+  "location": {
+    "type": "google",
+    "text": "东京都 立川Live Bar Heart Beat",
+    "entity": [
+      {
+        "id": "ChIJowoEXXvhGGARsCQKwGooPec",
+        "addressLine1": "ライブ·バーHeart Beat",
+        "addressLine2": "日本、東京都立川市錦町２丁目１−３５ ３５Ｓｏｕｎｄ Ｓｔｕｄｉｏ Ｂｌｕｅ Ｍｏｏｎ立川",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "subculithm！-7"
+}

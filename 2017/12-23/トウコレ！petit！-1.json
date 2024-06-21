@@ -1,0 +1,54 @@
+{
+  "start": 1513987200,
+  "end": 1513987200,
+  "title": "トウコレ！ プチ！1",
+  "desc": "トウコレ！Petit！1 于 札幌市产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E3%83%88%E3%82%A6%E3%82%B3%E3%83%AC%EF%BC%81Petit%EF%BC%81#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b9458c90c1f8d5399af8fd51b5a7bccd74dd4ffca01438056efec5d47d2da353",
+  "location": {
+    "type": "google",
+    "text": "札幌市产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJD9j6GtorC18Rv9DpGotJMjU",
+        "addressLine1": "一般財団法人 さっぽろ産業振興財団",
+        "addressLine2": "日本、北海道札幌市白石区東札幌５条１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJD9j6GtorC18REWE8Ezq2qik",
+        "addressLine1": "札幌市産業振興センター",
+        "addressLine2": "日本、北海道札幌市白石区東札幌５条１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJBwW7j50pC18RMnh8jntNDDg",
+        "addressLine1": "札幌市経済観光局 産業振興部",
+        "addressLine2": "日本、北海道札幌市中央区北１条西２丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "トウコレ！petit！-1"
+}

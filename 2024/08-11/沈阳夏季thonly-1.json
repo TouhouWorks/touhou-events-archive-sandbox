@@ -1,0 +1,62 @@
+{
+  "start": 1723334400,
+  "end": 1723334400,
+  "title": "沈阳夏季THONLY 沈阳夏季tho 01 东方函夏聚",
+  "desc": "沈阳夏季THONLY 沈阳夏季tho 01 东方函夏聚 于 沈阳市沈河区青年大街52号 高登大酒店 举办",
+  "url": "https://thwiki.cc/%E6%B2%88%E9%98%B3%E5%A4%8F%E5%AD%A3THONLY#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "779d8a8f3f3aff246afa08469596d75692baf9cf49bd383cbe24ac5c827927a4",
+  "location": {
+    "type": "google",
+    "text": "沈阳市沈河区青年大街52号 高登大酒店",
+    "entity": [
+      {
+        "id": "ChIJA1FpGOWHL14Rp3w7El05TJY",
+        "addressLine1": "高登大酒店大堂吧",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳市沈河区金廊商圈青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJA1FpGOWHL14R9t_tsNwq0ys",
+        "addressLine1": "高登大酒店咖啡厅",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳市沈河区金廊商圈青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJA1FpGOWHL14Rhr9XmXuclCk",
+        "addressLine1": "高登大酒店",
+        "addressLine2": "中華人民共和国 沈阳市沈河区青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJbym-EOWHL14RMuAE3StuOuo",
+        "addressLine1": "高登大酒店停车场",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳市沈河区金廊商圈青年大街52号",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "沈阳夏季thonly-1"
+}

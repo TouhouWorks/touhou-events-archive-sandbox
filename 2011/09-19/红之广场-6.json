@@ -1,0 +1,19 @@
+{
+  "start": 1316390400,
+  "end": 1316390400,
+  "title": "紅のひろば6",
+  "desc": "红之广场6 于 东京都立产业贸易中心 滨松町馆 4-5层 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E4%B9%8B%E5%B9%BF%E5%9C%BA#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1f52b7be284c091b61987e1c84150332634fbc29c89b871d7bbd5b468d3e05c9",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 4-5层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "红之广场-6"
+}

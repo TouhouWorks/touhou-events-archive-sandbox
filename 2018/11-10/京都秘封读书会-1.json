@@ -1,0 +1,32 @@
+{
+  "start": 1541808000,
+  "end": 1541808000,
+  "title": "京都秘封読書会1",
+  "desc": "京都秘封读书会1 于 職員会館 かもがわ 举办",
+  "url": "https://thwiki.cc/%E4%BA%AC%E9%83%BD%E7%A7%98%E5%B0%81%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "956ac8b397e3ba8e1809e0e743cfeeae4ae098bca90cfad5eb596f08da5faec2",
+  "location": {
+    "type": "google",
+    "text": "職員会館 かもがわ",
+    "entity": [
+      {
+        "id": "ChIJDWMOyowIAWARoUGhdcEWtN0",
+        "addressLine1": "京都市職員厚生会 職員会館かもがわ",
+        "addressLine2": "日本、京都府京都市中京区土手町通竹屋町下る末丸町２８４−１",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "京都秘封读书会-1"
+}

@@ -1,0 +1,70 @@
+{
+  "start": 1660435200,
+  "end": 1660435200,
+  "title": "Comic Market 100",
+  "desc": "Comic Market 100 于 东京都 东京国际展示场 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-45",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b514543deb58ed652b94b615035550819b834544fe52a432e56edd7816c03a3f",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场",
+    "entity": [
+      {
+        "id": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+        "addressLine1": "东京国际会展中心",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJfeA_Vd6JGGARbeHNibw9Gho",
+        "addressLine1": "東京ビッグサイト 南展示棟",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJoSJJntuJGGAR_yOoJguBQzg",
+        "addressLine1": "東京國際展示場 Tokyo Big Sight 東新棟",
+        "addressLine2": "日本、東京都江東区有明３丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJt3bb1ZCJGGARQp5c-2HBD6s",
+        "addressLine1": "東京ビッグサイト会議棟",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJTcEPcEqJGGARB8Tef26tO00",
+        "addressLine1": "東京國際展示場（Tokyo Bigsight）東館",
+        "addressLine2": "日本、東京都江東区有明３丁目１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-market-45"
+}

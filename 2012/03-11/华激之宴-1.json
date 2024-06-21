@@ -1,0 +1,19 @@
+{
+  "start": 1331424000,
+  "end": 1331424000,
+  "title": "華激ノ宴1",
+  "desc": "华激之宴1 于 东京都立产业贸易中心 浜松町馆 3层 举办",
+  "url": "https://thwiki.cc/%E5%8D%8E%E6%BF%80%E4%B9%8B%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6e07acdc079fe1f0378082382a87cd57d7a90cb57a6ccfe68a856a1efeec2404",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 浜松町馆 3层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "华激之宴-1"
+}

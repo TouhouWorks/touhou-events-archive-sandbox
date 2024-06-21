@@ -1,0 +1,30 @@
+{
+  "start": 1442620800,
+  "end": 1442620800,
+  "title": "頭文字of songs あかさたな",
+  "desc": "头文字of songs あかさたな 于 东京都 恵比寿LIQUIDROOM 举办",
+  "url": "https://thwiki.cc/%E5%A4%B4%E6%96%87%E5%AD%97of_songs#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "325a91ba82f4c6d38ec19f6a710a829db867228ee671d2ffa243a22cf4cb4d34",
+  "location": {
+    "type": "google",
+    "text": "东京都 恵比寿LIQUIDROOM",
+    "entity": [
+      {
+        "id": "ChIJxTAYVt3gGGARc6fo_RMKO5I",
+        "addressLine1": "恵比寿リキッドルーム",
+        "addressLine2": "日本、東京都渋谷区東３丁目１６−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "头文字of-songs-1"
+}

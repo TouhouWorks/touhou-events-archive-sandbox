@@ -1,0 +1,32 @@
+{
+  "start": 1305417600,
+  "end": 1305417600,
+  "title": "えちご東方日和 四",
+  "desc": "越后东方日和 四 于 新潟市 朱鹭展览馆 3-4层 举办",
+  "url": "https://thwiki.cc/%E8%B6%8A%E5%90%8E%E4%B8%9C%E6%96%B9%E6%97%A5%E5%92%8C#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b0110e8221a6a6b8308988080c2ed1d7e1d4beefe05e6ca563ea790246ae9a95",
+  "location": {
+    "type": "google",
+    "text": "新潟市 朱鹭展览馆 3-4层",
+    "entity": [
+      {
+        "id": "ChIJSxyXcB7K9F8RkFjx7GwWcZM",
+        "addressLine1": "朱鹭展览馆",
+        "addressLine2": "日本、新潟県新潟市中央区万代島６−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "越后东方日和-4"
+}

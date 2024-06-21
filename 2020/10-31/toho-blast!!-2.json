@@ -1,0 +1,84 @@
+{
+  "start": 1604102400,
+  "end": 1604102400,
+  "title": "TOHO BLAST!! Vol.2",
+  "desc": "TOHO BLAST!! Vol.2 于 静冈县静冈市 PLACE PrivateRoom COA 举办",
+  "url": "https://thwiki.cc/TOHO_BLAST!!#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d85b2197d15cd502939886392402b122c376431490bc70021144100d32775b11",
+  "location": {
+    "type": "google",
+    "text": "静冈县静冈市 PLACE PrivateRoom COA",
+    "entity": [
+      {
+        "id": "ChIJK_12IqxLGmARX51wVsvAlOU",
+        "addressLine1": "COA",
+        "addressLine2": "日本、静岡県静岡市葵区七間町１１−５",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHVdOo_hJGmAR1GXwkAVP-Is",
+        "addressLine1": "ル・コア（ｌｅ・ｃｏａ）",
+        "addressLine2": "日本、静岡県静岡市葵区相生町１４−１３",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg-Pnq9JJGmARFBAzLAkSh7k",
+        "addressLine1": "コーティング専門店Glation 静岡駅前浮月楼店",
+        "addressLine2": "日本、静岡県静岡市葵区紺屋町１１−１ ホテルガーデンスクエア",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJYatZeLhJGmARstmpWelikDs",
+        "addressLine1": "COACH Matsuzakaya Shizuoka Store",
+        "addressLine2": "１０−２ 御幸町 葵区 静岡市 静岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOE_STORE",
+          "SHOPS_AND_SERVICES",
+          "shoe_store",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJfRD1bOU3GmAR1h3NEz0YQY4",
+        "addressLine1": "COALON.",
+        "addressLine2": "日本、静岡県静岡市駿河区有東２丁目５−15 2",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "toho-blast!!-2"
+}

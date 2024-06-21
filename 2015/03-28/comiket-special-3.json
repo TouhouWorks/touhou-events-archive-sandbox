@@ -1,0 +1,30 @@
+{
+  "start": 1427500800,
+  "end": 1427500800,
+  "title": "Comiket Special 6 - OTAKU SUMMIT 2015 -",
+  "desc": "Comiket Special 6 - OTAKU SUMMIT 2015 - 于 千叶市 幕张展览馆 1-5国际展厅 举办",
+  "url": "https://thwiki.cc/Comiket_Special#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f548545b6908f9805662f2fffe43f7f2217751db76cb51fdb23210baf7d4e16a",
+  "location": {
+    "type": "google",
+    "text": "千叶市 幕张展览馆 1-5国际展厅",
+    "entity": [
+      {
+        "id": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+        "addressLine1": "幕张展览馆",
+        "addressLine2": "日本、千葉県千葉市美浜区中瀬２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comiket-special-3"
+}

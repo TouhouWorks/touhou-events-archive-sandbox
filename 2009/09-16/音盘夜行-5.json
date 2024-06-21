@@ -1,0 +1,43 @@
+{
+  "start": 1253059200,
+  "end": 1253059200,
+  "title": "音盤夜行 Vol.5",
+  "desc": "音盘夜行 Vol.5 于 东京都 club axxcis 举办",
+  "url": "https://thwiki.cc/%E9%9F%B3%E7%9B%98%E5%A4%9C%E8%A1%8C#ev-5",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3af35363fcc4bf87e96c0dc5131adc7168bfc69c5573eabbd2c18ff4f30fb383",
+  "location": {
+    "type": "google",
+    "text": "东京都 club axxcis",
+    "entity": [
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJs5ibb_MIAWARgBJwgv-P8Zo",
+        "addressLine1": "CLUB METRO",
+        "addressLine2": "日本、京都府京都市左京区下堤町８２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "音盘夜行-5"
+}

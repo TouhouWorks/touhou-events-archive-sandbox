@@ -1,0 +1,58 @@
+{
+  "start": 1670112000,
+  "end": 1670112000,
+  "title": "夢行夜行列車1",
+  "desc": "梦行夜行列车1 于 大阪市 难波MILULARI 举办",
+  "url": "https://thwiki.cc/%E6%A2%A6%E8%A1%8C%E5%A4%9C%E8%A1%8C%E5%88%97%E8%BD%A6#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71076e6e6f3d1f1337757c39d729f01494b924a85272c6b8b5da44b9f9324ce0",
+  "location": {
+    "type": "google",
+    "text": "大阪市 难波MILULARI",
+    "entity": [
+      {
+        "id": "ChIJOXPJyWznAGARahb0KWFRjlM",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJFXXzNhPnAGARUifDEqMzXl4",
+        "addressLine1": "难波",
+        "addressLine2": "日本、大阪府大阪市中央区難波１丁目９",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJ9RFkRWnnAGARZh-hyWjBhtg",
+        "addressLine1": "难波公园",
+        "addressLine2": "日本、大阪府大阪市浪速区難波中２丁目１０−７０",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "梦行夜行列车-1"
+}

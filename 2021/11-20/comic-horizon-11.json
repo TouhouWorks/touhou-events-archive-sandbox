@@ -1,0 +1,30 @@
+{
+  "start": 1637366400,
+  "end": 1637366400,
+  "title": "Comic Horizon 10",
+  "desc": "Comic Horizon 10 于 台北市 松山文创园区4号仓库 举办",
+  "url": "https://thwiki.cc/Comic_Horizon#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f017943be20ecaec4b7603490ec0a8d6c6383e81517fa8a5c857a627c75187c3",
+  "location": {
+    "type": "google",
+    "text": "台北市 松山文创园区4号仓库",
+    "entity": [
+      {
+        "id": "ChIJYybAXr-rQjQRYd6aVtWg2FA",
+        "addressLine1": "松山文创园区 - 四号仓库",
+        "addressLine2": "台湾 台北市 Xinyi District, Guangfu South Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-horizon-11"
+}

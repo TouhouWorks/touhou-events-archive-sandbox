@@ -1,0 +1,30 @@
+{
+  "start": 1646438400,
+  "end": 1646438400,
+  "title": "東京ゲーム音楽ショー2022",
+  "desc": "东京Game音乐Show 2022 于 东京都 大田区产业广场PiO 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%ACGame%E9%9F%B3%E4%B9%90Show#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6524cb6d0d8eef8f2433bff714f275608fe3f051ee65d8b7693e2f93805d352e",
+  "location": {
+    "type": "google",
+    "text": "东京都 大田区产业广场PiO",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东京game音乐show-9"
+}

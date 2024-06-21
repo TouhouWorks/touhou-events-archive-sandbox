@@ -1,0 +1,32 @@
+{
+  "start": 1687392000,
+  "end": 1687392000,
+  "title": "长沙THONLY-湘江七彩荟",
+  "desc": "长沙THONLY-湘江七彩荟 于 长沙市 江山国际大酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%83%9B%E5%A4%9C%E5%87%9D#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f87634e3ad65db7a3618f334487f867cc631d3f5357a65c237a3ed653dce498f",
+  "location": {
+    "type": "google",
+    "text": "长沙市 江山国际大酒店",
+    "entity": [
+      {
+        "id": "ChIJldtVfXtKJzQRpwC9hZzvxKU",
+        "addressLine1": "通程国际大酒店",
+        "addressLine2": "中華人民共和国 湖南省 长沙市 芙蓉区 Shaoshan North Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方烛夜凝-4"
+}

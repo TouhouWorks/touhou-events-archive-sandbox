@@ -1,0 +1,56 @@
+{
+  "start": 1267315200,
+  "end": 1267315200,
+  "title": "東方蝦夷祭 壱幕",
+  "desc": "东方虾夷祭 壹幕 于 札幌市 Axes 札幌 D Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%99%BE%E5%A4%B7%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c76f53e301c5f9eed65da2278605f3ae3a5da86d804b6fa2c56a7fe8fd67b3b1",
+  "location": {
+    "type": "google",
+    "text": "札幌市 Axes 札幌 D Hall",
+    "entity": [
+      {
+        "id": "ChIJl6rpQXUpC18RpgxtqKrM9lI",
+        "addressLine1": "axes femme 札幌アピア店",
+        "addressLine2": "日本、北海道札幌市中央区北５条西３丁目",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJ3RAFj3ArC18RBf0ZUVgw75M",
+        "addressLine1": "アクセスサッポロ (札幌流通総合会館)",
+        "addressLine2": "日本、北海道札幌市白石区流通センター４丁目３−３−５５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJwznYqYUpC18Rqc7Ru19KPu0",
+        "addressLine1": "D-mode sapporo",
+        "addressLine2": "日本、北海道札幌市中央区南6条西西６丁目",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方虾夷祭-1"
+}

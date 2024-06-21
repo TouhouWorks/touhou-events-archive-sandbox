@@ -1,0 +1,78 @@
+{
+  "start": 1383436800,
+  "end": 1383436800,
+  "title": "SOPHIA創作フリマ1",
+  "desc": "SOPHIA创作Flea Market 1 于 东京都 上智大学 举办",
+  "url": "https://thwiki.cc/SOPHIA%E5%88%9B%E4%BD%9CFlea_Market#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a4549c35aa965e416d2ad6b10bd3cd644829d3ca2854a5e797fc5ed9f5a5e2cb",
+  "location": {
+    "type": "google",
+    "text": "东京都 上智大学",
+    "entity": [
+      {
+        "id": "ChIJe0O3nmKMGGARthkjiLqendU",
+        "addressLine1": "上智大学",
+        "addressLine2": "日本、東京都千代田区紀尾井町７−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYyU6yGKMGGARIg69bUYVL8U",
+        "addressLine1": "上智大学 四谷キャンパス 11号館",
+        "addressLine2": "日本、東京都千代田区紀尾井町７−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__-vjU2NGGAR3MrTaerWJqc",
+        "addressLine1": "上智大学 目白聖母キャンパス",
+        "addressLine2": "日本、東京都新宿区下落合４丁目１６−１１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAQDA2omMGGARFeO_tAe5PyY",
+        "addressLine1": "上智大学２号館",
+        "addressLine2": "日本、東京都千代田区紀尾井町６丁目7−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJo1U7OoiMGGARHD12KV848sA",
+        "addressLine1": "上智大学真田堀運動場",
+        "addressLine2": "日本、東京都千代田区紀尾井町５−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "sophia创作flea-market-1"
+}

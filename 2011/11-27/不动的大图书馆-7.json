@@ -1,0 +1,19 @@
+{
+  "start": 1322352000,
+  "end": 1322352000,
+  "title": "動かない大図書館SP 1",
+  "desc": "不动的大图书馆SP 1 于 大阪市 桃谷ゆとり空間 举办",
+  "url": "https://thwiki.cc/%E4%B8%8D%E5%8A%A8%E7%9A%84%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86#ev-7",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2cf3fbf469ae17d9a55acb22c8fe80771389079c165df05a5845ca4ca11e71eb",
+  "location": {
+    "type": "google",
+    "text": "大阪市 桃谷ゆとり空間",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "不动的大图书馆-7"
+}

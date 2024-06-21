@@ -1,0 +1,32 @@
+{
+  "start": 1545436800,
+  "end": 1545436800,
+  "title": "幻想郷のクリスマスパーティー 第一回",
+  "desc": "幻想乡的Christmas Party 第一回 于 札幌市 D-mode 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84Christmas_Party#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0b3c3504b637bbe3f7f65d3bc835e74ad3d8cc4823124b6cda59f10e28b9413b",
+  "location": {
+    "type": "google",
+    "text": "札幌市 D-mode",
+    "entity": [
+      {
+        "id": "ChIJwznYqYUpC18Rqc7Ru19KPu0",
+        "addressLine1": "D-mode sapporo",
+        "addressLine2": "日本、北海道札幌市中央区南6条西西６丁目",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡的christmas-party-1"
+}

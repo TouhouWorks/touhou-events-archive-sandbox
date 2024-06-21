@@ -1,0 +1,19 @@
+{
+  "start": 1167523200,
+  "end": 1167523200,
+  "title": "Comic Market 71",
+  "desc": "Comic Market 71 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9afb98e60b9d5f1d233ec83022d98a1b7d5d1911dd5fda64a5ee212ab62eaa57",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-16"
+}

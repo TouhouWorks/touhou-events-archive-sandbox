@@ -1,0 +1,31 @@
+{
+  "start": 1433635200,
+  "end": 1433635200,
+  "title": "東方静遊會vol.8",
+  "desc": "东方静游会vol.8 于 静冈县藤枝市 CRAZY FROG 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9D%99%E6%B8%B8%E4%BC%9A#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f620c378c85d29e2024e19d55e4870b09b6053cb1819f67f76315fca82ad737e",
+  "location": {
+    "type": "google",
+    "text": "静冈县藤枝市 CRAZY FROG",
+    "entity": [
+      {
+        "id": "ChIJBZzbHhpSGmARtPeBMroylZA",
+        "addressLine1": "藤枝市",
+        "addressLine2": "日本、静岡県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方静游会-9"
+}

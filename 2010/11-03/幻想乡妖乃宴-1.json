@@ -1,0 +1,30 @@
+{
+  "start": 1288742400,
+  "end": 1288742400,
+  "title": "幻想郷妖乃宴1",
+  "desc": "幻想乡妖乃宴1 于 东京都立产业贸易中心 滨松町馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%A6%96%E4%B9%83%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bf6416fbeb517ff605f8acb599c9d720e7e6defc103fc0e024490d6bb56161e7",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆",
+    "entity": [
+      {
+        "id": "ChIJgSnVwGCLGGARDPI40IEPsl0",
+        "addressLine1": "東京都立產業貿易中心 濱松町館",
+        "addressLine2": "日本、東京都港区海岸１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡妖乃宴-1"
+}

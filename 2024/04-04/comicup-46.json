@@ -1,0 +1,30 @@
+{
+  "start": 1712188800,
+  "end": 1712188800,
+  "title": "COMICUP2024SP",
+  "desc": "COMICUP2024SP 于 广州市 中国进出口商品交易会展馆D区 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-46",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "777acc2a1429e49537f85874815d750e51b13747594eedfb36cfc760a311cfb6",
+  "location": {
+    "type": "google",
+    "text": "广州市 中国进出口商品交易会展馆D区",
+    "entity": [
+      {
+        "id": "ChIJ8x7z0JT_AjQRNEQwSCwj7SY",
+        "addressLine1": "中国进出口商品交易会展馆",
+        "addressLine2": "中華人民共和国 広東省 广州市 海珠区 Zhanchang West Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicup-46"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1635292800,
+  "end": 1635292800,
+  "title": "紅楼Jazz2021",
+  "desc": "红楼Jazz2021 于 兵库县伊丹市 ALWAYS伊丹 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BCJazz#ev-9",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "417499553de5f5ffd4a881870cfd60df0e80393c9caa117316bc83d17a97aaf7",
+  "location": {
+    "type": "google",
+    "text": "兵库县伊丹市 ALWAYS伊丹",
+    "entity": [
+      {
+        "id": "ChIJlSveqFTwAGARpnlfPFuCZI0",
+        "addressLine1": "伊丹 ALWAYS",
+        "addressLine2": "日本、兵庫県伊丹市中央１丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "红楼jazz-9"
+}

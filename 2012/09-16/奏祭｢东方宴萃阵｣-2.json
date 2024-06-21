@@ -1,0 +1,32 @@
+{
+  "start": 1347753600,
+  "end": 1347753600,
+  "title": "奏祭「東方宴萃陣」 第二陣",
+  "desc": "奏祭｢东方宴萃阵｣ 第二阵 于 大阪市 日本桥BAR Guild 举办",
+  "url": "https://thwiki.cc/%E5%A5%8F%E7%A5%AD%EF%BD%A2%E4%B8%9C%E6%96%B9%E5%AE%B4%E8%90%83%E9%98%B5%EF%BD%A3#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fb7ab2813594ce45ce843f2da1e8aea6f1993293719b52f988665f42fe564730",
+  "location": {
+    "type": "google",
+    "text": "大阪市 日本桥BAR Guild",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "奏祭｢东方宴萃阵｣-2"
+}

@@ -1,0 +1,41 @@
+{
+  "start": 1267920000,
+  "end": 1267920000,
+  "title": "メガマニアック6",
+  "desc": "Mega Maniac 6 于 松本市 浅间温泉文化中心 举办",
+  "url": "https://thwiki.cc/Mega_Maniac#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b100ae3351a813597e6baeb0dd681072e4553ac4335ba4a846c8ade0c18a942f",
+  "location": {
+    "type": "google",
+    "text": "松本市 浅间温泉文化中心",
+    "entity": [
+      {
+        "id": "ChIJx8dfdRoMHWARUaASuAR_VFE",
+        "addressLine1": "浅間温泉",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      },
+      {
+        "id": "ChIJncN6dRoMHWARJ6UApygrF_U",
+        "addressLine1": "松本市浅間温泉文化センター",
+        "addressLine2": "日本、長野県松本市浅間温泉２丁目６−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "mega-maniac-1"
+}

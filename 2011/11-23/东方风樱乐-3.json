@@ -1,0 +1,30 @@
+{
+  "start": 1322006400,
+  "end": 1322006400,
+  "title": "東方風櫻樂SP",
+  "desc": "东方风樱乐SP 于 新潟市产业振兴中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A3%8E%E6%A8%B1%E4%B9%90#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e22644d0b858604b77ca7e97005072bcfe29acd2f497f500a171ba20298814b4",
+  "location": {
+    "type": "google",
+    "text": "新潟市产业振兴中心",
+    "entity": [
+      {
+        "id": "ChIJO0lAe8LI9F8RkO-8bqXzivk",
+        "addressLine1": "新潟市産業振興センター",
+        "addressLine2": "日本、新潟県新潟市中央区鐘木１８５−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方风樱乐-3"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1410480000,
+  "end": 1410480000,
+  "title": "FarEast VS Reverie 2",
+  "desc": "FarEast VS Reverie 2 于 大阪市 日本桥BarGuild 举办",
+  "url": "https://thwiki.cc/FarEast_VS_Reverie#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8f756a5a7fd991cf5f1c19e99f37ec8ac059898662cc629d733b28298f25f3bf",
+  "location": {
+    "type": "google",
+    "text": "大阪市 日本桥BarGuild",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "fareast-vs-reverie-2"
+}

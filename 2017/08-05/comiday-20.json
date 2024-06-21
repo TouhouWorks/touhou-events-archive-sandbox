@@ -1,0 +1,19 @@
+{
+  "start": 1501891200,
+  "end": 1501891200,
+  "title": "COMIDAY20",
+  "desc": "COMIDAY20 于 成都市 世纪城新国际会展中心 9号馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b1ece9510cb3853d02832faf3d55466c14b32d39cffdda2d0f1751a2025da9c0",
+  "location": {
+    "type": "google",
+    "text": "成都市 世纪城新国际会展中心 9号馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comiday-20"
+}

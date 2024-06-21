@@ -1,0 +1,19 @@
+{
+  "start": 1538438400,
+  "end": 1538438400,
+  "title": "东方熙月华3",
+  "desc": "东方熙月华3 于 清华大学建筑馆 七九吧咖啡厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%86%99%E6%9C%88%E5%8D%8E#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "69600f32c4bfbbdc5d1ac493bd90a4c8a44f6a41bf5739b0575661fcb53893e5",
+  "location": {
+    "type": "google",
+    "text": "清华大学建筑馆 七九吧咖啡厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方熙月华-3"
+}

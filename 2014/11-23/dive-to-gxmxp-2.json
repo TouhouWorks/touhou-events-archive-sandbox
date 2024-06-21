@@ -1,0 +1,32 @@
+{
+  "start": 1416700800,
+  "end": 1416700800,
+  "title": "Dive To GxMxP Vol.2",
+  "desc": "Dive To GxMxP Vol.2 于 东京都 涩谷Chelsea Hotel 举办",
+  "url": "https://thwiki.cc/Dive_To_GxMxP#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7b9e5463f5c4654db93a601916c0428251e4483d196502a42821e39c2b975f43",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷Chelsea Hotel",
+    "entity": [
+      {
+        "id": "ChIJrZ7dO6mMGGAR40aPVfYqA4s",
+        "addressLine1": "Shibuya Chelsea Hotel",
+        "addressLine2": "４-７ 宇田川町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "dive-to-gxmxp-2"
+}

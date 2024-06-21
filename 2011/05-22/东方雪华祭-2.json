@@ -1,0 +1,30 @@
+{
+  "start": 1306022400,
+  "end": 1306022400,
+  "title": "東方雪華祭2",
+  "desc": "东方雪华祭2 于 札幌会议中心 大Hall C 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9B%AA%E5%8D%8E%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f0040fc6ee02a5d77b8230c32ca4b0562e20754011d6749f4394752233c92104",
+  "location": {
+    "type": "google",
+    "text": "札幌会议中心 大Hall C",
+    "entity": [
+      {
+        "id": "ChIJYSd5ztsrC18RYepUkTimRTc",
+        "addressLine1": "札幌會議中心",
+        "addressLine2": "日本、北海道札幌市白石区東札幌６条１丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方雪华祭-2"
+}

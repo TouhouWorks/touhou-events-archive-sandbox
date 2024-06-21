@@ -1,0 +1,19 @@
+{
+  "start": 1570838400,
+  "end": 1570838400,
+  "title": "西の都の眠らない夜 其ノ壱",
+  "desc": "西之都的不眠夜 其ノ壱 于 京都Swallowtail 举办",
+  "url": "https://thwiki.cc/%E8%A5%BF%E4%B9%8B%E9%83%BD%E7%9A%84%E4%B8%8D%E7%9C%A0%E5%A4%9C#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "499987b48344e5a4f170c88f6fb5f181254deb550f4931c51e20bfcb927562ab",
+  "location": {
+    "type": "google",
+    "text": "京都Swallowtail",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "西之都的不眠夜-1"
+}

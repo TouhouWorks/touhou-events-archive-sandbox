@@ -1,0 +1,30 @@
+{
+  "start": 1526688000,
+  "end": 1526688000,
+  "title": "Petit Fancy28",
+  "desc": "Petit Fancy28 于 台北市花博公园争艳馆 举办",
+  "url": "https://thwiki.cc/Petit_Fancy#ev-21",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bcd92e8142ad65b9bac01da548c4fcb1a41dadc9453a9405349f8cf5ec63a68d",
+  "location": {
+    "type": "google",
+    "text": "台北市花博公园争艳馆",
+    "entity": [
+      {
+        "id": "ChIJqY40N0-pQjQR--Pjh74pGro",
+        "addressLine1": "花博公園爭艷館",
+        "addressLine2": "台湾 台北市 中山区 Yumen Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "petit-fancy-21"
+}

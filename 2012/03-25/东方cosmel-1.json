@@ -1,0 +1,30 @@
+{
+  "start": 1332633600,
+  "end": 1332633600,
+  "title": "東方コスメル 。 at 神戸サンボー",
+  "desc": "东方Cosmel 。 at 神户Sambo 于 神户Sambo中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Cosmel#ev-1",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ce493d6710e14e39b2b23dc06e49fe4a64d65f138a6973bfff0cdb14d65ae74e",
+  "location": {
+    "type": "google",
+    "text": "神户Sambo中心",
+    "entity": [
+      {
+        "id": "ChIJq6rqW_aOAGAR6M1uk8yCe3A",
+        "addressLine1": "神戶Sambo中心",
+        "addressLine2": "日本、兵庫県神戸市中央区浜辺通５丁目１−３２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方cosmel-1"
+}

@@ -1,0 +1,82 @@
+{
+  "start": 1359244800,
+  "end": 1359244800,
+  "title": "Magus Night -1st style-",
+  "desc": "Magus Night -1st style- 于 东京都 涩谷AMATE-RAXI 举办",
+  "url": "https://thwiki.cc/Magus_Night%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89#ev-1",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d1107e40e114159a51bbbbf98f73177c82f91177d561223f9a51fe0831557a35",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷AMATE-RAXI",
+    "entity": [
+      {
+        "id": "ChIJ0Qgx67KMGGARd2ZbObLZHPE",
+        "addressLine1": "涩谷区",
+        "addressLine2": "日本、東京都",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJGfSRvl6LGGAR5GDIDOVf4Bc",
+        "addressLine1": "涩谷",
+        "addressLine2": "日本、東京都渋谷区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJm-Zz9KiMGGARAfAdvrO1cM4",
+        "addressLine1": "Apple 涩谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目２０−９",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJcyH-4qiMGGARGzk4lZCx2xo",
+        "addressLine1": "PARCO涩谷",
+        "addressLine2": "日本、東京都渋谷区宇田川町１５−１",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJKTxuClmLGGARMIJ074ZRe8w",
+        "addressLine1": "涩谷公安局",
+        "addressLine2": "日本、東京都渋谷区渋谷３丁目８−１５",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "magus-night（活动）-1"
+}

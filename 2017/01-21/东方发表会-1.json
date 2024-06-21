@@ -1,0 +1,30 @@
+{
+  "start": 1484956800,
+  "end": 1484956800,
+  "title": "第1回東方発表会",
+  "desc": "第1回东方发表会 于 神奈川县相模原市 相模原市民会館 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8F%91%E8%A1%A8%E4%BC%9A#ev-1",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "08d866f04d460e6bb908a8538a4ce83c69d526a15e21ff86e9e9223da4a63eec",
+  "location": {
+    "type": "google",
+    "text": "神奈川县相模原市 相模原市民会館",
+    "entity": [
+      {
+        "id": "ChIJG0Zib5j9GGARaST9RZd6pPw",
+        "addressLine1": "相模原市民会館",
+        "addressLine2": "日本、神奈川県相模原市中央区中央３丁目１３−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方发表会-1"
+}

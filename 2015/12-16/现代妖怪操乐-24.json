@@ -1,0 +1,31 @@
+{
+  "start": 1450224000,
+  "end": 1450224000,
+  "title": "今様妖怪操楽 Vol.24",
+  "desc": "现代妖怪操乐 Vol.24 于 东京都 东京354CLUB 举办",
+  "url": "https://thwiki.cc/%E7%8E%B0%E4%BB%A3%E5%A6%96%E6%80%AA%E6%93%8D%E4%B9%90#ev-24",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5432deae46255dc2a02f612184efa2fda33fb299cc2e690e7bf916af46896f49",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京354CLUB",
+    "entity": [
+      {
+        "id": "ChIJAxN6p6mMGGAR9G84EXQWd4w",
+        "addressLine1": "Club Malcolm",
+        "addressLine2": "日本、東京都渋谷区宇田川町３０−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "现代妖怪操乐-24"
+}

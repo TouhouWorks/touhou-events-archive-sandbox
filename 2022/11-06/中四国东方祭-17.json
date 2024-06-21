@@ -1,0 +1,30 @@
+{
+  "start": 1667692800,
+  "end": 1667692800,
+  "title": "中四国東方祭16",
+  "desc": "中四国东方祭16 于 广岛市 东区民文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%9B%E5%9B%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-17",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f3590c74c2a97a0c44f311d8cba22b7f932ae7ab017689a1a0a2efc6c1fc6e46",
+  "location": {
+    "type": "google",
+    "text": "广岛市 东区民文化中心",
+    "entity": [
+      {
+        "id": "ChIJ1XPbYFqfWjURduqnRTmy_P8",
+        "addressLine1": "廣島東區區民文化中心",
+        "addressLine2": "日本、広島県広島市東区東蟹屋町１０−３１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "中四国东方祭-17"
+}

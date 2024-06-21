@@ -1,0 +1,76 @@
+{
+  "start": 1062288000,
+  "end": 1062288000,
+  "title": "こみっく★トレジャー2",
+  "desc": "ComicTreasure 2 于 INTEX大阪 6号馆B 举办",
+  "url": "https://thwiki.cc/ComicTreasure#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bf321aaa5127e20b8391c0f585e49cc7d458398d4f37a30326cd14fab62fc913",
+  "location": {
+    "type": "google",
+    "text": "INTEX大阪 6号馆B",
+    "entity": [
+      {
+        "id": "ChIJ6fHBIE7oAGARy0PQTk2uBtA",
+        "addressLine1": "インテックス大阪 6号館",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北１丁目５−１０２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLwzzpPznAGARYnyAmmokYMw",
+        "addressLine1": "BEAUTY GENE professional 梅田店",
+        "addressLine2": "日本、大阪府大阪市北区茶屋町１３−番",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJu117ZnPnAGARJ3detj2cBZM",
+        "addressLine1": "池島住宅6号館",
+        "addressLine2": "日本、大阪府大阪市港区池島２丁目６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJW6aPYxrnAGARCPfbyBD-e9s",
+        "addressLine1": "Rakuten mobile Shinsaibashi",
+        "addressLine2": "6号 ４丁目-４ 南船場 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJDdnFPBLnAGARN-0FrudqK7c",
+        "addressLine1": "船場センタービル６号館",
+        "addressLine2": "日本、大阪府大阪市中央区船場中央２丁目３−６",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comictreasure-2"
+}

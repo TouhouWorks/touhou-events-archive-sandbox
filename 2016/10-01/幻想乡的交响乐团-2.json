@@ -1,0 +1,30 @@
+{
+  "start": 1475280000,
+  "end": 1475280000,
+  "title": "幻想郷の交響楽団 - 彈幕圓舞曲 -",
+  "desc": "幻想乡的交响乐团 - 弹幕圆舞曲 - 于 东京都新宿区西新宿3-20-2 东京歌剧城3F 武满彻纪念演奏厅 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2#ev-2",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0cd98d0af7d7e0f343c2081d9885608ca7207e4b142a7cb3072b22d70b838b7",
+  "location": {
+    "type": "google",
+    "text": "东京都新宿区西新宿3-20-2 东京歌剧城3F 武满彻纪念演奏厅",
+    "entity": [
+      {
+        "id": "ChIJZw5vwi3zGGARTZzWN1lBYUo",
+        "addressLine1": "东京歌剧城",
+        "addressLine2": "日本、東京都新宿区西新宿３−２０−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想乡的交响乐团-2"
+}

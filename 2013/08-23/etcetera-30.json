@@ -1,0 +1,42 @@
+{
+  "start": 1377216000,
+  "end": 1377216000,
+  "title": "えとせとら Vol.30",
+  "desc": "Etcetera Vol.30 于 东京都 涩谷DESEO 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-30",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "865b92192b0a080fd5d09399a0bb10ec2e0902dae76fdd82d916ad334ab107a3",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷DESEO",
+    "entity": [
+      {
+        "id": "ChIJVVVVVVqLGGARiTxK-j2NGI0",
+        "addressLine1": "DESEO mini with VILLAGE VANGUARD",
+        "addressLine2": "日本、東京都渋谷区道玄坂２丁目１３−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJq6qqqlmLGGARdCCfgRtcdKQ",
+        "addressLine1": "Shibuya Deseo",
+        "addressLine2": "２丁目-１３-５ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-30"
+}

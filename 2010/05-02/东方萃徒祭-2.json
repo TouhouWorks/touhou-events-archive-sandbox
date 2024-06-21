@@ -1,0 +1,30 @@
+{
+  "start": 1272758400,
+  "end": 1272758400,
+  "title": "第二回 東方萃徒祭",
+  "desc": "第二回 东方萃徒祭 于 大阪府 门真市民交流会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E5%BE%92%E7%A5%AD#ev-2",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c512e2bf80c3c41224e739d8b68412cc7c0a2db899b27340eb9dcaa7dfd61cd8",
+  "location": {
+    "type": "google",
+    "text": "大阪府 门真市民交流会馆",
+    "entity": [
+      {
+        "id": "ChIJecfIXOzhAGARPdvzB8L2Hrk",
+        "addressLine1": "門真市立市民交流会館・中塚荘",
+        "addressLine2": "日本、大阪府門真市月出町１１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方萃徒祭-2"
+}

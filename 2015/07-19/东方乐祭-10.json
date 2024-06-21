@@ -1,0 +1,19 @@
+{
+  "start": 1437264000,
+  "end": 1437264000,
+  "title": "東方樂祭 in 金沢東方祭",
+  "desc": "东方乐祭 in 金泽东方祭 于 金泽市 金泽劳动者Plaza 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-10",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f4ee9320be1380949b27a57996ae1b25e2df04907cf516c3fc2b8ea718149c98",
+  "location": {
+    "type": "google",
+    "text": "金泽市 金泽劳动者Plaza",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方乐祭-10"
+}

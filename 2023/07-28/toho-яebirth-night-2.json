@@ -1,0 +1,69 @@
+{
+  "start": 1690502400,
+  "end": 1690502400,
+  "title": "TOHO Яebirth Night Vol.2",
+  "desc": "TOHO Яebirth Night Vol.2 于 札幌市 Bar XENON 举办",
+  "url": "https://thwiki.cc/TOHO_%D0%AFebirth_Night#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a092e359d9d9426ad4ad29abf317a5b0915224734c9c9338049dadc68c6716f2",
+  "location": {
+    "type": "google",
+    "text": "札幌市 Bar XENON",
+    "entity": [
+      {
+        "id": "ChIJ__9LJIYpC18RG97WSmR17ms",
+        "addressLine1": "XENON",
+        "addressLine2": "日本、北海道札幌市中央区南７条西４丁目２−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
+        "addressLine1": "札幌市",
+        "addressLine2": "日本、北海道",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJV5plHJUpC18RPQHygtL9Q9M",
+        "addressLine1": "札幌市保健所",
+        "addressLine2": "日本、北海道札幌市中央区大通西１９丁目",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJmZp3z18oC18RF3Y_bDjts7g",
+        "addressLine1": "農試公園",
+        "addressLine2": "日本、北海道札幌市西区八軒５条西６丁目95−２１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "toho-яebirth-night-2"
+}

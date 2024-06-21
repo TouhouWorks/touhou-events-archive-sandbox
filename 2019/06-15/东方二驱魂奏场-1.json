@@ -1,0 +1,19 @@
+{
+  "start": 1560556800,
+  "end": 1560556800,
+  "title": "東方二駆魂奏場1",
+  "desc": "东方二驱魂奏场1 于 广岛市中区药研堀 三和大楼 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BA%8C%E9%A9%B1%E9%AD%82%E5%A5%8F%E5%9C%BA#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "046459bca52c964d29fca0235a82e2a829ab75c12ece33ef840305c06339924a",
+  "location": {
+    "type": "google",
+    "text": "广岛市中区药研堀 三和大楼",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方二驱魂奏场-1"
+}

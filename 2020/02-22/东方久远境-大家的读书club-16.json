@@ -1,0 +1,66 @@
+{
+  "start": 1582329600,
+  "end": 1582329600,
+  "title": "東方久遠境 みんなの読書クラブ 別府・西法寺の巻",
+  "desc": "东方久远境 大家的读书Club 别府·西法寺之卷 于 大分县别府市 西法寺 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83_%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%AF%BB%E4%B9%A6Club#ev-16",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "77dd4d4c6465d4926e3d4f327923c1d0b1952f464334e12f9ab073cafe913609",
+  "location": {
+    "type": "google",
+    "text": "大分县别府市 西法寺",
+    "entity": [
+      {
+        "id": "ChIJ7wY8lMKmRjURM4ZYkghZwWM",
+        "addressLine1": "西法寺",
+        "addressLine2": "日本、大分県別府市中央町９−３２",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJec4CWlCnRjURBAdOenwMDFE",
+        "addressLine1": "西法寺坂ハイツ B",
+        "addressLine2": "日本、大分県別府市馬場２９４２−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsym3T6inRjUReiBJPq7PCdY",
+        "addressLine1": "西法寺坂ハイツ A",
+        "addressLine2": "日本、大分県別府市馬場２９４２−４",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJfdaUOainRjURAz5dRaCEMx0",
+        "addressLine1": "西法寺",
+        "addressLine2": "日本、大分県別府市鶴見",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方久远境-大家的读书club-16"
+}

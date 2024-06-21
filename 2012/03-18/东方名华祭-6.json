@@ -1,0 +1,19 @@
+{
+  "start": 1332028800,
+  "end": 1332028800,
+  "title": "東方名華祭6",
+  "desc": "东方名华祭6 于 名古屋市 爱知中高年龄劳动者福祉中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5a30f4584bb4f93156abd472eb081a7b2563a3fd5faeea4b5d57d556f8312e8a",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 爱知中高年龄劳动者福祉中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方名华祭-6"
+}

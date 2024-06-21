@@ -1,0 +1,19 @@
+{
+  "start": 1636243200,
+  "end": 1636243200,
+  "title": "東方電絆祭1",
+  "desc": "东方电绊祭1 于 pictSQUARE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%94%B5%E7%BB%8A%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a7fe916ec0b2bd4c8b81c5482fea670b396b89d9e03d677cc981a9b23c26e1a4",
+  "location": {
+    "type": "google",
+    "text": "pictSQUARE",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方电绊祭-1"
+}

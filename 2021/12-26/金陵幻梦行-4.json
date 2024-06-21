@@ -1,0 +1,30 @@
+{
+  "start": 1640476800,
+  "end": 1640476800,
+  "title": "南京THO-金陵幻梦行2.0",
+  "desc": "南京THO-金陵幻梦行2.0 于 南京市 南京奥林匹克体育中心 稻香音乐空间 举办",
+  "url": "https://thwiki.cc/%E9%87%91%E9%99%B5%E5%B9%BB%E6%A2%A6%E8%A1%8C#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e57049b4d9c32a7cceccf799ad480028ce1fa297df94d680afdedea82f70f89c",
+  "location": {
+    "type": "google",
+    "text": "南京市 南京奥林匹克体育中心 稻香音乐空间",
+    "entity": [
+      {
+        "id": "ChIJS8azPdSLtTURv314UlQlVZ4",
+        "addressLine1": "稻香音乐空间",
+        "addressLine2": "中華人民共和国 江蘇省 南京市 建ギョウ 222, Jiangdong Middle Road, 南京奥林匹克体育中心",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "金陵幻梦行-4"
+}

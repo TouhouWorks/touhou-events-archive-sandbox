@@ -1,0 +1,30 @@
+{
+  "start": 1492214400,
+  "end": 1492214400,
+  "title": "Petit Fancy26",
+  "desc": "Petit Fancy26 于 台北市花博公园争艳馆 举办",
+  "url": "https://thwiki.cc/Petit_Fancy#ev-19",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4959ac7211f50502896ff601a63c2f234d3ba73e97d18cc5bb71916d7c6b48bb",
+  "location": {
+    "type": "google",
+    "text": "台北市花博公园争艳馆",
+    "entity": [
+      {
+        "id": "ChIJqY40N0-pQjQR--Pjh74pGro",
+        "addressLine1": "花博公園爭艷館",
+        "addressLine2": "台湾 台北市 中山区 Yumen Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "petit-fancy-19"
+}

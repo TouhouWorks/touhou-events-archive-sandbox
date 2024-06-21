@@ -1,0 +1,76 @@
+{
+  "start": 1234569600,
+  "end": 1234569600,
+  "title": "COMIDAY3",
+  "desc": "COMIDAY3 于 成都市 四川科技馆 举办",
+  "url": "https://thwiki.cc/COMIDAY#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bad1b5bc95ef4b7a3bfc40c66305a004b4fef78df8cc99e4388790bef152b8ab",
+  "location": {
+    "type": "google",
+    "text": "成都市 四川科技馆",
+    "entity": [
+      {
+        "id": "ChIJcbd50jrF7zYRnytgUX55Sio",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Luomashi, Renmin Middle Road Section 1",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJfXZBzSTF7zYRUQmuR9ZEAHI",
+        "addressLine1": "四川科技馆售票处",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Luomashi, Renmin Middle Road Section 1",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ85DXNjvF7zYR8VirKreGH6s",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Yulin",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJJ0dILjvF7zYR3wQdd18dGhU",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Fuqin",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJDxUmLjvF7zYRJ-6EqTJ7JS0",
+        "addressLine1": "四川科技馆",
+        "addressLine2": "中華人民共和国 四川省 成都市 青羊区 Luomashi",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comiday-3"
+}

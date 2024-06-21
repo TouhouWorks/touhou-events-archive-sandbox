@@ -1,0 +1,32 @@
+{
+  "start": 1495843200,
+  "end": 1495843200,
+  "title": "えとせとら Vol.70",
+  "desc": "Etcetera Vol.70 于 东京都 fai青山 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-71",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3a5b86218e1bb7150068546447ca109502acaa0a54f35f794e525abd2dd70b75",
+  "location": {
+    "type": "google",
+    "text": "东京都 fai青山",
+    "entity": [
+      {
+        "id": "ChIJcUnZ51-LGGARZPUQ7NGgSF4",
+        "addressLine1": "FAI AOYAMA",
+        "addressLine2": "日本、東京都港区南青山５丁目１０−１",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-71"
+}

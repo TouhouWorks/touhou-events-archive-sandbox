@@ -1,0 +1,48 @@
+{
+  "start": 1504396800,
+  "end": 1504396800,
+  "title": "Unknown Girls2",
+  "desc": "Unknown Girls2 于 东京批发中心 举办",
+  "url": "https://thwiki.cc/Unknown_Girls#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f89188095802f2a1fd5e9c9de501ef9ed31f8ab196b21515f5a1eaec2e231915",
+  "location": {
+    "type": "google",
+    "text": "东京批发中心",
+    "entity": [
+      {
+        "id": "ChIJERlP4o2JGGARa_GPXaeGt2o",
+        "addressLine1": "東京都中央批發市場 豐洲市場 水產批發大樓",
+        "addressLine2": "日本、東京都江東区豊洲６丁目６−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJMSB1ca3L0DURWnydZGpbK_0",
+        "addressLine1": "医药有限公司药品批发中心",
+        "addressLine2": "中華人民共和国 河南省 祥符区 尉氏県 Wenhua Middle Road",
+        "provider": "google_places",
+        "categories": [
+          "PHARMACY",
+          "SHOPS_AND_SERVICES",
+          "pharmacy",
+          "health",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "unknown-girls-2"
+}

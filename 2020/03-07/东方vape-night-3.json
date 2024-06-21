@@ -1,0 +1,32 @@
+{
+  "start": 1583539200,
+  "end": 1583539200,
+  "title": "東方VAPEナイト 3",
+  "desc": "东方VAPE Night 3 于 佐贺市 异世界酒场 bar 星月夜 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9VAPE_Night#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e72e53741a87d81da51651f26c418a0a0361913c038c76bffdd3deaad03f9af7",
+  "location": {
+    "type": "google",
+    "text": "佐贺市 异世界酒场 bar 星月夜",
+    "entity": [
+      {
+        "id": "ChIJvaRfXHLLQTURsOW6KYS5FsY",
+        "addressLine1": "~異世界酒場~BAR星月夜",
+        "addressLine2": "日本、佐賀県佐賀市愛敬町２−２３",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方vape-night-3"
+}

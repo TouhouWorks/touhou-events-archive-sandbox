@@ -1,0 +1,19 @@
+{
+  "start": 1185580800,
+  "end": 1185580800,
+  "title": "Fancy Frontier 10",
+  "desc": "Fancy Frontier 10 于 台北市 国立台湾大学综合体育馆 1、3层 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aad9adf3374e8c1498fa6c9955defabdbab1a437eaa7416940dc51e0b57ff94d",
+  "location": {
+    "type": "google",
+    "text": "台北市 国立台湾大学综合体育馆 1、3层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "fancy-frontier-7"
+}

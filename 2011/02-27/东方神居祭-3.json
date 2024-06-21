@@ -1,0 +1,71 @@
+{
+  "start": 1298764800,
+  "end": 1298764800,
+  "title": "東方神居祭3",
+  "desc": "东方神居祭3 于 札幌Teisen Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e00cb313e95c220d375e67e01e41d2ef3c9eed67c0402fe5256d9fa87516b7c8",
+  "location": {
+    "type": "google",
+    "text": "札幌Teisen Hall",
+    "entity": [
+      {
+        "id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
+        "addressLine1": "札幌市",
+        "addressLine2": "日本、北海道",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJw3hUfZ0pC18RIzQVKCVmxZg",
+        "addressLine1": "Kanamoto Hall",
+        "addressLine2": "１丁目 北１条西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsWCAD50pC18RnvS2X8lWUv4",
+        "addressLine1": "Doshin Hall",
+        "addressLine2": "３丁目-６ 大通西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7YZxOHQpC18RKj5jX5XxpcI",
+        "addressLine1": "Kyosai Hall",
+        "addressLine2": "１丁目 北４条西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ0btUCSkrdV8RBrhZkmKuEuE",
+        "addressLine1": "Takino Hall",
+        "addressLine2": "１０２−１ 滝野 南区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方神居祭-3"
+}

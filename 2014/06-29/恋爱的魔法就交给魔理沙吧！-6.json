@@ -1,0 +1,30 @@
+{
+  "start": 1404000000,
+  "end": 1404000000,
+  "title": "恋のまほうは魔理沙におまかせ！6",
+  "desc": "恋爱的魔法就交给魔理沙吧！6 于 东京都大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E6%81%8B%E7%88%B1%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%B1%E4%BA%A4%E7%BB%99%E9%AD%94%E7%90%86%E6%B2%99%E5%90%A7%EF%BC%81#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e75c2c62c74800cbba69ed5ccd10f6e4637ed8ecc7976a9e5f6b95e818699b72",
+  "location": {
+    "type": "google",
+    "text": "东京都大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "恋爱的魔法就交给魔理沙吧！-6"
+}

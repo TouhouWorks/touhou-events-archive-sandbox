@@ -1,0 +1,19 @@
+{
+  "start": 1670716800,
+  "end": 1670716800,
+  "title": "東方アバター配布会1",
+  "desc": "东方Avatar发布会1 于 pictSQUARE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Avatar%E5%8F%91%E5%B8%83%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "09a62b9b603626ba151e6b4d131f4320df72280c94558cd0ced74ff8eab3c94a",
+  "location": {
+    "type": "google",
+    "text": "pictSQUARE",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方avatar发布会-1"
+}

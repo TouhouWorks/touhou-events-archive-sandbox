@@ -1,0 +1,30 @@
+{
+  "start": 1657929600,
+  "end": 1657929600,
+  "title": "東方鋼鉄狂 ～2nd beat～",
+  "desc": "东方钢铁狂 ～2nd beat～ 于 札幌CLUB ANiMA 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%92%A2%E9%93%81%E7%8B%82#ev-2",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "28c2dc81e54402684c84a283be0adf5ad3d37c4727dc1ab984192b169fc3ce83",
+  "location": {
+    "type": "google",
+    "text": "札幌CLUB ANiMA",
+    "entity": [
+      {
+        "id": "ChIJDVGV3mQpC18RgEUQimgH8Nk",
+        "addressLine1": "CLUB ANiMA",
+        "addressLine2": "日本、北海道札幌市中央区南５条西２丁目8−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方钢铁狂-2"
+}

@@ -1,0 +1,54 @@
+{
+  "start": 1708041600,
+  "end": 1708041600,
+  "title": "海南THO-东方光盈海",
+  "desc": "海南THO-东方光盈海 于 海南省海口市 海口香江国际温泉大酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%85%89%E7%9B%88%E6%B5%B7#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "895e165b51a573f2fd0904d6ca0648f30f2d1b59f2d230e98a43b8f4764aadd5",
+  "location": {
+    "type": "google",
+    "text": "海南省海口市 海口香江国际温泉大酒店",
+    "entity": [
+      {
+        "id": "ChIJKerU2hbTUzERs24TDKIB64s",
+        "addressLine1": "香江国际温泉大酒店",
+        "addressLine2": "中華人民共和国 海南省 海口市 瓊山区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJJxfN3hbTUzERbASf-sKkPbI",
+        "addressLine1": "香江国际温泉大酒店停车场",
+        "addressLine2": "中華人民共和国 海南省海口市 瓊山区 Qiongzhou Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJlWBk2RbTUzERDKxzbDiWL3c",
+        "addressLine1": "香江国际温泉大酒店电动汽车充电站",
+        "addressLine2": "中華人民共和国 海南省海口市 瓊山区 17, Qiongzhou Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方光盈海-1"
+}

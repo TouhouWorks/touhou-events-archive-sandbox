@@ -1,0 +1,70 @@
+{
+  "start": 1557532800,
+  "end": 1557532800,
+  "title": "Lunatic East 2019 1",
+  "desc": "Lunatic East 2019 1 于 横滨市 横滨7th AVENUE 举办",
+  "url": "https://thwiki.cc/Lunatic_East_2019#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4b210c4c49c11e9a4a77acece07f4834461f335de1ff30344c41326898c60d86",
+  "location": {
+    "type": "google",
+    "text": "横滨市 横滨7th AVENUE",
+    "entity": [
+      {
+        "id": "ChIJKVTSSOVcGGARXV3QO7wZgbQ",
+        "addressLine1": "セブンスアベニュー",
+        "addressLine2": "日本、神奈川県横浜市中区山下町２５２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJvdEtAtpeGGARF8poryIu1i4",
+        "addressLine1": "横滨体育馆",
+        "addressLine2": "日本、神奈川県横浜市港北区新横浜３丁目１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJWUURTV1cGGARBqx4CqSvTOc",
+        "addressLine1": "横滨美术馆",
+        "addressLine2": "日本、神奈川県横浜市西区みなとみらい３丁目４−１",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJ8dLP9g1cGGAR9TVSa_OmvLs",
+        "addressLine1": "横滨",
+        "addressLine2": "日本、神奈川県横浜市西区高島２丁目１６",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "lunatic-east-2019-1"
+}

@@ -1,0 +1,74 @@
+{
+  "start": 1415404800,
+  "end": 1415404800,
+  "title": "ComicDive 10",
+  "desc": "ComicDive 10 于 湖北省武汉市 洪山体育馆 举办",
+  "url": "https://thwiki.cc/ComicDive#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a3913266fcc5c53060dca7b153ae32c8a9e148ce196cbdff0b783db90f66179",
+  "location": {
+    "type": "google",
+    "text": "湖北省武汉市 洪山体育馆",
+    "entity": [
+      {
+        "id": "ChIJK7uTiWKlLjQR7e0td97j21E",
+        "addressLine1": "洪山体育馆",
+        "addressLine2": "中華人民共和国 湖北省武汉市 武昌区 街道口",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJX6Slh2KlLjQRRVzqdcGU2Ak",
+        "addressLine1": "洪山体育馆",
+        "addressLine2": "中華人民共和国 湖北省武汉市 武昌区 体育馆路",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg9JCzHylLjQRHLcEfpdj9_w",
+        "addressLine1": "洪山体育馆羽毛球馆",
+        "addressLine2": "中華人民共和国 武汉市 武昌区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFehTe2KlLjQR0LqDDQqwyOw",
+        "addressLine1": "洪山体育馆（南门）",
+        "addressLine2": "中華人民共和国 湖北省武汉市 武昌区 民主路",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJy1NC1YmvLjQRfKUqG9EyWeQ",
+        "addressLine1": "武汉市洪山体育馆广告有限公司",
+        "addressLine2": "中華人民共和国 湖北省 武漢市 武昌区 Minzhu Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicdive-10"
+}

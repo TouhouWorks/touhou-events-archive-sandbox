@@ -1,0 +1,30 @@
+{
+  "start": 1276560000,
+  "end": 1276560000,
+  "title": "ComiTime2",
+  "desc": "ComiTime2 于 重庆市 陈家坪展览中心 圆馆 举办",
+  "url": "https://thwiki.cc/%E9%87%8D%E5%BA%86ComiTime%E9%9B%BE%E9%83%BD%E5%90%8C%E4%BA%BA%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bac5ffa710eb99094c92b9e45c920714d6c4b98ca199ad6c16d59801a4681028",
+  "location": {
+    "type": "google",
+    "text": "重庆市 陈家坪展览中心 圆馆",
+    "entity": [
+      {
+        "id": "ChIJ2ybXov7K7DYRnDcY0hAq1cQ",
+        "addressLine1": "陈家坪展览中心",
+        "addressLine2": "中華人民共和国 重庆市 九竜坡区 高新区 Keyuansi Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "重庆comitime雾都同人祭-2"
+}

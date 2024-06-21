@@ -1,0 +1,34 @@
+{
+  "start": 1108771200,
+  "end": 1108771200,
+  "title": "Fancy Frontier 5",
+  "desc": "Fancy Frontier 5 于 台北市 国立台湾大学综合体育馆 3层 举办",
+  "url": "https://thwiki.cc/Fancy_Frontier#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2364b8c5760a65d38d8a630e5405d8912bb68885de3f596c3b260fc7ec9c8651",
+  "location": {
+    "type": "google",
+    "text": "台北市 国立台湾大学综合体育馆 3层",
+    "entity": [
+      {
+        "id": "ChIJHYeewoupQjQRo1LvtfKwHYY",
+        "addressLine1": "国立台湾大学综合体育馆",
+        "addressLine2": "台湾 台北市 大安区 Section 4, Roosevelt Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "fancy-frontier-2"
+}

@@ -1,0 +1,36 @@
+{
+  "start": 1469923200,
+  "end": 1469923200,
+  "title": "第十六回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第十六回 Cosplay&痛车Festival与森罗万象之宴 于 山口县下关市 はい！からっと横丁 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-16",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9b316274f8a5517376c4b9fb654f49bcfe902439e35bf66d2d7ed558fbd1e762",
+  "location": {
+    "type": "google",
+    "text": "山口县下关市 はい！からっと横丁",
+    "entity": [
+      {
+        "id": "ChIJx7zMNJm9QzURBF4LG0tkitg",
+        "addressLine1": "はい！からっと横丁",
+        "addressLine2": "日本、山口県下関市あるかぽーと１−４０",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "amusement_park",
+          "THEME_PARK",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "cosplay&痛车festival与森罗万象之宴-16"
+}

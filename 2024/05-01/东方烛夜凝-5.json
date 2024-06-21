@@ -1,0 +1,30 @@
+{
+  "start": 1714521600,
+  "end": 1714521600,
+  "title": "长沙THONLY-星城幻想荟萃",
+  "desc": "长沙THONLY-星城幻想荟萃 于 长沙市 慕弈H酒店(五一大道店) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%83%9B%E5%A4%9C%E5%87%9D#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f7f399b9887812a6271b45c3b3cfcb75d4ca84574628ca9ddafd0905edea8b31",
+  "location": {
+    "type": "google",
+    "text": "长沙市 慕弈H酒店(五一大道店)",
+    "entity": [
+      {
+        "id": "EkDkuK3oj6_kurrmsJHlhbHlkozlm70g5rmW5Y2X55yBIOmVv-aymeW4giDlpKnlv4PljLog5LqU5LiA5aSn6YGTIi4qLAoUChIJz05mKHtKJzQRaPdl0s9Vc9YSFAoSCcnXHLoRtSA0EU7xZHt28RE8",
+        "addressLine1": "五一大道",
+        "addressLine2": "中華人民共和国 湖南省 长沙市 天心区",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方烛夜凝-5"
+}

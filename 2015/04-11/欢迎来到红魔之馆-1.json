@@ -1,0 +1,30 @@
+{
+  "start": 1428710400,
+  "end": 1428710400,
+  "title": "ようこそ紅魔の館1",
+  "desc": "欢迎来到红魔之馆1 于 东京都 大田区产业广场Pio 1层 大展示厅 举办",
+  "url": "https://thwiki.cc/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BA%A2%E9%AD%94%E4%B9%8B%E9%A6%86#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6ab26873ec9860aa98100be7cbf3a152a7eef9114eae306f382939ff8e08829d",
+  "location": {
+    "type": "google",
+    "text": "东京都 大田区产业广场Pio 1层 大展示厅",
+    "entity": [
+      {
+        "id": "ChIJ46Rdf_hgGGARsM-s9KKTBIo",
+        "addressLine1": "大田区产业广场 PiO",
+        "addressLine2": "日本、東京都大田区南蒲田１丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "欢迎来到红魔之馆-1"
+}

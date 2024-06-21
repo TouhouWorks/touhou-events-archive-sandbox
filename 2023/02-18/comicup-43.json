@@ -1,0 +1,30 @@
+{
+  "start": 1676678400,
+  "end": 1676678400,
+  "title": "COMICUP2023SP",
+  "desc": "COMICUP2023SP 于 广州市 广州保利世贸博览馆 举办",
+  "url": "https://thwiki.cc/COMICUP#ev-43",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2aa079d6917694166fca40767c8404eac253ee1051f37b261b3466ce85ccc3d9",
+  "location": {
+    "type": "google",
+    "text": "广州市 广州保利世贸博览馆",
+    "entity": [
+      {
+        "id": "ChIJK8azHe3_AjQRPKNiEBU20X8",
+        "addressLine1": "保利世貿展覧館",
+        "addressLine2": "中華人民共和国 広東省 広州市 海珠区 Xin'gang East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comicup-43"
+}

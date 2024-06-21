@@ -1,0 +1,30 @@
+{
+  "start": 1658534400,
+  "end": 1658534400,
+  "title": "鄭州THO-東方岚空譚",
+  "desc": "郑州THO-东方岚空谭 于 郑州 涵唐酒店（原天泉大酒店） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fa919e021641086ee8f8c2ff8e127f0d61124c7b3d3c25c624ae556537d1b66e",
+  "location": {
+    "type": "google",
+    "text": "郑州 涵唐酒店（原天泉大酒店）",
+    "entity": [
+      {
+        "id": "ChIJN3lXQftl1zURpX-xHegYykw",
+        "addressLine1": "天泉大酒店",
+        "addressLine2": "中華人民共和国 河南省 郑州 二七区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方华月宴·槐序绮想-6"
+}

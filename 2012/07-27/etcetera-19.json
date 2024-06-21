@@ -1,0 +1,30 @@
+{
+  "start": 1343347200,
+  "end": 1343347200,
+  "title": "えとせとら Vol.19",
+  "desc": "Etcetera Vol.19 于 东京都 秋叶原Hundred Square 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-19",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f3781613765cc44803f97d4b356b60c9a41c00e33ee9f38ccd0d58dd257d09f8",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原Hundred Square",
+    "entity": [
+      {
+        "id": "ChIJn4Dlrq-OGGARZVE9injmEx4",
+        "addressLine1": "秋葉原ハンドレッドスクエア倶楽部",
+        "addressLine2": "日本、東京都台東区浅草橋５丁目３−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-19"
+}

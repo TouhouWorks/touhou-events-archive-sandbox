@@ -1,0 +1,76 @@
+{
+  "start": 1553904000,
+  "end": 1553904000,
+  "title": "幻想茶会1",
+  "desc": "幻想茶会1 于 北京 中国传媒大学 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dabe2551367d8028467e5fbbf6a76a930d617eadcb9b0de3c30b0144c03f8244",
+  "location": {
+    "type": "google",
+    "text": "北京 中国传媒大学",
+    "entity": [
+      {
+        "id": "ChIJz5ALwN6u8TURXCU9MJ2fYB0",
+        "addressLine1": "中国传媒大学",
+        "addressLine2": "中華人民共和国 北京 朝陽区 Dingfuzhuang East Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ72Fcbt-u8TUR8YmCZaaybOE",
+        "addressLine1": "中国传媒大学－２１号楼",
+        "addressLine2": "中華人民共和国 北京 朝陽区 通惠河",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJD9kXZtmu8TURMhxaCg3PBsY",
+        "addressLine1": "中国传媒大学（北门）",
+        "addressLine2": "中華人民共和国 北京 朝陽区 朝阳路辅路",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzchutt-u8TURtktRyl7Amns",
+        "addressLine1": "中国传媒大学图书馆分馆",
+        "addressLine2": "中華人民共和国 北京 朝陽区 Dingfuzhuang East Street",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJNydRbt-u8TURaAffp-xzlP4",
+        "addressLine1": "中国传媒大学国际交流中心",
+        "addressLine2": "中華人民共和国 北京 朝陽区 京通快速路",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想茶会-1"
+}

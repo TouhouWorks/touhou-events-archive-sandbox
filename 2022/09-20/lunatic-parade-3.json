@@ -1,0 +1,30 @@
+{
+  "start": 1663632000,
+  "end": 1663632000,
+  "title": "LUNATIC PARADE Vol.03",
+  "desc": "LUNATIC PARADE Vol.03 于 东京都 ASAGAYADRUM 举办",
+  "url": "https://thwiki.cc/LUNATIC_PARADE#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d1d5c42262b4700fdd72785fedc080073c7b5612df3aa20449b5a4be36aaf0fc",
+  "location": {
+    "type": "google",
+    "text": "东京都 ASAGAYADRUM",
+    "entity": [
+      {
+        "id": "ChIJ4xzJonPyGGARhe8ft0wePrc",
+        "addressLine1": "Asagaya drum",
+        "addressLine2": "５丁目-３５-１２ 成田東 杉並区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "lunatic-parade-3"
+}

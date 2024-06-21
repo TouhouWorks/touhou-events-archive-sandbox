@@ -1,0 +1,82 @@
+{
+  "start": 1531699200,
+  "end": 1531699200,
+  "title": "東方樂祭 金沢東方樂祭SP",
+  "desc": "东方乐祭 金泽东方乐祭SP 于 金泽市 DOUBLE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-45",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "86671e332b758bce5d15d84de25a12ff12e1cf9488c9bee236bad97b770e794d",
+  "location": {
+    "type": "google",
+    "text": "金泽市 DOUBLE",
+    "entity": [
+      {
+        "id": "ChIJsfyP_38z-F8Rb-QfuAnzKz4",
+        "addressLine1": "ダブル金沢",
+        "addressLine2": "日本、石川県金沢市片町２丁目８−３",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJS1Szd00z-F8RLHpBZtDWnh8",
+        "addressLine1": "Bar double",
+        "addressLine2": "日本、石川県金沢市彦三町２丁目１−１３",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJTb22ZGg1-F8RIQUbHPSyn4k",
+        "addressLine1": "HAIR MAKE DOUBLE",
+        "addressLine2": "日本、石川県金沢市横川４丁目１８１",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4RabiX8z-F8RpLIbzuAMYOc",
+        "addressLine1": "Sov. DOUBLE STANDARD CLOTHING",
+        "addressLine2": "１丁目-１-１ 香林坊 金沢市 石川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJl-LU-EAz-F8RrV87iels-S0",
+        "addressLine1": "Double Tree Parking Lot",
+        "addressLine2": "１丁目-４-１ 広岡 金沢市 石川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-45"
+}

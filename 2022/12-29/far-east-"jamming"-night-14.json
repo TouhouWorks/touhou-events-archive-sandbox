@@ -1,0 +1,76 @@
+{
+  "start": 1672272000,
+  "end": 1672272000,
+  "title": "Far East \"JAMMING\" Night9.5",
+  "desc": "Far East \"JAMMING\" Night9.5 于 东京都 Music Island O 举办",
+  "url": "https://thwiki.cc/Far_East_%22JAMMING%22_Night#ev-14",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "703a361c7e3b08fabcdc67c307f0b97c8551302355f2c3c026ef966d14870d9b",
+  "location": {
+    "type": "google",
+    "text": "东京都 Music Island O",
+    "entity": [
+      {
+        "id": "ChIJq6o-aGrzGGARzX_CQczngqg",
+        "addressLine1": "music island O",
+        "addressLine2": "２丁目-８-８ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAQAAAM2MGGARt6SupXS-V_A",
+        "addressLine1": "[ Music ]",
+        "addressLine2": "日本、東京都渋谷区代々木１丁目２７−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHbi8HSiNGGARKlVLNNkrV9M",
+        "addressLine1": "STUDIO MUSIC CITY（スタジオ ミュージックシティ）",
+        "addressLine2": "日本、東京都新宿区歌舞伎町２丁目４５−４",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJv8lmx7WLGGARig5-mCs9Ee8",
+        "addressLine1": "Music",
+        "addressLine2": "日本、東京都港区白金３丁目７−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJIy90yVeLGGAR-a1MTH0zQkc",
+        "addressLine1": "bar music",
+        "addressLine2": "１丁目-６-７ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "far-east-\"jamming\"-night-14"
+}

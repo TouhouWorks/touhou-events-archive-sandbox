@@ -1,0 +1,33 @@
+{
+  "start": 1632614400,
+  "end": 1632614400,
+  "title": "東方Practice 93",
+  "desc": "东方Practice 93 于 名古屋市 新荣CLUB MAGO 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-119",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1234a028a9aac129a052f92b4661aaab075291513bd26342c1bd7a2931dd262d",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 新荣CLUB MAGO",
+    "entity": [
+      {
+        "id": "ChIJq6rq78JwA2ARqvPzRlA-uPs",
+        "addressLine1": "MAGO",
+        "addressLine2": "日本、愛知県名古屋市中区新栄２丁目１",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方practice-119"
+}

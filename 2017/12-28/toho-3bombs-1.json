@@ -1,0 +1,65 @@
+{
+  "start": 1514419200,
+  "end": 1514419200,
+  "title": "TOHO 3BOMBS 1",
+  "desc": "TOHO 3BOMBS 1 于 东京都 unique LABORATORY 举办",
+  "url": "https://thwiki.cc/TOHO_3BOMBS#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "32e48de801609114f2dd96a8b8b68ad2f7d27ddbe433b7aaf5d3d43f0bb49a07",
+  "location": {
+    "type": "google",
+    "text": "东京都 unique LABORATORY",
+    "entity": [
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJQwQMvu7zGGARkunWdCSadzc",
+        "addressLine1": "OGAWA COFFEE LABORATORY 下北沢",
+        "addressLine2": "日本、東京都世田谷区北沢３丁目１９−２０",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJnePTxuONGGARfBYFCdwD660",
+        "addressLine1": "Roasted COFFEE LABORATORY Shibuya Jinnnan store",
+        "addressLine2": "１丁目-６-３ 神南 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "toho-3bombs-1"
+}

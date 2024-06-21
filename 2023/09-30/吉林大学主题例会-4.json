@@ -1,0 +1,42 @@
+{
+  "start": 1696032000,
+  "end": 1696032000,
+  "title": "秋月万象展～吉林大学东方project主题例会4",
+  "desc": "秋月万象展～吉林大学东方project主题例会4 于 长春市 朝阳区 卡斯顿精品酒店 举办",
+  "url": "https://thwiki.cc/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E4%B8%BB%E9%A2%98%E4%BE%8B%E4%BC%9A#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8e4a7995df1b6331eca05f0314b10e7855d21e0a139f26e81ff069bff348cc33",
+  "location": {
+    "type": "google",
+    "text": "长春市 朝阳区 卡斯顿精品酒店",
+    "entity": [
+      {
+        "id": "ChIJbVzqQo5cOF4RxXyhTE-ccG4",
+        "addressLine1": "卡斯顿精品酒店",
+        "addressLine2": "中華人民共和国 吉林省 长春市朝阳区 Qianjin Avenue",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJE7_xQ45cOF4RWjdk0_9f_ns",
+        "addressLine1": "卡斯顿精品酒店",
+        "addressLine2": "中華人民共和国 吉林省 长春市朝阳区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "吉林大学主题例会-4"
+}

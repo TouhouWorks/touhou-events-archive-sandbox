@@ -1,0 +1,19 @@
+{
+  "start": 1419811200,
+  "end": 1419811200,
+  "title": "Comic Market 87",
+  "desc": "Comic Market 87 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-32",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "76e8739240f3d802a0ae49bf7cc1ec7cacb1efbbc0ab39b1c3768b42e243503c",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-32"
+}

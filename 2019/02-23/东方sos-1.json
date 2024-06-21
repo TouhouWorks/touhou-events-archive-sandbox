@@ -1,0 +1,19 @@
+{
+  "start": 1550880000,
+  "end": 1550880000,
+  "title": "東方SOS 1",
+  "desc": "东方SOS 1 于 辽宁省大连市 心悦酒店5L大厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9SOS#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "66e1f7761afa3f2d50fcbf2694e5e3be6364e5bf5d493eda73c4036f8701d6d2",
+  "location": {
+    "type": "google",
+    "text": "辽宁省大连市 心悦酒店5L大厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方sos-1"
+}

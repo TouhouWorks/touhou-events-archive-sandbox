@@ -1,0 +1,90 @@
+{
+  "start": 1432684800,
+  "end": 1432684800,
+  "title": "酔符「しちほださま」",
+  "desc": "醉符「七步蛇大人」 于 东京都 秋叶原Anison 举办",
+  "url": "https://thwiki.cc/%E9%86%89%E7%AC%A6#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ff2e4e3d4f3be4539513acf48899eb394cc1b06be70c1cdeb293319ef4e71a6a",
+  "location": {
+    "type": "google",
+    "text": "东京都 秋叶原Anison",
+    "entity": [
+      {
+        "id": "ChIJ__SmPqeOGGAR42HgD-XxuV4",
+        "addressLine1": "秋叶原",
+        "addressLine2": "日本、東京都台東区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+        "addressLine1": "秋葉原電気街",
+        "addressLine2": "",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "colloquial_area"
+        ]
+      },
+      {
+        "id": "ChIJKTP54qeOGGARsZf1fyU2jxU",
+        "addressLine1": "秋叶原",
+        "addressLine2": "日本、東京都千代田区外神田１丁目",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJ7S15lB2MGGARvsUPQb9by7c",
+        "addressLine1": "ドン・キホーテ 秋葉原店",
+        "addressLine2": "日本、東京都千代田区外神田４丁目３−３",
+        "provider": "google_places",
+        "categories": [
+          "furniture_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "home_goods_store",
+          "store",
+          "point_of_interest",
+          "HOME_AND_GARDEN",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJfTAoGaeOGGARgOE33ESSm-Q",
+        "addressLine1": "MOGRA 秋葉原",
+        "addressLine2": "日本、東京都台東区秋葉原３−１１−階",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "醉符-7"
+}

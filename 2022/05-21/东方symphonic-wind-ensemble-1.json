@@ -1,0 +1,30 @@
+{
+  "start": 1653091200,
+  "end": 1653091200,
+  "title": "東方シンフォニックウィンドアンサンブル1",
+  "desc": "东方Symphonic Wind Ensemble1 于 埼玉县所泽市 所泽市民文化中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Symphonic_Wind_Ensemble#ev-1",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "01fadfae7932f24734ef296af6f9955c65425958a6f41b292841c7105c08b044",
+  "location": {
+    "type": "google",
+    "text": "埼玉县所泽市 所泽市民文化中心",
+    "entity": [
+      {
+        "id": "ChIJa4FDRJHdGGAR67TFxvE-mig",
+        "addressLine1": "所澤市民文化中心 MUSE",
+        "addressLine2": "日本、埼玉県所沢市並木１丁目９−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方symphonic-wind-ensemble-1"
+}

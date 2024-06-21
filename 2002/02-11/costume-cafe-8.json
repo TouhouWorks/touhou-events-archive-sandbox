@@ -1,0 +1,78 @@
+{
+  "start": 1013385600,
+  "end": 1013385600,
+  "title": "コスチュームカフェ 8号店",
+  "desc": "Costume Cafe 8号店 于 TRC东京流通中心 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8a63f8e00bd162e7edfb8e95131f64aebe2d3cafc00871247c2754c32e14dc2a",
+  "location": {
+    "type": "google",
+    "text": "TRC东京流通中心",
+    "entity": [
+      {
+        "id": "ChIJbfOq18-TGGARA_1AQEdZKFM",
+        "addressLine1": "流通中心入口",
+        "addressLine2": "日本、東京都東京入谷６丁目２",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJOZyJ18-TGGAR6vxiNbBe41I",
+        "addressLine1": "流通中心入口",
+        "addressLine2": "日本、東京都東京入谷５丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJ7fQOqv2LGGAROfB0RtQVKPU",
+        "addressLine1": "㈱水産流通",
+        "addressLine2": "日本、東京都中央区豊海町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJabAZpGCJGGARh8HaGpoP8L4",
+        "addressLine1": "㈱TRCワークシステム",
+        "addressLine2": "日本、東京都中央区入船２丁目４−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJITG0R7xhGGARCCOKn_nfktc",
+        "addressLine1": "流通中心",
+        "addressLine2": "日本、東京都東京平和島６丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "costume-cafe-8"
+}

@@ -1,0 +1,81 @@
+{
+  "start": 1634428800,
+  "end": 1634428800,
+  "title": "中四国東方祭13",
+  "desc": "中四国东方祭13 于 广岛市 Animate Building 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%9B%9B%E5%9B%BD%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-15",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3f77b063b5be2f260bfb0ce6a528e96271e307b289c57164bc1a0f25ad772bdd",
+  "location": {
+    "type": "google",
+    "text": "广岛市 Animate Building",
+    "entity": [
+      {
+        "id": "ChIJEeZK9gyiWjURJw3ACz2181I",
+        "addressLine1": "Animate Hiroshima",
+        "addressLine2": "２丁目-３-１ 大手町 中区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "MOVIE_RENTAL",
+          "SHOPS_AND_SERVICES",
+          "book_store",
+          "BOOK_STORE",
+          "movie_rental",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJu0_z7giZWjURcvfBz1DO5Ac",
+        "addressLine1": "广岛市",
+        "addressLine2": "日本、広島県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJGZMQSQaiWjURI88dbf-U9gk",
+        "addressLine1": "Fujita Building Maintenance Hiroshima",
+        "addressLine2": "８-１８ 鉄砲町 中区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFZ4fVQCfWjURsci7Pf9Wk2Y",
+        "addressLine1": "Hiroshima JP Building Bicycle",
+        "addressLine2": "２-５０ 松原町 南区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJyyk7L4mYWjURZnuahBFJY_M",
+        "addressLine1": "三瀧寺",
+        "addressLine2": "日本、広島県広島市西区三滝山４１１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "中四国东方祭-15"
+}

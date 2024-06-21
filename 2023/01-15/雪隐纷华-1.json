@@ -1,0 +1,30 @@
+{
+  "start": 1673740800,
+  "end": 1673740800,
+  "title": "宜昌THP-雪隐纷华",
+  "desc": "宜昌THP-雪隐纷华 于 湖北省宜昌市 伍家岗区城东大道 恒大帝景会所二楼花晋棠 举办",
+  "url": "https://thwiki.cc/%E9%9B%AA%E9%9A%90%E7%BA%B7%E5%8D%8E#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a4d22ba7ee08954a201a7acf219fdbcbf521c7dcbdb6c261bc1576ed6f78d8f2",
+  "location": {
+    "type": "google",
+    "text": "湖北省宜昌市 伍家岗区城东大道 恒大帝景会所二楼花晋棠",
+    "entity": [
+      {
+        "id": "EkDkuK3oj6_kurrmsJHlhbHlkozlm70g5rmW5YyX55yB5a6c5piM5biC5LyN5a625bKX5Yy65Z-O5Lic5aSn6YGTIi4qLAoUChIJ9XQH5feagzYRuTPpyPDjW0ASFAoSCWcI0Tjsm4M2EYjKEmKDD2WB",
+        "addressLine1": "城东大道",
+        "addressLine2": "中華人民共和国 湖北省宜昌市伍家岗区",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "雪隐纷华-1"
+}

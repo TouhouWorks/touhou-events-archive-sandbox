@@ -1,0 +1,80 @@
+{
+  "start": 1541894400,
+  "end": 1541894400,
+  "title": "长清东方茶会1",
+  "desc": "长清东方茶会1 于 济南市 耐斯咖啡 举办",
+  "url": "https://thwiki.cc/%E9%95%BF%E6%B8%85%E4%B8%9C%E6%96%B9%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4a682183f003e6b517bbd72f1e72652a79047d580f19fed762716881b4345c34",
+  "location": {
+    "type": "google",
+    "text": "济南市 耐斯咖啡",
+    "entity": [
+      {
+        "id": "ChIJsS8tvagM6jURABzhRqV3Srs",
+        "addressLine1": "咖啡杯",
+        "addressLine2": "中華人民共和国 山東省 济南市 章丘市 公园游乐场内",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJG9-jbuyA6TURiazvrsu_A6E",
+        "addressLine1": "欧亚咖啡",
+        "addressLine2": "中華人民共和国 山東省 济南市 商河県 Binhe Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJnUd7tfwPwjURgErN_U1KIZo",
+        "addressLine1": "咖啡王国",
+        "addressLine2": "中華人民共和国 济南市 市中区 大学西校区",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJDdIWXGoOwjUR6gMqkU__j4o",
+        "addressLine1": "咖啡爱上茶",
+        "addressLine2": "中華人民共和国 山東省 济南市 槐蔭区 西南方向40米 28722",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJAQDA5LsGwjURLM0edZNLbMY",
+        "addressLine1": "咖啡陪你",
+        "addressLine2": "中華人民共和国 山東省 济南市 歴城区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "长清东方茶会-1"
+}

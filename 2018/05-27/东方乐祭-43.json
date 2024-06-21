@@ -1,0 +1,64 @@
+{
+  "start": 1527379200,
+  "end": 1527379200,
+  "title": "SDF砲雷樂祭 with 東方樂祭1",
+  "desc": "SDF砲雷乐祭 with 东方乐祭1 于 高雄市 高雄国际会议中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-43",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c4ef8c6b8ea0e55c4e1c9d1ce1950c2b15443d74307079a727aa960b7b8168cc",
+  "location": {
+    "type": "google",
+    "text": "高雄市 高雄国际会议中心",
+    "entity": [
+      {
+        "id": "ChIJU2uyaHoEbjQR6SLeog-FuvI",
+        "addressLine1": "高雄国际会议中心 ICCK",
+        "addressLine2": "台湾 高雄市 Yancheng District, Zhongzheng 4th Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsf1lNpAEbjQREkXHTBk6ks0",
+        "addressLine1": "道騰國際商務中心 | 四維館 - 高雄優質辦公室 | 會議空間租借|活動場地租借",
+        "addressLine2": "台湾 高雄市 苓雅区 Siwei 4th Rd",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJv942EoEDbjQRhCZirNjpTDE",
+        "addressLine1": "道騰國際商務中心 | 民權館 - 高雄優質辦公室 | 會議空間租借|活動場地租借",
+        "addressLine2": "台湾 高雄市 新興区 Mincyuan 1st Road",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJmfWaJgAFbjQR2FLGBMXwtSg",
+        "addressLine1": "高雄国际会议中心停车场",
+        "addressLine2": "台湾 高雄市 Yancheng District",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-43"
+}

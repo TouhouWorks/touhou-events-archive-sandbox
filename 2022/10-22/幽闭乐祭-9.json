@@ -1,0 +1,42 @@
+{
+  "start": 1666396800,
+  "end": 1666396800,
+  "title": "幽閉樂祭2022～再臨！幻想郷の大饗宴～",
+  "desc": "幽闭乐祭2022～再临！幻想乡的大飨宴～ 于 东京都 池袋harevutai 举办",
+  "url": "https://thwiki.cc/%E5%B9%BD%E9%97%AD%E4%B9%90%E7%A5%AD#ev-9",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "95ae4ecb2a71850b529e6040079a66c53940ea045d9c5ebb0e199d22a6b844c4",
+  "location": {
+    "type": "google",
+    "text": "东京都 池袋harevutai",
+    "entity": [
+      {
+        "id": "ChIJJ1xYpaCSGGARumLc8TmsILQ",
+        "addressLine1": "池袋",
+        "addressLine2": "日本、東京都豊島区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ_TPIoVmNGGARl1NMQLJYTyE",
+        "addressLine1": "harevutai",
+        "addressLine2": "日本、東京都豊島区東池袋１丁目１９−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幽闭乐祭-9"
+}

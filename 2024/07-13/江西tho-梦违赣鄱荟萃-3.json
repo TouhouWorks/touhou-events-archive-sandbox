@@ -1,0 +1,30 @@
+{
+  "start": 1720828800,
+  "end": 1720828800,
+  "title": "江西THO-梦违赣鄱荟萃·叁~幻想Strawberry~!!",
+  "desc": "江西THO-梦违赣鄱荟萃·叁~幻想Strawberry~!! 于 南昌市 东方豪景花园酒店 二楼多功能厅 举办",
+  "url": "https://thwiki.cc/%E6%B1%9F%E8%A5%BFTHO-%E6%A2%A6%E8%BF%9D%E8%B5%A3%E9%84%B1%E8%8D%9F%E8%90%83#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5f7266014826c0e1115eaa99a8b53a04cd06f9fb4a49dd24116db182d57d3b64",
+  "location": {
+    "type": "google",
+    "text": "南昌市 东方豪景花园酒店 二楼多功能厅",
+    "entity": [
+      {
+        "id": "ChIJ--eNz0-4OjQRzezvKjPP96o",
+        "addressLine1": "东方豪景花园酒店",
+        "addressLine2": "中華人民共和国 江西省 南昌市 東湖区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "江西tho-梦违赣鄱荟萃-3"
+}

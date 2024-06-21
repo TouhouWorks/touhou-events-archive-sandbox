@@ -1,0 +1,19 @@
+{
+  "start": 1510963200,
+  "end": 1510963200,
+  "title": "APOLLO 第7回",
+  "desc": "APOLLO 第7回 于 https://booth.pm/apollo/a07 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "31cd26d064b274cd932f8a08a8899ea9856dea5c2fba44cb7e2eccd05ba74797",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/apollo/a07",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "apollo-7"
+}

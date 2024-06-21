@@ -1,0 +1,30 @@
+{
+  "start": 1371859200,
+  "end": 1371859200,
+  "title": "patchwork 1",
+  "desc": "patchwork 1 于 仙台市 仙台BIRDLAND 举办",
+  "url": "https://thwiki.cc/patchwork#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e911c4648bf5005160ad8ee5b4758904cee2ee9ff15c4be4d849463372d06afd",
+  "location": {
+    "type": "google",
+    "text": "仙台市 仙台BIRDLAND",
+    "entity": [
+      {
+        "id": "ChIJf8Gcxicoil8RQxCC_wssYAY",
+        "addressLine1": "仙台バードランド",
+        "addressLine2": "日本、宮城県仙台市青葉区一番町４丁目２−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "patchwork-1"
+}

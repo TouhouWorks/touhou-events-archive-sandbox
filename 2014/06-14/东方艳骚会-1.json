@@ -1,0 +1,32 @@
+{
+  "start": 1402704000,
+  "end": 1402704000,
+  "title": "東方艶騒会 vol.壱",
+  "desc": "东方艳骚会 vol.壱 于 东京都 新宿MEGA ROCK 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%89%B3%E9%AA%9A%E4%BC%9A#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8cf6a4530954067278df9c703be61397f04288169ea2220390ef5ba150d362b4",
+  "location": {
+    "type": "google",
+    "text": "东京都 新宿MEGA ROCK",
+    "entity": [
+      {
+        "id": "ChIJqbqkryCNGGARTIgU-vTJCCo",
+        "addressLine1": "MEGA ROCK（メガロック）新宿二丁目",
+        "addressLine2": "日本、東京都新宿区新宿２丁目１８",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方艳骚会-1"
+}

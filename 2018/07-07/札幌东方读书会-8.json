@@ -1,0 +1,19 @@
+{
+  "start": 1530921600,
+  "end": 1530921600,
+  "title": "第八回札幌東方読書会",
+  "desc": "第八回札幌东方读书会 于 札幌市教育研修会馆 研修室402 举办",
+  "url": "https://thwiki.cc/%E6%9C%AD%E5%B9%8C%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-8",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d2f09c3bfc20a3a45864f9b1bef031732a597a2420e4c266ec6db6a81623c225",
+  "location": {
+    "type": "google",
+    "text": "札幌市教育研修会馆 研修室402",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "札幌东方读书会-8"
+}

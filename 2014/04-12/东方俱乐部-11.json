@@ -1,0 +1,34 @@
+{
+  "start": 1397260800,
+  "end": 1397260800,
+  "title": "第十一回 東方倶楽部",
+  "desc": "第十一回 东方俱乐部 于 东京都 涩谷STAR LOUNGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%BF%B1%E4%B9%90%E9%83%A8#ev-11",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "73f883ec8eac90800b64c35f4a9fb56dc321913436f88a70c4b1924c44db8767",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷STAR LOUNGE",
+    "entity": [
+      {
+        "id": "ChIJwYbBO6mMGGARqMhEA56S8eM",
+        "addressLine1": "Star Lounge",
+        "addressLine2": "４-７ 宇田川町 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "SHOPS_AND_SERVICES",
+          "NIGHT_CLUB",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方俱乐部-11"
+}

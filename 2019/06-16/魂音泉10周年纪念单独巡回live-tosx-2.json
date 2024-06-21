@@ -1,0 +1,30 @@
+{
+  "start": 1560643200,
+  "end": 1560643200,
+  "title": "魂音泉10周年記念ワンマンツアー -TOSX- 2",
+  "desc": "魂音泉10周年纪念单独巡回LIVE -TOSX- 2 于 福冈市 INSA Fukuoka 举办",
+  "url": "https://thwiki.cc/%E9%AD%82%E9%9F%B3%E6%B3%8910%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%8D%95%E7%8B%AC%E5%B7%A1%E5%9B%9ELIVE_-TOSX-#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8dc8061f620039a8f32e5a3d81f61cb0be940c53e7b854cc8fb74aa68a6d24a5",
+  "location": {
+    "type": "google",
+    "text": "福冈市 INSA Fukuoka",
+    "entity": [
+      {
+        "id": "ChIJY8d5KpSRQTURHjaNOdeqvz4",
+        "addressLine1": "INSA(インザ)",
+        "addressLine2": "日本、Fukuoka, 福岡市中央区春吉３丁目５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魂音泉10周年纪念单独巡回live-tosx-2"
+}

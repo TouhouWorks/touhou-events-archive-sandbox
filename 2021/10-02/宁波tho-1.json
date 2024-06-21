@@ -1,0 +1,34 @@
+{
+  "start": 1633132800,
+  "end": 1633132800,
+  "title": "宁波THO-甬城秋宴",
+  "desc": "宁波THO-甬城秋宴 于 浙江省宁波市 海曙区环城西路南段256号天港漫非酒店 举办",
+  "url": "https://thwiki.cc/%E5%AE%81%E6%B3%A2THO#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1a32a963684bdde836c9efc54964a9414a3df8a345b4ff477a128fe05dbf3f77",
+  "location": {
+    "type": "google",
+    "text": "浙江省宁波市 海曙区环城西路南段256号天港漫非酒店",
+    "entity": [
+      {
+        "id": "ChIJHTM7YEx7TTQRkqhYXgBuzPE",
+        "addressLine1": "Tiangang Seafood Hotel",
+        "addressLine2": "Lan Tian Lu, 188, 海曙区 寧波市 浙江省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "宁波tho-1"
+}

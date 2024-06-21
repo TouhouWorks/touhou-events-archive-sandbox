@@ -1,0 +1,76 @@
+{
+  "start": 1642896000,
+  "end": 1642896000,
+  "title": "东方LiveParty×重庆THO·叁·绽花异变",
+  "desc": "东方LiveParty×重庆THO·叁·绽花异变 于 重庆市 江北区 MAOlivehouse重庆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-46",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0a4a238280818fb28e771e50ea52bb4fb496ec6172975efd6f47f64a79c17530",
+  "location": {
+    "type": "google",
+    "text": "重庆市 江北区 MAOlivehouse重庆",
+    "entity": [
+      {
+        "id": "ChIJC0vJxzw7kzYREQVjgmhpurY",
+        "addressLine1": "重庆果园港",
+        "addressLine2": "中華人民共和国 重庆市江北区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "natural_feature"
+        ]
+      },
+      {
+        "id": "ChIJf6kJc2EzkzYRTK-sSWzREl0",
+        "addressLine1": "江北区",
+        "addressLine2": "中華人民共和国 重庆市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJq6rq3VEzkzYRVZnbvAxl20Q",
+        "addressLine1": "重庆市江北区·九街·路客精品公寓·00152070",
+        "addressLine2": "中華人民共和国 重庆市江北区",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJAQDwhxMzkzYRISqy1Z_sNdc",
+        "addressLine1": "重庆丽晶酒店",
+        "addressLine2": "中華人民共和国 重慶市 江北区金沙门路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJGXk7rXgzkzYRp28scoTudI0",
+        "addressLine1": "重庆大剧院",
+        "addressLine2": "中華人民共和国 重庆市江北区下半城",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-46"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1044921600,
+  "end": 1044921600,
+  "title": "コスチュームカフェ 10号店",
+  "desc": "Costume Cafe 10号店 于 东京都立产业贸易中心 浜松町馆 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "45824005010d60df061c2a96221aa4f76ffa4bda1c069c082cc286e20ac3e46d",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 浜松町馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "costume-cafe-10"
+}

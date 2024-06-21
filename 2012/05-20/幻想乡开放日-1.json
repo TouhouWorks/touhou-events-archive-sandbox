@@ -1,0 +1,19 @@
+{
+  "start": 1337472000,
+  "end": 1337472000,
+  "title": "幻想郷開放日1",
+  "desc": "幻想乡开放日1 于 北京市 曙光里小学贝特羽毛球馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E4%B9%A1%E5%BC%80%E6%94%BE%E6%97%A5#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7c5de9c42c335ee129e5b6412d7e1463e0cddb0bd501ba85e014d8de5883bc88",
+  "location": {
+    "type": "google",
+    "text": "北京市 曙光里小学贝特羽毛球馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "幻想乡开放日-1"
+}

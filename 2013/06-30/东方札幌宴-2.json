@@ -1,0 +1,19 @@
+{
+  "start": 1372550400,
+  "end": 1372550400,
+  "title": "東方子雪祭",
+  "desc": "东方子雪祭 于 札幌流通综合会馆（Axes Sapporo） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%AD%E5%B9%8C%E5%AE%B4#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f61449bb7a7f3e330a41d8b89d6b1b69b720ba1d6a5a2be79d2ca1e5d77e154d",
+  "location": {
+    "type": "google",
+    "text": "札幌流通综合会馆（Axes Sapporo）",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方札幌宴-2"
+}

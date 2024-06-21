@@ -1,0 +1,19 @@
+{
+  "start": 1703980800,
+  "end": 1703980800,
+  "title": "武汉TH庙会-东方葭月集",
+  "desc": "武汉TH庙会-东方葭月集 于 武汉绿地缤纷城5楼 举办",
+  "url": "https://thwiki.cc/%E6%AD%A6%E6%B1%89TH%E5%BA%99%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "de2beea4d90c8543525b563dedaa0048930ad3ef461b5699b3af270e2e6bae71",
+  "location": {
+    "type": "google",
+    "text": "武汉绿地缤纷城5楼",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "武汉th庙会-1"
+}

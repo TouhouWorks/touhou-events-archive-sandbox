@@ -1,0 +1,30 @@
+{
+  "start": 1491091200,
+  "end": 1491091200,
+  "title": "グリモワール読書会1",
+  "desc": "魔法书读书会1 于 名古屋国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E6%B3%95%E4%B9%A6%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5fdca74abae411ceecf7602ca959a54f8d49095a8c2e391f46e2ea1361b2be86",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "魔法书读书会-1"
+}

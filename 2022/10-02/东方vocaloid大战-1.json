@@ -1,0 +1,44 @@
+{
+  "start": 1664668800,
+  "end": 1664668800,
+  "title": "東方ボカロ大戦1",
+  "desc": "东方VOCALOID大战1 于 东京都 下北泽altoto 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9VOCALOID%E5%A4%A7%E6%88%98#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1e18a07aff771afeaf60c196e3ec74d51c418e06d21d3f55b97b34bd146dc5e8",
+  "location": {
+    "type": "google",
+    "text": "东京都 下北泽altoto",
+    "entity": [
+      {
+        "id": "ChIJm5b72mvzGGARyCSpK5278-U",
+        "addressLine1": "アルトト",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目１９−１５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJP0FtK2rzGGARwWI5Yudb6Sc",
+        "addressLine1": "Tōto Estate",
+        "addressLine2": "２丁目-１２-１ 北沢 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方vocaloid大战-1"
+}

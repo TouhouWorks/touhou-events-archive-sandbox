@@ -1,0 +1,30 @@
+{
+  "start": 1696550400,
+  "end": 1696550400,
+  "title": "黑龙江东方高校例会1",
+  "desc": "黑龙江东方高校例会1 于 黑龙江省哈尔滨市 嵩山路135号 如家酒店2楼 举办",
+  "url": "https://thwiki.cc/%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%9C%E6%96%B9%E9%AB%98%E6%A0%A1%E4%BE%8B%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a95cca6e47452bf774374c934268e52c6902ff948f5540a2b86a30f15168c263",
+  "location": {
+    "type": "google",
+    "text": "黑龙江省哈尔滨市 嵩山路135号 如家酒店2楼",
+    "entity": [
+      {
+        "id": "ChIJbQmAU9l_RF4RrlL-vE3oCZo",
+        "addressLine1": "嵩山路135号",
+        "addressLine2": "中華人民共和国 黒竜江省 ハルビン 道外区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "黑龙江东方高校例会-1"
+}

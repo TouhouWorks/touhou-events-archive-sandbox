@@ -1,0 +1,71 @@
+{
+  "start": 1289088000,
+  "end": 1289088000,
+  "title": "東方北都祭 第二弾",
+  "desc": "东方北都祭 第二弹 于 札幌Teisen Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%97%E9%83%BD%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eb9cc21239c3a0c10d1e64f17868df56c431ac629176a4132ba6da41b192f811",
+  "location": {
+    "type": "google",
+    "text": "札幌Teisen Hall",
+    "entity": [
+      {
+        "id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
+        "addressLine1": "札幌市",
+        "addressLine2": "日本、北海道",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJw3hUfZ0pC18RIzQVKCVmxZg",
+        "addressLine1": "Kanamoto Hall",
+        "addressLine2": "１丁目 北１条西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsWCAD50pC18RnvS2X8lWUv4",
+        "addressLine1": "Doshin Hall",
+        "addressLine2": "３丁目-６ 大通西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7YZxOHQpC18RKj5jX5XxpcI",
+        "addressLine1": "Kyosai Hall",
+        "addressLine2": "１丁目 北４条西 中央区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ0btUCSkrdV8RBrhZkmKuEuE",
+        "addressLine1": "Takino Hall",
+        "addressLine2": "１０２−１ 滝野 南区 札幌市 北海道 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方北都祭-2"
+}

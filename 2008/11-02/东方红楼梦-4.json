@@ -1,0 +1,32 @@
+{
+  "start": 1225584000,
+  "end": 1225584000,
+  "title": "東方紅楼夢4",
+  "desc": "东方红楼梦4 于 京都市劝业馆 (みやこめっせ) 第1・第3展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "533da6403ef7e67bf3b2c69cf668e6f66bf5396ebf116e224f589157c5626dd0",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 (みやこめっせ) 第1・第3展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勧業館 みやこめっせ",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方红楼梦-4"
+}

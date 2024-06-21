@@ -1,0 +1,19 @@
+{
+  "start": 1616198400,
+  "end": 1616198400,
+  "title": "マリアリ研究室1",
+  "desc": "魔理爱丽研究室1 于 pictSQUARE 举办",
+  "url": "https://thwiki.cc/%E9%AD%94%E7%90%86%E7%88%B1%E4%B8%BD%E7%A0%94%E7%A9%B6%E5%AE%A4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f0fd8371f4990c849b60a5242ee27834738b9a8271149acbce0d1750374afba5",
+  "location": {
+    "type": "google",
+    "text": "pictSQUARE",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "魔理爱丽研究室-1"
+}

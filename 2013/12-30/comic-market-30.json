@@ -1,0 +1,19 @@
+{
+  "start": 1388361600,
+  "end": 1388361600,
+  "title": "Comic Market 85",
+  "desc": "Comic Market 85 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-30",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5a75fbec0fd2398b1cd76d6c297b24a0997cf9faf0030f5e5208d358b54a3833",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-30"
+}

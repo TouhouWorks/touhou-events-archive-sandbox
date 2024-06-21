@@ -1,0 +1,20 @@
+{
+  "start": 1521244800,
+  "end": 1521244800,
+  "title": "南京秘封茶会1",
+  "desc": "南京秘封茶会1 于 南京 悠嘻桌游咖 举办",
+  "url": "https://thwiki.cc/%E5%8D%97%E4%BA%AC%E7%A7%98%E5%B0%81%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "09a083388513b50308ef4676cee80f6a995db7b76fb77af5d3a86941620ee1d2",
+  "location": {
+    "type": "google",
+    "text": "南京 悠嘻桌游咖",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "南京秘封茶会-1"
+}

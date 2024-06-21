@@ -1,0 +1,42 @@
+{
+  "start": 1512172800,
+  "end": 1512172800,
+  "title": "Anime Power武汉动漫展8",
+  "desc": "Anime Power武汉动漫展8 于 武汉市 武汉客厅中国文化博览中心 举办",
+  "url": "https://thwiki.cc/Anime_Power%E6%AD%A6%E6%B1%89%E5%8A%A8%E6%BC%AB%E5%B1%95#ev-9",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e80d9f2377d19e78de3cf2890770324e275cd78e124bf2ad365033fa2797d3d0",
+  "location": {
+    "type": "google",
+    "text": "武汉市 武汉客厅中国文化博览中心",
+    "entity": [
+      {
+        "id": "ChIJderqU7KpLjQRBSZR9rhQv9o",
+        "addressLine1": "武汉客厅中国文化博览中心",
+        "addressLine2": "中華人民共和国 武汉市 東西湖区 正北方向190米",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJEXuwnrOpLjQRIlzfZs4aYio",
+        "addressLine1": "武汉客厅中国文化博览中心地下停车场",
+        "addressLine2": "中華人民共和国 武汉市 東西湖区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "anime-power武汉动漫展-9"
+}

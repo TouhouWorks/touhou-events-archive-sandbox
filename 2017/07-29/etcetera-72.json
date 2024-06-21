@@ -1,0 +1,19 @@
+{
+  "start": 1501286400,
+  "end": 1501286400,
+  "title": "えとせとら Vol.71",
+  "desc": "Etcetera Vol.71 于 神奈川县横须贺市 野外音乐堂 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-72",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "160e82292ef8c9f66dabfa5203740e579a36153ef3b471902cc8670c177f9eb1",
+  "location": {
+    "type": "google",
+    "text": "神奈川县横须贺市 野外音乐堂",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "etcetera-72"
+}

@@ -1,0 +1,76 @@
+{
+  "start": 1550275200,
+  "end": 1550275200,
+  "title": "中原第四届东方同好茶会",
+  "desc": "中原第四届东方同好茶会 于 郑州 大上海城 举办",
+  "url": "https://thwiki.cc/%E4%B8%AD%E5%8E%9F%E4%B8%9C%E6%96%B9%E5%90%8C%E5%A5%BD%E8%8C%B6%E4%BC%9A#ev-4",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b3b97329cc43af2ab8e4d010b8996109772f553c2ed569e1c476ccecd6ee18a3",
+  "location": {
+    "type": "google",
+    "text": "郑州 大上海城",
+    "entity": [
+      {
+        "id": "ChIJc9GBOXVm1zURrYAXLAkFxPU",
+        "addressLine1": "大上海城",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区 Dongtaikang Road",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJib6Y_t9l1zURiV1FqbLqOgc",
+        "addressLine1": "郑州大上海城江源道韩式烧烤",
+        "addressLine2": "中華人民共和国 河南省 鄭州市 管城回族区",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJHbhHkBNm1zURveEQp0WDxIw",
+        "addressLine1": "郑州大上海城建设发展有限公司",
+        "addressLine2": "中華人民共和国 河南省 鄭州市 管城回族区 紫荆山商圈 Dongda Street",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJbVncRXVm1zURCRWtDM0ybu0",
+        "addressLine1": "大上海城",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJG932t-Fl1zURtNEM8_j13iw",
+        "addressLine1": "大上海城",
+        "addressLine2": "中華人民共和国 河南省 郑州 二七区 火车站商圈 Renmin Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "中原东方同好茶会-4"
+}

@@ -1,0 +1,84 @@
+{
+  "start": 1322265600,
+  "end": 1322265600,
+  "title": "七曜絢爛サチュレーションVol.1",
+  "desc": "七曜绚烂Saturation Vol.1 于 川崎市 川崎BOTTOMS UP 举办",
+  "url": "https://thwiki.cc/%E4%B8%83%E6%9B%9C%E7%BB%9A%E7%83%82Saturation#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a50a7eb6a5454d0fec3b1cd5e4df1108886cb8696dde044c2837aaaa5e3327dc",
+  "location": {
+    "type": "google",
+    "text": "川崎市 川崎BOTTOMS UP",
+    "entity": [
+      {
+        "id": "ChIJ19r5nY9mGGAREFkkOG9KmXA",
+        "addressLine1": "川崎区",
+        "addressLine2": "日本、神奈川県川崎市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJl758j0H6GGARf4Nomz9H6oA",
+        "addressLine1": "川崎市 麻生区役所",
+        "addressLine2": "日本、神奈川県川崎市麻生区万福寺１丁目５−１",
+        "provider": "google_places",
+        "categories": [
+          "city_hall",
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "CITY_HALL",
+          "GOVERNMENT"
+        ]
+      },
+      {
+        "id": "ChIJqzMupZf2GGARYRij9NG3k2A",
+        "addressLine1": "川崎市立上作延小学校",
+        "addressLine2": "日本、神奈川県川崎市高津区上作延５丁目８−５５９",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "primary_school",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYzf4P431GGARBpCTyPqPIWo",
+        "addressLine1": "川崎市立子母口小学校",
+        "addressLine2": "日本、神奈川県川崎市高津区子母口７３０",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "primary_school",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJpeqe_3r1GGAR4AuGMwSlpJw",
+        "addressLine1": "川崎市立中原図書館",
+        "addressLine2": "日本、神奈川県川崎市中原区小杉町３丁目１３０１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "七曜绚烂saturation-1"
+}

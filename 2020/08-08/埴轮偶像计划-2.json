@@ -1,0 +1,34 @@
+{
+  "start": 1596844800,
+  "end": 1596844800,
+  "title": "山西THP-东方酢梦宴",
+  "desc": "山西THP-东方酢梦宴 于 山西省太原市 轰趴达人轰趴馆 举办",
+  "url": "https://thwiki.cc/%E5%9F%B4%E8%BD%AE%E5%81%B6%E5%83%8F%E8%AE%A1%E5%88%92#ev-2",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cab3efae2fbcea0cd6fa47de68dd917734d08b70df5d8d4e34377399dad067d0",
+  "location": {
+    "type": "google",
+    "text": "山西省太原市 轰趴达人轰趴馆",
+    "entity": [
+      {
+        "id": "ChIJkzlo8sKrCjYRbFe7XOd4i-8",
+        "addressLine1": "轰趴达人",
+        "addressLine2": "中華人民共和国 太原市 小店区",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "埴轮偶像计划-2"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1403308800,
+  "end": 1403308800,
+  "title": "東方螺茶会 台灣の宴",
+  "desc": "东方螺茶会 台湾之宴 于 台北小巨蛋 星光厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-88",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "10fbc7aaa391dc1566b4d196621f901db61be61fbdd72a46feee3b4f03f3d9ab",
+  "location": {
+    "type": "google",
+    "text": "台北小巨蛋 星光厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-88"
+}

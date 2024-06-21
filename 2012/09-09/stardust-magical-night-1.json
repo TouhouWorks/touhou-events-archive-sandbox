@@ -1,0 +1,86 @@
+{
+  "start": 1347148800,
+  "end": 1347148800,
+  "title": "スターダストマジカルナイト1",
+  "desc": "Stardust Magical Night 1 于 东京都 锦糸町rebirth 举办",
+  "url": "https://thwiki.cc/Stardust_Magical_Night#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "69590be2f478c364e33fce2222644c70dd0cec3cd8d1915e8024e91bd9fb1454",
+  "location": {
+    "type": "google",
+    "text": "东京都 锦糸町rebirth",
+    "entity": [
+      {
+        "id": "ChIJs2c3K9aIGGARqTDeNENpzno",
+        "addressLine1": "錦糸",
+        "addressLine2": "日本、東京都墨田区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ_Vr9_NeIGGAReJVVOPGX3Js",
+        "addressLine1": "锦糸町",
+        "addressLine2": "日本、東京都墨田区江東橋３丁目１４",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      },
+      {
+        "id": "ChIJbaVwESiJGGARXXWmqImYC2c",
+        "addressLine1": "KICHIRI 錦糸町駅前",
+        "addressLine2": "日本、東京都墨田区江東橋２丁目１９−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ5aGtZSiJGGAR3dhd_zCFNZE",
+        "addressLine1": "相鉄フレッサイン 東京錦糸町",
+        "addressLine2": "日本、東京都墨田区江東橋２丁目１８−７",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJ19yT-NiIGGAR424WIou0R0s",
+        "addressLine1": "MIMARU東京 錦糸町",
+        "addressLine2": "日本、東京都墨田区江東橋４丁目１１−５",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "stardust-magical-night-1"
+}

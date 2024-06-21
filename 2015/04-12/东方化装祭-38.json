@@ -1,0 +1,32 @@
+{
+  "start": 1428796800,
+  "end": 1428796800,
+  "title": "東方仮装祭in晴海9",
+  "desc": "东方化装祭in晴海9 于 东京都 晴海埠头晴海客船Terminal 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8C%96%E8%A3%85%E7%A5%AD#ev-38",
+  "type": [
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "18c6bdb821ced03777a270eab6a948b0827d47c3cf5d7190f4447edcd25c83bd",
+  "location": {
+    "type": "google",
+    "text": "东京都 晴海埠头晴海客船Terminal",
+    "entity": [
+      {
+        "id": "ChIJFyPgbIKJGGARvreX2_t5jD4",
+        "addressLine1": "晴海",
+        "addressLine2": "日本、東京都中央区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方化装祭-38"
+}

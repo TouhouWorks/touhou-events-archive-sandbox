@@ -1,0 +1,44 @@
+{
+  "start": 1433635200,
+  "end": 1433635200,
+  "title": "ボカロ&東方の爆音幻想曲 - 幻想郷に迷い込んだ歌姫1",
+  "desc": "VOCALOID&东方的爆音幻想曲 - 迷失在幻想乡的歌姬1 于 台北市辛亥路 耕莘文教院 举办",
+  "url": "https://thwiki.cc/VOCALOID%26%E4%B8%9C%E6%96%B9%E7%9A%84%E7%88%86%E9%9F%B3%E5%B9%BB%E6%83%B3%E6%9B%B2_-_%E8%BF%B7%E5%A4%B1%E5%9C%A8%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E6%AD%8C%E5%A7%AC#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "df1d294f53da4b507fbc3c8087d47f42d29bfaf9b325b64fe6fc190fc459fa13",
+  "location": {
+    "type": "google",
+    "text": "台北市辛亥路 耕莘文教院",
+    "entity": [
+      {
+        "id": "ChIJiaNbgo6pQjQRimOjdhIDY04",
+        "addressLine1": "天主教 耕莘文教院",
+        "addressLine2": "台湾 台北市 中正区 辛亥路",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJwakHbwupQjQR0MDGkhMsZ78",
+        "addressLine1": "和雲台北耕莘文教院停車場",
+        "addressLine2": "台湾 台北市 中正区 辛亥路",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "vocaloid&东方的爆音幻想曲-迷失在幻想乡的歌姬-1"
+}

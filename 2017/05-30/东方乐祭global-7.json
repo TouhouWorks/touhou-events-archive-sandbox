@@ -1,0 +1,31 @@
+{
+  "start": 1496102400,
+  "end": 1496102400,
+  "title": "東方樂祭Global 2017 in China 成都站",
+  "desc": "东方乐祭Global 2017 in China 成都站 于 成都市东郊记忆音乐公园中央大道 Bee Girls剧场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%ADGlobal#ev-7",
+  "type": [
+    "LIVE",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "a0deb32bae4e673c636ca3825afb8fdec05f3f64cac39510f95c0d2b231a71f4",
+  "location": {
+    "type": "google",
+    "text": "成都市东郊记忆音乐公园中央大道 Bee Girls剧场",
+    "entity": [
+      {
+        "id": "ChIJf2Zp_R_Q7zYRqebLi_xSRDI",
+        "addressLine1": "中央大道",
+        "addressLine2": "中華人民共和国 四川省 成都市 成華区 建设路 Zhongyang Boulevard, 东郊记忆·音乐公园",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭global-7"
+}

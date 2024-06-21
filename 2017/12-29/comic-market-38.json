@@ -1,0 +1,19 @@
+{
+  "start": 1514505600,
+  "end": 1514505600,
+  "title": "Comic Market 93",
+  "desc": "Comic Market 93 于 东京都 东京国际展示场 东1-8展厅、西1, 3-4展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-38",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "88610f93daacfdacab854ec72988e56248b667c920c36d551b5f39c6f4dde6af",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-8展厅、西1, 3-4展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-38"
+}

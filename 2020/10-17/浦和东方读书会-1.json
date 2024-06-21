@@ -1,0 +1,76 @@
+{
+  "start": 1602892800,
+  "end": 1602892800,
+  "title": "浦和東方読書会1",
+  "desc": "浦和东方读书会1 于 埼玉县埼玉市 埼玉会馆 举办",
+  "url": "https://thwiki.cc/%E6%B5%A6%E5%92%8C%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c2d387b67becbe397628f1f578e3ccd674b48bedc92f4ebf089b198e623324f1",
+  "location": {
+    "type": "google",
+    "text": "埼玉县埼玉市 埼玉会馆",
+    "entity": [
+      {
+        "id": "ChIJGfUWXcnrGGARb_ySNS2BmBY",
+        "addressLine1": "埼玉会館広場",
+        "addressLine2": "日本、埼玉県さいたま市浦和区高砂３丁目１−２２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJu5Uz-IDqGGARSdd56Ya-C-c",
+        "addressLine1": "埼玉会館",
+        "addressLine2": "日本、埼玉県さいたま市浦和区高砂３丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJjUp4GtjBGGARLwGkEb4nj8c",
+        "addressLine1": "RaiBoC HaII レイボックホール",
+        "addressLine2": "日本、埼玉県さいたま市大宮区大門町２丁目１１８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHRPqVwDBGGARIQZRIBz_fZo",
+        "addressLine1": "創価学会埼玉文化会館",
+        "addressLine2": "日本、埼玉県さいたま市桜区西堀５丁目１４−１０",
+        "provider": "google_places",
+        "categories": [
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVwlu7YDqGGARg563WP9FITg",
+        "addressLine1": "埼玉会馆",
+        "addressLine2": "日本、埼玉県さいたま市浦和区高砂３丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "浦和东方读书会-1"
+}

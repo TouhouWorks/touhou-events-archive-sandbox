@@ -1,0 +1,82 @@
+{
+  "start": 1324684800,
+  "end": 1324684800,
+  "title": "LiC - X'mas LIVE 2011",
+  "desc": "LiC - X&#39;mas LIVE 2011 于 东京都 原宿ASTRO HALL 举办",
+  "url": "https://thwiki.cc/LiC_-_X%27mas_LIVE#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "97e8233b79efaf983d46933efcba05d982f504b5a22e7ec663f4fc178c9e6e6d",
+  "location": {
+    "type": "google",
+    "text": "东京都 原宿ASTRO HALL",
+    "entity": [
+      {
+        "id": "ChIJrRjgjaSMGGARzxkPqmTXln8",
+        "addressLine1": "Laforet HARAJUKU／ラフォーレ 原宿",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１１−６",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJaxoXgJyNGGARyK5KTPgFvFc",
+        "addressLine1": "ラフォーレミュージアム原宿",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１１−６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPyOTG8KMGGARh_IXobWxHmo",
+        "addressLine1": "新宿御苑",
+        "addressLine2": "日本、東京都新宿区内藤町１１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJVaoStLyMGGARVMpCIrvCGTs",
+        "addressLine1": "原宿警察署",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目４−１７",
+        "provider": "google_places",
+        "categories": [
+          "POLICE_STATION",
+          "police",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_yy1ybqMGGAR0tPR4qiHDVY",
+        "addressLine1": "原宿",
+        "addressLine2": "日本、東京都渋谷区神宮前１丁目１８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "lic-x'mas-live-1"
+}

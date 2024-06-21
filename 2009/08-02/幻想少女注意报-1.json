@@ -1,0 +1,81 @@
+{
+  "start": 1249171200,
+  "end": 1249171200,
+  "title": "幻想少女注意報第一届",
+  "desc": "幻想少女注意报第一届 于 韩国 首尔 铜雀区民会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E6%B3%A8%E6%84%8F%E6%8A%A5#ev-1",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d52a38f9500536e59202f3a92dea094688380e551b59ad912a629fdd67b7485f",
+  "location": {
+    "type": "google",
+    "text": "韩国 首尔 铜雀区民会馆",
+    "entity": [
+      {
+        "id": "ChIJgYYqF3iffDURmGQzSoStNBU",
+        "addressLine1": "铜雀区",
+        "addressLine2": "大韓民国 ソウル",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJZUlWatu8fDURTZ_GPc0b7zU",
+        "addressLine1": "区民会馆入口",
+        "addressLine2": "ソウル",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJr-64v8S8fDURJAOems3s5yY",
+        "addressLine1": "区民会馆201栋",
+        "addressLine2": "ソウル",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJg-MfsS-7fDUR4DjshAzAGzU",
+        "addressLine1": "区民会馆",
+        "addressLine2": "ソウル",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJE_z_pLClfDURwtHI-iaZ5cQ",
+        "addressLine1": "松坡区 区民会館",
+        "addressLine2": "大韓民国 ソウル 松坡区 Baekjegobun-ro",
+        "provider": "google_places",
+        "categories": [
+          "local_government_office",
+          "establishment",
+          "point_of_interest",
+          "GOVERNMENT"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想少女注意报-1"
+}

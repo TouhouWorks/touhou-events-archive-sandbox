@@ -1,0 +1,30 @@
+{
+  "start": 1319328000,
+  "end": 1319328000,
+  "title": "新潟東方祭9.9",
+  "desc": "新潟东方祭9.9 于 新潟市 万代市民会馆 6层 Hall 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%BD%9F%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "00ab48117e9ec6d5891c7662e980064f9d362590e992c8e2f5dced008362c31a",
+  "location": {
+    "type": "google",
+    "text": "新潟市 万代市民会馆 6层 Hall",
+    "entity": [
+      {
+        "id": "ChIJtdJf5Y7J9F8RYsXFtlkqNoQ",
+        "addressLine1": "万代市民会館",
+        "addressLine2": "日本、新潟県新潟市中央区東万代町９−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "新潟东方祭-11"
+}

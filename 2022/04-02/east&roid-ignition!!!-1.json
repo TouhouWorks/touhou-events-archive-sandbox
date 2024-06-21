@@ -1,0 +1,65 @@
+{
+  "start": 1648857600,
+  "end": 1648857600,
+  "title": "East&roiD IGNITION!!! 1",
+  "desc": "East&roiD IGNITION!!! 1 于 宇部市 LIVE&CLUBHOUSE BBB 举办",
+  "url": "https://thwiki.cc/East%26roiD_IGNITION!!!#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "26ada7ddfe59da32206077697ce4473fdc8f499e14d7d2cc418dbf99f942abab",
+  "location": {
+    "type": "google",
+    "text": "宇部市 LIVE&CLUBHOUSE BBB",
+    "entity": [
+      {
+        "id": "ChIJ___4ltWAQzURV6mItmcE_EI",
+        "addressLine1": "Livehouse&Bar BBB",
+        "addressLine2": "日本、山口県宇部市中央町２丁目１０−２３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJPZ0jvSqARDURgvQuDknI1qE",
+        "addressLine1": "宇部市",
+        "addressLine2": "日本、山口県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ_doN-OZ_RDUREVxhMnJ9UM0",
+        "addressLine1": "宇部市交通局",
+        "addressLine2": "日本、山口県宇部市善和２０３−９０",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "school",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJd23lx9OAQzURa7lkkAR0LY8",
+        "addressLine1": "宇部市駐車場",
+        "addressLine2": "日本、山口県宇部市常盤町１丁目２",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "east&roid-ignition!!!-1"
+}

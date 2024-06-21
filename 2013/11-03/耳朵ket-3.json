@@ -1,0 +1,70 @@
+{
+  "start": 1383436800,
+  "end": 1383436800,
+  "title": "みみけっと28",
+  "desc": "耳朵ket28 于 东京都 Belle Salle新宿Grand Hall 举办",
+  "url": "https://thwiki.cc/%E8%80%B3%E6%9C%B5ket#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "74884d9d6c5df4f9b9891764ff3fd7d43c2cd2988d02d1f8f4ca59e2e81150c4",
+  "location": {
+    "type": "google",
+    "text": "东京都 Belle Salle新宿Grand Hall",
+    "entity": [
+      {
+        "id": "ChIJvd8k-DqNGGAR7nmCjE0NwDo",
+        "addressLine1": "Belle Salle Takadanobaba",
+        "addressLine2": "３丁目-８-２ 大久保 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJzRf0PiEjGWARO4iaj86koOY",
+        "addressLine1": "Owada Hall",
+        "addressLine2": "１８０−２ 小和田 あきる野市 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFZ-tCwsjGWARLP2lg_9Zxu4",
+        "addressLine1": "Fuchigami Hall",
+        "addressLine2": "３１１ 渕上 あきる野市 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJq_MlVKodGWARq37cRPW7E_Y",
+        "addressLine1": "Motohashi Hall",
+        "addressLine2": "５４９−６ 相原町 町田市 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJxw1XKb77GGAR-xGy1wqZNOo",
+        "addressLine1": "Okura Hall",
+        "addressLine2": "３５０−１ 大蔵町 町田市 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "耳朵ket-3"
+}

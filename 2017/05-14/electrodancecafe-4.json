@@ -1,0 +1,33 @@
+{
+  "start": 1494720000,
+  "end": 1494720000,
+  "title": "ElectroDanceCafe Vol.3",
+  "desc": "ElectroDanceCafe Vol.3 于 东京都 DESEOmini 举办",
+  "url": "https://thwiki.cc/ElectroDanceCafe#ev-4",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b0464d8bc2d2addecf2454499500b5371d3e787d335387500bd28b02cb47137f",
+  "location": {
+    "type": "google",
+    "text": "东京都 DESEOmini",
+    "entity": [
+      {
+        "id": "ChIJVVVVVVqLGGARiTxK-j2NGI0",
+        "addressLine1": "DESEO mini with VILLAGE VANGUARD",
+        "addressLine2": "２丁目-１３-５ 道玄坂 渋谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "electrodancecafe-4"
+}

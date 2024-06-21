@@ -1,0 +1,90 @@
+{
+  "start": 1312502400,
+  "end": 1312502400,
+  "title": "香川☆東方ガチNight!!!1",
+  "desc": "香川☆东方认真Night!!!1 于 香川县高松市 nattsu music cafe 举办",
+  "url": "https://thwiki.cc/%E9%A6%99%E5%B7%9D%E2%98%86%E4%B8%9C%E6%96%B9%E8%AE%A4%E7%9C%9FNight!!!#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "483c59635bfaa99d7322be7bafef68c9b69d0f8609417dc93df1e4c0d244e0fc",
+  "location": {
+    "type": "google",
+    "text": "香川县高松市 nattsu music cafe",
+    "entity": [
+      {
+        "id": "ChIJg18yooXrUzURvvMDexakUIo",
+        "addressLine1": "CAFE LOURDES（カフェルルド）",
+        "addressLine2": "日本、香川県高松市兵庫町１−１５",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJh_ZQIgDrUzUR6ZUrRFQ-39Q",
+        "addressLine1": "CAFE DE SKILLET(カフェドスキレット)",
+        "addressLine2": "日本、香川県高松市多肥下町４７３−２",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJC5OaW-KSUzURpsF73ziC_dY",
+        "addressLine1": "Cafe DUCE",
+        "addressLine2": "日本、香川県高松市牟礼町牟礼３７２０",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJK1zgKXCVUzURH3h6EobdcQA",
+        "addressLine1": "cafe SORAのいろ",
+        "addressLine2": "日本、香川県高松市前田西町６９７",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJQ0aY9EmTUzURCywXS6ZE-5E",
+        "addressLine1": "CAFE Lululu",
+        "addressLine2": "日本、香川県高松市高松町２４８７−１０",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "香川☆东方认真night!!!-1"
+}

@@ -1,0 +1,40 @@
+{
+  "start": 991526400,
+  "end": 991526400,
+  "title": "Comic Communication2",
+  "desc": "Comic Communication2 于 大阪国际会议场3楼 举办",
+  "url": "https://thwiki.cc/Comic_Communication#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "02a5dd0201835480ce9ebf30b9520e83874d8b18d2fbcbb4bb96800be49fe40f",
+  "location": {
+    "type": "google",
+    "text": "大阪国际会议场3楼",
+    "entity": [
+      {
+        "id": "ChIJLyAg61jmAGARxD4WxFIVPgw",
+        "addressLine1": "大阪府立国际会议场",
+        "addressLine2": "日本、大阪府大阪市北区中之島５丁目３−５１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJY4tDzFjmAGAR9ptfg7yquZ0",
+        "addressLine1": "大阪国際会議場前港",
+        "addressLine2": "日本、大阪府大阪市北区中之島５丁目３−６７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-communication-2"
+}

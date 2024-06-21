@@ -1,0 +1,82 @@
+{
+  "start": 1356134400,
+  "end": 1356134400,
+  "title": "第三回東方紅白歌合戦",
+  "desc": "第三回东方红白歌合战 于 爱知县名古屋市 JOYSOUND堀田 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BA%A2%E7%99%BD%E6%AD%8C%E5%90%88%E6%88%98#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "17fd156921223fba6d9def032a93f1f96b3338378ff4f17fe194f8ed4cae0b9c",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 JOYSOUND堀田",
+    "entity": [
+      {
+        "id": "ChIJhanU9BR6A2ARffzE2V0xCq4",
+        "addressLine1": "堀田通",
+        "addressLine2": "日本、愛知県名古屋市瑞穂区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJu_r53zh6A2ARTVzPsmDOqMs",
+        "addressLine1": "堀田駅",
+        "addressLine2": "日本、愛知県名古屋市瑞穂区新開町２８",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJl-uJBfp6A2ARHmZ-TLgLeH8",
+        "addressLine1": "田辺通",
+        "addressLine2": "日本、愛知県名古屋市瑞穂区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJx5BFqElxA2AR2jpchhvXu40",
+        "addressLine1": "田幡",
+        "addressLine2": "日本、愛知県名古屋市北区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJCbEklp16A2AR0WjRDEiKp3w",
+        "addressLine1": "田面町",
+        "addressLine2": "日本、愛知県名古屋市昭和区",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_2",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方红白歌合战-3"
+}

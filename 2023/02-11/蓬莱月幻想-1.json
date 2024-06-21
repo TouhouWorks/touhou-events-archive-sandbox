@@ -1,0 +1,32 @@
+{
+  "start": 1676073600,
+  "end": 1676073600,
+  "title": "天津THO-蓬莱月幻想1",
+  "desc": "天津THO-蓬莱月幻想1 于 天津市南开区素柏云酒店 举办",
+  "url": "https://thwiki.cc/%E8%93%AC%E8%8E%B1%E6%9C%88%E5%B9%BB%E6%83%B3#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3633aa7837db1919f4ca827022f889943987dae90824a1b9e776461bb2653020",
+  "location": {
+    "type": "google",
+    "text": "天津市南开区素柏云酒店",
+    "entity": [
+      {
+        "id": "ChIJmW7I1pQH7jURNnt6i5VFO2Y",
+        "addressLine1": "南开区",
+        "addressLine2": "中華人民共和国 天津市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "蓬莱月幻想-1"
+}

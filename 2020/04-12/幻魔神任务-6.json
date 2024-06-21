@@ -1,0 +1,44 @@
+{
+  "start": 1586649600,
+  "end": 1586649600,
+  "title": "FINALGEMMASHIN VI",
+  "desc": "最终幻魔神 VI 于 大阪市 御堂会馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E9%AD%94%E7%A5%9E%E4%BB%BB%E5%8A%A1#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "59e67fc5630cb672d6df5488e5db394820310e8018f59917b546ed011d3ce41b",
+  "location": {
+    "type": "google",
+    "text": "大阪市 御堂会馆",
+    "entity": [
+      {
+        "id": "ChIJhX-4uWTnAGARHU_C3FJefsU",
+        "addressLine1": "御堂会館",
+        "addressLine2": "日本、大阪府大阪市中央区久太郎町４丁目１−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJX_IKWRznAGARtHcmG9II6Pw",
+        "addressLine1": "南御堂（真宗大谷派難波別院）",
+        "addressLine2": "日本、大阪府大阪市中央区久太郎町４丁目１−１１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻魔神任务-6"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1472860800,
+  "end": 1472860800,
+  "title": "博麗神社の縁側4.5",
+  "desc": "博丽神社的檐廊4.5 于 半田红砖建筑 举办",
+  "url": "https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%9A%84%E6%AA%90%E5%BB%8A#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0361055ed5e0dc7369ffdeaac135d7cb6ab96aa4710b0bd7f141d90e5f36a2ba",
+  "location": {
+    "type": "google",
+    "text": "半田红砖建筑",
+    "entity": [
+      {
+        "id": "ChIJobOz6U6EBGARiIHF3mGm8EA",
+        "addressLine1": "半田紅磚建築",
+        "addressLine2": "日本、愛知県半田市榎下町８",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "博丽神社的檐廊-6"
+}

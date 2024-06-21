@@ -1,0 +1,19 @@
+{
+  "start": 1413590400,
+  "end": 1413590400,
+  "title": "ふぁーすと8",
+  "desc": "Fur-st8 于 东京都 东京批发贸易中心 举办",
+  "url": "https://thwiki.cc/Fur-st#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c0515363a91c038c285bc3cb9ca56b5f4d92b8b1a92f6cb720eeb9b00b3bba35",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京批发贸易中心",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "fur-st-2"
+}

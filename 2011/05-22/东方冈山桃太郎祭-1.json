@@ -1,0 +1,74 @@
+{
+  "start": 1306022400,
+  "end": 1306022400,
+  "title": "東方おかやま桃太郎まつり1",
+  "desc": "东方冈山桃太郎祭1 于 冈山县综合展示场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%86%88%E5%B1%B1%E6%A1%83%E5%A4%AA%E9%83%8E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bcb6ab81f718f3164465a867038186b20e319d27e26b2cb71a40be8b80e8ad20",
+  "location": {
+    "type": "google",
+    "text": "冈山县综合展示场",
+    "entity": [
+      {
+        "id": "ChIJ_TggjsEOVDURi5kA0qY1384",
+        "addressLine1": "ライフデザイン・カバヤ（株）プレステージ城東展示場",
+        "addressLine2": "日本、岡山県岡山市中区下１２６−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLRhOkvYHVDURQ_YrQTPcyvk",
+        "addressLine1": "ダイワハウス問屋町テラス展示場",
+        "addressLine2": "日本、岡山県岡山市北区問屋町１５−１０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ38_aQ8oHVDURDRD88Dg_tdQ",
+        "addressLine1": "セキスイハイム中四国(株) 問屋町テラス展示場",
+        "addressLine2": "日本、岡山県岡山市北区問屋町１５−１０１",
+        "provider": "google_places",
+        "categories": [
+          "GENERAL_CONTRACTOR",
+          "establishment",
+          "point_of_interest",
+          "general_contractor"
+        ]
+      },
+      {
+        "id": "ChIJ0wCcUbP_UzUR6muVBp1hLrw",
+        "addressLine1": "ミサワホーム RSKハウジングプラザ HYBRID展示場",
+        "addressLine2": "日本、岡山県岡山市北区撫川１５５８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJtfOoVHP_UzURrIwnoJ4YTvU",
+        "addressLine1": "ヘーベルハウスRSK展示場",
+        "addressLine2": "日本、岡山県岡山市北区撫川１５９２−１",
+        "provider": "google_places",
+        "categories": [
+          "GENERAL_CONTRACTOR",
+          "establishment",
+          "point_of_interest",
+          "general_contractor"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方冈山桃太郎祭-1"
+}

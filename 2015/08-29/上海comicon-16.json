@@ -1,0 +1,62 @@
+{
+  "start": 1440806400,
+  "end": 1440806400,
+  "title": "上海ComiCon16",
+  "desc": "上海ComiCon16 于 上海市 上海长风跨国采购会展中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%8A%E6%B5%B7ComiCon#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3995d3744888c4ec2db28d48f29a196685856117a9a1cb9ed0c19d143ab92ecf",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海长风跨国采购会展中心",
+    "entity": [
+      {
+        "id": "ChIJadjlvJtlsjURm38ikB3fd3M",
+        "addressLine1": "跨国采购会展中心停车场",
+        "addressLine2": "中華人民共和国 上海 普陀区 Guangfu Road (W)",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJXU8GoJtlsjURDf0sIw2lQJI",
+        "addressLine1": "上海跨国采购会展中心",
+        "addressLine2": "中華人民共和国 上海 普陀区 Zhongjiang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJsWWHR5tlsjUR25IlZCt3v_0",
+        "addressLine1": "上海跨国采购会展中心",
+        "addressLine2": "中華人民共和国 上海市 普陀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJl7ZEFZtlsjURPOstW2XDKyE",
+        "addressLine1": "跨国采购会展中心写字楼（东门）",
+        "addressLine2": "中華人民共和国 上海 普陀区 Zhongjiang Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "上海comicon-16"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1643932800,
+  "end": 1643932800,
+  "title": "徐州THP0-红楼岁替",
+  "desc": "徐州THP0-红楼岁替 于 江苏省徐州市 泉山区 罗马森林轰趴派对 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%A5%BC%E5%B2%81%E6%9B%BF#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "443ca3331d9678c12ccf666f5e074ca2fd1c310b75fbca06733b95841db2a272",
+  "location": {
+    "type": "google",
+    "text": "江苏省徐州市 泉山区 罗马森林轰趴派对",
+    "entity": [
+      {
+        "id": "ChIJ6V86rZ8HxjURwhXzz2d_G9c",
+        "addressLine1": "泉山区",
+        "addressLine2": "中華人民共和国 江苏省徐州市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "红楼岁替-1"
+}

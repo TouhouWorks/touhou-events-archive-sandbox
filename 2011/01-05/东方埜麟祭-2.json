@@ -1,0 +1,62 @@
+{
+  "start": 1294185600,
+  "end": 1294185600,
+  "title": "東方埜麟祭vol.2",
+  "desc": "东方埜麟祭vol.2 于 广岛市 MUGEN∞ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%9F%9C%E9%BA%9F%E7%A5%AD#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "450bef441b8c34a80a1d6b2cfea5afe94abc48c51b1e26f761ccddb175d6bf94",
+  "location": {
+    "type": "google",
+    "text": "广岛市 MUGEN∞",
+    "entity": [
+      {
+        "id": "ChIJhVP6dyWjWjURKl_EICrXIXg",
+        "addressLine1": "ｍｕｇｅｎ",
+        "addressLine2": "日本、広島県広島市西区草津本町１７−３",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ0Y1Ws4-jWjURpOGIfNVBM4o",
+        "addressLine1": "MUGEN5610",
+        "addressLine2": "日本、広島県広島市中区薬研堀１−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJrYIbeCWjWjURTGFmMI6zUCo",
+        "addressLine1": "Mugen",
+        "addressLine2": "１７-３ 草津本町 西区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ6cCopmSiWjUR21a3NXzhGLY",
+        "addressLine1": "Mugen",
+        "addressLine2": "８-１６ 都町 西区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方埜麟祭-2"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1290902400,
+  "end": 1290902400,
+  "title": "コスチュームカフェ 25号店",
+  "desc": "Costume Cafe 25号店 于 东京都立产业贸易中心 浜松町馆 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-27",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6421f1be4a5e2c306a57acd7cf80ff17d678aab1beac12ada14164b8afffa59b",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 浜松町馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "costume-cafe-27"
+}

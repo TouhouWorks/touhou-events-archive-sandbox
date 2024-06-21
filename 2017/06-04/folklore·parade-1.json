@@ -1,0 +1,32 @@
+{
+  "start": 1496534400,
+  "end": 1496534400,
+  "title": "フォークロア・パレード 1",
+  "desc": "Folklore·Parade 1 于 京都市 京都市劝业馆 B1层 特別展厅 举办",
+  "url": "https://thwiki.cc/Folklore%C2%B7Parade#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "29e9d3fd25018cf1d9afcfeb282afbc558b0ea8f21250ad07cfb75d68c944281",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都市劝业馆 B1层 特別展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勸業館 Miyako Messe",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "folklore·parade-1"
+}

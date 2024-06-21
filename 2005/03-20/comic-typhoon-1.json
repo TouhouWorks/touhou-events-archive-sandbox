@@ -1,0 +1,40 @@
+{
+  "start": 1111276800,
+  "end": 1111276800,
+  "title": "Comic Typhoon 45",
+  "desc": "Comic Typhoon 45 于 金泽市北陆放送会馆 举办",
+  "url": "https://thwiki.cc/Comic_Typhoon#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "999dfb6085bab977ffa4624a727af94b17b0929ff2ac000f10d8ee72ed633eba",
+  "location": {
+    "type": "google",
+    "text": "金泽市北陆放送会馆",
+    "entity": [
+      {
+        "id": "ChIJ-Ux7fHg0-F8RyirLoZtkOSk",
+        "addressLine1": "北陸放送会館",
+        "addressLine2": "日本、石川県金沢市本多町３丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJw7Q5eXg0-F8Rtkwk9iCnIEg",
+        "addressLine1": "北陸放送（株）",
+        "addressLine2": "日本、石川県金沢市本多町３丁目２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "comic-typhoon-1"
+}

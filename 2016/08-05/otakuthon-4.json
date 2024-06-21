@@ -1,0 +1,30 @@
+{
+  "start": 1470355200,
+  "end": 1470355200,
+  "title": "Otakuthon 2016",
+  "desc": "Otakuthon 2016 于 加拿大蒙特利尔会议中心 举办",
+  "url": "https://thwiki.cc/Otakuthon#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4dfc13c2773edbbef4f9c309bdba40bd165fd010d9cd91925a8789ac24b167e3",
+  "location": {
+    "type": "google",
+    "text": "加拿大蒙特利尔会议中心",
+    "entity": [
+      {
+        "id": "ChIJCRWEZloayUwRU0xKEh4ENGQ",
+        "addressLine1": "蒙特利尔会议中心",
+        "addressLine2": "カナダ ケベック モントリオール Place Jean-Paul-Riopelle",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "otakuthon-4"
+}

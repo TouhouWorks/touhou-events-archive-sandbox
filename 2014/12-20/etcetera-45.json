@@ -1,0 +1,30 @@
+{
+  "start": 1419033600,
+  "end": 1419033600,
+  "title": "えとせとら Vol.44",
+  "desc": "Etcetera Vol.44 于 东京都 中野Garalley-O2 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-45",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d08b2a1c6ef74d9d6b0c6e87f9d9bd6dbb0ddea06f800e90005af8e535de31d0",
+  "location": {
+    "type": "google",
+    "text": "东京都 中野Garalley-O2",
+    "entity": [
+      {
+        "id": "ChIJq6oWQb7yGGARjoqLFJbTRFI",
+        "addressLine1": "gallery o2",
+        "addressLine2": "日本、東京都中野区中野５丁目１−１５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-45"
+}

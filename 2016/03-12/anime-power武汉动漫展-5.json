@@ -1,0 +1,30 @@
+{
+  "start": 1457740800,
+  "end": 1457740800,
+  "title": "Anime Power武汉动漫展SP1",
+  "desc": "Anime Power武汉动漫展SP1 于 上海市 金海岸大剧院 举办",
+  "url": "https://thwiki.cc/Anime_Power%E6%AD%A6%E6%B1%89%E5%8A%A8%E6%BC%AB%E5%B1%95#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5ed28175d4648dfc2b57324bc8086e8e12dcccaf88d6062eec586e57ade67b5b",
+  "location": {
+    "type": "google",
+    "text": "上海市 金海岸大剧院",
+    "entity": [
+      {
+        "id": "ChIJF-xT3893sjURqlHoRpPRTu0",
+        "addressLine1": "金海岸大浴场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "anime-power武汉动漫展-5"
+}

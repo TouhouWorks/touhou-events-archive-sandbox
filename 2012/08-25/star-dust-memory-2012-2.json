@@ -1,0 +1,78 @@
+{
+  "start": 1345852800,
+  "end": 1345852800,
+  "title": "STAR DUST MEMORY 2012 名古屋",
+  "desc": "STAR DUST MEMORY 2012 名古屋 于 爱知县名古屋市 Party&#39;z 举办",
+  "url": "https://thwiki.cc/STAR_DUST_MEMORY_2012#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c5e0667c8320486b163fa028ded597c46287c2fe17c724feae94b51b404e10cd",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 Party&#39;z",
+    "entity": [
+      {
+        "id": "ChIJU1A3EyB3A2ARPX3Hw5ffXuE",
+        "addressLine1": "Zepp Nagoya",
+        "addressLine2": "日本、愛知県名古屋市中村区平池町４丁目６０−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVYq-mftzA2AR--W61jQu8ag",
+        "addressLine1": "ZENT 名古屋北店",
+        "addressLine2": "日本、愛知県名古屋市北区中切町５丁目５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFRk23XZxA2AR-bMJKrhwfX0",
+        "addressLine1": "Zephyr Hall",
+        "addressLine2": "日本、愛知県名古屋市中区錦３丁目１４−２１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ2enTNNJwA2ARX48bodxwqGs",
+        "addressLine1": "ZARA 名古屋店",
+        "addressLine2": "日本、愛知県名古屋市中区栄３丁目７−２０",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJEaHCcdBwA2AR8AKY2_3v-Zs",
+        "addressLine1": "zuiji",
+        "addressLine2": "日本、愛知県名古屋市中区栄４丁目５−２２",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "star-dust-memory-2012-2"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1305417600,
+  "end": 1305417600,
+  "title": "東方鈴仙祭1",
+  "desc": "东方铃仙祭1 于 大阪产业创造馆 4层 活动馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%93%83%E4%BB%99%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "48205d3163699ddc95579011301120583ad7b9ba2896a7f4b0aad14a689ed1cf",
+  "location": {
+    "type": "google",
+    "text": "大阪产业创造馆 4层 活动馆",
+    "entity": [
+      {
+        "id": "ChIJw7ILcCHnAGARAM1Jy48J9Cc",
+        "addressLine1": "大阪産業創造館",
+        "addressLine2": "日本、大阪府大阪市中央区本町１丁目４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方铃仙祭-1"
+}

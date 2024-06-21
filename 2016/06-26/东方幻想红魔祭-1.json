@@ -1,0 +1,30 @@
+{
+  "start": 1466899200,
+  "end": 1466899200,
+  "title": "東方幻想紅魔祭1",
+  "desc": "东方幻想红魔祭1 于 名古屋国际会议场 1号馆 活动馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E7%BA%A2%E9%AD%94%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e4ebb88f3c1b1fe0068f600d87ab4a0bf8bf2ed18ec6a659efd0978d7ad28a16",
+  "location": {
+    "type": "google",
+    "text": "名古屋国际会议场 1号馆 活动馆",
+    "entity": [
+      {
+        "id": "ChIJIYEgkv55A2ARpuoAd1pQMMg",
+        "addressLine1": "名古屋国际会议场",
+        "addressLine2": "日本、愛知県名古屋市熱田区熱田西町１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幻想红魔祭-1"
+}

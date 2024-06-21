@@ -1,0 +1,19 @@
+{
+  "start": 1466121600,
+  "end": 1466121600,
+  "title": "APOLLO 第4回",
+  "desc": "APOLLO 第4回 于 https://booth.pm/apollo/a04 举办",
+  "url": "https://thwiki.cc/APOLLO#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "30df8e188e140614e320fa881cfbbfdeb458010950f04d9c13fd7ca74f8ad827",
+  "location": {
+    "type": "google",
+    "text": "https://booth.pm/apollo/a04",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "apollo-4"
+}

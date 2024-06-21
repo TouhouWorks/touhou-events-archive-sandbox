@@ -1,0 +1,30 @@
+{
+  "start": 1432425600,
+  "end": 1432425600,
+  "title": "げんましん通～みまさま16さい",
+  "desc": "幻魔神通～魅魔大人16岁 于 大阪南港 ATC Hall 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E9%AD%94%E7%A5%9E%E4%BB%BB%E5%8A%A1#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d4d0841727d9d255bd14f52dec7d5bf48ca1a1f81d1e11e87f99291b6fe22961",
+  "location": {
+    "type": "google",
+    "text": "大阪南港 ATC Hall",
+    "entity": [
+      {
+        "id": "ChIJPTUzfVLoAGARB_RMp12FbTo",
+        "addressLine1": "ATC HALL",
+        "addressLine2": "２丁目-１-１０ 南港北 住之江区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻魔神任务-2"
+}

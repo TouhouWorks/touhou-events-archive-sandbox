@@ -1,0 +1,54 @@
+{
+  "start": 1503792000,
+  "end": 1503792000,
+  "title": "東方幻仙郷 六",
+  "desc": "东方幻仙乡 六 于 仙台国际中心 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%B9%BB%E4%BB%99%E4%B9%A1#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bab5075f9b2bfacfd06e8c053367124ab85e27e90aef381b180b339c712a2078",
+  "location": {
+    "type": "google",
+    "text": "仙台国际中心",
+    "entity": [
+      {
+        "id": "ChIJzfS6UkYoil8RkVmIFmJqA6g",
+        "addressLine1": "仙台国际中心",
+        "addressLine2": "日本、宮城県仙台市青葉区青葉山",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ__8_SEYoil8RFYz6_3p5zG0",
+        "addressLine1": "仙台國際中心展覽廳",
+        "addressLine2": "日本、宮城県仙台市青葉区青葉山",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJlyo5ekgoil8Rsxq-W2HnYeA",
+        "addressLine1": "国际中心（宫城）",
+        "addressLine2": "日本、宮城県仙台市青葉区青葉山",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station",
+          "METRO_STATION",
+          "subway_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方幻仙乡-6"
+}

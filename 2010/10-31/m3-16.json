@@ -1,0 +1,19 @@
+{
+  "start": 1288483200,
+  "end": 1288483200,
+  "title": "M3-2010秋",
+  "desc": "M3-2010秋 于 东京流通中心(TRC) 第2展厅 E～F厅 举办",
+  "url": "https://thwiki.cc/M3#ev-16",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3eab65208adba2b046fb13769a0cf84a3f9e9a94c69910150620c72a0f1f19fb",
+  "location": {
+    "type": "google",
+    "text": "东京流通中心(TRC) 第2展厅 E～F厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "m3-16"
+}

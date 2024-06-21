@@ -1,0 +1,78 @@
+{
+  "start": 1532044800,
+  "end": 1532044800,
+  "title": "BilibiliWorld 2018",
+  "desc": "BilibiliWorld 2018 于 上海市 上海世博展览馆 举办",
+  "url": "https://thwiki.cc/BilibiliWorld#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8b681aae13dd6c2a21fa507cf2b83d7c0a59c5aefa3616d3a85b65c31f004522",
+  "location": {
+    "type": "google",
+    "text": "上海市 上海世博展览馆",
+    "entity": [
+      {
+        "id": "ChIJXRi66vV6sjURCOZFp8-m2DI",
+        "addressLine1": "上海世博展览馆",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Guozhan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJx1bDQmh6sjURuL4-PtiIsEQ",
+        "addressLine1": "上海世博展览馆万信酒店",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 高科西路",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJo1AslfV6sjURrPU2bGL_mqU",
+        "addressLine1": "上海世博展览馆下沉广场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 Guozhan Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ3ezUrPV6sjURawaaSvts15o",
+        "addressLine1": "上海世博展览馆购物中心美食广场UFO",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 The Expo Hall Road",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJESvzivp6sjURsUg2os2yAQY",
+        "addressLine1": "上海世博展览馆停车场",
+        "addressLine2": "中華人民共和国 上海市 浦東新区 周家渡 The Expo Hall Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "bilibiliworld-2"
+}

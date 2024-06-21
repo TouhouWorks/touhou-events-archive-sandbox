@@ -1,0 +1,30 @@
+{
+  "start": 1689984000,
+  "end": 1689984000,
+  "title": "鄭州THO-東方夕夜花",
+  "desc": "郑州THO-东方夕夜花 于 郑州 涵唐酒店（原天泉大酒店） 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "63087b7a7eeadcdce622a103a96d293086b223d0789496350b5c1f5e2ecf9ef3",
+  "location": {
+    "type": "google",
+    "text": "郑州 涵唐酒店（原天泉大酒店）",
+    "entity": [
+      {
+        "id": "ChIJN3lXQftl1zURpX-xHegYykw",
+        "addressLine1": "天泉大酒店",
+        "addressLine2": "中華人民共和国 河南省 郑州 二七区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方华月宴·槐序绮想-7"
+}

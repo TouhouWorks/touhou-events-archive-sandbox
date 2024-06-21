@@ -1,0 +1,32 @@
+{
+  "start": 1342828800,
+  "end": 1342828800,
+  "title": "東方わぁい！其之拾",
+  "desc": "东方哇！其之拾 于 大阪市 Bar GUILD 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%93%87%EF%BC%81#ev-10",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ccff8e33f4a21ec9f86d2c8d3affb71775b127c38971c8ed16755608b906d698",
+  "location": {
+    "type": "google",
+    "text": "大阪市 Bar GUILD",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方哇！-10"
+}

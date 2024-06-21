@@ -1,0 +1,19 @@
+{
+  "start": 1468627200,
+  "end": 1468627200,
+  "title": "東方夜想郷13",
+  "desc": "东方夜想乡13 于 东京都 Hudred Square俱乐部 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%9C%E6%83%B3%E4%B9%A1#ev-13",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "631197373bc4409d41f2aaae007ceb5fbdd5f6c4e12cf1b4a65ade312e5a55f6",
+  "location": {
+    "type": "google",
+    "text": "东京都 Hudred Square俱乐部",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方夜想乡-13"
+}

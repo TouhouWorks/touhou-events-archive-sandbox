@@ -1,0 +1,30 @@
+{
+  "start": 1582416000,
+  "end": 1582416000,
+  "title": "東方福酔宴 第三席",
+  "desc": "东方福醉宴 第三席 于 福岛县郡山市 郡山DOOZ 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A6%8F%E9%86%89%E5%AE%B4#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "681352388d3db2050d96b7d36b7834ab8033c1c16ab0d1009c2d5ee4aee677d1",
+  "location": {
+    "type": "google",
+    "text": "福岛县郡山市 郡山DOOZ",
+    "entity": [
+      {
+        "id": "ChIJN_pj7IZsIGARl605A-gkxho",
+        "addressLine1": "DOOZ ドーズ",
+        "addressLine2": "日本、福島県郡山市駅前２丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方福醉宴-3"
+}

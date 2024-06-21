@@ -1,0 +1,41 @@
+{
+  "start": 1506211200,
+  "end": 1506211200,
+  "title": "東方Junction3",
+  "desc": "东方Junction3 于 福冈县北九州市 TWO FLAVOR 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Junction#ev-3",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8c411a849a03d502022db57f7e1ec4d3b1542cd0a15db113784be87b342c7a86",
+  "location": {
+    "type": "google",
+    "text": "福冈县北九州市 TWO FLAVOR",
+    "entity": [
+      {
+        "id": "ChIJqW1jSWjHQzUR5zh-KTC5ijg",
+        "addressLine1": "北九州市",
+        "addressLine2": "日本、福岡県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ElFOYXRpb25hbCBSb3V0ZSAyLCDvvJLkuIHnm64t77yS77yXIOS4remHjuadsSDljJfljLog5YyX5Lmd5bee5biCIOemj-WyoeecjCDml6XmnKwiLiosChQKEgmJ_SxB7OYAYBGUXeoQmX3moBIUChIJxefy_Z91UDURoFMp0eTLKL8",
+        "addressLine1": "National Route 2",
+        "addressLine2": "２丁目-２７ 中野東 北区 北九州市 福岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方junction-3"
+}

@@ -1,0 +1,32 @@
+{
+  "start": 1496534400,
+  "end": 1496534400,
+  "title": "古明地こんぷれっくす よっつめ。",
+  "desc": "古明地情结 第四只眼。 于 京都市劝业馆 (みやこめっせ) 地下1层 第1展厅 举办",
+  "url": "https://thwiki.cc/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%83%85%E7%BB%93#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "92984e58e88882fb0e8a1e0b6c870aa736b519e56fa5d497664119efb59d9bbf",
+  "location": {
+    "type": "google",
+    "text": "京都市劝业馆 (みやこめっせ) 地下1层 第1展厅",
+    "entity": [
+      {
+        "id": "ChIJdfuw_eUIAWARQlDcwft29TI",
+        "addressLine1": "京都市勧業館 みやこめっせ",
+        "addressLine2": "日本、京都府京都市左京区岡崎成勝寺町９−１",
+        "provider": "google_places",
+        "categories": [
+          "ENTERTAINMENT",
+          "establishment",
+          "point_of_interest",
+          "art_gallery"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "古明地情结-4"
+}

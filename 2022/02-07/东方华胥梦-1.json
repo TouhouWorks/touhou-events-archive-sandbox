@@ -1,0 +1,30 @@
+{
+  "start": 1644192000,
+  "end": 1644192000,
+  "title": "东方华胥梦1",
+  "desc": "东方华胥梦1 于 内蒙古包头 福金全排骨总店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%8D%8E%E8%83%A5%E6%A2%A6#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "31d5bafec8beb534e5918830d026ea587007ef092eff11c41e18e260b93184a2",
+  "location": {
+    "type": "google",
+    "text": "内蒙古包头 福金全排骨总店",
+    "entity": [
+      {
+        "id": "ChIJFdhhat_xDzYRye_UceeWCY8",
+        "addressLine1": "总店",
+        "addressLine2": "中華人民共和国 内蒙古包头 ホンドロン Gangtie Avenue",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方华胥梦-1"
+}

@@ -1,0 +1,73 @@
+{
+  "start": 1380931200,
+  "end": 1380931200,
+  "title": "STEP! vol.7",
+  "desc": "STEP! vol.7 于 广岛市 SOUNDHOUSE ASTRO 举办",
+  "url": "https://thwiki.cc/STEP!#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "325b11aa6f4149e94edd9fd1dd29c0cf0f32ad9598d6d2abdc10baca8aa51b39",
+  "location": {
+    "type": "google",
+    "text": "广岛市 SOUNDHOUSE ASTRO",
+    "entity": [
+      {
+        "id": "ChIJ1-cBJIejWjURLOTAMcZjNVc",
+        "addressLine1": "占いとパフェのお店Astronote",
+        "addressLine2": "日本、広島県広島市中区本通９−２１",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJu0_z7giZWjURcvfBz1DO5Ac",
+        "addressLine1": "广岛市",
+        "addressLine2": "日本、広島県",
+        "provider": "google_places",
+        "categories": [
+          "locality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJ-9m0AfShWjURRFdd4ERjYzc",
+        "addressLine1": "ASTRO PRODUCTS Hiroshima",
+        "addressLine2": "４丁目-１-１８ 出汐 南区 広島市 広島県 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAR_REPAIR",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "car_repair"
+        ]
+      },
+      {
+        "id": "ChIJyyk7L4mYWjURZnuahBFJY_M",
+        "addressLine1": "三瀧寺",
+        "addressLine2": "日本、広島県広島市西区三滝山４１１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "SPIRITUAL_CENTER",
+          "place_of_worship",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "step!-7"
+}

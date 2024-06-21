@@ -1,0 +1,80 @@
+{
+  "start": 1321660800,
+  "end": 1321660800,
+  "title": "pixivマーケットVol.2",
+  "desc": "pixiv MARKET Vol.2 于 东京都 东京流通中心 举办",
+  "url": "https://thwiki.cc/pixiv_MARKET#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "adf5c0f20b6c0621251a2f87a63a68ca22a3343a20be9ec6e4face721c5678d0",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京流通中心",
+    "entity": [
+      {
+        "id": "ChIJITG0R7xhGGARCCOKn_nfktc",
+        "addressLine1": "流通中心",
+        "addressLine2": "日本、東京都東京平和島６丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJ7fQOqv2LGGAROfB0RtQVKPU",
+        "addressLine1": "㈱水産流通",
+        "addressLine2": "日本、東京都中央区豊海町６−８",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJYxaiKrxhGGARFv2awOcbbbQ",
+        "addressLine1": "流通中心前",
+        "addressLine2": "日本、東京都東京平和島３丁目６",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJbfOq18-TGGARA_1AQEdZKFM",
+        "addressLine1": "流通中心入口",
+        "addressLine2": "日本、東京都東京入谷６丁目２",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJOZyJ18-TGGAR6vxiNbBe41I",
+        "addressLine1": "流通中心入口",
+        "addressLine2": "日本、東京都東京入谷５丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "pixiv-market-2"
+}

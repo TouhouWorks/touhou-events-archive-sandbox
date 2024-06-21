@@ -1,0 +1,72 @@
+{
+  "start": 1436054400,
+  "end": 1436054400,
+  "title": "東方鈴仙祭4",
+  "desc": "东方铃仙祭4 于 大阪AAHall 2层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%93%83%E4%BB%99%E7%A5%AD#ev-4",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7be399af1e1d8b3cb5087eb30dc2703db4e50b03b414b72dc19c1a8919ef2de",
+  "location": {
+    "type": "google",
+    "text": "大阪AAHall 2层",
+    "entity": [
+      {
+        "id": "ChIJDeyet-zmAGARgn5zAEJZOf8",
+        "addressLine1": "amHALL",
+        "addressLine2": "２丁目-１４-１７ 曾根崎 北区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "Ekfml6XmnKzjgIHluoPls7bnnIzlpKfpmKrluILlronoirjljLrkuK3ph47mnbHvvJLkuIHnm67vvJLvvJcg5Zu96YGTMuWPtyIuKiwKFAoSCYn9LEHs5gBgEZRd6hCZfeagEhQKEgnF5_L9n3VQNRGgUynR5Msovw",
+        "addressLine1": "国道2号",
+        "addressLine2": "日本、広島県大阪市安芸区中野東２丁目２７",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "Ej7ml6XmnKzjgIHlpKfpmKrlupzlpKfpmKrluILopb_mt4Dlt53ljLrlp6vls7bvvJHkuIHnm67vvJHvvJAgMiIuKiwKFAoSCbeA6qml6ABgESKvqq5usDFxEhQKEgmJ1Zc4_OUAYBEbcWZAwlhi8Q",
+        "addressLine1": "2",
+        "addressLine2": "日本、大阪府大阪市西淀川区姫島１丁目１０",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ElPml6XmnKzjgIHlpKfpmKrlupzlpKfpmKrluILljJfljLrmlrDph5HlsqHnlLrvvJXkuIHvvJkg44Kq44Kq44K144Kr44OV44OJ44KmMuOCtOOCpiIuKiwKFAoSCT9PtCrI-gBgEbQY2d5E2sNTEhQKEgmHMUCi2dsAYBHMXSGhvam3rA",
+        "addressLine1": "オオサカフドウ2ゴウ",
+        "addressLine2": "日本、大阪府大阪市北区新金岡町５丁９",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJrzK89H_nAGAR7qQgsnJsrcw",
+        "addressLine1": "2nd【セカンド】",
+        "addressLine2": "日本、大阪府大阪市中央区西心斎橋１丁目１０−４",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方铃仙祭-4"
+}

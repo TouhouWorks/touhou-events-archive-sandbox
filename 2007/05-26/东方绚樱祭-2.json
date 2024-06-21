@@ -1,0 +1,32 @@
+{
+  "start": 1180137600,
+  "end": 1180137600,
+  "title": "東方絢櫻祭2 -絢櫻再盛-",
+  "desc": "东方绚樱祭2 -绚樱再盛- 于 台北市 耕莘文教院 1层 大礼堂 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%A8%B1%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "82b50cdf837035e18e20819a0fbee446bde5d541267b52e4ba820bb03a86abf0",
+  "location": {
+    "type": "google",
+    "text": "台北市 耕莘文教院 1层 大礼堂",
+    "entity": [
+      {
+        "id": "ChIJZwbBg46pQjQRVrZeVjmWJ6o",
+        "addressLine1": "耕莘文教院",
+        "addressLine2": "台湾 台北市 中正区",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方绚樱祭-2"
+}

@@ -1,0 +1,19 @@
+{
+  "start": 1466294400,
+  "end": 1466294400,
+  "title": "東方椰麟祭 第七幕",
+  "desc": "东方椰麟祭 第七幕 于 广岛县立广岛产业会馆 西展示场 1层 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%A4%B0%E9%BA%9F%E7%A5%AD#ev-7",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7a0e9c80574795d9845705cbe3b7605757663d487a17b539da8a2e5c29331f6c",
+  "location": {
+    "type": "google",
+    "text": "广岛县立广岛产业会馆 西展示场 1层",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方椰麟祭-7"
+}

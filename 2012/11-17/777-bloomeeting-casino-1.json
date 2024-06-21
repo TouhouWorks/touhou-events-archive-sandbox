@@ -1,0 +1,30 @@
+{
+  "start": 1353110400,
+  "end": 1353110400,
+  "title": "777 bloomeeting casino 1",
+  "desc": "777 bloomeeting casino 1 于 大阪府吹田市 大阪TH HALL 举办",
+  "url": "https://thwiki.cc/777_bloomeeting_casino#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2953eba183d4af7e83480dfbb9a5fa3d52c2440fa8f13eb5e348f39dcc6f3ecf",
+  "location": {
+    "type": "google",
+    "text": "大阪府吹田市 大阪TH HALL",
+    "entity": [
+      {
+        "id": "ChIJZxclHgvlAGAROzL-a7raIUo",
+        "addressLine1": "TH-R HALL",
+        "addressLine2": "日本、大阪府吹田市千里山東１丁目６−１６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "777-bloomeeting-casino-1"
+}

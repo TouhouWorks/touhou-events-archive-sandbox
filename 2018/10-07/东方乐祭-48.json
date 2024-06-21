@@ -1,0 +1,30 @@
+{
+  "start": 1538870400,
+  "end": 1538870400,
+  "title": "SDF砲雷樂祭 with 東方樂祭2",
+  "desc": "SDF砲雷乐祭 with 东方乐祭2 于 那霸市 那霸市水产会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-48",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "446f13d46f9fe3d445a190d9085b54d44967c99a3c24a3325a958e8d538dccb2",
+  "location": {
+    "type": "google",
+    "text": "那霸市 那霸市水产会馆",
+    "entity": [
+      {
+        "id": "ChIJVVUFEX9p5TQR62Wq7SiCs20",
+        "addressLine1": "沖縄県水産会館",
+        "addressLine2": "日本、沖縄県那覇市前島３丁目２５−３９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-48"
+}

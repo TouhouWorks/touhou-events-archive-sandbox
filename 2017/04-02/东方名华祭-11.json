@@ -1,0 +1,30 @@
+{
+  "start": 1491091200,
+  "end": 1491091200,
+  "title": "東方名華祭11",
+  "desc": "东方名华祭11 于 名古屋市国际展示场 第2展厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#ev-11",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d2b9e7207a1943899e0b652955a97606a3c916c4acfe847e9f90ea465ac2b01a",
+  "location": {
+    "type": "google",
+    "text": "名古屋市国际展示场 第2展厅",
+    "entity": [
+      {
+        "id": "ChIJN0mOQrh4A2ARl_VNHufkSzI",
+        "addressLine1": "ポートメッセなごや",
+        "addressLine2": "日本、愛知県名古屋市港区金城ふ頭２丁目２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方名华祭-11"
+}

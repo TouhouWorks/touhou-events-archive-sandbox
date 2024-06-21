@@ -1,0 +1,32 @@
+{
+  "start": 1682208000,
+  "end": 1682208000,
+  "title": "Tri Pianista2",
+  "desc": "Tri Pianista2 于 埼玉县川口市 川口Live Space CAVALLINO 举办",
+  "url": "https://thwiki.cc/Tri_Pianista#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "6a7dbee5b53cf75bbefab4646f0ecd2a9c1f11cf6067a30e6a361d563ffbfe04",
+  "location": {
+    "type": "google",
+    "text": "埼玉县川口市 川口Live Space CAVALLINO",
+    "entity": [
+      {
+        "id": "ChIJswtMj2WTGGARL9UhOTBQ6x8",
+        "addressLine1": "LiveSpace CAVALLINO",
+        "addressLine2": "３丁目-３-１２ 栄町 川口市 埼玉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "tri-pianista-2"
+}

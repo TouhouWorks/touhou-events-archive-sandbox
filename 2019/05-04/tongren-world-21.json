@@ -1,0 +1,30 @@
+{
+  "start": 1556928000,
+  "end": 1556928000,
+  "title": "Tongren World20",
+  "desc": "Tongren World20 于 广州市 海珠区 国际采购中心 1层 B1展厅 举办",
+  "url": "https://thwiki.cc/Tongren_World#ev-21",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "564bb0f3cee5016490d4ff8e42b2b17127f500f9dc65890dc3fcd5ef406918c4",
+  "location": {
+    "type": "google",
+    "text": "广州市 海珠区 国际采购中心 1层 B1展厅",
+    "entity": [
+      {
+        "id": "ChIJR1Mmbeb_AjQR19q_yaHkHgc",
+        "addressLine1": "Guangzhou Int'l. Purchase Center",
+        "addressLine2": "Dongshankou, 海珠区 広州市 広東省 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "tongren-world-21"
+}

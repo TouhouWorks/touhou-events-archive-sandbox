@@ -1,0 +1,32 @@
+{
+  "start": 1623542400,
+  "end": 1623542400,
+  "title": "东方LivePartyCP28 After",
+  "desc": "东方LivePartyCP28 After 于 上海市 黄浦区 重庆南路308号白玉兰剧场3楼 MAO Livehouse 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-36",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4276217b0a0dba13553160f4d1dcf8c2c890cf1f05e9204a05c0f7a8aed6ad30",
+  "location": {
+    "type": "google",
+    "text": "上海市 黄浦区 重庆南路308号白玉兰剧场3楼 MAO Livehouse",
+    "entity": [
+      {
+        "id": "ChIJ9X7MUJ56sjURL7Yt5f7pggU",
+        "addressLine1": "Magnolia Theatre",
+        "addressLine2": "Chongqing Road (S), 卢湾区 上海市 中華人民共和国",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-36"
+}

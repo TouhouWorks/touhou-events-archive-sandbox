@@ -1,0 +1,32 @@
+{
+  "start": 1662768000,
+  "end": 1662768000,
+  "title": "離音1",
+  "desc": "离音1 于 东京都 大塚地底 举办",
+  "url": "https://thwiki.cc/%E7%A6%BB%E9%9F%B3#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f639d7e2c881623049add73cdada33ed3951fd2c61ed4729284e1efae5d86d35",
+  "location": {
+    "type": "google",
+    "text": "东京都 大塚地底",
+    "entity": [
+      {
+        "id": "ChIJt2DaEVuNGGARAwmr4pxsQIw",
+        "addressLine1": "大塚 BAR 地底 (CHITEI)",
+        "addressLine2": "日本、東京都豊島区北大塚１丁目１４−６",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "离音-1"
+}

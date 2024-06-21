@@ -1,0 +1,19 @@
+{
+  "start": 1549065600,
+  "end": 1549065600,
+  "title": "霜筠茶会01",
+  "desc": "霜筠茶会01 于 宜春市 朝阳东路68号迪欧咖啡 举办",
+  "url": "https://thwiki.cc/%E9%9C%9C%E7%AD%A0%E8%8C%B6%E4%BC%9A#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "c7f9e607dd2cbcf1d34e105491e4de4d075d88df3cecf0378871b77e35202b2b",
+  "location": {
+    "type": "google",
+    "text": "宜春市 朝阳东路68号迪欧咖啡",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "霜筠茶会-1"
+}

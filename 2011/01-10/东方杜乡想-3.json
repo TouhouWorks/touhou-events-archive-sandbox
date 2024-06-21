@@ -1,0 +1,30 @@
+{
+  "start": 1294617600,
+  "end": 1294617600,
+  "title": "東方杜郷想3",
+  "desc": "东方杜乡想3 于 宫城县产业交流中心 (夢メッセみやぎ) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9D%9C%E4%B9%A1%E6%83%B3#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f25c66fa933d83e813b9aa5dcc0d63d5b16d16504fc56621016dae0d7e2ec9ff",
+  "location": {
+    "type": "google",
+    "text": "宫城县产业交流中心 (夢メッセみやぎ)",
+    "entity": [
+      {
+        "id": "ChIJTWqSuLqIiV8RxxbCk5-PQdA",
+        "addressLine1": "夢メッセみやぎ",
+        "addressLine2": "日本、宮城県仙台市宮城野区港３丁目１−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方杜乡想-3"
+}

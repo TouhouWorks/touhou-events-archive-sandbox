@@ -1,0 +1,52 @@
+{
+  "start": 1618099200,
+  "end": 1618099200,
+  "title": "沈陽THONLY 东方春谣祭",
+  "desc": "沈阳THONLY 东方春谣祭 于 沈阳 金际酒店 举办",
+  "url": "https://thwiki.cc/%E6%9D%B1%E6%96%B9%E5%86%B4%E6%A8%82%E5%87%9C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8bf23cebe538a63195f57c59929c8c6216652dd346be2f0941ac8856119eb03e",
+  "location": {
+    "type": "google",
+    "text": "沈阳 金际酒店",
+    "entity": [
+      {
+        "id": "ChIJvX-vwtd9JV4RqMpR_4Im40A",
+        "addressLine1": "沈阳金际酒店",
+        "addressLine2": "中華人民共和国 遼寧省 瀋陽市 鉄西新区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJN4M-wdd9JV4RRfxTvjWbHxI",
+        "addressLine1": "金际酒店",
+        "addressLine2": "中華人民共和国 遼寧省 沈阳 鉄西新区 滑翔小区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJRyedxNd9JV4RQHvmSiiPO64",
+        "addressLine1": "金际酒店停车场",
+        "addressLine2": "中華人民共和国 沈阳 鉄西新区",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "東方冴樂凜-2"
+}

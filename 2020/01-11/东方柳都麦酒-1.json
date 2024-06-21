@@ -1,0 +1,19 @@
+{
+  "start": 1578700800,
+  "end": 1578700800,
+  "title": "東方柳都麦酒 1",
+  "desc": "东方柳都麦酒 1 于 新潟市 Live Hall GOLDEN PIGS - YELLOW STAGE 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9F%B3%E9%83%BD%E9%BA%A6%E9%85%92#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4208d9f04233c3e43f79168b8933fe9780eaaa6b4351e9babc73553ba4ce3951",
+  "location": {
+    "type": "google",
+    "text": "新潟市 Live Hall GOLDEN PIGS - YELLOW STAGE",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方柳都麦酒-1"
+}

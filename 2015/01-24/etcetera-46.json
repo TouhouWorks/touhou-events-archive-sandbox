@@ -1,0 +1,82 @@
+{
+  "start": 1422057600,
+  "end": 1422057600,
+  "title": "えとせとら Vol.45",
+  "desc": "Etcetera Vol.45 于 东京都 涩谷LOUNGE NEO 举办",
+  "url": "https://thwiki.cc/Etcetera#ev-46",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b1da183cd5e991f663d8415f2db1c2ef73260c94de58c696e4fe3c9ee04995e6",
+  "location": {
+    "type": "google",
+    "text": "东京都 涩谷LOUNGE NEO",
+    "entity": [
+      {
+        "id": "ChIJdW_JqtSNGGARCsP-DngUz3Q",
+        "addressLine1": "neo",
+        "addressLine2": "日本、東京都渋谷区円山町１５−６",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJe93BMqiMGGAR7GUuxBcqYew",
+        "addressLine1": "Neolive &",
+        "addressLine2": "日本、東京都渋谷区渋谷３丁目１６−５",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ82pgDkKNGGARr_gRP61Y8OA",
+        "addressLine1": "Neo Tokyo Kart Shibuya",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−１１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ18R97-GNGGARsWW_sxyWyRg",
+        "addressLine1": "Neova",
+        "addressLine2": "日本、東京都渋谷区神宮前３丁目２６−５ URAHARA CENTRAL APARTMENT",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      },
+      {
+        "id": "ChIJBaScf62MGGARHVfmglMl9EU",
+        "addressLine1": "NEO GREEN",
+        "addressLine2": "日本、東京都渋谷区神山町１−５",
+        "provider": "google_places",
+        "categories": [
+          "GENERAL_CONTRACTOR",
+          "establishment",
+          "point_of_interest",
+          "general_contractor"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "etcetera-46"
+}

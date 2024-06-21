@@ -1,0 +1,30 @@
+{
+  "start": 1540684800,
+  "end": 1540684800,
+  "title": "東方樂祭 in 東方駿河祭 第9幕",
+  "desc": "东方乐祭 in 东方骏河祭 第9幕 于 沼津市 Plaza Verde KiraMesse沼津 西1Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-49",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e39de18c2ad153101b502ed8dbb20e5618f42de4c37195c2dbfeab33b501fe3f",
+  "location": {
+    "type": "google",
+    "text": "沼津市 Plaza Verde KiraMesse沼津 西1Hall",
+    "entity": [
+      {
+        "id": "ChIJ____JlyFGWARWbp63NX2yt0",
+        "addressLine1": "キラメッセぬまづ",
+        "addressLine2": "日本、静岡県沼津市大手町１丁目１−４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-49"
+}

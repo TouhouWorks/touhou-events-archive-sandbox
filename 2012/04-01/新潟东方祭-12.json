@@ -1,0 +1,32 @@
+{
+  "start": 1333238400,
+  "end": 1333238400,
+  "title": "新潟東方祭10",
+  "desc": "新潟东方祭10 于 新潟市 朱鹭展览馆 3-4层 举办",
+  "url": "https://thwiki.cc/%E6%96%B0%E6%BD%9F%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7d7d85d18de3e76b4f643e7051fec38bb44fdbedc582a766f2d3ed240afd1ac0",
+  "location": {
+    "type": "google",
+    "text": "新潟市 朱鹭展览馆 3-4层",
+    "entity": [
+      {
+        "id": "ChIJSxyXcB7K9F8RkFjx7GwWcZM",
+        "addressLine1": "朱鹭展览馆",
+        "addressLine2": "日本、新潟県新潟市中央区万代島６−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "新潟东方祭-12"
+}

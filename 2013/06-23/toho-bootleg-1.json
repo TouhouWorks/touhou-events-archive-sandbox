@@ -1,0 +1,83 @@
+{
+  "start": 1371945600,
+  "end": 1371945600,
+  "title": "TOHO BOOTLEG 1",
+  "desc": "TOHO BOOTLEG 1 于 东京都 STUDIO BAYD 下北泽店 举办",
+  "url": "https://thwiki.cc/TOHO_BOOTLEG#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f340fbed1da0881bc882597236e0f5ffa01bbfc960b8356f235619b9b17f84b8",
+  "location": {
+    "type": "google",
+    "text": "东京都 STUDIO BAYD 下北泽店",
+    "entity": [
+      {
+        "id": "ChIJw_teZ_8hGGARgsSeLR2OLjM",
+        "addressLine1": "下北沢",
+        "addressLine2": "日本、東京都世田谷区北沢",
+        "provider": "google_places",
+        "categories": [
+          "geocode",
+          "political",
+          "neighborhood"
+        ]
+      },
+      {
+        "id": "ChIJr1ZXXcfzGGARVxTZYvq9EOs",
+        "addressLine1": "玉金～たまきん～ 下北沢店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJm5b72mvzGGART7RJBMvDBnM",
+        "addressLine1": "お部屋探しCAFEヘヤギメ！下北沢店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目１９−１５",
+        "provider": "google_places",
+        "categories": [
+          "REAL_ESTATE",
+          "establishment",
+          "real_estate_agency",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ3a-Y0GvzGGARr5tWwVZO19U",
+        "addressLine1": "ガードアイランドスタジオ 下北沢南口店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目１３",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      },
+      {
+        "id": "ChIJ6TqcwGvzGGARgfvJIQnV-Ms",
+        "addressLine1": "ユニクロ 下北沢店",
+        "addressLine2": "日本、東京都世田谷区北沢２丁目２０−１７",
+        "provider": "google_places",
+        "categories": [
+          "CLOTHING_AND_ACCESSORIES",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "clothing_store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "toho-bootleg-1"
+}

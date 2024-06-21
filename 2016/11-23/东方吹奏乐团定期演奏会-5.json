@@ -1,0 +1,19 @@
+{
+  "start": 1479859200,
+  "end": 1479859200,
+  "title": "東方吹奏樂団 第五回定期演奏会",
+  "desc": "东方吹奏乐团 第五回定期演奏会 于 东京都 八王子市艺术文化会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%B9%E5%A5%8F%E4%B9%90%E5%9B%A2%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A#ev-5",
+  "type": [
+    "音乐会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "64988ada777f4acf8f10f5a36d8b22956f8baf1460f135348fee6a0f84b695c6",
+  "location": {
+    "type": "google",
+    "text": "东京都 八王子市艺术文化会馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方吹奏乐团定期演奏会-5"
+}

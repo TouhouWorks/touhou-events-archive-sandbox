@@ -1,0 +1,19 @@
+{
+  "start": 1587254400,
+  "end": 1587254400,
+  "title": "東方螺茶会 遠江の宴 第四季",
+  "desc": "东方螺茶会 远江之宴 第四季 于 ActCity浜松 展示活动馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%9E%BA%E8%8C%B6%E4%BC%9A#ev-125",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "bc74f8d846b238637705c3fa519eb8e2c296a31824b3ed5bc18d48e2ea597162",
+  "location": {
+    "type": "google",
+    "text": "ActCity浜松 展示活动馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方螺茶会-125"
+}

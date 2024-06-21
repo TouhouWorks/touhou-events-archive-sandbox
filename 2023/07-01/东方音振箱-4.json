@@ -1,0 +1,30 @@
+{
+  "start": 1688169600,
+  "end": 1688169600,
+  "title": "東方音振箱 第四章",
+  "desc": "东方音振箱 第四章 于 山形市 山形Sandinista 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%9F%B3%E6%8C%AF%E7%AE%B1#ev-4",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f3076517033a48b28db1e10292eb9885c9e9312de5f6b2d1ae77f536a6f7493f",
+  "location": {
+    "type": "google",
+    "text": "山形市 山形Sandinista",
+    "entity": [
+      {
+        "id": "ChIJ__8DIQm2i18RvglYKvuL5X0",
+        "addressLine1": "Sandinista",
+        "addressLine2": "日本、山形県山形市香澄町２丁目３−３−３５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方音振箱-4"
+}

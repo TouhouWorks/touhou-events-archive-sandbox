@@ -1,0 +1,84 @@
+{
+  "start": 1507334400,
+  "end": 1507334400,
+  "title": "東京工業大学学園祭2017",
+  "desc": "东京工业大学学园祭2017 于 东京都 东京工业大学 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E4%BA%AC%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%9B%AD%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "eb00a9cac2c63360eb9a898c83a810d89d314c3e323d92a66084d28742d32d4e",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京工业大学",
+    "entity": [
+      {
+        "id": "ChIJU8WciYv4GGARpfxzczZjB10",
+        "addressLine1": "东京工业大学",
+        "addressLine2": "日本、東京都目黒区大岡山２丁目１２−１",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "COLLEGE_AND_UNIVERSITY",
+          "school",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJf_K-vzH1GGARgdCXo5HDO08",
+        "addressLine1": "東京工業大學附屬圖書館",
+        "addressLine2": "日本、東京都目黒区大岡山２丁目１２",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJgy0T6DH1GGARZArajB7poxc",
+        "addressLine1": "東京工業大學 百年紀念館",
+        "addressLine2": "日本、東京都目黒区大岡山２丁目１２−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM"
+        ]
+      },
+      {
+        "id": "ChIJYaKj0KYdGWARO6p6ilYYczM",
+        "addressLine1": "東京工科大學八王子校區",
+        "addressLine2": "日本、東京都八王子市片倉町１４０４−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJLdl7zMf1GGARKN3jsRaSScg",
+        "addressLine1": "東京工業大学 西9号館",
+        "addressLine2": "日本、東京都大田区石川町１丁目３１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东京工业大学学园祭-1"
+}

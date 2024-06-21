@@ -1,0 +1,50 @@
+{
+  "start": 1534636800,
+  "end": 1534636800,
+  "title": "東方絢文禄 尾張の卷 第十九弾",
+  "desc": "东方绚文禄 尾张之卷 第十九弹 于 名古屋市中小企业振兴会馆 吹上Hall 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%BB%9A%E6%96%87%E7%A6%84#ev-20",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f0c12caacafc202d933e4a4b843ae118a5443b8cba3c7a827d5e0ae555a7c632",
+  "location": {
+    "type": "google",
+    "text": "名古屋市中小企业振兴会馆 吹上Hall",
+    "entity": [
+      {
+        "id": "ChIJ44S7W5BwA2ARnsKQDxHI-VE",
+        "addressLine1": "中小企業振興会館 第2ファッション展示場",
+        "addressLine2": "日本、愛知県名古屋市千種区吹上２丁目６−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ2dZfWpBwA2AR0L31wmznNo4",
+        "addressLine1": "名古屋市中小企業振興会館(吹上ホール)",
+        "addressLine2": "日本、愛知県名古屋市千種区吹上２丁目６−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJz4iNXpBwA2ARW0QujJc9bf8",
+        "addressLine1": "名古屋中小企業振興会",
+        "addressLine2": "日本、愛知県名古屋市千種区吹上２丁目６−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方绚文禄-20"
+}

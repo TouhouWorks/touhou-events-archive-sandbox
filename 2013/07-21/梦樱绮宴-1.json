@@ -1,0 +1,34 @@
+{
+  "start": 1374364800,
+  "end": 1374364800,
+  "title": "夢桜綺宴1",
+  "desc": "梦樱绮宴1 于 湖北省十堰市 美乐大酒店3楼会议室 举办",
+  "url": "https://thwiki.cc/%E6%A2%A6%E6%A8%B1%E7%BB%AE%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "61209700cfa302e31f4b210d89fdbbf08f871a0498dfa11a71fa43eed35eaa0c",
+  "location": {
+    "type": "google",
+    "text": "湖北省十堰市 美乐大酒店3楼会议室",
+    "entity": [
+      {
+        "id": "ChIJLSXW4d_zfTYRADSXAxYLuUY",
+        "addressLine1": "郧阳城大酒店",
+        "addressLine2": "中華人民共和国 湖北省十堰市 ウン Yanjiang Boulevard",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "梦樱绮宴-1"
+}

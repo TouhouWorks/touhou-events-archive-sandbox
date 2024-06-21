@@ -1,0 +1,30 @@
+{
+  "start": 1541289600,
+  "end": 1541289600,
+  "title": "デジゲー博2018",
+  "desc": "数码游戏博览会2018 于 东京都千代田区秋叶原UDX 2层 活动会场 AKIBA SQUARE & 4F UDX展廊Next 举办",
+  "url": "https://thwiki.cc/%E6%95%B0%E7%A0%81%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d58b73d497e6d936b498423468756fd2b3aaebcd22d203c8e119f106f0d32a1e",
+  "location": {
+    "type": "google",
+    "text": "东京都千代田区秋叶原UDX 2层 活动会场 AKIBA SQUARE & 4F UDX展廊Next",
+    "entity": [
+      {
+        "id": "ChIJM3bDhR2MGGARlh8EvfwpMSo",
+        "addressLine1": "アキバ・スクエア",
+        "addressLine2": "日本、東京都千代田区外神田４丁目１４−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "数码游戏博览会-6"
+}

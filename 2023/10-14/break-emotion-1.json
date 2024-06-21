@@ -1,0 +1,79 @@
+{
+  "start": 1697241600,
+  "end": 1697241600,
+  "title": "BREAK EMOTION 1",
+  "desc": "BREAK EMOTION 1 于 大阪市 TRIANGLE 举办",
+  "url": "https://thwiki.cc/BREAK_EMOTION#ev-1",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "7288b499a70336e9782de2825965d668e9eaec9c063bacc765ef8b30bf4acef2",
+  "location": {
+    "type": "google",
+    "text": "大阪市 TRIANGLE",
+    "entity": [
+      {
+        "id": "ChIJdfBcOxDnAGARjCzBvC5XoZA",
+        "addressLine1": "Triangle",
+        "addressLine2": "２丁目-１８-５ 西心斎橋 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJFSljNxDnAGAR3BvnPRDeXN0",
+        "addressLine1": "Triangle Park (Sankaku Park)",
+        "addressLine2": "２丁目-１１-３４ 西心斎橋 中央区 大阪市 大阪府 日本",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJ39JsPWPnAGAR9Jxsdu93sco",
+        "addressLine1": "ＴＲＩＡＮＧＬＥ ＥＭ",
+        "addressLine2": "日本、大阪府大阪市西成区花園北１丁目５−２７",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJGyUfDBLkAGARPsWEQBCNP_A",
+        "addressLine1": "Triangleawaji",
+        "addressLine2": "日本、大阪府大阪市東淀川区淡路４丁目１４",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJkyrXPCnnAGARHpa8ixxYH60",
+        "addressLine1": "カラオケbar Triangle",
+        "addressLine2": "日本、大阪府大阪市中央区東心斎橋２丁目１−１１ ビル",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "bar",
+          "BAR",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "break-emotion-1"
+}

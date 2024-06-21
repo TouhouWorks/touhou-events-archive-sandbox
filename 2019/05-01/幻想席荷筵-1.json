@@ -1,0 +1,20 @@
+{
+  "start": 1556668800,
+  "end": 1556668800,
+  "title": "济南THP-幻想席荷筵",
+  "desc": "济南THP-幻想席荷筵 于 济南 嗨派轰趴馆 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E5%B8%AD%E8%8D%B7%E7%AD%B5#ev-1",
+  "type": [
+    "聚会",
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "34e60fdeadfc8700bd7436da9534a637a74051808de8ba0697c9276e98519c20",
+  "location": {
+    "type": "google",
+    "text": "济南 嗨派轰趴馆",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "幻想席荷筵-1"
+}

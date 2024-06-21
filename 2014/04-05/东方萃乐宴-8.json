@@ -1,0 +1,76 @@
+{
+  "start": 1396656000,
+  "end": 1396656000,
+  "title": "東方萃楽宴8",
+  "desc": "东方萃乐宴8 于 福冈县福冈市 福冈selecta 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E4%B9%90%E5%AE%B4#ev-8",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3f67439baf0d39609197402fdc35209ec7e5dbe19da752063f5216bf2f8b07a6",
+  "location": {
+    "type": "google",
+    "text": "福冈县福冈市 福冈selecta",
+    "entity": [
+      {
+        "id": "ChIJq6rdIomRQTURLjsd3pyA2O8",
+        "addressLine1": "Selecta セレクタ",
+        "addressLine2": "１丁目-８-２８ 舞鶴 中央区 福岡市 福岡県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJrQFpQhaQQTURtx9OWEZ_5hY",
+        "addressLine1": "福冈机场 (FUK)",
+        "addressLine2": "日本、福岡県福岡市博多区下臼井７７８−１",
+        "provider": "google_places",
+        "categories": [
+          "AIRPORT",
+          "establishment",
+          "point_of_interest",
+          "airport"
+        ]
+      },
+      {
+        "id": "ChIJRZZU4nGUQTUR94dgY7gRvgc",
+        "addressLine1": "福岡大學",
+        "addressLine2": "日本、福岡県福岡市城南区七隈８丁目１９−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJQ_6JJtOTQTURigJ8dBobe18",
+        "addressLine1": "福冈城",
+        "addressLine2": "日本、福岡県福岡市中央区城内１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ7zFRC8OOQTURbAXuItGDsqM",
+        "addressLine1": "福冈市体育馆",
+        "addressLine2": "日本、福岡県福岡市東区香椎照葉６丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方萃乐宴-8"
+}

@@ -1,0 +1,48 @@
+{
+  "start": 1566000000,
+  "end": 1566000000,
+  "title": "第三十三回 コスプレ＆痛車フェスティバル＆森羅万象ノ宴",
+  "desc": "第三十三回 Cosplay&痛车Festival与森罗万象之宴 于 北海道纹别市海洋公园 举办",
+  "url": "https://thwiki.cc/Cosplay%26%E7%97%9B%E8%BD%A6Festival%E4%B8%8E%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%E4%B9%8B%E5%AE%B4#ev-33",
+  "type": [
+    "展会",
+    "LIVE",
+    "COSPLAY"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "e890ad15a829d4590f2024c544fffd7b07556564cb3d195b7ef918635b463d8a",
+  "location": {
+    "type": "google",
+    "text": "北海道纹别市海洋公园",
+    "entity": [
+      {
+        "id": "ChIJ8ak8cTSJEl8R0t50-IvBhqQ",
+        "addressLine1": "海洋公園ソフトボール場",
+        "addressLine2": "日本、北海道紋別市海洋公園３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ5btYVdKIEl8RWAsg5XJwxXI",
+        "addressLine1": "セイコーマート 紋別海洋公園店",
+        "addressLine2": "日本、北海道紋別市海洋公園",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "cosplay&痛车festival与森罗万象之宴-33"
+}

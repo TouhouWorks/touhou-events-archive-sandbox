@@ -1,0 +1,48 @@
+{
+  "start": 1504396800,
+  "end": 1504396800,
+  "title": "司書のお仕事2",
+  "desc": "图书管理员的工作2 于 东京批发中心 举办",
+  "url": "https://thwiki.cc/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E5%91%98%E7%9A%84%E5%B7%A5%E4%BD%9C#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "44ffb3136e68e32e500c72a92f56e62e0dc00d1f61b2a25a23ad74a607f2dfa9",
+  "location": {
+    "type": "google",
+    "text": "东京批发中心",
+    "entity": [
+      {
+        "id": "ChIJERlP4o2JGGARa_GPXaeGt2o",
+        "addressLine1": "東京都中央批發市場 豐洲市場 水產批發大樓",
+        "addressLine2": "日本、東京都江東区豊洲６丁目６−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJMSB1ca3L0DURWnydZGpbK_0",
+        "addressLine1": "医药有限公司药品批发中心",
+        "addressLine2": "中華人民共和国 河南省 祥符区 尉氏県 Wenhua Middle Road",
+        "provider": "google_places",
+        "categories": [
+          "PHARMACY",
+          "SHOPS_AND_SERVICES",
+          "pharmacy",
+          "health",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "图书管理员的工作-2"
+}

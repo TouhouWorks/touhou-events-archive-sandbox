@@ -1,0 +1,33 @@
+{
+  "start": 1379116800,
+  "end": 1379116800,
+  "title": "とりあえず、生 Vol.7",
+  "desc": "先来杯，生的 Vol.7 于 名古屋市 ZEROstudio LIVE HALL DUDE 举办",
+  "url": "https://thwiki.cc/%E5%85%88%E6%9D%A5%E6%9D%AF%EF%BC%8C%E7%94%9F%E7%9A%84#ev-7",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5b13812250e5e3b6fa34d328b22ba1a6d70e004b36defa7e092ee1a310b3e6ca",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 ZEROstudio LIVE HALL DUDE",
+    "entity": [
+      {
+        "id": "ChIJOUZ8byplA2ARzIUT31sBUvg",
+        "addressLine1": "ZERO studio",
+        "addressLine2": "１丁目-１０３ 植田西 天白区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "先来杯，生的-7"
+}

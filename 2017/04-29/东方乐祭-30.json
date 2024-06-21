@@ -1,0 +1,32 @@
+{
+  "start": 1493424000,
+  "end": 1493424000,
+  "title": "東方樂祭 in 東方甲州祭 第9幕",
+  "desc": "东方乐祭 in 东方甲州祭 第9幕 于 甲府市 山梨县立图书馆 (かいぶらり) 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%90%E7%A5%AD#ev-30",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fac83da75142bb70082f16dd825a7e1b1cd9d167968f08975883749eac7febc3",
+  "location": {
+    "type": "google",
+    "text": "甲府市 山梨县立图书馆 (かいぶらり)",
+    "entity": [
+      {
+        "id": "ChIJky0LDNH5G2ARwjwJVK_-qt0",
+        "addressLine1": "山梨県立図書館",
+        "addressLine2": "日本、山梨県甲府市北口２丁目８−１",
+        "provider": "google_places",
+        "categories": [
+          "library",
+          "LIBRARY",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方乐祭-30"
+}

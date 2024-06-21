@@ -1,0 +1,32 @@
+{
+  "start": 1561766400,
+  "end": 1561766400,
+  "title": "Izanagi Distribution Ver.11.0",
+  "desc": "Izanagi Distribution Ver.11.0 于 大阪市浪速区日本桥 KS日本桥大楼 BAR Guild 举办",
+  "url": "https://thwiki.cc/Izanagi_Distribution#ev-11",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f6d225d801c5362a3b63be28342f47497cfe377a17c79342cdcdf4badb191c95",
+  "location": {
+    "type": "google",
+    "text": "大阪市浪速区日本桥 KS日本桥大楼 BAR Guild",
+    "entity": [
+      {
+        "id": "ChIJa_SPcWfnAGARbQnBdoh6dZ4",
+        "addressLine1": "Entertainment Bar Guild",
+        "addressLine2": "日本、大阪府大阪市浪速区日本橋５丁目１２−５",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "izanagi-distribution-11"
+}

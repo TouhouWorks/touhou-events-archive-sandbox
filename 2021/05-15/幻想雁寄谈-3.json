@@ -1,0 +1,76 @@
+{
+  "start": 1621036800,
+  "end": 1621036800,
+  "title": "幻想雁寄谈3",
+  "desc": "幻想雁寄谈3 于 北京邮电大学 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3%E9%9B%81%E5%AF%84%E8%B0%88#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "dbe5c8edda860bd92ff9710690a010f76699dccfec030e2b98147be31fc482a0",
+  "location": {
+    "type": "google",
+    "text": "北京邮电大学",
+    "entity": [
+      {
+        "id": "ChIJOVSVPc778DUR6_hJfAmffXY",
+        "addressLine1": "北京邮电大学沙河校区",
+        "addressLine2": "中華人民共和国 北京市 昌平区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ_dbUjWD-8DURgtu8GLuAmAY",
+        "addressLine1": "北京邮电大学宏福校区",
+        "addressLine2": "中華人民共和国 北京市 昌平区 宏福大道",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJU3FRAZpT8DURlAfz62QnuAw",
+        "addressLine1": "北京邮电大学",
+        "addressLine2": "中華人民共和国 北京市 海淀区 Beitaipingzhuang, Xitucheng Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJIUPOouaQ8DUR1poTcsbzzzY",
+        "addressLine1": "北京邮电大学世纪学院",
+        "addressLine2": "中華人民共和国 北京市 延慶県 Xiguan Road",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJc6I1I5dT8DUREURdpgfrmXQ",
+        "addressLine1": "北京邮电大学",
+        "addressLine2": "中華人民共和国 北京市 海淀区",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想雁寄谈-3"
+}

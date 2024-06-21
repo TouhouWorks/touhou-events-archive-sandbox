@@ -1,0 +1,74 @@
+{
+  "start": 1394323200,
+  "end": 1394323200,
+  "title": "東方摂州祭1",
+  "desc": "东方摄州祭1 于 大阪南港ATC 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%91%84%E5%B7%9E%E7%A5%AD#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d033cbcba84270adafb3d7124281b3d4e2e53eb9d8e790043cc0efb219a6f83f",
+  "location": {
+    "type": "google",
+    "text": "大阪南港ATC",
+    "entity": [
+      {
+        "id": "ChIJPTUzfVLoAGARB_RMp12FbTo",
+        "addressLine1": "ATCホール",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJW4gn8VLoAGAR604YSMr7xDg",
+        "addressLine1": "アジア太平洋トレードセンター（ＡＴＣ）",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJi-lvsKzpAGARyJbiGHN3p8U",
+        "addressLine1": "ＡＴＣ あそびマーレ",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJu5DVUbrpAGAR4z-S_wAEyLA",
+        "addressLine1": "ATCギャラリー",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJB3gIsKzpAGAROJ60Fwp2n7w",
+        "addressLine1": "ATC 第1駐車場（ITM）",
+        "addressLine2": "日本、大阪府大阪市住之江区南港北２丁目１−１０",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方摄州祭-1"
+}

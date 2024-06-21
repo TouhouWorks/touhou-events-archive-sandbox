@@ -1,0 +1,30 @@
+{
+  "start": 1481932800,
+  "end": 1481932800,
+  "title": "此處也開著百合花1",
+  "desc": "此处也开着百合花1 于 台湾省台北市  台北NGO会馆 举办",
+  "url": "https://thwiki.cc/%E6%AD%A4%E5%A4%84%E4%B9%9F%E5%BC%80%E7%9D%80%E7%99%BE%E5%90%88%E8%8A%B1#ev-1",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "141a58578fe9bd7b8eceabd40821134062fc0309144f07d349250a03016635b3",
+  "location": {
+    "type": "google",
+    "text": "台湾台北市  台北NGO会馆",
+    "entity": [
+      {
+        "id": "ChIJRxEtBXGpQjQRyzBTKd9dwR0",
+        "addressLine1": "台北市非政府组织会馆",
+        "addressLine2": "台湾 台北市 中正区 Qingdao East Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "此处也开着百合花-1"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1574553600,
+  "end": 1574553600,
+  "title": "东方现世指南3 对话：World,Touhou",
+  "desc": "东方现世指南3 对话：World,Touhou 于 北京大学 第二教学楼 525教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%8E%B0%E4%B8%96%E6%8C%87%E5%8D%97#ev-3",
+  "type": [
+    "讲座"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "3684db62667d49b9d112714725448cf6db01970c974068ef399f7593f97260c4",
+  "location": {
+    "type": "google",
+    "text": "北京大学 第二教学楼 525教室",
+    "entity": [
+      {
+        "id": "ChIJZwqHnbJW8DURJm6LBWbdR-c",
+        "addressLine1": "北京大学第二教学楼",
+        "addressLine2": "中華人民共和国 北京市 海淀区 颐和园路",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方现世指南-3"
+}

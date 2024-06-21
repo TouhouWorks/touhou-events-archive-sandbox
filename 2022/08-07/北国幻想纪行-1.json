@@ -1,0 +1,52 @@
+{
+  "start": 1659830400,
+  "end": 1659830400,
+  "title": "内蒙古THP-北国幻想纪行",
+  "desc": "内蒙古THP-北国幻想纪行 于 呼和浩特市鹊桥大酒店 举办",
+  "url": "https://thwiki.cc/%E5%8C%97%E5%9B%BD%E5%B9%BB%E6%83%B3%E7%BA%AA%E8%A1%8C#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0329f0f5cef4fdfb72b29932e653cc11722684316312c9aab8457278bfc77e84",
+  "location": {
+    "type": "google",
+    "text": "呼和浩特市鹊桥大酒店",
+    "entity": [
+      {
+        "id": "ChIJyXti8tVHBjYRu4A6ulRoV6E",
+        "addressLine1": "鹊桥大酒店",
+        "addressLine2": "中華人民共和国 内モンゴル 呼和浩特市 回民区",
+        "provider": "google_places",
+        "categories": [
+          "premise",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJI1tm8NVHBjYRSsMzksG2KGA",
+        "addressLine1": "鹊桥大酒店停车场",
+        "addressLine2": "中華人民共和国 内モンゴル 呼和浩特市 回民区 Zhongshan West Road",
+        "provider": "google_places",
+        "categories": [
+          "parking",
+          "establishment",
+          "point_of_interest",
+          "PARKING"
+        ]
+      },
+      {
+        "id": "ChIJJafL5NVHBjYRzH0ucrBE7Eg",
+        "addressLine1": "鹊桥大酒店",
+        "addressLine2": "中華人民共和国 内モンゴル 呼和浩特市 回民区 Zhongshan West Road",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "北国幻想纪行-1"
+}

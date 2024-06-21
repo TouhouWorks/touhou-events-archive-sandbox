@@ -1,0 +1,58 @@
+{
+  "start": 980640000,
+  "end": 980640000,
+  "title": "コスチュームカフェ 6号店",
+  "desc": "Costume Cafe 6号店 于 东京都池袋Sunshine World Import 举办",
+  "url": "https://thwiki.cc/Costume_Cafe#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ad3f31b92a1cf236fe467709ee90551adfcf826015447cc5cb2daf6bf87da622",
+  "location": {
+    "type": "google",
+    "text": "东京都池袋Sunshine World Import",
+    "entity": [
+      {
+        "id": "ChIJU9ZPE2-NGGARwiJyx0Id61E",
+        "addressLine1": "池袋サンシャインシティ店",
+        "addressLine2": "日本、東京都豊島区東池袋３丁目１−１",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "shopping_mall",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJE9KrHHaNGGARY8OTQp77vpE",
+        "addressLine1": "グランドシネマサンシャイン 池袋",
+        "addressLine2": "日本、東京都豊島区東池袋１丁目３０−３",
+        "provider": "google_places",
+        "categories": [
+          "THEATER",
+          "movie_theater",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJVVVxuGCNGGAREkRSszDOouk",
+        "addressLine1": "Hotel World",
+        "addressLine2": "１丁目-４-４−１ 池袋 豊島区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "costume-cafe-6"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1678492800,
+  "end": 1678492800,
+  "title": "東方合同祭事玖",
+  "desc": "东方合同祭事玖 于 神奈川县川崎市川崎市产业振兴会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%90%88%E5%90%8C%E7%A5%AD%E4%BA%8B#ev-8",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "cba06ff3f23733be1d36601e7891403b5fa28a5101543249ab6c64dd90aad29c",
+  "location": {
+    "type": "google",
+    "text": "神奈川县川崎市川崎市产业振兴会馆",
+    "entity": [
+      {
+        "id": "ChIJRUtA-5lgGGARTP9lCwRvmq8",
+        "addressLine1": "川崎市産業振興会館",
+        "addressLine2": "日本、神奈川県川崎市幸区堀川町６６−２０",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方合同祭事-8"
+}

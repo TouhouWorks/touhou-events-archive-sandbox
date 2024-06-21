@@ -1,0 +1,32 @@
+{
+  "start": 1716163200,
+  "end": 1716163200,
+  "title": "月東宴70",
+  "desc": "月东宴70 于 名古屋市 Club JB&#39;S 举办",
+  "url": "https://thwiki.cc/%E6%9C%88%E4%B8%9C%E5%AE%B4#ev-70",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4288877e03987452cedbed1fb756c52d7ba52e26fbe4bd6e395f66587b1e7ae4",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 Club JB&#39;S",
+    "entity": [
+      {
+        "id": "ChIJSdJNa9BwA2AR7vtuAqJv5J0",
+        "addressLine1": "club JB'S",
+        "addressLine2": "４丁目-３-１５ 栄 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "月东宴-70"
+}

@@ -1,0 +1,46 @@
+{
+  "start": 1540598400,
+  "end": 1540598400,
+  "title": "どこもかしこも幻想郷 in香港",
+  "desc": "处处都是幻想乡 in香港 于 香港 九龙湾零碳天地 举办",
+  "url": "https://thwiki.cc/%E5%A4%84%E5%A4%84%E9%83%BD%E6%98%AF%E5%B9%BB%E6%83%B3%E4%B9%A1#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "50bac483617373b0770c71d0efec8f0c3ca653e53cf342988a5627c71a2c3f59",
+  "location": {
+    "type": "google",
+    "text": "香港 九龙湾零碳天地",
+    "entity": [
+      {
+        "id": "ChIJwcOSlDMBBDQRe9z5bowF3bs",
+        "addressLine1": "零碳天地",
+        "addressLine2": "香港 九龍湾 Sheung Yuet Road",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "park",
+          "PARK"
+        ]
+      },
+      {
+        "id": "ChIJWex2wDMBBDQRcVtTKEcMy18",
+        "addressLine1": "零碳天地",
+        "addressLine2": "香港 九龍湾",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "处处都是幻想乡-3"
+}

@@ -1,0 +1,30 @@
+{
+  "start": 1675468800,
+  "end": 1675468800,
+  "title": "大连THO东方Project Event 05",
+  "desc": "大连THO东方Project Event 05 于 大连 星海国际金融中心 3楼宴会厅 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E9%A3%8E%E6%B5%B7%E4%BE%8B%E7%A5%AD#ev-5",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0e28588e8291aeea53ce7238c56053439f26a45b558faf9f80716481b959ddb7",
+  "location": {
+    "type": "google",
+    "text": "大连 星海国际金融中心 3楼宴会厅",
+    "entity": [
+      {
+        "id": "ChIJF3inaaZhjzURTK2iYaJ0_4o",
+        "addressLine1": "星海国际金融中心",
+        "addressLine2": "中華人民共和国 大连 沙河口区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方风海例祭-5"
+}

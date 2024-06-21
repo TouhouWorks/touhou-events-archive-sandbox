@@ -1,0 +1,32 @@
+{
+  "start": 1715299200,
+  "end": 1715299200,
+  "title": "幻想Jelly Moon vol.9",
+  "desc": "幻想Jelly Moon vol.9 于 船桥市 B.B.Q rave kitchen Mediterraneo casa Tsudanuma 举办",
+  "url": "https://thwiki.cc/%E5%B9%BB%E6%83%B3Jelly_Moon#ev-9",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "78adac3a776d49ad455920dc9480f880c6797aeb23afc5b1685113bb4f861057",
+  "location": {
+    "type": "google",
+    "text": "船桥市 B.B.Q rave kitchen Mediterraneo casa Tsudanuma",
+    "entity": [
+      {
+        "id": "ChIJx7xItop_GGARqjqBItnOEYY",
+        "addressLine1": "B.B.Q rave kitchen Mediterraneo casa Tsudanuma",
+        "addressLine2": "２丁目-１-５ 前原西 船橋市 千葉県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "幻想jelly-moon-9"
+}

@@ -1,0 +1,33 @@
+{
+  "start": 1418774400,
+  "end": 1418774400,
+  "title": "今様妖怪操楽 Vol.13",
+  "desc": "现代妖怪操乐 Vol.13 于 东京都 nagomix涩谷 举办",
+  "url": "https://thwiki.cc/%E7%8E%B0%E4%BB%A3%E5%A6%96%E6%80%AA%E6%93%8D%E4%B9%90#ev-13",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9a1d213cda72bd81200bc10a0c20edfeda4edca996efbd8cc87568eb8c88d939",
+  "location": {
+    "type": "google",
+    "text": "东京都 nagomix涩谷",
+    "entity": [
+      {
+        "id": "ChIJhxx90qiMGGARQYXZSydvc38",
+        "addressLine1": "nagomix渋谷",
+        "addressLine2": "日本、東京都渋谷区神南１丁目１５−８",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "现代妖怪操乐-13"
+}

@@ -1,0 +1,33 @@
+{
+  "start": 1640390400,
+  "end": 1640390400,
+  "title": "東方Practice 忘年会2021",
+  "desc": "东方Practice 忘年会2021 于 名古屋市 荣CLUB JB&#39;S 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Practice#ev-120",
+  "type": [
+    "夜店舞会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "be91fc3f6f95bf8a5b28a9e67bb76da50d969ef925f5312ff44e7fbdc38b0b6a",
+  "location": {
+    "type": "google",
+    "text": "名古屋市 荣CLUB JB&#39;S",
+    "entity": [
+      {
+        "id": "ChIJSdJNa9BwA2AR7vtuAqJv5J0",
+        "addressLine1": "club JB'S",
+        "addressLine2": "４丁目-３-１５ 栄 中区 名古屋市 愛知県 日本",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方practice-120"
+}

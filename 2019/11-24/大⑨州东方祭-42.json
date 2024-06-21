@@ -1,0 +1,50 @@
+{
+  "start": 1574553600,
+  "end": 1574553600,
+  "title": "大⑨州東方祭40",
+  "desc": "大⑨州东方祭40 于 唐津市 唐津市民会馆 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD#ev-42",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0dec8f3fce30250ff1108f49cb5681f98a7444fcddf73479d74f1f9ca5c1fd9e",
+  "location": {
+    "type": "google",
+    "text": "唐津市 唐津市民会馆",
+    "entity": [
+      {
+        "id": "ChIJOei68S3WQTURtal-1T9faRw",
+        "addressLine1": "唐津市文化体育館",
+        "addressLine2": "日本、佐賀県唐津市和多田大土井１−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHXjc-np4ajUR6IdetVvAffY",
+        "addressLine1": "唐津市民会館 トイレ",
+        "addressLine2": "日本、佐賀県唐津市西城内７１−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJRziq9WR4ajUR0XdEJ4SwK1M",
+        "addressLine1": "唐津市文化事業団",
+        "addressLine2": "日本、佐賀県唐津市西城内６",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大⑨州东方祭-42"
+}

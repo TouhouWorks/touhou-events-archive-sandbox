@@ -1,0 +1,30 @@
+{
+  "start": 1567209600,
+  "end": 1567209600,
+  "title": "Creator's Super Fest 3",
+  "desc": "Creator&#39;s Super Fest 3 于 印度尼西亚泗水市屯军干广场 Surabaya Tunjungan Plaza Chameleon Hall 举办",
+  "url": "https://thwiki.cc/Creator%27s_Super_Fest#ev-3",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "30a69898cc517882cb0acc3352429c3e5618e7275ed37be3d7cbe933e9fdabb3",
+  "location": {
+    "type": "google",
+    "text": "印度尼西亚泗水市屯军干广场 Surabaya Tunjungan Plaza Chameleon Hall",
+    "entity": [
+      {
+        "id": "ChIJpfmKEF751y0RI9tAp6M3cjE",
+        "addressLine1": "Chameleon Hall - Tunjungan Plaza 6",
+        "addressLine2": "Tunjungan Plaza, Jalan Embong Malang, Kedungdoro, スラバヤ 東ジャワ インドネシア",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "creator's-super-fest-3"
+}

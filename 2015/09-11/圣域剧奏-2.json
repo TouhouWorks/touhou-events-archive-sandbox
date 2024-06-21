@@ -1,0 +1,80 @@
+{
+  "start": 1441929600,
+  "end": 1441929600,
+  "title": "聖域劇奏 Vol.2",
+  "desc": "圣域剧奏 Vol.2 于 东京都 LIVE HOUSE SANCTUARY 举办",
+  "url": "https://thwiki.cc/%E5%9C%A3%E5%9F%9F%E5%89%A7%E5%A5%8F#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "93cc4e1873d89e721391c5401bd0c8b4febba0acaf7d4cd04c4c340692d12f87",
+  "location": {
+    "type": "google",
+    "text": "东京都 LIVE HOUSE SANCTUARY",
+    "entity": [
+      {
+        "id": "ChIJv4BJXA3zGGAR3KFjusQGy6M",
+        "addressLine1": "Live House Fever",
+        "addressLine2": "１丁目-１-１４ 羽根木 世田谷区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJeY1vAdaMGGARpXIdTWKXuUs",
+        "addressLine1": "Live House 21st Century",
+        "addressLine2": "７丁目-１３-５ 西新宿 新宿区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJbWPJYADxGGARLj5B10Mo28g",
+        "addressLine1": "the house pizza - oven & grillroom",
+        "addressLine2": "日本、東京都世田谷区粕谷１丁目１５−２",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJs9eyRUnuGGAR9kXJNm8BU_w",
+        "addressLine1": "TEA HOUSE はっぱ",
+        "addressLine2": "日本、東京都武蔵野市吉祥寺本町２丁目３３−２",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJwXHssEHtGGARsxKDfmmw_tM",
+        "addressLine1": "Live House Buddy",
+        "addressLine2": "１丁目-７７-８ 旭丘 練馬区 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "圣域剧奏-2"
+}

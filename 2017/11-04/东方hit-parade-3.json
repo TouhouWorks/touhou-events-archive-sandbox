@@ -1,0 +1,80 @@
+{
+  "start": 1509753600,
+  "end": 1509753600,
+  "title": "東方ヒットパレェド3",
+  "desc": "东方Hit Parade3 于 北九州市 あるあるCity 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Hit_Parade#ev-3",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "9c5ec1bac700c957e397b0deebc0470aaddf5913da95b56b977d51994772ce04",
+  "location": {
+    "type": "google",
+    "text": "北九州市 あるあるCity",
+    "entity": [
+      {
+        "id": "ChIJU41AEEm_QzURmQifczh8sqM",
+        "addressLine1": "あるあるCity",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "museum",
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJkcfVxGS_QzURW-7_Jk8OGRo",
+        "addressLine1": "あるあるCity駐輪場",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ4dfP_ki_QzURraCMO_QOpfU",
+        "addressLine1": "あるあるCity 2号館",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8ZIWEEm_QzURIobYnoaYleY",
+        "addressLine1": "あるあるCity7Fホール",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJ8ZIWEEm_QzUREDgY17X9k4g",
+        "addressLine1": "Ponta✕ローソン あるあるCity店",
+        "addressLine2": "日本、福岡県北九州市小倉北区浅野２丁目１４−５",
+        "provider": "google_places",
+        "categories": [
+          "convenience_store",
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "CONVENIENCE_STORE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方hit-parade-3"
+}

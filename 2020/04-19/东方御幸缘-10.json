@@ -1,0 +1,19 @@
+{
+  "start": 1587254400,
+  "end": 1587254400,
+  "title": "東方御幸縁 第9回",
+  "desc": "东方御幸缘 第9回 于 仓敷市环境交流广场 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%BE%A1%E5%B9%B8%E7%BC%98#ev-10",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "067673fced3a0a12dcad8a6c34f4f69785b97bb7d543c4dffd61b8c0979ca858",
+  "location": {
+    "type": "google",
+    "text": "仓敷市环境交流广场",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方御幸缘-10"
+}

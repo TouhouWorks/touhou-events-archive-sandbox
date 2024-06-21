@@ -1,0 +1,30 @@
+{
+  "start": 1425081600,
+  "end": 1425081600,
+  "title": "東方久遠境 別府",
+  "desc": "东方久远境 別府 于 別府市 别府国际会议中心 (ビーコンプラザ)  中会议室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E4%B9%85%E8%BF%9C%E5%A2%83#ev-6",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "f1d2eb814908e21f18aac43e5b3509ead53b0f0e88afe0ac3bea7d611d630c5e",
+  "location": {
+    "type": "google",
+    "text": "別府市 别府国际会议中心 (ビーコンプラザ)  中会议室",
+    "entity": [
+      {
+        "id": "ChIJVVVVwvCmRjURoxxM9pYE-Ps",
+        "addressLine1": "ビーコンプラザ",
+        "addressLine2": "日本、大分県別府市山の手町１２−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方久远境-6"
+}

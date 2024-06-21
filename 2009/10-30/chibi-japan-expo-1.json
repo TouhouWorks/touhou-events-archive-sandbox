@@ -1,0 +1,30 @@
+{
+  "start": 1256860800,
+  "end": 1256860800,
+  "title": "Chibi Japan Expo 2009",
+  "desc": "Chibi Japan Expo 2009 于 法国蒙特勒伊 Paris-Est Montreuil 举办",
+  "url": "https://thwiki.cc/Chibi_Japan_Expo#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "71c1a5f13c18ed0440f6b6b22365d5845aab07547577e7e92fff6ac4e4e5588b",
+  "location": {
+    "type": "google",
+    "text": "法国蒙特勒伊 Paris-Est Montreuil",
+    "entity": [
+      {
+        "id": "ChIJd6gg_Zdt5kcRmPRxZ-Z6OrA",
+        "addressLine1": "Paris Montreuil Expo",
+        "addressLine2": "Rue de Paris, モントルイユ フランス",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "chibi-japan-expo-1"
+}

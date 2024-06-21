@@ -1,0 +1,30 @@
+{
+  "start": 1619913600,
+  "end": 1619913600,
+  "title": "东方天南宴10",
+  "desc": "东方天南宴10 于 天津市南开区龙川路8号艺秀园 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%97%E5%AE%B4#ev-10",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "ef66cd9d693bbc713fd210e08a2647cdd25825150a2b4e693d5a43eebb9fc37e",
+  "location": {
+    "type": "google",
+    "text": "天津市南开区龙川路8号艺秀园",
+    "entity": [
+      {
+        "id": "ChIJsS13XMAH7jURqppp4qcykmk",
+        "addressLine1": "龙川路8号",
+        "addressLine2": "中華人民共和国 天津市 南開区",
+        "provider": "google_places",
+        "categories": [
+          "street_address",
+          "geocode"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方天南宴-10"
+}

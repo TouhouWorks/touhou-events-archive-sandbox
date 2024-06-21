@@ -1,0 +1,44 @@
+{
+  "start": 1360972800,
+  "end": 1360972800,
+  "title": "Rainbow Castle 02 初詣祭",
+  "desc": "Rainbow Castle 02 初诣祭 于 广东省广州市 市二宫体育馆 举办",
+  "url": "https://thwiki.cc/Rainbow_Castle#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "46d9dfc1342d7920b9f39d69d23db2b4120df5033d68ab2552a4f7d748393aff",
+  "location": {
+    "type": "google",
+    "text": "广东省广州市 市二宫体育馆",
+    "entity": [
+      {
+        "id": "ChIJ5eP066P4AjQR1Ce-lxgQTfY",
+        "addressLine1": "市二宫体育馆",
+        "addressLine2": "中華人民共和国 广东省广州市 海珠区 Tongfu East Road",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJb97066P4AjQRp6QJ6myzY4s",
+        "addressLine1": "市二宫体育馆羽毛球馆",
+        "addressLine2": "中華人民共和国 广东省广州市 海珠区 Tongfu East Road",
+        "provider": "google_places",
+        "categories": [
+          "STADIUM_AND_ARENA",
+          "stadium",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "rainbow-castle-2"
+}

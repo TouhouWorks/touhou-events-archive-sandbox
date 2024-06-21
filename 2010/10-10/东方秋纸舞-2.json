@@ -1,0 +1,34 @@
+{
+  "start": 1286668800,
+  "end": 1286668800,
+  "title": "第二回 東方秋紙舞",
+  "desc": "第二回 东方秋纸舞 于 大阪府守口市 守口市民会馆 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E7%A7%8B%E7%BA%B8%E8%88%9E#ev-2",
+  "type": [
+    "竞赛"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0c272a2dca35012bc4219183dc4ba72037408d41bc41fb57e17fb9b35a0b0542",
+  "location": {
+    "type": "google",
+    "text": "大阪府守口市 守口市民会馆",
+    "entity": [
+      {
+        "id": "ChIJj1gFLZnhAGARs0zznGEVOVw",
+        "addressLine1": "守口市民体育館",
+        "addressLine2": "日本、大阪府守口市河原町９−２",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方秋纸舞-2"
+}

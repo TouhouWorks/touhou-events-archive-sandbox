@@ -1,0 +1,42 @@
+{
+  "start": 1597449600,
+  "end": 1597449600,
+  "title": "东方LiveParty×郑州THO·东方繁星颂",
+  "desc": "东方LiveParty×郑州THO·东方繁星颂 于 郑州 源丰商务酒店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9LiveParty#ev-27",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fce98b62619d740ffbea0ce2b8084c01f707916072961e741c6a0eda672a0daa",
+  "location": {
+    "type": "google",
+    "text": "郑州 源丰商务酒店",
+    "entity": [
+      {
+        "id": "ChIJtfA3qBlm1zURbdb5r6huq_I",
+        "addressLine1": "郑州源丰商务酒店电动汽车充电站",
+        "addressLine2": "中華人民共和国 鄭州市 管城回族区 306, 停车场内郑州源丰商务酒店",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJU1fKrxlm1zURzRt4SHGhrkU",
+        "addressLine1": "源丰商务酒店",
+        "addressLine2": "中華人民共和国 河南省 郑州 管城回族区 Longhai East Road",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方liveparty-27"
+}

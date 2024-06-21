@@ -1,0 +1,30 @@
+{
+  "start": 1128297600,
+  "end": 1128297600,
+  "title": "广州国际动漫画展览会2005",
+  "desc": "广州国际动漫画展览会2005 于 广东省广州市 广州锦汉展览中心 举办",
+  "url": "https://thwiki.cc/%E5%B9%BF%E5%B7%9E%E5%9B%BD%E9%99%85%E5%8A%A8%E6%BC%AB%E7%94%BB%E5%B1%95%E8%A7%88%E4%BC%9A#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "2e75d96dde8e7d5494e25bc0060c40d97d6c3b70c4058b223ecfbbfb587c697a",
+  "location": {
+    "type": "google",
+    "text": "广东省广州市 广州锦汉展览中心",
+    "entity": [
+      {
+        "id": "ChIJBb01WOD4AjQRxP30aKHuOtI",
+        "addressLine1": "广州锦汉展览中心东门",
+        "addressLine2": "中華人民共和国 广东省广州市 越秀区",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "广州国际动漫画展览会-1"
+}

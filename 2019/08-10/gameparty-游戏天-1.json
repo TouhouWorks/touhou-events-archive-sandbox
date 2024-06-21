@@ -1,0 +1,19 @@
+{
+  "start": 1565395200,
+  "end": 1565395200,
+  "title": "GameParty 游戏天1",
+  "desc": "GameParty 游戏天1 于 广州 Gathering电玩茶室 举办",
+  "url": "https://thwiki.cc/GameParty_%E6%B8%B8%E6%88%8F%E5%A4%A9#ev-1",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "4d9c99cb2fd324e0003b513eb6ad0db091d664861473ba0933a62b21aa6adc70",
+  "location": {
+    "type": "google",
+    "text": "广州 Gathering电玩茶室",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "gameparty-游戏天-1"
+}

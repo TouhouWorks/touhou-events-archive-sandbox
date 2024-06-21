@@ -1,0 +1,31 @@
+{
+  "start": 1393027200,
+  "end": 1393027200,
+  "title": "Search For The New Stream FES 2014",
+  "desc": "Search For The New Stream FES 2014 于 京都市 京都FANJ 举办",
+  "url": "https://thwiki.cc/Search_For_The_New_Stream_FES#ev-2",
+  "type": [
+    "LIVE",
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0e0c1b68996a662f7dd896e7ed431f5363bdebfde22df152cf91e2a98bdd7e2f",
+  "location": {
+    "type": "google",
+    "text": "京都市 京都FANJ",
+    "entity": [
+      {
+        "id": "ChIJ7U5C9tQJAWARTVPn9nxYY7g",
+        "addressLine1": "京都FANJ",
+        "addressLine2": "日本、京都府京都市左京区上高野車地町１０１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "search-for-the-new-stream-fes-2"
+}

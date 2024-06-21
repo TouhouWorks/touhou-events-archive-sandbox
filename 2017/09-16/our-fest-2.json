@@ -1,0 +1,30 @@
+{
+  "start": 1505520000,
+  "end": 1505520000,
+  "title": "OUR FEST vol.02",
+  "desc": "OUR FEST vol.02 于 大阪市 大阪梅田Zeela 举办",
+  "url": "https://thwiki.cc/OUR_FEST#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "d105097aefa96c38f687d9e2382fa05cf5dec3fc96b5456b90de6676b8c5b89e",
+  "location": {
+    "type": "google",
+    "text": "大阪市 大阪梅田Zeela",
+    "entity": [
+      {
+        "id": "ChIJ7RB93OrmAGARMCZZGEjsapE",
+        "addressLine1": "梅田Zeela",
+        "addressLine2": "日本、大阪府大阪市北区堂山町１−５",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "our-fest-2"
+}

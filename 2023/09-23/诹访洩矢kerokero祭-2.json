@@ -1,0 +1,34 @@
+{
+  "start": 1695427200,
+  "end": 1695427200,
+  "title": "諏訪洩矢ケロケロ祭2023",
+  "desc": "诹访洩矢KEROKERO祭2023 于 长野县诹访市 上诹访 诹访Ciao 举办",
+  "url": "https://thwiki.cc/%E8%AF%B9%E8%AE%BF%E6%B4%A9%E7%9F%A2KEROKERO%E7%A5%AD#ev-2",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "819c0770ee48ff55a2b27dcfc7995137847dcb09d4b60d2c7698915389b01662",
+  "location": {
+    "type": "google",
+    "text": "长野县诹访市 上诹访 诹访Ciao",
+    "entity": [
+      {
+        "id": "ChIJiW8ktbNVHGARKRtuNdDyQUs",
+        "addressLine1": "上諏訪駅",
+        "addressLine2": "日本、長野県諏訪市諏訪１丁目１",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "诹访洩矢kerokero祭-2"
+}

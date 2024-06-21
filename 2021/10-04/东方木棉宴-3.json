@@ -1,0 +1,19 @@
+{
+  "start": 1633305600,
+  "end": 1633305600,
+  "title": "东方木棉宴特别版",
+  "desc": "东方木棉宴特别版 于 广州 相十三 天河本意店 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%9C%A8%E6%A3%89%E5%AE%B4#ev-3",
+  "type": [
+    "聚会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "53710d211ef67e4a31c7a5d701e78496930e053cf1c37bc21ecc4b318295efab",
+  "location": {
+    "type": "google",
+    "text": "广州 相十三 天河本意店",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "东方木棉宴-3"
+}

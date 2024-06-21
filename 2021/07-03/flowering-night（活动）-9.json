@@ -1,0 +1,82 @@
+{
+  "start": 1625270400,
+  "end": 1625270400,
+  "title": "Flowering Night 2021",
+  "desc": "Flowering Night 2021 于 川崎市 CLUB CITTA&#39; 举办",
+  "url": "https://thwiki.cc/Flowering_Night%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89#ev-9",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "aa6f0adccb36a7d391007a95ef0d5f8147d3516be4a14feb75db058b95f166e4",
+  "location": {
+    "type": "google",
+    "text": "川崎市 CLUB CITTA&#39;",
+    "entity": [
+      {
+        "id": "ChIJcdnaNqJgGGARY-poze0nnmE",
+        "addressLine1": "CLUB CITTA'",
+        "addressLine2": "日本、神奈川県川崎市川崎区小川町５−７",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "EkJWaWEgQ2x1YiBDaXR0YScsIOWwj-W3neeUuiDlt53ltI7ljLog5bed5bSO5biCIOelnuWliOW3neecjCDml6XmnKwiLiosChQKEgkvPwu0o2AYYBHUwLcHUFqNzRIUChIJCXd0tKNgGGARtgmn9RR3Yco",
+        "addressLine1": "Via Club Citta'",
+        "addressLine2": "小川町 川崎区 川崎市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "route",
+          "geocode"
+        ]
+      },
+      {
+        "id": "ChIJ4YdI6U_xGGARTDj3Mo7-5OM",
+        "addressLine1": "34ポチャ",
+        "addressLine2": "日本、神奈川県川崎市多摩区三田２丁目６−６",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJHyrRcixnGGARFr3CgK3TpjQ",
+        "addressLine1": "フレッシュランチ39川崎店",
+        "addressLine2": "日本、神奈川県川崎市川崎区桜本１丁目２０−１８",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ61YPdSdhGGARI0E-30e3KQ4",
+        "addressLine1": "サンキューカット島忠ホームズ川崎大師店",
+        "addressLine2": "日本、神奈川県川崎市川崎区中瀬３丁目２０−２０",
+        "provider": "google_places",
+        "categories": [
+          "hair_care",
+          "HAIR_CARE",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "flowering-night（活动）-9"
+}

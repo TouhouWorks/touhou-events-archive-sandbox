@@ -1,0 +1,42 @@
+{
+  "start": 1539993600,
+  "end": 1539993600,
+  "title": "第二回大阪東方読書会",
+  "desc": "第二回大阪东方读书会 于 大阪市东淀川区民会馆 4层 举办",
+  "url": "https://thwiki.cc/%E5%A4%A7%E9%98%AA%E4%B8%9C%E6%96%B9%E8%AF%BB%E4%B9%A6%E4%BC%9A#ev-2",
+  "type": [
+    "读书会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "335bcdf72d4274a30db21c8c88b6caf338e9179354c815f1e696edca5e0da305",
+  "location": {
+    "type": "google",
+    "text": "大阪市东淀川区民会馆 4层",
+    "entity": [
+      {
+        "id": "ChIJI0JD3vDjAGAR-j5A-SAwHbc",
+        "addressLine1": "东淀川区",
+        "addressLine2": "日本、大阪府大阪市",
+        "provider": "google_places",
+        "categories": [
+          "sublocality_level_1",
+          "sublocality",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJJTIJPQTkAGARcRgl0f2Xwlo",
+        "addressLine1": "大阪市立東淀川区民会館",
+        "addressLine2": "日本、大阪府大阪市東淀川区東淡路１丁目４−５３",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "大阪东方读书会-2"
+}

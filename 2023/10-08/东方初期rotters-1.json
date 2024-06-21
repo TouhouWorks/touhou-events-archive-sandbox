@@ -1,0 +1,32 @@
+{
+  "start": 1696723200,
+  "end": 1696723200,
+  "title": "東方初期ロッターズ1",
+  "desc": "东方初期Rotters 1 于 爱知县名古屋市  club LOVER:z 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%88%9D%E6%9C%9FRotters#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "b7e1187fe262d7d71f3c46ffffcd25433a57429d7004142bbdf74ce53e4aac7e",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市  club LOVER:z",
+    "entity": [
+      {
+        "id": "ChIJpWalSNtwA2AR9AgEZNDFY_Y",
+        "addressLine1": "Club LOVER:z (ラバーズ)",
+        "addressLine2": "日本、愛知県名古屋市中区東桜２丁目２２−２２",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方初期rotters-1"
+}

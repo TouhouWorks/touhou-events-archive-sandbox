@@ -1,0 +1,35 @@
+{
+  "start": 1699142400,
+  "end": 1699142400,
+  "title": "東方明學祭8",
+  "desc": "东方明学祭8 于 东京都 明治大学和泉校区 LS501教室 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%8E%E5%AD%A6%E7%A5%AD#ev-8",
+  "type": [
+    "展会",
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "609ec851d835186fe558a19ac7f6df29823cbd103a85b5ba1744b653d762f635",
+  "location": {
+    "type": "google",
+    "text": "东京都 明治大学和泉校区 LS501教室",
+    "entity": [
+      {
+        "id": "ChIJZ-HxKKrzGGARHGE5XXaFBTk",
+        "addressLine1": "明治大学 和泉キャンパス",
+        "addressLine2": "日本、東京都杉並区永福１丁目９−１",
+        "provider": "google_places",
+        "categories": [
+          "SCHOOL",
+          "COLLEGE_AND_UNIVERSITY",
+          "school",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方明学祭-8"
+}

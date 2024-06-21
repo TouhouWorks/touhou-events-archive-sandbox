@@ -1,0 +1,88 @@
+{
+  "start": 1446940800,
+  "end": 1446940800,
+  "title": "Return To \"Z\" 2",
+  "desc": "Return To \"Z\" 2 于 滨松市 滨松FORCE 举办",
+  "url": "https://thwiki.cc/Return_To_%22Z%22#ev-2",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "1b78cfc45a8d56dc93bae7e29b2ef960119dde73525636f0bfecc1c2e7c34a5d",
+  "location": {
+    "type": "google",
+    "text": "滨松市 滨松FORCE",
+    "entity": [
+      {
+        "id": "ChIJ2X7QYHfeGmARURq5w6otpfA",
+        "addressLine1": "滨松",
+        "addressLine2": "日本、静岡県浜松市中区砂山町",
+        "provider": "google_places",
+        "categories": [
+          "TRANSIT",
+          "TRAIN_STATION",
+          "train_station",
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "id": "ChIJU_wGFHjeGmARt9iJ9Te3_jI",
+        "addressLine1": "滨松酒店",
+        "addressLine2": "日本、静岡県浜松市中央区砂山町３６２−２５",
+        "provider": "google_places",
+        "categories": [
+          "lodging",
+          "establishment",
+          "point_of_interest",
+          "HOTEL"
+        ]
+      },
+      {
+        "id": "ChIJfcOFiRQhG2AR3GJvsSXcPGs",
+        "addressLine1": "濱松大學",
+        "addressLine2": "日本、静岡県浜松市北区都田町１２３０",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJdcUl0_LfGmARV7fKHLGAVTI",
+        "addressLine1": "滨松医科大学",
+        "addressLine2": "日本、静岡県浜松市中央区半田山１丁目２０−１",
+        "provider": "google_places",
+        "categories": [
+          "COLLEGE_AND_UNIVERSITY",
+          "university",
+          "health",
+          "establishment",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJAz1PxGHeGmARcvnm6UTOBW8",
+        "addressLine1": "滨松城",
+        "addressLine2": "日本、静岡県浜松市中央区元城町１００−２",
+        "provider": "google_places",
+        "categories": [
+          "tourist_attraction",
+          "museum",
+          "ATTRACTION",
+          "establishment",
+          "point_of_interest",
+          "MUSEUM",
+          "park",
+          "PARK"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "return-to-\"z\"-2"
+}

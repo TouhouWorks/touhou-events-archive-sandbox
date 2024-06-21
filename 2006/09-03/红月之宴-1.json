@@ -1,0 +1,30 @@
+{
+  "start": 1157241600,
+  "end": 1157241600,
+  "title": "紅月ノ宴一",
+  "desc": "红月之宴一 于 东京都立产业贸易中心 滨松町馆 4层 举办",
+  "url": "https://thwiki.cc/%E7%BA%A2%E6%9C%88%E4%B9%8B%E5%AE%B4#ev-1",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "84d1f539f071ebf971c9e4434557948911922023b671cdabea52e1f8528c4740",
+  "location": {
+    "type": "google",
+    "text": "东京都立产业贸易中心 滨松町馆 4层",
+    "entity": [
+      {
+        "id": "ChIJgSnVwGCLGGARDPI40IEPsl0",
+        "addressLine1": "東京都立產業貿易中心 濱松町館",
+        "addressLine2": "日本、東京都港区海岸１丁目７−１",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "红月之宴-1"
+}

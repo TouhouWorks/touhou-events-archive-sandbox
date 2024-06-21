@@ -1,0 +1,80 @@
+{
+  "start": 1668211200,
+  "end": 1668211200,
+  "title": "TOHOCOBLA 1",
+  "desc": "TOHOCOBLA 1 于 静冈市 PRIVATE ROOM COA 举办",
+  "url": "https://thwiki.cc/TOHOCOBLA#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "354aa1a6c459095d04047a89d73ec186d4f388aa4d1c5ca73428d3b11993af71",
+  "location": {
+    "type": "google",
+    "text": "静冈市 PRIVATE ROOM COA",
+    "entity": [
+      {
+        "id": "ChIJK_12IqxLGmARX51wVsvAlOU",
+        "addressLine1": "COA",
+        "addressLine2": "日本、静岡県静岡市葵区七間町１１−５",
+        "provider": "google_places",
+        "categories": [
+          "night_club",
+          "NIGHT_CLUB",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJX4Ch19hLGmARFfsCX13AN2U",
+        "addressLine1": "プライベートジム【Room】静岡鷹匠店",
+        "addressLine2": "日本、静岡県静岡市葵区鷹匠３丁目１４−１６",
+        "provider": "google_places",
+        "categories": [
+          "health",
+          "gym",
+          "establishment",
+          "GYM",
+          "point_of_interest",
+          "HEALTH_AND_FITNESS"
+        ]
+      },
+      {
+        "id": "ChIJU9Hr0B9KGmARAvZyU7s8b7E",
+        "addressLine1": "LIVING ROOM",
+        "addressLine2": "日本、静岡県静岡市葵区七間町１０−９",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJHVdOo_hJGmAR1GXwkAVP-Is",
+        "addressLine1": "ル・コア（ｌｅ・ｃｏａ）",
+        "addressLine2": "日本、静岡県静岡市葵区相生町１４−１３",
+        "provider": "google_places",
+        "categories": [
+          "beauty_salon",
+          "BEAUTY",
+          "establishment",
+          "point_of_interest"
+        ]
+      },
+      {
+        "id": "ChIJg-Pnq9JJGmARFBAzLAkSh7k",
+        "addressLine1": "コーティング専門店Glation 静岡駅前浮月楼店",
+        "addressLine2": "日本、静岡県静岡市葵区紺屋町１１−１ ホテルガーデンスクエア",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "establishment",
+          "store",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "tohocobla-1"
+}

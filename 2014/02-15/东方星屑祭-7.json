@@ -1,0 +1,30 @@
+{
+  "start": 1392422400,
+  "end": 1392422400,
+  "title": "東方星屑祭6",
+  "desc": "东方星屑祭6 于 东京都 パルシティ江東 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9%E6%98%9F%E5%B1%91%E7%A5%AD#ev-7",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "5cdd6c3537abc3cc900b929e32de27e68889287be3780a5421c02ce85c044d98",
+  "location": {
+    "type": "google",
+    "text": "东京都 パルシティ江東",
+    "entity": [
+      {
+        "id": "ChIJQeQDGOSIGGARJvRkugmTlUI",
+        "addressLine1": "パルシティ江東",
+        "addressLine2": "日本、東京都江東区扇橋３丁目２２−２",
+        "provider": "google_places",
+        "categories": [
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方星屑祭-7"
+}

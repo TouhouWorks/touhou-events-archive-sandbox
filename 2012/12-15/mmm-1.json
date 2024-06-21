@@ -1,0 +1,32 @@
+{
+  "start": 1355529600,
+  "end": 1355529600,
+  "title": "mmm1",
+  "desc": "mmm1 于 爱知县名古屋市 ZooStation 举办",
+  "url": "https://thwiki.cc/mmm#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "62aa58c624292187ba17cb700db48b22337ec137817ed8f332d805f42792be7f",
+  "location": {
+    "type": "google",
+    "text": "爱知县名古屋市 ZooStation",
+    "entity": [
+      {
+        "id": "ChIJq3QNbK96A2ARC0jCPM6EfAM",
+        "addressLine1": "ＺＯＯＳＴＡＴＩＯＮ",
+        "addressLine2": "日本、愛知県名古屋市千種区東山通４丁目１１−３",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "mmm-1"
+}

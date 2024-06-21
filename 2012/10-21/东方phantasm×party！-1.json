@@ -1,0 +1,32 @@
+{
+  "start": 1350777600,
+  "end": 1350777600,
+  "title": "東方Phantasm×Party！1",
+  "desc": "东方Phantasm×Party！1 于 川崎市 Moonlight Dreams 举办",
+  "url": "https://thwiki.cc/%E4%B8%9C%E6%96%B9Phantasm%C3%97Party%EF%BC%81#ev-1",
+  "type": [
+    "夜店舞会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "68c99b6b05f4450d0cd9d39157c6bd87390f743cdd70162fa047e94bf4739381",
+  "location": {
+    "type": "google",
+    "text": "川崎市 Moonlight Dreams",
+    "entity": [
+      {
+        "id": "ChIJC8oC6aJgGGARe2hrrYGdMHw",
+        "addressLine1": "Moonlight Dreams",
+        "addressLine2": "２丁目-6-４ 砂子 川崎区 川崎市 神奈川県 日本",
+        "provider": "google_places",
+        "categories": [
+          "bar",
+          "BAR",
+          "establishment",
+          "point_of_interest"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "东方phantasm×party！-1"
+}

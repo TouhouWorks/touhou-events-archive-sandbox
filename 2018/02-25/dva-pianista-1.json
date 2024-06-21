@@ -1,0 +1,89 @@
+{
+  "start": 1519516800,
+  "end": 1519516800,
+  "title": "Dva Pianista 1",
+  "desc": "Dva Pianista 1 于 东京都 Atelier Kanon 举办",
+  "url": "https://thwiki.cc/Dva_Pianista#ev-1",
+  "type": [
+    "LIVE"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "8e88cac74db888b97580e3ca055c797cab552fa89148a15de9e051e5b48a4bf7",
+  "location": {
+    "type": "google",
+    "text": "东京都 Atelier Kanon",
+    "entity": [
+      {
+        "id": "ChIJVV2y9xLuGGAR10bRqr0HP74",
+        "addressLine1": "アトリエカノン",
+        "addressLine2": "日本、東京都杉並区西荻北４丁目１５−１３",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "SHOPS_AND_SERVICES",
+          "cafe",
+          "establishment",
+          "store",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+        "addressLine1": "东京都",
+        "addressLine2": "日本",
+        "provider": "google_places",
+        "categories": [
+          "administrative_area_level_1",
+          "geocode",
+          "political"
+        ]
+      },
+      {
+        "id": "ChIJW-k_19bzGGARSa0vkk-3DZE",
+        "addressLine1": "Atelier de Terrine maison okei",
+        "addressLine2": "日本、東京都世田谷区豪徳寺１丁目４５−９",
+        "provider": "google_places",
+        "categories": [
+          "restaurant",
+          "RESTAURANT",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJv4FxEW3vGGARvvy6G7r2YRw",
+        "addressLine1": "KANNON COFFEE kichijoji",
+        "addressLine2": "５丁目-１-１ 下連雀 三鷹市 東京都 日本",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      },
+      {
+        "id": "ChIJCwW9-4yJGGARAHRZAhU1gBU",
+        "addressLine1": "ATELIER MATCHA",
+        "addressLine2": "日本、東京都中央区銀座８丁目１８−４",
+        "provider": "google_places",
+        "categories": [
+          "CAFE",
+          "cafe",
+          "establishment",
+          "point_of_interest",
+          "FOOD_AND_BEVERAGE",
+          "food"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "dva-pianista-1"
+}

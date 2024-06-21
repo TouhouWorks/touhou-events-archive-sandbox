@@ -1,0 +1,58 @@
+{
+  "start": 1500681600,
+  "end": 1500681600,
+  "title": "TouhouTech Guadalajara",
+  "desc": "TouhouTech 瓜达拉哈拉 于 墨西哥 瓜达拉哈拉 Plaza de la Tecnología Gamer 举办",
+  "url": "https://thwiki.cc/TouhouTech#ev-12",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "fa59c7f8d10849e57851e1af89e4a6855bf7b7aa4dadb7bce5dade6438d17da6",
+  "location": {
+    "type": "google",
+    "text": "墨西哥 瓜达拉哈拉 Plaza de la Tecnología Gamer",
+    "entity": [
+      {
+        "id": "ChIJy-C7gPqxKIQRqTVYZsCbiAk",
+        "addressLine1": "Plaza de la Tecnología Guadalajara",
+        "addressLine2": "Avenida 16 de Septiembre, セントロ グアダラハラ ハリスコ メキシコ",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      },
+      {
+        "id": "ChIJyY7INrqzKIQRyZQUU7YAVIs",
+        "addressLine1": "Plaza TECNOCENTRO: Tecnologia en Guadalajara. Av. Hidalgo esq. Santa Monica.",
+        "addressLine2": "Avenida Miguel Hidalgo y Costilla, Zona Centro, グアダラハラ ハリスコ メキシコ",
+        "provider": "google_places",
+        "categories": [
+          "SHOPS_AND_SERVICES",
+          "electronics_store",
+          "establishment",
+          "point_of_interest",
+          "store",
+          "ELECTRONICS"
+        ]
+      },
+      {
+        "id": "ChIJYT74f3KuKIQRb8t_VnBFH5o",
+        "addressLine1": "Centro Magno",
+        "addressLine2": "Av. Ignacio L Vallarta, Arcos Vallarta, グアダラハラ ハリスコ メキシコ",
+        "provider": "google_places",
+        "categories": [
+          "shopping_mall",
+          "establishment",
+          "point_of_interest",
+          "SHOPPING_CENTER_AND_MALL"
+        ]
+      }
+    ]
+  },
+  "platform": 1,
+  "slug": "touhoutech-12"
+}

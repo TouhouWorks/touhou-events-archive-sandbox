@@ -1,0 +1,19 @@
+{
+  "start": 1135900800,
+  "end": 1135900800,
+  "title": "Comic Market 69",
+  "desc": "Comic Market 69 于 东京都 东京国际展示场 东1-6展厅、西1-2展厅 举办",
+  "url": "https://thwiki.cc/Comic_Market#ev-14",
+  "type": [
+    "展会"
+  ],
+  "color": "#3c3f42",
+  "uniqueId": "0a734230fda5100fa182d64bd4ffc18ecdadfd675de3d9ea96efdbcde405a3c5",
+  "location": {
+    "type": "google",
+    "text": "东京都 东京国际展示场 东1-6展厅、西1-2展厅",
+    "entity": []
+  },
+  "platform": 1,
+  "slug": "comic-market-14"
+}
