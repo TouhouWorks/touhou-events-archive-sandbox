@@ -22,12 +22,15 @@ jobs:
         run: python mnt/generate-index.py
         env:
           WORKSPACE: ${{ github.workspace }}
-
+      - name: GZIP Index
+        run: gzip -c mnt/indexes.json > mnt/indexes.json.gz
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
             tag_name: latest
-            files: 'mnt/indexes.json'
+            files: |
+              mnt/indexes.json
+              mnt/indexes.json.gz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
